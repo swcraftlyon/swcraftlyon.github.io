@@ -9,4 +9,4 @@ Comment publier les compte-rendus :
  * Lancer `hugo new posts/nom-de-session.md`
  * Y écrire le compte-rendu
  * Pousser le code
- * Lancer `deploy.sh` pour mettre à jour le site
+ * Lancer `hugo && deploy.sh` pour mettre à jour le site
