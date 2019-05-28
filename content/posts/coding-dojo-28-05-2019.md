@@ -8,6 +8,7 @@ date: 2019-05-28T20:28:33+02:00
 - Nombre de participants : 18
 
 Retours participants :
+
 - Feedback rapide avec le golden master (encore faut-il avoir un golden master !)
 - Sans le jeu de données c'est difficile
 - La deuxième fois, c'est vraiment beaucoup plus simple
