@@ -6,10 +6,19 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 25 May 2019 13:02:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 20:28:33 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding Dojo Mardi 28 Mai 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-28-05-2019/</link>
+      <pubDate>Tue, 28 May 2019 20:28:33 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-28-05-2019/</guid>
+      <description>Sujet : Guilded Rose animé par Colin Format : Pair + Mob Langage : Java, PHP, etc. Nombre de participants : 18  Retours participants : - Feedback rapide avec le golden master (encore faut-il avoir un golden master !) - Sans le jeu de données c&amp;rsquo;est difficile - La deuxième fois, c&amp;rsquo;est vraiment beaucoup plus simple - Pas de bug dans le code d&amp;rsquo;origine -&amp;gt; plutôt voir le kata Trivia pour expérimenter - En essayant avec les tests unitaires en premier : meilleur granularité sur les rêgles métiers qui échouent.</description>
+    </item>
     
     <item>
       <title>Introduction des compte-rendus des software crafters</title>
