@@ -13,7 +13,7 @@ Retours participants :
 - Sans le jeu de données c'est difficile
 - La deuxième fois, c'est vraiment beaucoup plus simple
 - Pas de bug dans le code d'origine -> plutôt voir le kata Trivia pour expérimenter
-- En essayant avec les tests unitaires en premier : meilleur granularité sur les rêgles métiers qui échouent. Est-ce plus lent ou rapide que le golden master ?
+- En essayant avec les tests unitaires en premier : meilleure granularité sur les règles métiers qui échouent. Est-ce plus lent ou rapide que le golden master ?
 - Comment faire pour l'objet "Conjured" ? L'objectif c'est de supprimer le golden master pour écrire des tests unitaires : on l'attaque à ce moment là
 - Manque d'instruction sur ce qu'il fallait faire ? Certains groupes n'ont pas fait de refactoring mais ont implémentés les nouvelles fonctionnalités
 - Deux heures, c'est un peu court pour ce kata
