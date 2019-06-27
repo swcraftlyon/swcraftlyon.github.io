@@ -13,7 +13,7 @@ Retours participants :
 - Bien galérer sur les tests, difficulté à comprendre ce qui est testé vraiment
 - L'immutabilité c'est bien
 - Une deadline encapsule une date, ajouter un taskId (vraiment utile ? ça a rajouté une ligne)
-- TaskId pas intéressant au début, mais ça a été cool lorsqu'on rajouter les alias d'id
+- TaskId pas intéressant au début, mais ça a été cool lorsqu'on rajoute les alias d'id
 - On a essayé de changer l'endroit où sont split les arguments pour centraliser les listes d'argument
 - Cool mais on a pas pu aller au bout
 - ROTI 5 : 1
