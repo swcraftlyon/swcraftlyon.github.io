@@ -14,10 +14,10 @@ Retours participants :
 - Frustration de ne pas pouvoir aller loin
 - Golden master pas applicable dans ce cas
 - Le code semble tellement pourri qu'avec les besoins fonctionnels on pourrait le faire de zéro
-- Peut se faire devant un tableau blanc pour comprendre se qu'il se passe
+- Peut se faire devant un tableau blanc pour comprendre ce qu'il se passe
 - Consumer / Customer amène confusion
 - Kata intéressant, avoir plein de points de vue
 - Kata pas évident : pelote de laine à démêler, mais ça fait parti d'un projet normal
 - Cool de pouvoir partager les tips de raccourci
-- Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnel et c'est pas toujours facile
+- Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c'est pas toujours facile
 - Difficile de s'accrocher pour un débutant
