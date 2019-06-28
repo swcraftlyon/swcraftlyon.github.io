@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Compte-rendus des software crafters de Lyon  | Session Domain Driven Design 26 06 2019</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.54.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+    
+      <link href="/dist/css/app.d98f2eb6bcd1eaedb7edf166bd16af26.css" rel="stylesheet">
+    
+
+    
+
+    
+      
+    
+
+    
+
+    <meta property="og:title" content="Session Domain Driven Design 26 06 2019" />
+<meta property="og:description" content="16 participants
+Sujets :
+ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert  Architecture Hexagonale par Nicolas Grisey Demengel @Malt Nicolas Grisey Demengel @Malt nous a présenté un retour d&rsquo;expérience sur l&rsquo;architecture hexagonale.
+Après un rappel des principes, il nous a expliqué pourquoi et comment il a poussé et mis en place cette technique, et les résultats concrets sur le travail de l&rsquo;équipe et ses livraisons.
+Vous pouvez retrouver les slides." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://swcraftlyon.github.io/posts/ddd-26-06-2019/" />
+<meta property="article:published_time" content="2019-06-26T10:38:45&#43;02:00"/>
+<meta property="article:modified_time" content="2019-06-26T10:38:45&#43;02:00"/>
+
+<meta itemprop="name" content="Session Domain Driven Design 26 06 2019">
+<meta itemprop="description" content="16 participants
+Sujets :
+ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert  Architecture Hexagonale par Nicolas Grisey Demengel @Malt Nicolas Grisey Demengel @Malt nous a présenté un retour d&rsquo;expérience sur l&rsquo;architecture hexagonale.
+Après un rappel des principes, il nous a expliqué pourquoi et comment il a poussé et mis en place cette technique, et les résultats concrets sur le travail de l&rsquo;équipe et ses livraisons.
+Vous pouvez retrouver les slides.">
+
+
+<meta itemprop="datePublished" content="2019-06-26T10:38:45&#43;02:00" />
+<meta itemprop="dateModified" content="2019-06-26T10:38:45&#43;02:00" />
+<meta itemprop="wordCount" content="145">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Session Domain Driven Design 26 06 2019"/>
+<meta name="twitter:description" content="16 participants
+Sujets :
+ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert  Architecture Hexagonale par Nicolas Grisey Demengel @Malt Nicolas Grisey Demengel @Malt nous a présenté un retour d&rsquo;expérience sur l&rsquo;architecture hexagonale.
+Après un rappel des principes, il nous a expliqué pourquoi et comment il a poussé et mis en place cette technique, et les résultats concrets sur le travail de l&rsquo;équipe et ses livraisons.
+Vous pouvez retrouver les slides."/>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://swcraftlyon.github.io/" class="f3 fw2 hover-white no-underline white-90 dib">
+      Compte-rendus des software crafters de Lyon
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+
+    <header class="mt4 w-100">
+      <p class="f6 b helvetica tracked">
+          
+        POSTS
+      </p>
+      <h1 class="f1 athelas mb1">Session Domain Driven Design 26 06 2019</h1>
+      
+      <time class="f6 mv4 dib tracked" datetime="2019-06-26T10:38:45&#43;02:00">June 26, 2019</time>      
+      
+      
+    </header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+
+<p>16 participants</p>
+
+<p>Sujets :</p>
+
+<ul>
+<li>Architecture Hexagonale par Nicolas Grisey Demengel @Malt</li>
+<li>Forum ouvert</li>
+</ul>
+
+<h2 id="architecture-hexagonale-par-nicolas-grisey-demengel-malt">Architecture Hexagonale par Nicolas Grisey Demengel @Malt</h2>
+
+<p>Nicolas Grisey Demengel @Malt nous a présenté un retour d&rsquo;expérience sur l&rsquo;architecture hexagonale.</p>
+
+<p>Après un rappel des principes, il nous a expliqué pourquoi et comment il a poussé et mis en place cette technique, et les résultats concrets sur le travail de l&rsquo;équipe et ses livraisons.</p>
+
+<p>Vous pouvez retrouver les <a href="https://www.slideshare.net/ndemengel/architcture-hexagonale-ddd-lyon-26-juin-2019">slides</a>.</p>
+
+<h2 id="forum-ouvert">Forum ouvert</h2>
+
+<p>Les propositions étaient les suivantes :</p>
+
+<ul>
+<li>Passage d&rsquo;un legacy en hexagonal</li>
+<li>Techniques de partage entre équipes</li>
+<li>Monolithe distribué</li>
+<li>25 services, 2 devs</li>
+<li>Quelle place pour le management ?</li>
+<li>Branche ou tout dans le trunk</li>
+</ul>
+
+<p>Nous avons voté pour n&rsquo;en garder que 4 afin de faire 2 tracks. Ceux retenus ont été les suivants :</p>
+
+<ul>
+<li>Techniques de partage entre équipes</li>
+<li>Monolithe distribué</li>
+<li>Quelle place pour le management ?</li>
+<li>Passage d&rsquo;un legacy en hexagonal</li>
+</ul>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6">
+        
+      </div>
+    </section>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://swcraftlyon.github.io/" >
+    &copy; 2019 Compte-rendus des software crafters de Lyon
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>

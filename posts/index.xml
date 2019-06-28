@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 20 Jun 2019 20:45:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 10:38:45 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Session Domain Driven Design 26 06 2019</title>
+      <link>https://swcraftlyon.github.io/posts/ddd-26-06-2019/</link>
+      <pubDate>Wed, 26 Jun 2019 10:38:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/ddd-26-06-2019/</guid>
+      <description>16 participants
+Sujets :
+ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert  Architecture Hexagonale par Nicolas Grisey Demengel @Malt Nicolas Grisey Demengel @Malt nous a présenté un retour d&amp;rsquo;expérience sur l&amp;rsquo;architecture hexagonale.
+Après un rappel des principes, il nous a expliqué pourquoi et comment il a poussé et mis en place cette technique, et les résultats concrets sur le travail de l&amp;rsquo;équipe et ses livraisons.
+Vous pouvez retrouver les slides.</description>
+    </item>
     
     <item>
       <title>Coding Dojo 20 06 2019</title>
@@ -28,7 +41,7 @@
       
       <guid>https://swcraftlyon.github.io/posts/coding-dojo-11-06-2019/</guid>
       <description> Sujet : Consumer Kata d&amp;rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
- Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&amp;rsquo;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&amp;rsquo;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre se qu&amp;rsquo;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&amp;rsquo;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnel et c&amp;rsquo;est pas toujours facile Difficile de s&amp;rsquo;accrocher pour un débutant  </description>
+ Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&amp;rsquo;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&amp;rsquo;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&amp;rsquo;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&amp;rsquo;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&amp;rsquo;est pas toujours facile Difficile de s&amp;rsquo;accrocher pour un débutant  </description>
     </item>
     
     <item>
