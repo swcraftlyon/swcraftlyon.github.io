@@ -1,5 +1,5 @@
 ---
-title: "Coding Dojo 11 06 2019"
+title: "Coding Dojo Mardi 11 Juin 2019"
 date: 2019-06-11T13:44:25+02:00
 ---
 - Sujet : Consumer Kata d'Emily Bache
