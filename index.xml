@@ -6,10 +6,21 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 26 Jun 2019 10:38:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 19:06:45 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DDD Lundi 8 Juillet 2019</title>
+      <link>https://swcraftlyon.github.io/posts/ddd-08-07-2019/</link>
+      <pubDate>Mon, 08 Jul 2019 19:06:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/ddd-08-07-2019/</guid>
+      <description>Sujets :
+Introduction aux concepts du DDD par la maïeutique de groupe Introduction de la vision de ce qu&amp;rsquo;est le DDD pour les participants qui le pratique.
+Beaucoup de discussions sur le cas d&amp;rsquo;un participant qui a du mal à introduire le DDD dans son entreprise. Certains relèvent que ce n&amp;rsquo;est pas forcément un problème de métier, mais aussi un problème de communication, on propose alors beaucoup de différentes méthodes : Event Storming, Mob Programming, Story Mapping.</description>
+    </item>
     
     <item>
       <title>Session Domain Driven Design Mercredi 26 Juin 2019</title>
