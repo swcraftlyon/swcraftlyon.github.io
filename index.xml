@@ -6,10 +6,24 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 08 Jul 2019 19:06:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 22:06:02 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding Dojo Mardi 16 juillet 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-16-07-2019/</link>
+      <pubDate>Tue, 16 Jul 2019 22:06:02 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-16-07-2019/</guid>
+      <description>Sujet : Kata Tennis Refactoring d&amp;rsquo;Emily Bache Format : Evil Mob Programming.
+Parmi les participants se cachent des saboteurs. Ils ont pour but d&amp;rsquo;empêcher le déroulement de la session. Ils ne doivent pas se faire remarquer.
+ Langages : un groupe de 13 personnes en Java, un groupe de 10 personnes en JavaScript
+ Nombre de participants total : 23
+  Retours participants :
+ Ce qui permet de faire avancer la session</description>
+    </item>
     
     <item>
       <title>DDD Lundi 8 Juillet 2019</title>
