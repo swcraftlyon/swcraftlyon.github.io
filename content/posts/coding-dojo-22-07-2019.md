@@ -8,15 +8,18 @@ date: 2019-08-01T17:05:00+02:00
 - Nombre de participants : 8
 
 Objectif:
+
 - S'améliorer à refactorer le code
 - Découvrir ce kata d'Emily Bache
 
 Déroulement:
+
 - Présentation du kata
 - Recherche tout ensemble des codes smells (code posant problème). Explication en quand ils posent problème pour chacun d'eux.
 - Début du refactoring en prenant les codes smells un par un, après les avoir priorisés.
 
 Retours participants :
+
 - Bien de lister les codes smells en amont
 - Peut-être passé trop de temps pour les identifier. Il aurait peut être préférable de commencer à refactorer après avoir repéré les premiers
 - Ajouter une fonctionnalité peut aider à détecter les codes smell et à les priorisés
@@ -25,5 +28,6 @@ Retours participants :
 - Kata bien, réaliste (code pas trop moche)
 
 ROTI:
+
  - 5: 2 personnes
  - 4: 6 personnes
