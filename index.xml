@@ -6,10 +6,21 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 01 Aug 2019 17:05:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 10:38:45 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Session Domain Driven Design Mercredi 11 Septembre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/ddd-11-09-2019/</link>
+      <pubDate>Wed, 11 Sep 2019 10:38:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/ddd-11-09-2019/</guid>
+      <description>Format :
+ Forum ouvert  34 participants (avec Greg et Adam)
+What is a bounded context? Is it the same to speak Canadian in France or in Canada? When a word ain&amp;rsquo;t the same for different people, they don&amp;rsquo;t need the same software to be built. Domain models belong in a context, we solve the problem in a bounded context. It removes complexity. When adding a new concept that encompass all bounded context will create a new system.</description>
+    </item>
     
     <item>
       <title>Coding Dojo pause repas du lundi 22 juillet 2019</title>
