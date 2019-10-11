@@ -31,7 +31,8 @@ Est-ce beaucoup utilisé ? Il y a beaucoup de ressources sur internet, sur le ba
       <pubDate>Tue, 24 Sep 2019 13:24:29 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/coding-dojo-24-09-2019/</guid>
-      <description>Première heure: (Animé par Romain)  Sujet : Kata Employee-report Objectif : Challenger les participants sur leur manière d&amp;rsquo;écrire une assertion Format : Pair Langages : Java, C#, JavaScript Nombre de participants : 15  Retours participants : - Complexe sans syntaxe fluent - Assertions couplées à la donnée : une évolution du comportement peut faire échouer les tests existants - Plusieurs stratégies : 1. créer des données &amp;ldquo;attendues&amp;rdquo; statiques 2.</description>
+      <description>Première heure: (Animé par Romain)  Sujet : Kata Employee-report Objectif : Challenger les participants sur leur manière d&amp;rsquo;écrire une assertion Format : Pair Langages : Java, C#, JavaScript Nombre de participants : 15  Retours participants :
+ Complexe sans syntaxe fluent Assertions couplées à la donnée : une évolution du comportement peut faire échouer les tests existants Plusieurs stratégies :  créer des données &amp;ldquo;attendues&amp;rdquo; statiques test plus dynamique (propriété) -&amp;gt; plus facile d&amp;rsquo;écrire un test par comportement attendu  Un test par comportement ?</description>
     </item>
     
     <item>
