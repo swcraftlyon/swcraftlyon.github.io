@@ -6,10 +6,24 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 24 Sep 2019 13:24:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 19:06:45 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DDD Mercredi 9 Octobre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/ddd-09-10-2019/</link>
+      <pubDate>Wed, 09 Oct 2019 19:06:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/ddd-09-10-2019/</guid>
+      <description>Format : Forum ouvert
+17 Participants
+Sujets choisis :
+DDD Comment adopter le DDD, comment le vendre ? Pas besoin d&amp;rsquo;un petit projet (1 semaine, 3 semaines ou 6 mois ?). Les problématiques métiers complexes sont envisageables.
+Comment définir le DDD -&amp;gt; différences entre pattern tactiques et stratégiques.
+Est-ce beaucoup utilisé ? Il y a beaucoup de ressources sur internet, sur le bassin lyonnais il existe des entreprises qui accompagnent.</description>
+    </item>
     
     <item>
       <title>Coding Dojo du soir du mardi 24 septembre 2019</title>
