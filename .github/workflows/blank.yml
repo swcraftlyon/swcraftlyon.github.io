@@ -20,10 +20,9 @@ jobs:
       run: hugo --minify
     - name: Commit files
       run: |
-        cd public
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "deploy public" -a
+        cd public && git commit -m "deploy public" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
