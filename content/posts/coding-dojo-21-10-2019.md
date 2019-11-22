@@ -1,6 +1,7 @@
 ---
 title: "Coding Dojo Lundi 21 Octobre 2019"
 date: 2019-10-21T20:28:33+02:00
+tags: ["dojo"]
 ---
 - Sujet : Pair programming
 - Format : Pair + 1 Trinôme

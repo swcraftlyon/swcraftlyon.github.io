@@ -1,6 +1,7 @@
 ---
 title: "Coding Dojo Mardi 28 Mai 2019"
 date: 2019-05-28T20:28:33+02:00
+tags: ["dojo"]
 ---
 - Sujet : Guilded Rose animé par Colin
 - Format : Pair + Mob

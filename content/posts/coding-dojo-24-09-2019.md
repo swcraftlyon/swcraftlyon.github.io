@@ -1,12 +1,13 @@
 ---
 title: "Coding Dojo du soir du mardi 24 septembre 2019"
 date: 2019-09-24T13:24:29+02:00
+tags: ["dojo"]
 ---
 
 ## Première heure: (Animé par Romain)
 
 - Sujet : Kata [Employee-report](http://codingdojo.org/kata/Employee-Report/)
-- Objectif : Challenger les participants sur leur manière d'écrire une assertion 
+- Objectif : Challenger les participants sur leur manière d'écrire une assertion
 - Format : Pair
 - Langages : Java, C#, JavaScript
 - Nombre de participants : 15
@@ -25,7 +26,7 @@ Retours participants :
 ## Deuxième heure: (Animé par Colin)
 
 - Sujet : String calculator
-- Objectif : Parser des strings en int/float, puis retourner la somme 
+- Objectif : Parser des strings en int/float, puis retourner la somme
 - Format : Pair
 - Langages : Java, C#, JavaScript, F#
 - Nombre de participants : 15

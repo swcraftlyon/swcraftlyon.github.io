@@ -1,6 +1,7 @@
 ---
 title: "Coding Dojo Mardi 11 Juin 2019"
 date: 2019-06-11T13:44:25+02:00
+tags: ["dojo"]
 ---
 - Sujet : Consumer Kata d'Emily Bache
 - Format : Mob programming

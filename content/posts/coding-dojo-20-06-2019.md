@@ -1,6 +1,7 @@
 ---
 title: "Coding Dojo Jeudi 20 Juin 2019"
 date: 2019-06-20T20:45:05+02:00
+tags: ["dojo"]
 ---
 - Sujet : Task list - Primitive obsession
 - Format : Pair programming
