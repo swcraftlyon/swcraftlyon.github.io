@@ -29,5 +29,5 @@ Retours participants :
 
 ROTI:
 
- - 5: 2 personnes
- - 4: 6 personnes
+ - 5/5: 2 personnes
+ - 4/5: 6 personnes

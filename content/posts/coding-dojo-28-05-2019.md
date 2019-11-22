@@ -22,8 +22,9 @@ Retours participants :
 - Pour explorer le métier, découvrir le property-based peut être intéressant
 - Frustrant au départ mais on y arrive à la fin
 - Grave bien / 20
-- ROTI 1 -> 3, c'était plus dur en mob, plutôt à faire en pair
-- ROTI moitié -> 4
-- ROTI moitié -> 5
 
+### ROTI
 
+- 3/5 : 1, c'était plus dur en mob, plutôt à faire en pair
+- 4/5 : moitié
+- 5/5 : moitié

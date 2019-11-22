@@ -22,4 +22,4 @@ Retours participants :
 - le groupe de 3 considère avoir eu des échanges plus poussés
 - difficile de raisonner sans le code sous les yeux surtout lors d'un refacto
 - jeux d'échecs à l'aveugle
-- Roti : 11 à 4 et 8 à 3, soit une moyenne de 3.57
+- Roti : 11 à 4/5 et 8 à 3/5, soit une moyenne de 3.57

@@ -16,9 +16,9 @@ Retours participants :
 - TaskId pas intéressant au début, mais ça a été cool lorsqu'on rajoute les alias d'id
 - On a essayé de changer l'endroit où sont split les arguments pour centraliser les listes d'argument
 - Cool mais on a pas pu aller au bout
-- ROTI 5 : 1
-- ROTI 4 : 8
-- ROTI 3 : 6
+- ROTI 5/5 : 1
+- ROTI 4/5 : 8
+- ROTI 3/5 : 6
 - Intéressant mais trop large pour une session de 1h45
 - On aurait pu faire un kata itératif pour partager plus souvent ce qu'il se passe dans d'autre groupes
 - Setup galère sauf pour Ruby (très frustrant pour les scalaistes)
