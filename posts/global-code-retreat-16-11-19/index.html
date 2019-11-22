@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Compte-rendus des software crafters de Lyon  | Global Code Retreat 16 11 19</title>
+    <title>Compte-rendus des software crafters de Lyon  | Global Code Retreat Samedi 16 November 2019</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -28,26 +28,26 @@
 
     
 
-    <meta property="og:title" content="Global Code Retreat 16 11 19" />
+    <meta property="og:title" content="Global Code Retreat Samedi 16 November 2019" />
 <meta property="og:description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif :  Améliorer nos pratiques de code  Déroulement :  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&rsquo;habitude." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://swcraftlyon.github.io/posts/global-code-retreat-16-11-19/" />
-<meta property="article:published_time" content="2019-11-16T09:43:18&#43;01:00"/>
-<meta property="article:modified_time" content="2019-11-16T09:43:18&#43;01:00"/>
+<meta property="article:published_time" content="2019-11-16T09:43:18&#43;02:00"/>
+<meta property="article:modified_time" content="2019-11-16T09:43:18&#43;02:00"/>
 
-<meta itemprop="name" content="Global Code Retreat 16 11 19">
+<meta itemprop="name" content="Global Code Retreat Samedi 16 November 2019">
 <meta itemprop="description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif :  Améliorer nos pratiques de code  Déroulement :  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&rsquo;habitude.">
 
 
-<meta itemprop="datePublished" content="2019-11-16T09:43:18&#43;01:00" />
-<meta itemprop="dateModified" content="2019-11-16T09:43:18&#43;01:00" />
+<meta itemprop="datePublished" content="2019-11-16T09:43:18&#43;02:00" />
+<meta itemprop="dateModified" content="2019-11-16T09:43:18&#43;02:00" />
 <meta itemprop="wordCount" content="727">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Global Code Retreat 16 11 19"/>
+<meta name="twitter:title" content="Global Code Retreat Samedi 16 November 2019"/>
 <meta name="twitter:description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif :  Améliorer nos pratiques de code  Déroulement :  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&rsquo;habitude."/>
 
   </head>
@@ -100,9 +100,9 @@
           
         POSTS
       </p>
-      <h1 class="f1 athelas mb1">Global Code Retreat 16 11 19</h1>
+      <h1 class="f1 athelas mb1">Global Code Retreat Samedi 16 November 2019</h1>
       
-      <time class="f6 mv4 dib tracked" datetime="2019-11-16T09:43:18&#43;01:00">November 16, 2019</time>      
+      <time class="f6 mv4 dib tracked" datetime="2019-11-16T09:43:18&#43;02:00">November 16, 2019</time>      
       
       
     </header>
@@ -196,11 +196,13 @@ Tous les cas doivent être représentés.<br />
 Pour ne pas stocker la grille, on peut appeler une fonction qui retournera la fonction pour le prochain tour (usage de la récursivité).<br />
 Questionne beaucoup plus sur la responsabilité de chaque type.</p>
 
-<p>Cardinalité d&rsquo;une cellule (hypothèse : la cellule ne connaît pas ses coordonnées) :<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Couleur * Direction option<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 2 couleurs * (Pas de fourmi + une fourmi avec 4 directions)<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 2 * (1 + 4)<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 10 états (types) possibles pour une cellule</p>
+<p>Cardinalité d&rsquo;une cellule (hypothèse : la cellule ne connaît pas ses coordonnées) :</p>
+
+<pre><code>  Couleur * Direction option  
+    = 2 couleurs * (Pas de fourmi + une fourmi avec 4 directions)  
+    = 2 * (1 + 4)  
+    = 10 états (types) possibles pour une cellule  
+</code></pre>
 
 <p>Proposition de variante : pas de primitive et pas de cas interdit.</p>
 

@@ -6,15 +6,15 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 16 Nov 2019 09:43:18 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 09:43:18 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Global Code Retreat 16 11 19</title>
+      <title>Global Code Retreat Samedi 16 November 2019</title>
       <link>https://swcraftlyon.github.io/posts/global-code-retreat-16-11-19/</link>
-      <pubDate>Sat, 16 Nov 2019 09:43:18 +0100</pubDate>
+      <pubDate>Sat, 16 Nov 2019 09:43:18 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/global-code-retreat-16-11-19/</guid>
       <description>Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C++, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif :  Améliorer nos pratiques de code  Déroulement :  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&amp;rsquo;habitude.</description>
