@@ -1,6 +1,6 @@
 ---
-title: "Global Code Retreat 16 11 19"
-date: 2019-11-16T09:43:18+01:00
+title: "Global Code Retreat Samedi 16 November 2019"
+date: 2019-11-16T09:43:18+02:00
 ---
 
 - Sujet : [Langton Ant](http://codingdojo.org/kata/LangtonAnt/)
@@ -85,10 +85,13 @@ Pour ne pas stocker la grille, on peut appeler une fonction qui retournera la fo
 Questionne beaucoup plus sur la responsabilité de chaque type.  
 
 Cardinalité d'une cellule (hypothèse : la cellule ne connaît pas ses coordonnées) :  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Couleur * Direction option  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 2 couleurs * (Pas de fourmi + une fourmi avec 4 directions)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 2 * (1 + 4)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 10 états (types) possibles pour une cellule  
+
+```
+  Couleur * Direction option
+    = 2 couleurs * (Pas de fourmi + une fourmi avec 4 directions)
+    = 2 * (1 + 4)
+    = 10 états (types) possibles pour une cellule
+```
 
 Proposition de variante : pas de primitive et pas de cas interdit.
 
