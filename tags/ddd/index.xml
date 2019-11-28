@@ -6,10 +6,24 @@
     <description>Recent content in Ddd on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 09 Oct 2019 19:06:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 19:06:45 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DDD Mercredi 27 Novembre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/ddd-27-11-2019/</link>
+      <pubDate>Wed, 27 Nov 2019 19:06:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/ddd-27-11-2019/</guid>
+      <description>Format : Présentation par Thomas + Forum ouvert
+18 Participants
+Sujets :
+Présentation de Thomas Lien vers les slides
+Opération invalide sur les aggrégats &amp;ldquo;Ça dépend&amp;rdquo;, du métier et du language. Les code retours permettent de suivre le chemin logique. Les exceptions court-circuitent la logique et permettent de se concentrer sur les cas qui marchent. On peut demander au métier ce qui est attendu quand l&amp;rsquo;exception est lancé.
+Le métier n&amp;rsquo;est pas infini Le métier a des contraintes, les types primitives ne conviennent pas on peut utiliser les types pour contraindre le métier.</description>
+    </item>
     
     <item>
       <title>DDD Mercredi 9 Octobre 2019</title>
