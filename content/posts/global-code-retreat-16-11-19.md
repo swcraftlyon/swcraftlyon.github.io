@@ -9,11 +9,11 @@ tags: ["gdcr"]
 - Langage : Java, Python, C++, Scala, TypeScript, F#, Kotlin
 - Nombre de participants : 25
 
-## Objectif :
+## Objectif
 
 - Améliorer nos pratiques de code
 
-## Déroulement :
+## Déroulement
 
 - Présentation du sujet
 - 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief
