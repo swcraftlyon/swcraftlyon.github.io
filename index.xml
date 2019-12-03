@@ -6,10 +6,20 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 27 Nov 2019 19:06:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 20:33:54 +0100</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding Dojo 02 12 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-02-12-2019/</link>
+      <pubDate>Mon, 02 Dec 2019 20:33:54 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-02-12-2019/</guid>
+      <description>Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala Nombre de participants : 20  Retours participants :
+Tous le monde n&amp;rsquo;est pas arrivé au bout. Micro-steps : difficile en partant en mode &amp;ldquo;voilà le diamant que l&amp;rsquo;on attend&amp;rdquo;. Stratégie : pleins de petites méthodes utilitaires -&amp;gt; approche outside-in (beaucoup utilisé) -&amp;gt; petites méthodes testées -&amp;gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré</description>
+    </item>
     
     <item>
       <title>DDD Mercredi 27 Novembre 2019</title>
@@ -31,7 +41,7 @@ Le métier n&amp;rsquo;est pas infini Le métier a des contraintes, les types pr
       <pubDate>Sat, 16 Nov 2019 09:43:18 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/global-code-retreat-16-11-19/</guid>
-      <description>Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C++, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif :  Améliorer nos pratiques de code  Déroulement :  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&amp;rsquo;habitude.</description>
+      <description>Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C++, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&amp;rsquo;habitude.</description>
     </item>
     
     <item>

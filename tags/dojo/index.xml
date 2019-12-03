@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dojo on Compte-rendus des software crafters de Lyon</title>
+    <title>dojo on Compte-rendus des software crafters de Lyon</title>
     <link>https://swcraftlyon.github.io/tags/dojo/</link>
-    <description>Recent content in Dojo on Compte-rendus des software crafters de Lyon</description>
+    <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Mon, 21 Oct 2019 20:28:33 +0200</lastBuildDate>

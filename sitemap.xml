@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://swcraftlyon.github.io/posts/coding-dojo-02-12-2019/</loc>
+    <lastmod>2019-12-02T20:33:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/</loc>
+    <lastmod>2019-12-02T20:33:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2019-12-02T20:33:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/ddd/</loc>
+    <lastmod>2019-11-27T19:06:45+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swcraftlyon.github.io/posts/ddd-27-11-2019/</loc>
     <lastmod>2019-11-27T19:06:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2019-11-27T19:06:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/gdcr/</loc>
+    <lastmod>2019-11-16T09:43:18+02:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +44,11 @@
   
   <url>
     <loc>https://swcraftlyon.github.io/posts/coding-dojo-21-10-2019/</loc>
+    <lastmod>2019-10-21T20:28:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
     <lastmod>2019-10-21T20:28:33+02:00</lastmod>
   </url>
   
@@ -74,43 +109,6 @@
   
   <url>
     <loc>https://swcraftlyon.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2019-11-27T19:06:45+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/ddd/</loc>
-    <lastmod>2019-11-27T19:06:45+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
-    <lastmod>2019-10-21T20:28:33+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/gdcr/</loc>
-    <lastmod>2019-11-16T09:43:18+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2019-11-27T19:06:45+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
-    <lastmod>2019-11-27T19:06:45+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
