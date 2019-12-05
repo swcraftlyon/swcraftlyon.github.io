@@ -9,7 +9,7 @@
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.58.3" />
+    <meta name="generator" content="Hugo 0.59.1" />
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -29,28 +29,25 @@
     
 
     <meta property="og:title" content="Coding Dojo 02 12 2019" />
-<meta property="og:description" content="Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala Nombre de participants : 20  Retours participants :
-Tous le monde n&rsquo;est pas arrivé au bout. Micro-steps : difficile en partant en mode &ldquo;voilà le diamant que l&rsquo;on attend&rdquo;. Stratégie : pleins de petites méthodes utilitaires -&gt; approche outside-in (beaucoup utilisé) -&gt; petites méthodes testées -&gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré" />
+<meta property="og:description" content="Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala, TypeScript, Swift Nombre de participants : 20  Retours participants Tous le monde n&rsquo;est pas arrivé au bout. Micro-steps : difficile en partant en mode &ldquo;voilà le diamant que l&rsquo;on attend&rdquo;. Stratégie : pleins de petites méthodes utilitaires -&gt; approche outside-in (beaucoup utilisé) -&gt; petites méthodes testées -&gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://swcraftlyon.github.io/posts/coding-dojo-02-12-2019/" />
 <meta property="article:published_time" content="2019-12-02T20:33:54+01:00" />
 <meta property="article:modified_time" content="2019-12-02T20:33:54+01:00" />
 <meta itemprop="name" content="Coding Dojo 02 12 2019">
-<meta itemprop="description" content="Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala Nombre de participants : 20  Retours participants :
-Tous le monde n&rsquo;est pas arrivé au bout. Micro-steps : difficile en partant en mode &ldquo;voilà le diamant que l&rsquo;on attend&rdquo;. Stratégie : pleins de petites méthodes utilitaires -&gt; approche outside-in (beaucoup utilisé) -&gt; petites méthodes testées -&gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré">
+<meta itemprop="description" content="Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala, TypeScript, Swift Nombre de participants : 20  Retours participants Tous le monde n&rsquo;est pas arrivé au bout. Micro-steps : difficile en partant en mode &ldquo;voilà le diamant que l&rsquo;on attend&rdquo;. Stratégie : pleins de petites méthodes utilitaires -&gt; approche outside-in (beaucoup utilisé) -&gt; petites méthodes testées -&gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré">
 
 
 <meta itemprop="datePublished" content="2019-12-02T20:33:54&#43;01:00" />
 <meta itemprop="dateModified" content="2019-12-02T20:33:54&#43;01:00" />
-<meta itemprop="wordCount" content="118">
+<meta itemprop="wordCount" content="115">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Coding Dojo 02 12 2019"/>
-<meta name="twitter:description" content="Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala Nombre de participants : 20  Retours participants :
-Tous le monde n&rsquo;est pas arrivé au bout. Micro-steps : difficile en partant en mode &ldquo;voilà le diamant que l&rsquo;on attend&rdquo;. Stratégie : pleins de petites méthodes utilitaires -&gt; approche outside-in (beaucoup utilisé) -&gt; petites méthodes testées -&gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré"/>
+<meta name="twitter:description" content="Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala, TypeScript, Swift Nombre de participants : 20  Retours participants Tous le monde n&rsquo;est pas arrivé au bout. Micro-steps : difficile en partant en mode &ldquo;voilà le diamant que l&rsquo;on attend&rdquo;. Stratégie : pleins de petites méthodes utilitaires -&gt; approche outside-in (beaucoup utilisé) -&gt; petites méthodes testées -&gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré"/>
 
   </head>
 
@@ -109,14 +106,16 @@ Tous le monde n&rsquo;est pas arrivé au bout. Micro-steps : difficile en partan
       
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul>
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+
+<ul>
 <li>Sujet : Diamond Kata</li>
 <li>Format : Pair programming</li>
-<li>Langage : Java, C#, Scala</li>
+<li>Langage : Java, C#, Scala, TypeScript, Swift</li>
 <li>Nombre de participants : 20</li>
 </ul>
 
-<p>Retours participants :</p>
+<h2 id="retours-participants">Retours participants</h2>
 
 <p>Tous le monde n&rsquo;est pas arrivé au bout.
 Micro-steps : difficile en partant en mode &ldquo;voilà le diamant que l&rsquo;on attend&rdquo;.
@@ -130,10 +129,13 @@ Stratégie : pleins de petites méthodes utilitaires
 <p>Idée de property-based testing (pas mis en place) :
     -&gt; invariants, exemple : même hauteur que largeur, une seul valeur de lettre par ligne, etc&hellip;</p>
 
-<p>ROTI :
-    - <sup>5</sup>&frasl;<sub>5</sub> -&gt; 4
-    - <sup>4</sup>&frasl;<sub>5</sub> -&gt; 12
-    - <sup>3</sup>&frasl;<sub>5</sub> -&gt; 4</p>
+<h2 id="roti">ROTI</h2>
+
+<ul>
+<li><sup>5</sup>&frasl;<sub>5</sub> -&gt; 4</li>
+<li><sup>4</sup>&frasl;<sub>5</sub> -&gt; 12</li>
+<li><sup>3</sup>&frasl;<sub>5</sub> -&gt; 4</li>
+</ul>
 <ul class="pa0">
   
 </ul>
