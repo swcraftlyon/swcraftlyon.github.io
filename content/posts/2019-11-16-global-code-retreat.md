@@ -2,6 +2,7 @@
 title: "Global Code Retreat Samedi 16 November 2019"
 date: 2019-11-16T09:43:18+02:00
 tags: ["gdcr"]
+aliases: [/posts/global-code-retreat-16-11-19/]
 ---
 
 - Sujet : [Langton Ant](http://codingdojo.org/kata/LangtonAnt/)

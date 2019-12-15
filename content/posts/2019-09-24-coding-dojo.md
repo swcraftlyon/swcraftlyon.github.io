@@ -2,6 +2,7 @@
 title: "Coding Dojo du soir du mardi 24 septembre 2019"
 date: 2019-09-24T13:24:29+02:00
 tags: ["dojo"]
+aliases: [/posts/coding-dojo-24-09-2019/]
 ---
 
 ## Première heure: (Animé par Romain)

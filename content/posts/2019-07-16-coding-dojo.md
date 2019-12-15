@@ -2,6 +2,7 @@
 title: "Coding Dojo Mardi 16 juillet 2019"
 date: 2019-07-16T22:06:02+02:00
 tags: ["dojo"]
+aliases: [/posts/coding-dojo-16-07-2019/]
 ---
 
 - Sujet : Kata Tennis Refactoring d'Emily Bache

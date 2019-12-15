@@ -1,6 +1,8 @@
 ---
 title: "Coding Dojo 02 12 2019"
 date: 2019-12-02T20:33:54+01:00
+tags: ["dojo"]
+aliases: [/posts/coding-dojo-02-12-2019/]
 ---
 - Sujet : Diamond Kata
 - Format : Pair programming

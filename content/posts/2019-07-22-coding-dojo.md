@@ -2,6 +2,7 @@
 title: "Coding Dojo pause repas du lundi 22 juillet 2019"
 date: 2019-08-01T17:05:00+02:00
 tags: ["dojo"]
+aliases: [/posts/coding-dojo-22-07-2019/]
 ---
 - Sujet : Kata SuperMarket
 - Format : Mob programming
