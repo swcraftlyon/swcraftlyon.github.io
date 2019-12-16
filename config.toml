@@ -1,5 +1,0 @@
-baseURL = "https://swcraftlyon.github.io/"
-languageCode = "fr-FR"
-title = "Compte-rendus des software crafters de Lyon"
-theme = "ananke"
-publishDir = "docs"

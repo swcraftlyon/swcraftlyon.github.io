@@ -1,34 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/coding-dojo-02-12-2019/</loc>
-    <lastmod>2019-12-02T20:33:54+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2019-12-02T20:33:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2019-12-02T20:33:54+01:00</lastmod>
+    <lastmod>2019-12-09T19:06:45+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://swcraftlyon.github.io/tags/ddd/</loc>
-    <lastmod>2019-11-27T19:06:45+02:00</lastmod>
+    <lastmod>2019-12-09T19:06:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/ddd-27-11-2019/</loc>
-    <lastmod>2019-11-27T19:06:45+02:00</lastmod>
+    <loc>https://swcraftlyon.github.io/posts/2019-12-09-ddd/</loc>
+    <lastmod>2019-12-09T19:06:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2019-12-09T19:06:45+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2019-12-09T19:06:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/2019-12-02-coding-dojo/</loc>
+    <lastmod>2019-12-02T20:33:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
+    <lastmod>2019-12-02T20:33:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/2019-11-27-ddd/</loc>
     <lastmod>2019-11-27T19:06:45+02:00</lastmod>
   </url>
   
@@ -38,67 +48,62 @@
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/global-code-retreat-16-11-19/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/</loc>
     <lastmod>2019-11-16T09:43:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/coding-dojo-21-10-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-10-21-coding-dojo/</loc>
     <lastmod>2019-10-21T20:28:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
-    <lastmod>2019-10-21T20:28:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/ddd-09-10-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</loc>
     <lastmod>2019-10-09T19:06:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/coding-dojo-24-09-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-09-24-coding-dojo/</loc>
     <lastmod>2019-09-24T13:24:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/ddd-11-09-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-09-11-ddd/</loc>
     <lastmod>2019-09-11T10:38:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/coding-dojo-22-07-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-07-22-coding-dojo/</loc>
     <lastmod>2019-08-01T17:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/coding-dojo-16-07-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-07-16-coding-dojo/</loc>
     <lastmod>2019-07-16T22:06:02+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/ddd-08-07-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-07-08-ddd/</loc>
     <lastmod>2019-07-08T19:06:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/ddd-26-06-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-06-26-ddd/</loc>
     <lastmod>2019-06-26T10:38:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/coding-dojo-20-06-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-06-20-coding-dojo/</loc>
     <lastmod>2019-06-20T20:45:05+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/coding-dojo-11-06-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-06-11-coding-dojo/</loc>
     <lastmod>2019-06-11T13:44:25+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/posts/coding-dojo-28-05-2019/</loc>
+    <loc>https://swcraftlyon.github.io/posts/2019-05-28-coding-dojo/</loc>
     <lastmod>2019-05-28T20:28:33+02:00</lastmod>
   </url>
   
