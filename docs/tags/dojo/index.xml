@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dojo on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/dojo/</link>
+    <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 21 Oct 2019 20:28:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding Dojo Lundi 21 Octobre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-21-10-2019/</link>
+      <pubDate>Mon, 21 Oct 2019 20:28:33 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-21-10-2019/</guid>
+      <description>Sujet : Pair programming Format : Pair + 1 Trinôme Langage : TypeScript, Java, C#, F# Nombre de participants : 19  Retours participants :
+ me suis bien amusé la pétanque, c&#39;est plus facile types algébriques très très compliqués frustrant car le code pas à soi et donc il faut repartir de zéro à chaque fois - choix de juste expliquer le besoin fonctionnel difficultés entre le code et explication fonctionnelle d&#39;autres groupe plus dans l&#39;accompagnement de l&#39;algo frustrant car kata jamais fait =&amp;gt; du coup difficile de voir le côté en aveugle frustrant car kata trop connu certains devaient s&#39;accrocher quand la personne connaissait bien le kata certains se pliaient vraiment à ce que la personne disait de faire et du coup se laissait aller à de nouvelles solutions le groupe de 3 considère avoir eu des échanges plus poussés difficile de raisonner sans le code sous les yeux surtout lors d&#39;un refacto jeux d&#39;échecs à l&#39;aveugle Roti : 11 à 4/5 et 8 à 3/5, soit une moyenne de 3.</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo du soir du mardi 24 septembre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-24-09-2019/</link>
+      <pubDate>Tue, 24 Sep 2019 13:24:29 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-24-09-2019/</guid>
+      <description>Première heure: (Animé par Romain)  Sujet : Kata Employee-report Objectif : Challenger les participants sur leur manière d&#39;écrire une assertion Format : Pair Langages : Java, C#, JavaScript Nombre de participants : 15  Retours participants :
+ Complexe sans syntaxe fluent Assertions couplées à la donnée : une évolution du comportement peut faire échouer les tests existants Plusieurs stratégies :  créer des données &amp;ldquo;attendues&amp;rdquo; statiques test plus dynamique (propriété) -&amp;gt; plus facile d&#39;écrire un test par comportement attendu   Un test par comportement ?</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo pause repas du lundi 22 juillet 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-22-07-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 17:05:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-22-07-2019/</guid>
+      <description>Sujet : Kata SuperMarket Format : Mob programming Langage : C# Nombre de participants : 8  Objectif:
+ S&#39;améliorer à refactorer le code Découvrir ce kata d&#39;Emily Bache  Déroulement:
+ Présentation du kata Recherche tout ensemble des codes smells (code posant problème). Explication en quand ils posent problème pour chacun d&#39;eux. Début du refactoring en prenant les codes smells un par un, après les avoir priorisés.  Retours participants :</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo Mardi 16 juillet 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-16-07-2019/</link>
+      <pubDate>Tue, 16 Jul 2019 22:06:02 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-16-07-2019/</guid>
+      <description>Sujet : Kata Tennis Refactoring d&#39;Emily Bache
+  Format : Evil Mob Programming.
+Parmi les participants se cachent des saboteurs. Ils ont pour but d&#39;empêcher le déroulement de la session. Ils ne doivent pas se faire remarquer.
+  Langages : un groupe de 13 personnes en Java, un groupe de 10 personnes en JavaScript
+  Nombre de participants total : 23
+  Retours participants :</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo Jeudi 20 Juin 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-20-06-2019/</link>
+      <pubDate>Thu, 20 Jun 2019 20:45:05 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-20-06-2019/</guid>
+      <description>Sujet : Task list - Primitive obsession Format : Pair programming Langage : Java - Scala - Ruby Nombre de participants : 16  Retours participants :
+ D&#39;abord vérifer que ça compile, puis rajouter la deadline en type union (scala : un ensemble fermé de valeur, un peu comme une enum), gérer la liste de task (ou project liste ?) Bien galérer sur les tests, difficulté à comprendre ce qui est testé vraiment L&#39;immutabilité c&#39;est bien Une deadline encapsule une date, ajouter un taskId (vraiment utile ?</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo Mardi 11 Juin 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-11-06-2019/</link>
+      <pubDate>Tue, 11 Jun 2019 13:44:25 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-11-06-2019/</guid>
+      <description> Sujet : Consumer Kata d&#39;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
+ Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&#39;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&#39;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&#39;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&#39;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&#39;est pas toujours facile Difficile de s&#39;accrocher pour un débutant  </description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo Mardi 28 Mai 2019</title>
+      <link>https://swcraftlyon.github.io/posts/coding-dojo-28-05-2019/</link>
+      <pubDate>Tue, 28 May 2019 20:28:33 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/coding-dojo-28-05-2019/</guid>
+      <description>Sujet : Guilded Rose animé par Colin Format : Pair + Mob Langage : Java, PHP, etc. Nombre de participants : 18  Retours participants :
+ Feedback rapide avec le golden master (encore faut-il avoir un golden master !) Sans le jeu de données c&#39;est difficile La deuxième fois, c&#39;est vraiment beaucoup plus simple Pas de bug dans le code d&#39;origine -&amp;gt; plutôt voir le kata Trivia pour expérimenter En essayant avec les tests unitaires en premier : meilleure granularité sur les règles métiers qui échouent.</description>
+    </item>
+    
+  </channel>
+</rss>
