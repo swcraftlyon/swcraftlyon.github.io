@@ -6,26 +6,39 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 02 Dec 2019 20:33:54 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 19:06:45 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>DDD Lundi 9 Décembre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/2019-12-09-ddd/</link>
+      <pubDate>Mon, 09 Dec 2019 19:06:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2019-12-09-ddd/</guid>
+      <description>Sujets: Event Modeling Format: Atelier
+22 Participants
+Déroulement Atelier pendant 1h30 + 30 minutes d&#39;échange. Pour l&#39;atelier, deux groupes ont été formés et dans chacun des groupes, une personne joue le rôle pour PO pour présenter une ébauche de solution.
+Retour des participants ROTI
+ 3/5 -&amp;gt; 2 4/5 -&amp;gt; 15 5/5 -&amp;gt; 5  Atelier intéressant. Contrairement à l&#39;eventstorming, le but de l&#39;atelier est d&#39;explorer l&#39;espace des solutions et non celui des problèmes.</description>
+    </item>
+    
+    <item>
       <title>Coding Dojo 02 12 2019</title>
-      <link>https://swcraftlyon.github.io/posts/coding-dojo-02-12-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-12-02-coding-dojo/</link>
       <pubDate>Mon, 02 Dec 2019 20:33:54 +0100</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/coding-dojo-02-12-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-12-02-coding-dojo/</guid>
       <description>Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala, TypeScript, Swift Nombre de participants : 20  Retours participants Tous le monde n&#39;est pas arrivé au bout. Micro-steps : difficile en partant en mode &amp;ldquo;voilà le diamant que l&#39;on attend&amp;rdquo;. Stratégie : pleins de petites méthodes utilitaires -&amp;gt; approche outside-in (beaucoup utilisé) -&amp;gt; petites méthodes testées -&amp;gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré</description>
     </item>
     
     <item>
       <title>DDD Mercredi 27 Novembre 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-27-11-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-11-27-ddd/</link>
       <pubDate>Wed, 27 Nov 2019 19:06:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-27-11-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-11-27-ddd/</guid>
       <description>Format : Présentation par Thomas + Forum ouvert
 18 Participants
 Sujets :
@@ -36,29 +49,29 @@ Le métier n&#39;est pas infini Le métier a des contraintes, les types primitiv
     
     <item>
       <title>Global Code Retreat Samedi 16 November 2019</title>
-      <link>https://swcraftlyon.github.io/posts/global-code-retreat-16-11-19/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/</link>
       <pubDate>Sat, 16 Nov 2019 09:43:18 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/global-code-retreat-16-11-19/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/</guid>
       <description>Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C++, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&#39;habitude.</description>
     </item>
     
     <item>
       <title>Coding Dojo Lundi 21 Octobre 2019</title>
-      <link>https://swcraftlyon.github.io/posts/coding-dojo-21-10-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-10-21-coding-dojo/</link>
       <pubDate>Mon, 21 Oct 2019 20:28:33 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/coding-dojo-21-10-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-10-21-coding-dojo/</guid>
       <description>Sujet : Pair programming Format : Pair + 1 Trinôme Langage : TypeScript, Java, C#, F# Nombre de participants : 19  Retours participants :
  me suis bien amusé la pétanque, c&#39;est plus facile types algébriques très très compliqués frustrant car le code pas à soi et donc il faut repartir de zéro à chaque fois - choix de juste expliquer le besoin fonctionnel difficultés entre le code et explication fonctionnelle d&#39;autres groupe plus dans l&#39;accompagnement de l&#39;algo frustrant car kata jamais fait =&amp;gt; du coup difficile de voir le côté en aveugle frustrant car kata trop connu certains devaient s&#39;accrocher quand la personne connaissait bien le kata certains se pliaient vraiment à ce que la personne disait de faire et du coup se laissait aller à de nouvelles solutions le groupe de 3 considère avoir eu des échanges plus poussés difficile de raisonner sans le code sous les yeux surtout lors d&#39;un refacto jeux d&#39;échecs à l&#39;aveugle Roti : 11 à 4/5 et 8 à 3/5, soit une moyenne de 3.</description>
     </item>
     
     <item>
       <title>DDD Mercredi 9 Octobre 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-09-10-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</link>
       <pubDate>Wed, 09 Oct 2019 19:06:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-09-10-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</guid>
       <description>Format : Forum ouvert
 17 Participants
 Sujets choisis :
@@ -69,20 +82,20 @@ Est-ce beaucoup utilisé ? Il y a beaucoup de ressources sur internet, sur le ba
     
     <item>
       <title>Coding Dojo du soir du mardi 24 septembre 2019</title>
-      <link>https://swcraftlyon.github.io/posts/coding-dojo-24-09-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-09-24-coding-dojo/</link>
       <pubDate>Tue, 24 Sep 2019 13:24:29 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/coding-dojo-24-09-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-09-24-coding-dojo/</guid>
       <description>Première heure: (Animé par Romain)  Sujet : Kata Employee-report Objectif : Challenger les participants sur leur manière d&#39;écrire une assertion Format : Pair Langages : Java, C#, JavaScript Nombre de participants : 15  Retours participants :
  Complexe sans syntaxe fluent Assertions couplées à la donnée : une évolution du comportement peut faire échouer les tests existants Plusieurs stratégies :  créer des données &amp;ldquo;attendues&amp;rdquo; statiques test plus dynamique (propriété) -&amp;gt; plus facile d&#39;écrire un test par comportement attendu   Un test par comportement ?</description>
     </item>
     
     <item>
       <title>Session Domain Driven Design Mercredi 11 Septembre 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-11-09-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-09-11-ddd/</link>
       <pubDate>Wed, 11 Sep 2019 10:38:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-11-09-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-09-11-ddd/</guid>
       <description>Format :
  Forum ouvert  34 participants (avec Greg et Adam)
 What is a bounded context? Is it the same to speak Canadian in France or in Canada? When a word ain&#39;t the same for different people, they don&#39;t need the same software to be built. Domain models belong in a context, we solve the problem in a bounded context. It removes complexity. When adding a new concept that encompass all bounded context will create a new system.</description>
@@ -90,10 +103,10 @@ What is a bounded context? Is it the same to speak Canadian in France or in Cana
     
     <item>
       <title>Coding Dojo pause repas du lundi 22 juillet 2019</title>
-      <link>https://swcraftlyon.github.io/posts/coding-dojo-22-07-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-07-22-coding-dojo/</link>
       <pubDate>Thu, 01 Aug 2019 17:05:00 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/coding-dojo-22-07-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-07-22-coding-dojo/</guid>
       <description>Sujet : Kata SuperMarket Format : Mob programming Langage : C# Nombre de participants : 8  Objectif:
  S&#39;améliorer à refactorer le code Découvrir ce kata d&#39;Emily Bache  Déroulement:
  Présentation du kata Recherche tout ensemble des codes smells (code posant problème). Explication en quand ils posent problème pour chacun d&#39;eux. Début du refactoring en prenant les codes smells un par un, après les avoir priorisés.  Retours participants :</description>
@@ -101,10 +114,10 @@ What is a bounded context? Is it the same to speak Canadian in France or in Cana
     
     <item>
       <title>Coding Dojo Mardi 16 juillet 2019</title>
-      <link>https://swcraftlyon.github.io/posts/coding-dojo-16-07-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-07-16-coding-dojo/</link>
       <pubDate>Tue, 16 Jul 2019 22:06:02 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/coding-dojo-16-07-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-07-16-coding-dojo/</guid>
       <description>Sujet : Kata Tennis Refactoring d&#39;Emily Bache
   Format : Evil Mob Programming.
 Parmi les participants se cachent des saboteurs. Ils ont pour but d&#39;empêcher le déroulement de la session. Ils ne doivent pas se faire remarquer.
@@ -115,10 +128,10 @@ Parmi les participants se cachent des saboteurs. Ils ont pour but d&#39;empêche
     
     <item>
       <title>DDD Lundi 8 Juillet 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-08-07-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-07-08-ddd/</link>
       <pubDate>Mon, 08 Jul 2019 19:06:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-08-07-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-07-08-ddd/</guid>
       <description>Sujets :
 Introduction aux concepts du DDD par la maïeutique de groupe Introduction de la vision de ce qu&#39;est le DDD pour les participants qui le pratique.
 Beaucoup de discussions sur le cas d&#39;un participant qui a du mal à introduire le DDD dans son entreprise. Certains relèvent que ce n&#39;est pas forcément un problème de métier, mais aussi un problème de communication, on propose alors beaucoup de différentes méthodes : Event Storming, Mob Programming, Story Mapping.</description>
@@ -126,10 +139,10 @@ Beaucoup de discussions sur le cas d&#39;un participant qui a du mal à introdui
     
     <item>
       <title>Session Domain Driven Design Mercredi 26 Juin 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-26-06-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-06-26-ddd/</link>
       <pubDate>Wed, 26 Jun 2019 10:38:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-26-06-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-06-26-ddd/</guid>
       <description>Sujets :
  Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert  16 participants
 Architecture Hexagonale par Nicolas Grisey Demengel @Malt Nicolas Grisey Demengel @Malt nous a présenté un retour d&#39;expérience sur l&#39;architecture hexagonale.
@@ -139,30 +152,30 @@ Vous pouvez retrouver les slides.</description>
     
     <item>
       <title>Coding Dojo Jeudi 20 Juin 2019</title>
-      <link>https://swcraftlyon.github.io/posts/coding-dojo-20-06-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-06-20-coding-dojo/</link>
       <pubDate>Thu, 20 Jun 2019 20:45:05 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/coding-dojo-20-06-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-06-20-coding-dojo/</guid>
       <description>Sujet : Task list - Primitive obsession Format : Pair programming Langage : Java - Scala - Ruby Nombre de participants : 16  Retours participants :
  D&#39;abord vérifer que ça compile, puis rajouter la deadline en type union (scala : un ensemble fermé de valeur, un peu comme une enum), gérer la liste de task (ou project liste ?) Bien galérer sur les tests, difficulté à comprendre ce qui est testé vraiment L&#39;immutabilité c&#39;est bien Une deadline encapsule une date, ajouter un taskId (vraiment utile ?</description>
     </item>
     
     <item>
       <title>Coding Dojo Mardi 11 Juin 2019</title>
-      <link>https://swcraftlyon.github.io/posts/coding-dojo-11-06-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-06-11-coding-dojo/</link>
       <pubDate>Tue, 11 Jun 2019 13:44:25 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/coding-dojo-11-06-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-06-11-coding-dojo/</guid>
       <description> Sujet : Consumer Kata d&#39;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
  Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&#39;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&#39;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&#39;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&#39;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&#39;est pas toujours facile Difficile de s&#39;accrocher pour un débutant  </description>
     </item>
     
     <item>
       <title>Coding Dojo Mardi 28 Mai 2019</title>
-      <link>https://swcraftlyon.github.io/posts/coding-dojo-28-05-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-05-28-coding-dojo/</link>
       <pubDate>Tue, 28 May 2019 20:28:33 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/coding-dojo-28-05-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-05-28-coding-dojo/</guid>
       <description>Sujet : Guilded Rose animé par Colin Format : Pair + Mob Langage : Java, PHP, etc. Nombre de participants : 18  Retours participants :
  Feedback rapide avec le golden master (encore faut-il avoir un golden master !) Sans le jeu de données c&#39;est difficile La deuxième fois, c&#39;est vraiment beaucoup plus simple Pas de bug dans le code d&#39;origine -&amp;gt; plutôt voir le kata Trivia pour expérimenter En essayant avec les tests unitaires en premier : meilleure granularité sur les règles métiers qui échouent.</description>
     </item>

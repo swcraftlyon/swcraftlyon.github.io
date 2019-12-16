@@ -6,17 +6,30 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 27 Nov 2019 19:06:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 19:06:45 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>DDD Lundi 9 Décembre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/2019-12-09-ddd/</link>
+      <pubDate>Mon, 09 Dec 2019 19:06:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2019-12-09-ddd/</guid>
+      <description>Sujets: Event Modeling Format: Atelier
+22 Participants
+Déroulement Atelier pendant 1h30 + 30 minutes d&#39;échange. Pour l&#39;atelier, deux groupes ont été formés et dans chacun des groupes, une personne joue le rôle pour PO pour présenter une ébauche de solution.
+Retour des participants ROTI
+ 3/5 -&amp;gt; 2 4/5 -&amp;gt; 15 5/5 -&amp;gt; 5  Atelier intéressant. Contrairement à l&#39;eventstorming, le but de l&#39;atelier est d&#39;explorer l&#39;espace des solutions et non celui des problèmes.</description>
+    </item>
+    
+    <item>
       <title>DDD Mercredi 27 Novembre 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-27-11-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-11-27-ddd/</link>
       <pubDate>Wed, 27 Nov 2019 19:06:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-27-11-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-11-27-ddd/</guid>
       <description>Format : Présentation par Thomas + Forum ouvert
 18 Participants
 Sujets :
@@ -27,10 +40,10 @@ Le métier n&#39;est pas infini Le métier a des contraintes, les types primitiv
     
     <item>
       <title>DDD Mercredi 9 Octobre 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-09-10-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</link>
       <pubDate>Wed, 09 Oct 2019 19:06:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-09-10-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</guid>
       <description>Format : Forum ouvert
 17 Participants
 Sujets choisis :
@@ -41,10 +54,10 @@ Est-ce beaucoup utilisé ? Il y a beaucoup de ressources sur internet, sur le ba
     
     <item>
       <title>Session Domain Driven Design Mercredi 11 Septembre 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-11-09-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-09-11-ddd/</link>
       <pubDate>Wed, 11 Sep 2019 10:38:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-11-09-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-09-11-ddd/</guid>
       <description>Format :
  Forum ouvert  34 participants (avec Greg et Adam)
 What is a bounded context? Is it the same to speak Canadian in France or in Canada? When a word ain&#39;t the same for different people, they don&#39;t need the same software to be built. Domain models belong in a context, we solve the problem in a bounded context. It removes complexity. When adding a new concept that encompass all bounded context will create a new system.</description>
@@ -52,10 +65,10 @@ What is a bounded context? Is it the same to speak Canadian in France or in Cana
     
     <item>
       <title>DDD Lundi 8 Juillet 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-08-07-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-07-08-ddd/</link>
       <pubDate>Mon, 08 Jul 2019 19:06:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-08-07-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-07-08-ddd/</guid>
       <description>Sujets :
 Introduction aux concepts du DDD par la maïeutique de groupe Introduction de la vision de ce qu&#39;est le DDD pour les participants qui le pratique.
 Beaucoup de discussions sur le cas d&#39;un participant qui a du mal à introduire le DDD dans son entreprise. Certains relèvent que ce n&#39;est pas forcément un problème de métier, mais aussi un problème de communication, on propose alors beaucoup de différentes méthodes : Event Storming, Mob Programming, Story Mapping.</description>
@@ -63,10 +76,10 @@ Beaucoup de discussions sur le cas d&#39;un participant qui a du mal à introdui
     
     <item>
       <title>Session Domain Driven Design Mercredi 26 Juin 2019</title>
-      <link>https://swcraftlyon.github.io/posts/ddd-26-06-2019/</link>
+      <link>https://swcraftlyon.github.io/posts/2019-06-26-ddd/</link>
       <pubDate>Wed, 26 Jun 2019 10:38:45 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/ddd-26-06-2019/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2019-06-26-ddd/</guid>
       <description>Sujets :
  Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert  16 participants
 Architecture Hexagonale par Nicolas Grisey Demengel @Malt Nicolas Grisey Demengel @Malt nous a présenté un retour d&#39;expérience sur l&#39;architecture hexagonale.

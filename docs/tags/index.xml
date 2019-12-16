@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 27 Nov 2019 19:06:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 19:06:45 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>DDD</title>
       <link>https://swcraftlyon.github.io/tags/ddd/</link>
-      <pubDate>Wed, 27 Nov 2019 19:06:45 +0200</pubDate>
+      <pubDate>Mon, 09 Dec 2019 19:06:45 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dojo</title>
+      <link>https://swcraftlyon.github.io/tags/dojo/</link>
+      <pubDate>Mon, 02 Dec 2019 20:33:54 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/dojo/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Sat, 16 Nov 2019 09:43:18 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/gdcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dojo</title>
-      <link>https://swcraftlyon.github.io/tags/dojo/</link>
-      <pubDate>Mon, 21 Oct 2019 20:28:33 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/dojo/</guid>
       <description></description>
     </item>
     

@@ -1,3 +1,4 @@
 
-dist/
-hugo.exe
+/dist/
+/hugo.exe
+/hugo
