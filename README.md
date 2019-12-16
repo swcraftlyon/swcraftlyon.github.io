@@ -13,4 +13,3 @@ Dépôt pour le code et les compte-rendus des sessions des software crafters de 
 - Lancer `hugo` pour gérer les pages
 - Créer un commit avec les modifications du répertoire `docs`
 - Pousser le code :)
-
