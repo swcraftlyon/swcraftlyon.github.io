@@ -1,247 +1,419 @@
 <!DOCTYPE html>
-<html lang="fr-FR">
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-    <title>Compte-rendus des software crafters de Lyon  | Global Code Retreat Samedi 16 November 2019</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.61.0" />
-    
-    
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     
 
-    
-    
-      <link href="/dist/css/app.d98f2eb6bcd1eaedb7edf166bd16af26.css" rel="stylesheet">
-    
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
+  <title>Global Code Retreat Samedi 16 November 2019 - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&rsquo;habitude."><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Compte-rendus des software crafters de Lyon",
     
+    "url": "https:\/\/swcraftlyon.github.io\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/swcraftlyon.github.io\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2019-11-16-global-code-retreat\/",
+          "name": "Global code retreat samedi 16 november 2019"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Global Code Retreat Samedi 16 November 2019",
+  "description" : "Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C\x2b\x2b, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair\/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l\x26rsquo;habitude.",
+  "inLanguage" : "en",
+  "wordCount":  725 ,
+  "datePublished" : "2019-11-16T09:43:18",
+  "dateModified" : "2019-11-16T09:43:18",
+  "image" : "https:\/\/swcraftlyon.github.io\/",
+  "keywords" : [ "gdcr" ],
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2019-11-16-global-code-retreat\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/swcraftlyon.github.io\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/swcraftlyon.github.io\/",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-    
-      
-    
-
-    
-    
-    <meta property="og:title" content="Global Code Retreat Samedi 16 November 2019" />
-<meta property="og:description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&#39;habitude." />
-<meta property="og:type" content="article" />
+<meta property="og:title" content="Global Code Retreat Samedi 16 November 2019" />
+<meta property="og:description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&rsquo;habitude.">
 <meta property="og:url" content="https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/" />
-<meta property="article:published_time" content="2019-11-16T09:43:18+02:00" />
-<meta property="article:modified_time" content="2019-11-16T09:43:18+02:00" />
-<meta itemprop="name" content="Global Code Retreat Samedi 16 November 2019">
-<meta itemprop="description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&#39;habitude.">
-<meta itemprop="datePublished" content="2019-11-16T09:43:18&#43;02:00" />
-<meta itemprop="dateModified" content="2019-11-16T09:43:18&#43;02:00" />
-<meta itemprop="wordCount" content="725">
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
+
+  <meta name="twitter:title" content="Global Code Retreat Samedi 16 November 2019" />
+  <meta name="twitter:description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement …">
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.58.3" />
+  <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://swcraftlyon.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/syntax.css" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
 
 
-
-<meta itemprop="keywords" content="gdcr," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Global Code Retreat Samedi 16 November 2019"/>
-<meta name="twitter:description" content="Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C&#43;&#43;, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&#39;habitude."/>
 
   </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+    </div>
 
-  <body class="ma0 avenir bg-near-white">
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        
+      </ul>
+    </div>
 
     
-   
-  
 
-  <header>
-    <div class="bg-black">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l justify-between items-center center">
-    <a href="https://swcraftlyon.github.io/" class="f3 fw2 hover-white no-underline white-90 dib">
-      Compte-rendus des software crafters de Lyon
-    </a>
-    <div class="flex-l items-center">
-      
-
-      
-      
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
   </div>
 </nav>
 
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="posts-heading">
+              
+                <h1>Global Code Retreat Samedi 16 November 2019</h1>
+              
+              
+                <hr class="small">
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </header>
 
 
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
 
-    <main class="pb7" role="main">
-      
-  
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
-
-    <header class="mt4 w-100">
-      <p class="f6 b helvetica tracked">
-          
-        POSTS
-      </p>
-      <h1 class="f1 athelas mb1">Global Code Retreat Samedi 16 November 2019</h1>
-      
-      
-      <time class="f6 mv4 dib tracked" datetime="2019-11-16T09:43:18&#43;02:00">November 16, 2019</time>
-      
-      
-    </header>
-
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul>
+<ul>
 <li>Sujet : <a href="http://codingdojo.org/kata/LangtonAnt/">Langton Ant</a></li>
 <li>Format : Pair programming</li>
 <li>Langage : Java, Python, C++, Scala, TypeScript, F#, Kotlin</li>
 <li>Nombre de participants : 25</li>
 </ul>
+
 <h2 id="objectif">Objectif</h2>
+
 <ul>
 <li>Améliorer nos pratiques de code</li>
 </ul>
-<h2 id="droulement">Déroulement</h2>
+
+<h2 id="déroulement">Déroulement</h2>
+
 <ul>
 <li>Présentation du sujet</li>
 <li>6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief</li>
 <li>TDD et pair/mob programming à chaque itération</li>
 </ul>
-<h2 id="itration-1--mise-en-place">Itération 1 : Mise en place</h2>
-<p>Compliqué à lancer, approche TDD difficile quand pas l'habitude.<br>
-Deux grandes étapes : switch color &amp; switch direction.<br>
-Nécessite de connaitre uniquement ses voisins.<br>
-Par quoi commencer ? La grille ? La fourmi ?<br>
+
+<h2 id="itération-1-mise-en-place">Itération 1 : Mise en place</h2>
+
+<p>Compliqué à lancer, approche TDD difficile quand pas l&rsquo;habitude.<br />
+Deux grandes étapes : switch color &amp; switch direction.<br />
+Nécessite de connaitre uniquement ses voisins.<br />
+Par quoi commencer ? La grille ? La fourmi ?<br />
 Composition de comportements simples : changement de direction, de couleur.</p>
-<h2 id="itration-2--reset-hard-toutes-les-2-minutes">Itération 2 : Reset-hard toutes les 2 minutes</h2>
-<p>2 minutes un peu short, mais force à discuter en amont.<br>
-Limite de temps pousse à simplifier, s'en tenir à l'essentiel.<br>
-Plusieurs fois itération beaucoup trop grosse -&gt; bien redécouper après.<br>
-Appris beaucoup -&gt; Eclipse (raccourcis clavier).<br>
-Logique fonctionnelle en peu de temps.<br>
-2 minutes tests et code puis 2 minutes refactoring.<br>
-Toutes les 2 minutes clavier change de main.<br>
-Partir du bas, car baby steps.<br>
-Pas de structure de contrôle.<br>
-Impose de partir beaucoup plus petit -&gt; parti de la grille, mais très simple.<br>
-On ne peut pas pousser un refactoring en 2 minutes.<br>
-Pousse à faire des refactoring pas cassants.<br>
-Comment amener de la fonctionnalité en 2 minutes.<br>
-Donne lieu à plein de stratégies.<br>
-Pas facile de voir avantages dans le stress.<br>
-Manque un outil comme un sablier.<br>
-Des mini-rétros pas comptées dans le temps (parfois entre chaque itération).<br>
-Tant que l'on ne touche pas au clavier, pas de chrono.<br>
+
+<h2 id="itération-2-reset-hard-toutes-les-2-minutes">Itération 2 : Reset-hard toutes les 2 minutes</h2>
+
+<p>2 minutes un peu short, mais force à discuter en amont.<br />
+Limite de temps pousse à simplifier, s&rsquo;en tenir à l&rsquo;essentiel.<br />
+Plusieurs fois itération beaucoup trop grosse -&gt; bien redécouper après.<br />
+Appris beaucoup -&gt; Eclipse (raccourcis clavier).<br />
+Logique fonctionnelle en peu de temps.<br />
+2 minutes tests et code puis 2 minutes refactoring.<br />
+Toutes les 2 minutes clavier change de main.<br />
+Partir du bas, car baby steps.<br />
+Pas de structure de contrôle.<br />
+Impose de partir beaucoup plus petit -&gt; parti de la grille, mais très simple.<br />
+On ne peut pas pousser un refactoring en 2 minutes.<br />
+Pousse à faire des refactoring pas cassants.<br />
+Comment amener de la fonctionnalité en 2 minutes.<br />
+Donne lieu à plein de stratégies.<br />
+Pas facile de voir avantages dans le stress.<br />
+Manque un outil comme un sablier.<br />
+Des mini-rétros pas comptées dans le temps (parfois entre chaque itération).<br />
+Tant que l&rsquo;on ne touche pas au clavier, pas de chrono.<br />
 Pas grave de jeter le code.</p>
-<h2 id="itration-3--code-immutable">Itération 3 : Code immutable</h2>
-<p>Pas d'attributs, uniquement des constantes.<br>
-Découverte de F# &amp; Scala : immutabilité naturelle, bonne introduction au fonctionnel.<br>
-Découvre encore des choses sur Kotlin, même en s'en servant tous les jours.<br>
-Pas vécu comme une réelle contrainte (pour certains), juste une autre façon de faire.<br>
-Frustration de ne pas arriver plus loin dans le kata après trois itérations -&gt; est-ce que l'approche de l'exercice a changé après trois itérations ?<br>
+
+<h2 id="itération-3-code-immutable">Itération 3 : Code immutable</h2>
+
+<p>Pas d&rsquo;attributs, uniquement des constantes.<br />
+Découverte de F# &amp; Scala : immutabilité naturelle, bonne introduction au fonctionnel.<br />
+Découvre encore des choses sur Kotlin, même en s&rsquo;en servant tous les jours.<br />
+Pas vécu comme une réelle contrainte (pour certains), juste une autre façon de faire.<br />
+Frustration de ne pas arriver plus loin dans le kata après trois itérations -&gt; est-ce que l&rsquo;approche de l&rsquo;exercice a changé après trois itérations ?<br />
 C++ peut définir des méthodes constantes, elle ne peut pas changer un état.</p>
-<h2 id="itration-4--blind-navigator">Itération 4 : Blind navigator</h2>
-<p>Il faut partir petit =&gt; vraiment en aveugle.<br>
-Mieux vaut un truc qui marche, mais mal refactoré plutôt qu'un truc à moitié fait.<br>
-Itération stable.<br>
-En tant que navigateur (celui qui donne les instructions), on a beaucoup de pouvoir.<br>
-Oblige une communication permanente : celui qui a le clavier doit parler.<br>
-Capacité d'écoute de partout.<br>
-Partie très lourde côté navigateur : détails.<br>
-Pas besoin de penser à la syntaxe (en tant que navigateur).<br>
-Corresponds au quotidien.<br>
-Capable d'échanger sans subordination.<br>
-Trouver granularité du test.<br>
-Manque une boucle de feedbacks avec l'aspect &ldquo;aveugle&rdquo;, feedback nettement plus long.<br>
-Permets d'aller au bout de l'idée sans la tuer dans l'oeuf : le navigateur va au bout de son raisonnement.<br>
-Quand on se voit, impression d'être au casque.<br>
-Expression corporelle importante, compensation par des précisions.<br>
-Suggestion d'évolution : mauvais son.</p>
-<h2 id="itration-5--porter-un-maximum-dinformations-sur-ltat-dans-le-type">Itération 5 : Porter un maximum d'informations sur l'état dans le type</h2>
-<p>Beaucoup d'objets à créer et maintenir.<br>
-Simple tant qu'on ne gère pas la grille.<br>
-Tous les cas doivent être représentés.<br>
-Pour ne pas stocker la grille, on peut appeler une fonction qui retournera la fonction pour le prochain tour (usage de la récursivité).<br>
+
+<h2 id="itération-4-blind-navigator">Itération 4 : Blind navigator</h2>
+
+<p>Il faut partir petit =&gt; vraiment en aveugle.<br />
+Mieux vaut un truc qui marche, mais mal refactoré plutôt qu&rsquo;un truc à moitié fait.<br />
+Itération stable.<br />
+En tant que navigateur (celui qui donne les instructions), on a beaucoup de pouvoir.<br />
+Oblige une communication permanente : celui qui a le clavier doit parler.<br />
+Capacité d&rsquo;écoute de partout.<br />
+Partie très lourde côté navigateur : détails.<br />
+Pas besoin de penser à la syntaxe (en tant que navigateur).<br />
+Corresponds au quotidien.<br />
+Capable d&rsquo;échanger sans subordination.<br />
+Trouver granularité du test.<br />
+Manque une boucle de feedbacks avec l&rsquo;aspect &ldquo;aveugle&rdquo;, feedback nettement plus long.<br />
+Permets d&rsquo;aller au bout de l&rsquo;idée sans la tuer dans l&rsquo;oeuf : le navigateur va au bout de son raisonnement.<br />
+Quand on se voit, impression d&rsquo;être au casque.<br />
+Expression corporelle importante, compensation par des précisions.<br />
+Suggestion d&rsquo;évolution : mauvais son.</p>
+
+<h2 id="itération-5-porter-un-maximum-d-informations-sur-l-état-dans-le-type">Itération 5 : Porter un maximum d&rsquo;informations sur l&rsquo;état dans le type</h2>
+
+<p>Beaucoup d&rsquo;objets à créer et maintenir.<br />
+Simple tant qu&rsquo;on ne gère pas la grille.<br />
+Tous les cas doivent être représentés.<br />
+Pour ne pas stocker la grille, on peut appeler une fonction qui retournera la fonction pour le prochain tour (usage de la récursivité).<br />
 Questionne beaucoup plus sur la responsabilité de chaque type.</p>
-<p>Cardinalité d'une cellule (hypothèse : la cellule ne connaît pas ses coordonnées) :</p>
+
+<p>Cardinalité d&rsquo;une cellule (hypothèse : la cellule ne connaît pas ses coordonnées) :</p>
+
 <pre><code>  Couleur * Direction option
     = 2 couleurs * (Pas de fourmi + une fourmi avec 4 directions)
     = 2 * (1 + 4)
     = 10 états (types) possibles pour une cellule
-</code></pre><p>Proposition de variante : pas de primitive et pas de cas interdit.</p>
-<h2 id="itration-6--test--commit--revert">Itération 6 : Test &amp;&amp; commit || revert</h2>
-<p>Test + code + refactor puis exécute les tests : créé beaucoup d'enjeux.<br>
-Réutilise plus du code sur lequel on connaît le comportement.<br>
-S'assurer d'avoir un test qui marche et d'aller au plus simple, puis commit avant de refactorer.<br>
-Les enjeux et le stress générés reviennent souvent, on va au plus petit possible (test, micro-refactoring).<br>
-Presque tout le monde a dû revert au moins une fois.<br>
-Bon exercice pour savoir si nos tests sont trop gros.<br>
+</code></pre>
+
+<p>Proposition de variante : pas de primitive et pas de cas interdit.</p>
+
+<h2 id="itération-6-test-commit-revert">Itération 6 : Test &amp;&amp; commit || revert</h2>
+
+<p>Test + code + refactor puis exécute les tests : créé beaucoup d&rsquo;enjeux.<br />
+Réutilise plus du code sur lequel on connaît le comportement.<br />
+S&rsquo;assurer d&rsquo;avoir un test qui marche et d&rsquo;aller au plus simple, puis commit avant de refactorer.<br />
+Les enjeux et le stress générés reviennent souvent, on va au plus petit possible (test, micro-refactoring).<br />
+Presque tout le monde a dû revert au moins une fois.<br />
+Bon exercice pour savoir si nos tests sont trop gros.<br />
 Idée : sprint &amp; démo || revert</p>
+
 <h2 id="roti">ROTI</h2>
+
 <ul>
 <li>24 votants</li>
-<li>ROTI 5/5 -&gt; 8 personnes</li>
-<li>ROTI 4/5 -&gt; 16 personnes</li>
+<li>ROTI <sup>5</sup>&frasl;<sub>5</sub> -&gt; 8 personnes</li>
+<li>ROTI <sup>4</sup>&frasl;<sub>5</sub> -&gt; 16 personnes</li>
 </ul>
-<ul class="pa0">
-  
-   <li class="list">
-     <a href="/tags/gdcr" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">gdcr</a>
-   </li>
-  
-</ul>
-<div class="mt6">
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://swcraftlyon.github.io//tags/gdcr/">gdcr</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
       
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://swcraftlyon.github.io/posts/2019-10-21-coding-dojo/" data-toggle="tooltip" data-placement="top" title="Coding Dojo Lundi 21 Octobre 2019">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="https://swcraftlyon.github.io/posts/2019-11-27-ddd/" data-toggle="tooltip" data-placement="top" title="DDD Mercredi 27 Novembre 2019">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
       
-      </div>
-    </section>
-
-    <aside class="w-30-l mt6-l">
 
 
+      
 
-
-</aside>
-
-  </article>
-
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://swcraftlyon.github.io/" >
-    &copy; 2019 Compte-rendus des software crafters de Lyon
-  </a>
-    <div>
-
-
-
-
-
-
-
-
-
-
-
-</div>
+    </div>
   </div>
-</footer>
+</div>
+
+      
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2019
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="https://gohugo.io">Hugo v0.58.3</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://swcraftlyon.github.io/js/main.js"></script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://swcraftlyon.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
 
     
-
-  <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
-
-
   </body>
 </html>
+

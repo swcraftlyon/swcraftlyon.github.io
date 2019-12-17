@@ -1,190 +1,329 @@
 <!DOCTYPE html>
-<html lang="fr-FR">
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-    <title>Compte-rendus des software crafters de Lyon  | Coding Dojo Mardi 11 Juin 2019</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.61.0" />
-    
-    
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     
 
-    
-    
-      <link href="/dist/css/app.d98f2eb6bcd1eaedb7edf166bd16af26.css" rel="stylesheet">
-    
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
+  <title>Coding Dojo Mardi 11 Juin 2019 - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content=" Sujet : Consumer Kata d&rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
+ Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&rsquo;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&rsquo;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&rsquo;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&rsquo;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&rsquo;est pas toujours facile Difficile de s&rsquo;accrocher pour un débutant  "><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Compte-rendus des software crafters de Lyon",
     
+    "url": "https:\/\/swcraftlyon.github.io\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/swcraftlyon.github.io\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2019-06-11-coding-dojo\/",
+          "name": "Coding dojo mardi 11 juin 2019"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Coding Dojo Mardi 11 Juin 2019",
+  "description" : " Sujet : Consumer Kata d\x26rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :\n Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu\x26rsquo;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu\x26rsquo;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu\x26rsquo;il se passe Consumer \/ Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d\x26rsquo;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c\x26rsquo;est pas toujours facile Difficile de s\x26rsquo;accrocher pour un débutant  ",
+  "inLanguage" : "en",
+  "wordCount":  144 ,
+  "datePublished" : "2019-06-11T13:44:25",
+  "dateModified" : "2019-06-11T13:44:25",
+  "image" : "https:\/\/swcraftlyon.github.io\/",
+  "keywords" : [ "dojo" ],
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2019-06-11-coding-dojo\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/swcraftlyon.github.io\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/swcraftlyon.github.io\/",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-    
-      
-    
-
-    
-    
-    <meta property="og:title" content="Coding Dojo Mardi 11 Juin 2019" />
-<meta property="og:description" content=" Sujet : Consumer Kata d&#39;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
- Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&#39;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&#39;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&#39;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&#39;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&#39;est pas toujours facile Difficile de s&#39;accrocher pour un débutant  " />
-<meta property="og:type" content="article" />
+<meta property="og:title" content="Coding Dojo Mardi 11 Juin 2019" />
+<meta property="og:description" content=" Sujet : Consumer Kata d&rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
+ Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&rsquo;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&rsquo;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&rsquo;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&rsquo;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&rsquo;est pas toujours facile Difficile de s&rsquo;accrocher pour un débutant  ">
 <meta property="og:url" content="https://swcraftlyon.github.io/posts/2019-06-11-coding-dojo/" />
-<meta property="article:published_time" content="2019-06-11T13:44:25+02:00" />
-<meta property="article:modified_time" content="2019-06-11T13:44:25+02:00" />
-<meta itemprop="name" content="Coding Dojo Mardi 11 Juin 2019">
-<meta itemprop="description" content=" Sujet : Consumer Kata d&#39;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
- Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&#39;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&#39;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&#39;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&#39;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&#39;est pas toujours facile Difficile de s&#39;accrocher pour un débutant  ">
-<meta itemprop="datePublished" content="2019-06-11T13:44:25&#43;02:00" />
-<meta itemprop="dateModified" content="2019-06-11T13:44:25&#43;02:00" />
-<meta itemprop="wordCount" content="144">
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
+
+  <meta name="twitter:title" content="Coding Dojo Mardi 11 Juin 2019" />
+  <meta name="twitter:description" content=" Sujet : Consumer Kata d&rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
+ Manque de temps pour aller au bout Contrainte de limiter à une …">
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.58.3" />
+  <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://swcraftlyon.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/syntax.css" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
 
 
-
-<meta itemprop="keywords" content="dojo," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Coding Dojo Mardi 11 Juin 2019"/>
-<meta name="twitter:description" content=" Sujet : Consumer Kata d&#39;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
- Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&#39;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&#39;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&#39;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&#39;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&#39;est pas toujours facile Difficile de s&#39;accrocher pour un débutant  "/>
 
   </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+    </div>
 
-  <body class="ma0 avenir bg-near-white">
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        
+      </ul>
+    </div>
 
     
-   
-  
 
-  <header>
-    <div class="bg-black">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l justify-between items-center center">
-    <a href="https://swcraftlyon.github.io/" class="f3 fw2 hover-white no-underline white-90 dib">
-      Compte-rendus des software crafters de Lyon
-    </a>
-    <div class="flex-l items-center">
-      
-
-      
-      
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
   </div>
 </nav>
 
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="posts-heading">
+              
+                <h1>Coding Dojo Mardi 11 Juin 2019</h1>
+              
+              
+                <hr class="small">
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </header>
 
 
-
-    <main class="pb7" role="main">
-      
-  
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
-
-    <header class="mt4 w-100">
-      <p class="f6 b helvetica tracked">
-          
-        POSTS
-      </p>
-      <h1 class="f1 athelas mb1">Coding Dojo Mardi 11 Juin 2019</h1>
-      
-      
-      <time class="f6 mv4 dib tracked" datetime="2019-06-11T13:44:25&#43;02:00">June 11, 2019</time>
-      
-      
-    </header>
-
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul>
-<li>Sujet : Consumer Kata d'Emily Bache</li>
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <ul>
+<li>Sujet : Consumer Kata d&rsquo;Emily Bache</li>
 <li>Format : Mob programming</li>
 <li>Langage : Java</li>
 <li>Nombre de participants : 6</li>
 </ul>
+
 <p>Retours participants :</p>
+
 <ul>
 <li>Manque de temps pour aller au bout</li>
-<li>Contrainte de limiter à une interface permet de se concentrer sur ce qu'il faut</li>
+<li>Contrainte de limiter à une interface permet de se concentrer sur ce qu&rsquo;il faut</li>
 <li>Frustration de ne pas pouvoir aller loin</li>
 <li>Golden master pas applicable dans ce cas</li>
-<li>Le code semble tellement pourri qu'avec les besoins fonctionnels on pourrait le faire de zéro</li>
-<li>Peut se faire devant un tableau blanc pour comprendre ce qu'il se passe</li>
+<li>Le code semble tellement pourri qu&rsquo;avec les besoins fonctionnels on pourrait le faire de zéro</li>
+<li>Peut se faire devant un tableau blanc pour comprendre ce qu&rsquo;il se passe</li>
 <li>Consumer / Customer amène confusion</li>
 <li>Kata intéressant, avoir plein de points de vue</li>
-<li>Kata pas évident : pelote de laine à démêler, mais ça fait parti d'un projet normal</li>
+<li>Kata pas évident : pelote de laine à démêler, mais ça fait parti d&rsquo;un projet normal</li>
 <li>Cool de pouvoir partager les tips de raccourci</li>
-<li>Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c'est pas toujours facile</li>
-<li>Difficile de s'accrocher pour un débutant</li>
+<li>Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&rsquo;est pas toujours facile</li>
+<li>Difficile de s&rsquo;accrocher pour un débutant</li>
 </ul>
-<ul class="pa0">
-  
-   <li class="list">
-     <a href="/tags/dojo" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">dojo</a>
-   </li>
-  
-</ul>
-<div class="mt6">
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://swcraftlyon.github.io//tags/dojo/">dojo</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
       
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://swcraftlyon.github.io/posts/2019-05-28-coding-dojo/" data-toggle="tooltip" data-placement="top" title="Coding Dojo Mardi 28 Mai 2019">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="https://swcraftlyon.github.io/posts/2019-06-20-coding-dojo/" data-toggle="tooltip" data-placement="top" title="Coding Dojo Jeudi 20 Juin 2019">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
       
-      </div>
-    </section>
-
-    <aside class="w-30-l mt6-l">
 
 
+      
 
-
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-    <p class="f5 b mb3">Related</p>
-    <ul class="pa0 list">
-	   
-	     <li  class="mb2">
-          <a href="/posts/2019-05-28-coding-dojo/">Coding Dojo Mardi 28 Mai 2019</a>
-        </li>
-	    
-    </ul>
-</div>
-
-</aside>
-
-  </article>
-
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://swcraftlyon.github.io/" >
-    &copy; 2019 Compte-rendus des software crafters de Lyon
-  </a>
-    <div>
-
-
-
-
-
-
-
-
-
-
-
-</div>
+    </div>
   </div>
-</footer>
+</div>
+
+      
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2019
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="https://gohugo.io">Hugo v0.58.3</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://swcraftlyon.github.io/js/main.js"></script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://swcraftlyon.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
 
     
-
-  <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
-
-
   </body>
 </html>
+
