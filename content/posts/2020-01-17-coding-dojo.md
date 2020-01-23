@@ -22,6 +22,6 @@ aliases: [/posts/coding-dojo-17-01-2020/]
 - Un peu rapide pour certains, aurait mérité d'expliquer les smells
 
 ## ROTI :
--> 5/5 3
--> 4/5 5
--> 3/5 1
+- 5/5 -> 3
+- 4/5 -> 5
+- 3/5 -> 1

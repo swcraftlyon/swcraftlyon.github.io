@@ -9,6 +9,8 @@ aliases: [/posts/coding-dojo-21-01-2020/]
 - Langage : Postgresql
 - Nombre de participants : 14
 
+Version utilisé, car pr non mergé : https://github.com/fpellet/GildedRose-Refactoring-Kata branch plpgsql_pgtap
+
 ## Retours participants :
 
 - Que faire du golden master une fois le refacto terminé ? On va chercher à le supprimer.
@@ -17,6 +19,6 @@ aliases: [/posts/coding-dojo-21-01-2020/]
 - Kata toujours bien apprécié même sur des technos plus "exotiques", mais solution un peu trop connu : Un seul groupe n'a pas fait de golden master.
 
 ## ROTI :
--> 5/5 1
--> 4/5 7
--> 3/5 6
+- 5/5 -> 1
+- 4/5 -> 7
+- 3/5 -> 6
