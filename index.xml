@@ -6,10 +6,19 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Jan 2020 13:44:25 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 13:44:25 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding Dojo Vendredi 14 Février 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-02-14-coding-dojo/</link>
+      <pubDate>Fri, 14 Feb 2020 13:44:25 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-02-14-coding-dojo/</guid>
+      <description>  Sujet : Racing Car Katas (https://github.com/emilybache/Racing-Car-Katas) Format : Mob programming Langage : Javascript Nombre de participants : 7  Retours participants :  Que se passe-t-il si le sensor ne renvoie pas un nombre ?! On fait ce qui était attendu, on a enlevé l&amp;rsquo;aléatoire du sensor très rapidement et on est passé à côté de la difficulté En Javascript, l&amp;rsquo;orienté objet ne semble pas très intéressant En Javascript, on peut faire de l&amp;rsquo;OO ou du fonctionnel c&amp;rsquo;est au équipe de choisir Javascript n&amp;rsquo;était pas forcément adapté pour montrer le SOLID Double Mock Stub se mettre d&amp;rsquo;accord, certains préfère utiliser la lib d&amp;rsquo;autre le double ne dérange pas  ROTI :  5&amp;frasl;5 -&amp;gt; 2 4&amp;frasl;5 -&amp;gt; 1 3&amp;frasl;5 -&amp;gt; 4  </description>
+    </item>
     
     <item>
       <title>Example Mapping Lundi 27 Janvier 2020</title>
