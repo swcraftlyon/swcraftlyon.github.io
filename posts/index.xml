@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 14 Feb 2020 13:44:25 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 13:44:25 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding Dojo Mardi 20 Février 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-02-20-coding-dojo/</link>
+      <pubDate>Thu, 20 Feb 2020 13:44:25 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-02-20-coding-dojo/</guid>
+      <description> Sujet : Ticket dispenser &amp;amp; Telemetry system (https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises) Format : Pair programming Langage : C#, Java, JavaScript/TypeScript Nombre de participants : 15  Retours participants :  Ticket dispenser :  Stratégie de golden master, on boucle un nombre donné pour vérifier un comportement, puis on modifie et vérifie que le comportement n&amp;rsquo;a pas changé Problèmes liés à la référence statique (état stocké, comportement pas répétable)   Telemetry system :  Dépence avec un comportement aléatoire (connexion du client) Mise en place de mock pour tester, refacto vers une syntaxe fluent    ROTI :  4/5 -&amp;gt; 4 3/5 -&amp;gt; 8 2/5 -&amp;gt; 2 1/5 -&amp;gt; 1  </description>
+    </item>
     
     <item>
       <title>Coding Dojo Vendredi 14 Février 2020</title>
@@ -17,7 +26,7 @@
       <pubDate>Fri, 14 Feb 2020 13:44:25 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-02-14-coding-dojo/</guid>
-      <description>  Sujet : Racing Car Katas (https://github.com/emilybache/Racing-Car-Katas) Format : Mob programming Langage : Javascript Nombre de participants : 7  Retours participants :  Que se passe-t-il si le sensor ne renvoie pas un nombre ?! On fait ce qui était attendu, on a enlevé l&amp;rsquo;aléatoire du sensor très rapidement et on est passé à côté de la difficulté En Javascript, l&amp;rsquo;orienté objet ne semble pas très intéressant En Javascript, on peut faire de l&amp;rsquo;OO ou du fonctionnel c&amp;rsquo;est au équipe de choisir Javascript n&amp;rsquo;était pas forcément adapté pour montrer le SOLID Double Mock Stub se mettre d&amp;rsquo;accord, certains préfère utiliser la lib d&amp;rsquo;autre le double ne dérange pas  ROTI :  5&amp;frasl;5 -&amp;gt; 2 4&amp;frasl;5 -&amp;gt; 1 3&amp;frasl;5 -&amp;gt; 4  </description>
+      <description> Sujet : Racing Car Katas (https://github.com/emilybache/Racing-Car-Katas) Format : Mob programming Langage : Javascript Nombre de participants : 7  Retours participants :  Que se passe-t-il si le sensor ne renvoie pas un nombre ?! On fait ce qui était attendu, on a enlevé l&amp;rsquo;aléatoire du sensor très rapidement et on est passé à côté de la difficulté En Javascript, l&amp;rsquo;orienté objet ne semble pas très intéressant En Javascript, on peut faire de l&amp;rsquo;OO ou du fonctionnel c&amp;rsquo;est au équipe de choisir Javascript n&#39;était pas forcément adapté pour montrer le SOLID Double Mock Stub se mettre d&amp;rsquo;accord, certains préfère utiliser la lib d&amp;rsquo;autre le double ne dérange pas  ROTI :  5/5 -&amp;gt; 2 4/5 -&amp;gt; 1 3/5 -&amp;gt; 4  </description>
     </item>
     
     <item>
@@ -45,7 +54,7 @@ Retours participants :  Que faire du golden master une fois le refacto terminé 
       <pubDate>Fri, 17 Jan 2020 13:44:25 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-01-17-coding-dojo/</guid>
-      <description>  Sujet : TicTacToe (https://github.com/AgileTechPraxis/CodeSmells) Format : Mob programming Langage : C# Nombre de participants : 9  Retours participants :  Similaire au travail quotidien, on élimine des smells et bugs potentiels Plus accessible que le Gilded Rose Bien reçu par les moins expérimentés Beaucoup de complexité/bugs potentiels à cause de la façon dont est stocké l&amp;rsquo;état du système Difficultés à faire des baby steps lors des refactos Volonté tout de même de chercher des étapes plus petites Groupe de 9 personne bien pour ce format : tout le monde s&amp;rsquo;est exprimé, a pu participer Le groupe a bien ciblé les smells qui souhaitait adresser Un peu rapide pour certains, aurait mérité d&amp;rsquo;expliquer les smells  ROTI :  5&amp;frasl;5 -&amp;gt; 3 4&amp;frasl;5 -&amp;gt; 5 3&amp;frasl;5 -&amp;gt; 1  </description>
+      <description> Sujet : TicTacToe (https://github.com/AgileTechPraxis/CodeSmells) Format : Mob programming Langage : C# Nombre de participants : 9  Retours participants :  Similaire au travail quotidien, on élimine des smells et bugs potentiels Plus accessible que le Gilded Rose Bien reçu par les moins expérimentés Beaucoup de complexité/bugs potentiels à cause de la façon dont est stocké l&#39;état du système Difficultés à faire des baby steps lors des refactos Volonté tout de même de chercher des étapes plus petites Groupe de 9 personne bien pour ce format : tout le monde s&amp;rsquo;est exprimé, a pu participer Le groupe a bien ciblé les smells qui souhaitait adresser Un peu rapide pour certains, aurait mérité d&amp;rsquo;expliquer les smells  ROTI :  5/5 -&amp;gt; 3 4/5 -&amp;gt; 5 3/5 -&amp;gt; 1  </description>
     </item>
     
     <item>
@@ -56,9 +65,9 @@ Retours participants :  Que faire du golden master une fois le refacto terminé 
       <guid>https://swcraftlyon.github.io/posts/2019-12-09-ddd/</guid>
       <description>Sujets: Event Modeling Format: Atelier
 22 Participants
-Déroulement Atelier pendant 1h30 + 30 minutes d&amp;rsquo;échange. Pour l&amp;rsquo;atelier, deux groupes ont été formés et dans chacun des groupes, une personne joue le rôle pour PO pour présenter une ébauche de solution.
+Déroulement Atelier pendant 1h30 + 30 minutes d&#39;échange. Pour l&amp;rsquo;atelier, deux groupes ont été formés et dans chacun des groupes, une personne joue le rôle pour PO pour présenter une ébauche de solution.
 Retour des participants ROTI
- 3&amp;frasl;5 -&amp;gt; 2 4&amp;frasl;5 -&amp;gt; 15 5&amp;frasl;5 -&amp;gt; 5  Atelier intéressant.
+ 3/5 -&amp;gt; 2 4/5 -&amp;gt; 15 5/5 -&amp;gt; 5  Atelier intéressant.
 Contrairement à l&amp;rsquo;eventstorming, le but de l&amp;rsquo;atelier est d&amp;rsquo;explorer l&amp;rsquo;espace des solutions et non celui des problèmes.</description>
     </item>
     
@@ -101,7 +110,7 @@ Le métier n&amp;rsquo;est pas infini Le métier a des contraintes, les types pr
       
       <guid>https://swcraftlyon.github.io/posts/2019-10-21-coding-dojo/</guid>
       <description>Sujet : Pair programming Format : Pair + 1 Trinôme Langage : TypeScript, Java, C#, F# Nombre de participants : 19  Retours participants :
- me suis bien amusé la pétanque, c&amp;rsquo;est plus facile types algébriques très très compliqués frustrant car le code pas à soi et donc il faut repartir de zéro à chaque fois - choix de juste expliquer le besoin fonctionnel difficultés entre le code et explication fonctionnelle d&amp;rsquo;autres groupe plus dans l&amp;rsquo;accompagnement de l&amp;rsquo;algo frustrant car kata jamais fait =&amp;gt; du coup difficile de voir le côté en aveugle frustrant car kata trop connu certains devaient s&amp;rsquo;accrocher quand la personne connaissait bien le kata certains se pliaient vraiment à ce que la personne disait de faire et du coup se laissait aller à de nouvelles solutions le groupe de 3 considère avoir eu des échanges plus poussés difficile de raisonner sans le code sous les yeux surtout lors d&amp;rsquo;un refacto jeux d&amp;rsquo;échecs à l&amp;rsquo;aveugle Roti : 11 à 4&amp;frasl;5 et 8 à 3&amp;frasl;5, soit une moyenne de 3.</description>
+ me suis bien amusé la pétanque, c&amp;rsquo;est plus facile types algébriques très très compliqués frustrant car le code pas à soi et donc il faut repartir de zéro à chaque fois - choix de juste expliquer le besoin fonctionnel difficultés entre le code et explication fonctionnelle d&amp;rsquo;autres groupe plus dans l&amp;rsquo;accompagnement de l&amp;rsquo;algo frustrant car kata jamais fait =&amp;gt; du coup difficile de voir le côté en aveugle frustrant car kata trop connu certains devaient s&amp;rsquo;accrocher quand la personne connaissait bien le kata certains se pliaient vraiment à ce que la personne disait de faire et du coup se laissait aller à de nouvelles solutions le groupe de 3 considère avoir eu des échanges plus poussés difficile de raisonner sans le code sous les yeux surtout lors d&amp;rsquo;un refacto jeux d&#39;échecs à l&amp;rsquo;aveugle Roti : 11 à 4/5 et 8 à 3/5, soit une moyenne de 3.</description>
     </item>
     
     <item>
@@ -115,7 +124,7 @@ Le métier n&amp;rsquo;est pas infini Le métier a des contraintes, les types pr
 Sujets choisis :
 DDD Comment adopter le DDD, comment le vendre ? Pas besoin d&amp;rsquo;un petit projet (1 semaine, 3 semaines ou 6 mois ?). Les problématiques métiers complexes sont envisageables.
 Comment définir le DDD -&amp;gt; différences entre pattern tactiques et stratégiques.
-Est-ce beaucoup utilisé ? Il y a beaucoup de ressources sur internet, sur le bassin lyonnais il existe des entreprises qui accompagnent.</description>
+Est-ce beaucoup utilisé ? Il y a beaucoup de ressources sur internet, sur le bassin lyonnais il existe des entreprises qui accompagnent. DDD au quotidien d&amp;rsquo;Emilien Pecoul -&amp;gt; On peut commencer avec certains concepts au jour le jour.</description>
     </item>
     
     <item>
@@ -124,8 +133,8 @@ Est-ce beaucoup utilisé ? Il y a beaucoup de ressources sur internet, sur le ba
       <pubDate>Tue, 24 Sep 2019 13:24:29 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-09-24-coding-dojo/</guid>
-      <description>Première heure: (Animé par Romain)  Sujet : Kata Employee-report Objectif : Challenger les participants sur leur manière d&amp;rsquo;écrire une assertion Format : Pair Langages : Java, C#, JavaScript Nombre de participants : 15  Retours participants :
- Complexe sans syntaxe fluent Assertions couplées à la donnée : une évolution du comportement peut faire échouer les tests existants Plusieurs stratégies :  créer des données &amp;ldquo;attendues&amp;rdquo; statiques test plus dynamique (propriété) -&amp;gt; plus facile d&amp;rsquo;écrire un test par comportement attendu  Un test par comportement ?</description>
+      <description>Première heure: (Animé par Romain)  Sujet : Kata Employee-report Objectif : Challenger les participants sur leur manière d&#39;écrire une assertion Format : Pair Langages : Java, C#, JavaScript Nombre de participants : 15  Retours participants :
+ Complexe sans syntaxe fluent Assertions couplées à la donnée : une évolution du comportement peut faire échouer les tests existants Plusieurs stratégies :  créer des données &amp;ldquo;attendues&amp;rdquo; statiques test plus dynamique (propriété) -&amp;gt; plus facile d&#39;écrire un test par comportement attendu   Un test par comportement ?</description>
     </item>
     
     <item>
@@ -156,12 +165,12 @@ What is a bounded context? Is it the same to speak Canadian in France or in Cana
       <pubDate>Tue, 16 Jul 2019 22:06:02 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-07-16-coding-dojo/</guid>
-      <description>Sujet : Kata Tennis Refactoring d&amp;rsquo;Emily Bache Format : Evil Mob Programming.
+      <description>Sujet : Kata Tennis Refactoring d&amp;rsquo;Emily Bache
+  Format : Evil Mob Programming.
 Parmi les participants se cachent des saboteurs. Ils ont pour but d&amp;rsquo;empêcher le déroulement de la session. Ils ne doivent pas se faire remarquer.
- Langages : un groupe de 13 personnes en Java, un groupe de 10 personnes en JavaScript
- Nombre de participants total : 23
-  Retours participants :
- Ce qui permet de faire avancer la session</description>
+  Langages : un groupe de 13 personnes en Java, un groupe de 10 personnes en JavaScript
+  Nombre de participants total : 23
+  Retours participants :</description>
     </item>
     
     <item>
@@ -184,7 +193,7 @@ Beaucoup de discussions sur le cas d&amp;rsquo;un participant qui a du mal à in
       <description>Sujets :
  Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert  16 participants
 Architecture Hexagonale par Nicolas Grisey Demengel @Malt Nicolas Grisey Demengel @Malt nous a présenté un retour d&amp;rsquo;expérience sur l&amp;rsquo;architecture hexagonale.
-Après un rappel des principes, il nous a expliqué pourquoi et comment il a poussé et mis en place cette technique, et les résultats concrets sur le travail de l&amp;rsquo;équipe et ses livraisons.
+Après un rappel des principes, il nous a expliqué pourquoi et comment il a poussé et mis en place cette technique, et les résultats concrets sur le travail de l&#39;équipe et ses livraisons.
 Vous pouvez retrouver les slides.</description>
     </item>
     
