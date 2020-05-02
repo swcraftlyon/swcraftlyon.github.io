@@ -6,10 +6,57 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 20 Feb 2020 13:44:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding dojo Mercredi 29 avril 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-04-29-coding-dojo/</link>
+      <pubDate>Wed, 29 Apr 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-04-29-coding-dojo/</guid>
+      <description>Sujet: Retour d&amp;rsquo;expérience sur l&amp;rsquo;expérience de Colin Damon sur les katas Format: Présentation online sur Twitch (https://www.twitch.tv/swcraftlyon) Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/270192868/ Nombre de participants : 24 de moyenne, 37 en même temps au max et 75 visiteurs uniques Langage : Java Vidéo: https://www.youtube.com/watch?v=wGZCaY4_h8g  Partage de son expérience en réalisant plusieurs Katas (GildedRose, FizzBuzz, BowlingGame, RomanNumerals).
+Échange avec les spectateurs via le chat et l&amp;rsquo;aide de Thomas.
+Katas:
+ GildedRose: https://github.com/emilybache/GildedRose-Refactoring-Kata FizzBuzz: http://codingdojo.</description>
+    </item>
+    
+    <item>
+      <title>Comment résoudre un problème avec Haskell, Mercredi 15 avril 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-04-15-coding-dojo/</link>
+      <pubDate>Wed, 15 Apr 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-04-15-coding-dojo/</guid>
+      <description>Sujet: Comment résoudre un problème avec Haskell par Gautier Di Folco Format: Pause repas, Mob programming avec un driver fix avec visio (Jitsi) et partage de code (LiveShare) Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/269454429/ Nombre de participants : 10 Langage : Haskell  Gautier, avec l&amp;rsquo;aide des participants à résolu le problème du &amp;ldquo;maximal square problem&amp;rdquo; (https://leetcode.com/problems/maximal-square/).
+Le but étant de montrer comment résoudre un problème avec une approche fonctionnelle.
+Retours participants : Une partie des retours a été perdue.</description>
+    </item>
+    
+    <item>
+      <title>StringCalculator, Mercredi 8 avril 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-04-08-coding-dojo/</link>
+      <pubDate>Wed, 08 Apr 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-04-08-coding-dojo/</guid>
+      <description>Sujet: StringCalculator par Colin Damon Format: Présentation online sur Twitch (https://www.twitch.tv/swcraftlyon) Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/269454411/ Nombre de participants : - Langage : Java Vidéo: https://www.youtube.com/watch?v=xyj_nWx_LRA  Colin a résolu en live le kata StringCalculator avec la participation du public via le chat.
+Le but étant de montrer la démarche TDD.
+Le public dictant au fur et à mesure les étapes et les contraintes suivantes.
+Puis pour finir, Colin a fait un DiamonKata.</description>
+    </item>
+    
+    <item>
+      <title>Yatzee, Vendredi 27 mars 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-03-27-coding-dojo/</link>
+      <pubDate>Fri, 27 Mar 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-03-27-coding-dojo/</guid>
+      <description>Sujet: Jeu de Yatzee Format: Pause repas, Mob programming avec visio (Jitsi/slack) et partage de code (LiveShare) Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/269454362/ Nombre de participants : une 20ène Langage : Js/F#  Un canal global fourni par Jitsi a permis d&amp;rsquo;effectuer l&amp;rsquo;introduction et la rétrospective.
+Les participants ont ensuite formé 2 groupes.
+Chaque groupe avec un chat sur slack de LyonTechHub et un LiveShare.
+Retours participants : Une partie des retours a été perdue.</description>
+    </item>
     
     <item>
       <title>Coding Dojo Mardi 20 Février 2020</title>

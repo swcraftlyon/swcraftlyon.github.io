@@ -6,19 +6,38 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 02 Apr 2020 13:44:25 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>DDD Lundi 27 Janvier 2020</title>
+      <title>DDD Mardi 21 avril 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-04-21-ddd/</link>
+      <pubDate>Tue, 21 Apr 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-04-21-ddd/</guid>
+      <description>Sujet: Discussion autour du DDD Format: Fishbowl Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/270064521/ Nombre de participants : 84 &amp;ldquo;participants&amp;rdquo; dont 31 en continue  De nombreux sujets ont été abordés, mais personne n&amp;rsquo;a tenu une liste.
+Retours participants :  un mindmap pourrait aider pour structurer la séance switch un peu trop fréquent entre sujets l&amp;rsquo;outil (Jitsi) ne donne pas un bon feedback sur les personnes souhaitant prendre la parole Le temps entre la demande de prise de parole et la vraie prise de parole peut être long et frustrant, car on a peut-être déjà changé de sujet le faite de faire un évent en ligne permet d&amp;rsquo;y assister (soit c&amp;rsquo;est en concurrence avec d&amp;rsquo;autres moments, soit le faite de ne pas être sur Lyon) zoom peut être un outil mieux adapté ?</description>
+    </item>
+    
+    <item>
+      <title>DDD Jeudi 2 Avril 2020</title>
       <link>https://swcraftlyon.github.io/posts/2020-04-02-ddd/</link>
-      <pubDate>Thu, 02 Apr 2020 13:44:25 +0200</pubDate>
+      <pubDate>Thu, 02 Apr 2020 21:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-04-02-ddd/</guid>
-      <description> Sujet : Ne prenez pas la modélisation à la légère pas Thomas Bracher Format : Présentation online Nombre de participants : ??  Exceptionnellement pas de compte rendu, mais un replay du live en 2 parties sur Youtube :
+      <description> Sujet : Ne prenez pas la modélisation à la légère pas Thomas Bracher Format : Présentation online sur Twitch (https://www.twitch.tv/swcraftlyon) Nombre de participants : ?? Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/269454421/  Exceptionnellement pas de compte rendu, mais un replay du live en 2 parties sur Youtube :
  Première partie : https://www.youtube.com/watch?v=EOWxnaLnBKI Deuxième partie : https://www.youtube.com/watch?v=tvCZU63pwfg  </description>
+    </item>
+    
+    <item>
+      <title>DDD Mercredi 12 Février 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-02-12-ddd/</link>
+      <pubDate>Wed, 12 Feb 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-02-12-ddd/</guid>
+      <description>Sujet : Discussion autour du DDD Format : Forum ouvert Nombre de participants : 11 Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/268327076/  Retours participants :  Découper les évènements en deux parties (débutant/expert). C&amp;rsquo;est déjà le cas, mais cela ne semble pas assez visible et rassurant pour un débutant. Le précédent d&amp;rsquo;évènement sur l&amp;rsquo;EventStorming a bien été aimé, car il y avait un intervenant avec un profil métier Des participants ont proposé des sujets :  Des études de cas.</description>
     </item>
     
     <item>
