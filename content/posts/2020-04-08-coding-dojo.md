@@ -13,7 +13,7 @@ tags: ["dojo"]
 Colin a résolu en live le kata StringCalculator avec la participation du public via le chat.  
 Le but étant de montrer la démarche TDD.  
 Le public dictant au fur et à mesure les étapes et les contraintes suivantes.  
-Puis pour finir, Colin a attaqué le DiamonKata.  
+Puis pour finir, Colin a fait un DiamonKata.  
 
 Katas:
 - StringCalculator: http://codingdojo.org/kata/StringCalculator/

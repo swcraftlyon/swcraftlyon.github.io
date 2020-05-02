@@ -9,12 +9,12 @@ tags: ["talk", "dojo"]
 - Nombre de participants : 10
 - Langage : Haskell
 
-Gautier avec l'aide des participants à résolu le problème du "maximal square problem" (https://leetcode.com/problems/maximal-square/).  
+Gautier, avec l'aide des participants à résolu le problème du "maximal square problem" (https://leetcode.com/problems/maximal-square/).  
 Le but étant de montrer comment résoudre un problème avec une approche fonctionnelle.
 
 ## Retours participants :
 Une partie des retours a été perdue.
-- Les coding dojo en remote permet à d'autres personnes de participer (ne pouvons pas se déplacer, ou hors de lyon)
+- Les coding dojo en remote permet à d'autres personnes de participer (personnes ne pouvant pas se déplacer, ou hors de lyon)
 - LiveShare est un peu capricieux
 - Première étape un peu trop grosse. Certaines personnes ne savaient pas où on allait.
 

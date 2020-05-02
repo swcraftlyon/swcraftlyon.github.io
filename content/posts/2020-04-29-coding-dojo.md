@@ -6,18 +6,18 @@ tags: ["talk", "dojo"]
 - Sujet: Retour d'expérience sur l'expérience de Colin Damon sur les katas
 - Format: Présentation online sur Twitch (https://www.twitch.tv/swcraftlyon)
 - Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/270192868/
-- Nombre de participants : 28
+- Nombre de participants : 24 de moyenne, 37 en même temps au max et 75 visiteurs uniques
 - Langage : Java
 - Vidéo: https://www.youtube.com/watch?v=wGZCaY4_h8g
 
-Partage de son expérience en réalisant plusieurs Katas (GildedRose, FizzBuzz, BoolingKata, Numeral Romain).  
+Partage de son expérience en réalisant plusieurs Katas (GildedRose, FizzBuzz, BowlingGame, RomanNumerals).  
 Échange avec les spectateurs via le chat et l'aide de Thomas.
 
 Katas:
 - GildedRose: https://github.com/emilybache/GildedRose-Refactoring-Kata
 - FizzBuzz: http://codingdojo.org/kata/FizzBuzz/
 - Bowling: http://codingdojo.org/kata/Bowling/
-- Romain Numerals: http://codingdojo.org/kata/RomanNumerals/
+- RomanNumerals: http://codingdojo.org/kata/RomanNumerals/
 
 ## Liens:
 - Tail Call Optimization: https://www.youtube.com/watch?v=-PX0BV9hGZY
