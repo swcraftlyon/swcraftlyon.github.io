@@ -1,0 +1,40 @@
+name: Build site
+
+on:
+  push:
+    branches: [ dev ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Setup git
+      run: |
+        git config --global user.email "swcrafter@lyontechhub.org"
+        git config --global user.name "Github Action"
+
+    - name: Update repository
+      run: |
+        git fetch
+        git submodule update --init --recursive
+
+    - name: Initialize output directory
+      run: git worktree add ./dist remotes/origin/master
+
+    - name: Download hugo
+      run: |
+        wget "https://github.com/gohugoio/hugo/releases/download/v0.69.2/hugo_0.69.2_Linux-64bit.tar.gz"
+        tar x -zvf hugo*.tar.gz
+        
+    - name: Run hugo
+      run: ./hugo -d dist
+
+    - name: Publish
+      run: |
+        cd dist
+        git add . 
+        git commit -m "regenerate of dev"
+        git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:master
