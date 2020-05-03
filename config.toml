@@ -4,6 +4,7 @@ defaultContentLanguage = "fr"
 title = "Compte-rendus des software crafters de Lyon"
 theme = "beautifulhugo"
 publishDir = "./docs"
+summaryLength = 5
 
 [params]
   author = "Software Crafters Lyon"
