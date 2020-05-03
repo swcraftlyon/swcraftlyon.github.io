@@ -1,5 +1,6 @@
 baseURL = "https://swcraftlyon.github.io/"
 languageCode = "fr-FR"
+defaultContentLanguage = "fr"
 title = "Compte-rendus des software crafters de Lyon"
 theme = "beautifulhugo"
 publishDir = "./docs"
