@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 29 Apr 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talk Jeudi 13 Mai 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-05-13-talk/</link>
+      <pubDate>Wed, 13 May 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-05-13-talk/</guid>
+      <description>Sujet: Les Duchess et les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/270447918/ Participants: Romain, Nastasia, Florent, Anthony, Colin &amp;amp; Yves  Sobriété Numériques: Les Clés Pour Agir présenté par Nastasia
+Les mails ne suffisent pas, il faut réflechir à tout ce qu&amp;rsquo;on peut faire. Des fois les chiens sont plus efficaces qu&amp;rsquo;un algorithme d&amp;rsquo;intelligence artificielle.
+Agile Coaching présenté par Yves
+Lecture cool et pragmatique. Conseil pour dev -&amp;gt; coach.</description>
+    </item>
     
     <item>
       <title>Coding dojo Mercredi 29 avril 2020</title>
