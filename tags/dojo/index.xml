@@ -17,10 +17,7 @@
       <pubDate>Wed, 29 Apr 2020 21:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-04-29-coding-dojo/</guid>
-      <description>Sujet: Retour d&amp;rsquo;expérience sur l&amp;rsquo;expérience de Colin Damon sur les katas Format: Présentation online sur Twitch (https://www.twitch.tv/swcraftlyon) Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/270192868/ Nombre de participants : 24 de moyenne, 37 en même temps au max et 75 visiteurs uniques Langage : Java Vidéo: https://www.youtube.com/watch?v=wGZCaY4_h8g  Partage de son expérience en réalisant plusieurs Katas (GildedRose, FizzBuzz, BowlingGame, RomanNumerals).
-Échange avec les spectateurs via le chat et l&amp;rsquo;aide de Thomas.
-Katas:
- GildedRose: https://github.com/emilybache/GildedRose-Refactoring-Kata FizzBuzz: http://codingdojo.</description>
+      <description>Sujet: Retour d&amp;rsquo;expérience sur l&amp;rsquo;expérience de Colin Damon sur les katas Format: Présentation online sur Twitch (https://www.</description>
     </item>
     
     <item>
@@ -29,9 +26,7 @@ Katas:
       <pubDate>Wed, 15 Apr 2020 14:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-04-15-coding-dojo/</guid>
-      <description>Sujet: Comment résoudre un problème avec Haskell par Gautier Di Folco Format: Pause repas, Mob programming avec un driver fix avec visio (Jitsi) et partage de code (LiveShare) Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/269454429/ Nombre de participants : 10 Langage : Haskell  Gautier, avec l&amp;rsquo;aide des participants à résolu le problème du &amp;ldquo;maximal square problem&amp;rdquo; (https://leetcode.com/problems/maximal-square/).
-Le but étant de montrer comment résoudre un problème avec une approche fonctionnelle.
-Retours participants : Une partie des retours a été perdue.</description>
+      <description>Sujet: Comment résoudre un problème avec Haskell par Gautier Di Folco Format: Pause repas, Mob programming avec un driver fix avec visio (Jitsi) et partage de code (LiveShare) Meetup: https://www.</description>
     </item>
     
     <item>
@@ -40,10 +35,7 @@ Retours participants : Une partie des retours a été perdue.</description>
       <pubDate>Wed, 08 Apr 2020 21:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-04-08-coding-dojo/</guid>
-      <description>Sujet: StringCalculator par Colin Damon Format: Présentation online sur Twitch (https://www.twitch.tv/swcraftlyon) Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/269454411/ Nombre de participants : - Langage : Java Vidéo: https://www.youtube.com/watch?v=xyj_nWx_LRA  Colin a résolu en live le kata StringCalculator avec la participation du public via le chat.
-Le but étant de montrer la démarche TDD.
-Le public dictant au fur et à mesure les étapes et les contraintes suivantes.
-Puis pour finir, Colin a fait un DiamonKata.</description>
+      <description>Sujet: StringCalculator par Colin Damon Format: Présentation online sur Twitch (https://www.</description>
     </item>
     
     <item>
@@ -52,10 +44,7 @@ Puis pour finir, Colin a fait un DiamonKata.</description>
       <pubDate>Fri, 27 Mar 2020 14:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-03-27-coding-dojo/</guid>
-      <description>Sujet: Jeu de Yatzee Format: Pause repas, Mob programming avec visio (Jitsi/slack) et partage de code (LiveShare) Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/269454362/ Nombre de participants : une 20ène Langage : Js/F#  Un canal global fourni par Jitsi a permis d&amp;rsquo;effectuer l&amp;rsquo;introduction et la rétrospective.
-Les participants ont ensuite formé 2 groupes.
-Chaque groupe avec un chat sur slack de LyonTechHub et un LiveShare.
-Retours participants : Une partie des retours a été perdue.</description>
+      <description>Sujet: Jeu de Yatzee Format: Pause repas, Mob programming avec visio (Jitsi/slack) et partage de code (LiveShare) Meetup: https://www.</description>
     </item>
     
     <item>
@@ -64,7 +53,7 @@ Retours participants : Une partie des retours a été perdue.</description>
       <pubDate>Thu, 20 Feb 2020 13:44:25 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-02-20-coding-dojo/</guid>
-      <description> Sujet : Ticket dispenser &amp;amp; Telemetry system (https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises) Format : Pair programming Langage : C#, Java, JavaScript/TypeScript Nombre de participants : 15  Retours participants :  Ticket dispenser :  Stratégie de golden master, on boucle un nombre donné pour vérifier un comportement, puis on modifie et vérifie que le comportement n&amp;rsquo;a pas changé Problèmes liés à la référence statique (état stocké, comportement pas répétable)   Telemetry system :  Dépence avec un comportement aléatoire (connexion du client) Mise en place de mock pour tester, refacto vers une syntaxe fluent    ROTI :  4/5 -&amp;gt; 4 3/5 -&amp;gt; 8 2/5 -&amp;gt; 2 1/5 -&amp;gt; 1  </description>
+      <description>Sujet : Ticket dispenser &amp;amp; Telemetry system (https://github.</description>
     </item>
     
     <item>
@@ -73,7 +62,7 @@ Retours participants : Une partie des retours a été perdue.</description>
       <pubDate>Fri, 14 Feb 2020 13:44:25 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-02-14-coding-dojo/</guid>
-      <description> Sujet : Racing Car Katas (https://github.com/emilybache/Racing-Car-Katas) Format : Mob programming Langage : Javascript Nombre de participants : 7  Retours participants :  Que se passe-t-il si le sensor ne renvoie pas un nombre ?! On fait ce qui était attendu, on a enlevé l&amp;rsquo;aléatoire du sensor très rapidement et on est passé à côté de la difficulté En Javascript, l&amp;rsquo;orienté objet ne semble pas très intéressant En Javascript, on peut faire de l&amp;rsquo;OO ou du fonctionnel c&amp;rsquo;est au équipe de choisir Javascript n&amp;rsquo;était pas forcément adapté pour montrer le SOLID Double Mock Stub se mettre d&amp;rsquo;accord, certains préfère utiliser la lib d&amp;rsquo;autre le double ne dérange pas  ROTI :  5/5 -&amp;gt; 2 4/5 -&amp;gt; 1 3/5 -&amp;gt; 4  </description>
+      <description>Sujet : Racing Car Katas (https://github.</description>
     </item>
     
     <item>
@@ -82,8 +71,7 @@ Retours participants : Une partie des retours a été perdue.</description>
       <pubDate>Fri, 17 Jan 2020 13:44:25 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-01-21-coding-dojo/</guid>
-      <description>Sujet : GuildedRose (https://github.com/emilybache/GildedRose-Refactoring-Kata) Format : Pair programming Langage : Postgresql Nombre de participants : 14  Version utilisé, car pr non mergé : https://github.com/fpellet/GildedRose-Refactoring-Kata branch plpgsql_pgtap
-Retours participants :  Que faire du golden master une fois le refacto terminé ? On va chercher à le supprimer. Le golden master est &amp;ldquo;fragile&amp;rdquo; à l&amp;rsquo;ajout d&amp;rsquo;une nouvelle feature / évolution. Besoin de visualisation du coverage + mutation based testing pour s&amp;rsquo;assurer que le golden couvre bien tous les cas.</description>
+      <description>Sujet : GuildedRose (https://github.com/emilybache/GildedRose-Refactoring-Kata) Format : Pair programming Langage : Postgresql Nombre de participants : 14  Version utilisé, car pr non mergé : https://github.</description>
     </item>
     
     <item>
@@ -101,7 +89,7 @@ Retours participants :  Que faire du golden master une fois le refacto terminé 
       <pubDate>Mon, 02 Dec 2019 20:33:54 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-12-02-coding-dojo/</guid>
-      <description>Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala, TypeScript, Swift Nombre de participants : 20  Retours participants Tous le monde n&amp;rsquo;est pas arrivé au bout. Micro-steps : difficile en partant en mode &amp;ldquo;voilà le diamant que l&amp;rsquo;on attend&amp;rdquo;. Stratégie : pleins de petites méthodes utilitaires -&amp;gt; approche outside-in (beaucoup utilisé) -&amp;gt; petites méthodes testées -&amp;gt; tests spécifiques à ces méthodes peuvent être supprimés une fois le diamant généré</description>
+      <description>Sujet : Diamond Kata Format : Pair programming Langage : Java, C#, Scala, TypeScript, Swift Nombre de participants : 20  Retours participants Tous le monde n&amp;rsquo;est pas arrivé au bout.</description>
     </item>
     
     <item>
@@ -110,8 +98,7 @@ Retours participants :  Que faire du golden master une fois le refacto terminé 
       <pubDate>Mon, 21 Oct 2019 20:28:33 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-10-21-coding-dojo/</guid>
-      <description>Sujet : Pair programming Format : Pair + 1 Trinôme Langage : TypeScript, Java, C#, F# Nombre de participants : 19  Retours participants :
- me suis bien amusé la pétanque, c&amp;rsquo;est plus facile types algébriques très très compliqués frustrant car le code pas à soi et donc il faut repartir de zéro à chaque fois - choix de juste expliquer le besoin fonctionnel difficultés entre le code et explication fonctionnelle d&amp;rsquo;autres groupe plus dans l&amp;rsquo;accompagnement de l&amp;rsquo;algo frustrant car kata jamais fait =&amp;gt; du coup difficile de voir le côté en aveugle frustrant car kata trop connu certains devaient s&amp;rsquo;accrocher quand la personne connaissait bien le kata certains se pliaient vraiment à ce que la personne disait de faire et du coup se laissait aller à de nouvelles solutions le groupe de 3 considère avoir eu des échanges plus poussés difficile de raisonner sans le code sous les yeux surtout lors d&amp;rsquo;un refacto jeux d&amp;rsquo;échecs à l&amp;rsquo;aveugle Roti : 11 à 4/5 et 8 à 3/5, soit une moyenne de 3.</description>
+      <description>Sujet : Pair programming Format : Pair + 1 Trinôme Langage : TypeScript, Java, C#, F# Nombre de participants : 19  Retours participants :</description>
     </item>
     
     <item>
@@ -120,8 +107,7 @@ Retours participants :  Que faire du golden master une fois le refacto terminé 
       <pubDate>Tue, 24 Sep 2019 13:24:29 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-09-24-coding-dojo/</guid>
-      <description>Première heure: (Animé par Romain)  Sujet : Kata Employee-report Objectif : Challenger les participants sur leur manière d&amp;rsquo;écrire une assertion Format : Pair Langages : Java, C#, JavaScript Nombre de participants : 15  Retours participants :
- Complexe sans syntaxe fluent Assertions couplées à la donnée : une évolution du comportement peut faire échouer les tests existants Plusieurs stratégies :  créer des données &amp;ldquo;attendues&amp;rdquo; statiques test plus dynamique (propriété) -&amp;gt; plus facile d&amp;rsquo;écrire un test par comportement attendu   Un test par comportement ?</description>
+      <description>Première heure: (Animé par Romain)  Sujet : Kata Employee-report Objectif : Challenger les participants sur leur manière d&amp;rsquo;écrire une assertion Format : Pair Langages : Java, C#, JavaScript Nombre de participants : 15  Retours participants :</description>
     </item>
     
     <item>
@@ -130,9 +116,7 @@ Retours participants :  Que faire du golden master une fois le refacto terminé 
       <pubDate>Thu, 01 Aug 2019 17:05:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-07-22-coding-dojo/</guid>
-      <description>Sujet : Kata SuperMarket Format : Mob programming Langage : C# Nombre de participants : 8  Objectif:
- S&amp;rsquo;améliorer à refactorer le code Découvrir ce kata d&amp;rsquo;Emily Bache  Déroulement:
- Présentation du kata Recherche tout ensemble des codes smells (code posant problème). Explication en quand ils posent problème pour chacun d&amp;rsquo;eux. Début du refactoring en prenant les codes smells un par un, après les avoir priorisés.  Retours participants :</description>
+      <description>Sujet : Kata SuperMarket Format : Mob programming Langage : C# Nombre de participants : 8  Objectif:</description>
     </item>
     
     <item>
@@ -141,12 +125,7 @@ Retours participants :  Que faire du golden master une fois le refacto terminé 
       <pubDate>Tue, 16 Jul 2019 22:06:02 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-07-16-coding-dojo/</guid>
-      <description>Sujet : Kata Tennis Refactoring d&amp;rsquo;Emily Bache
-  Format : Evil Mob Programming.
-Parmi les participants se cachent des saboteurs. Ils ont pour but d&amp;rsquo;empêcher le déroulement de la session. Ils ne doivent pas se faire remarquer.
-  Langages : un groupe de 13 personnes en Java, un groupe de 10 personnes en JavaScript
-  Nombre de participants total : 23
-  Retours participants :</description>
+      <description>Sujet : Kata Tennis Refactoring d&amp;rsquo;Emily Bache</description>
     </item>
     
     <item>
@@ -155,8 +134,7 @@ Parmi les participants se cachent des saboteurs. Ils ont pour but d&amp;rsquo;em
       <pubDate>Thu, 20 Jun 2019 20:45:05 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-06-20-coding-dojo/</guid>
-      <description>Sujet : Task list - Primitive obsession Format : Pair programming Langage : Java - Scala - Ruby Nombre de participants : 16  Retours participants :
- D&amp;rsquo;abord vérifer que ça compile, puis rajouter la deadline en type union (scala : un ensemble fermé de valeur, un peu comme une enum), gérer la liste de task (ou project liste ?) Bien galérer sur les tests, difficulté à comprendre ce qui est testé vraiment L&amp;rsquo;immutabilité c&amp;rsquo;est bien Une deadline encapsule une date, ajouter un taskId (vraiment utile ?</description>
+      <description>Sujet : Task list - Primitive obsession Format : Pair programming Langage : Java - Scala - Ruby Nombre de participants : 16  Retours participants :</description>
     </item>
     
     <item>
@@ -165,8 +143,7 @@ Parmi les participants se cachent des saboteurs. Ils ont pour but d&amp;rsquo;em
       <pubDate>Tue, 11 Jun 2019 13:44:25 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-06-11-coding-dojo/</guid>
-      <description> Sujet : Consumer Kata d&amp;rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :
- Manque de temps pour aller au bout Contrainte de limiter à une interface permet de se concentrer sur ce qu&amp;rsquo;il faut Frustration de ne pas pouvoir aller loin Golden master pas applicable dans ce cas Le code semble tellement pourri qu&amp;rsquo;avec les besoins fonctionnels on pourrait le faire de zéro Peut se faire devant un tableau blanc pour comprendre ce qu&amp;rsquo;il se passe Consumer / Customer amène confusion Kata intéressant, avoir plein de points de vue Kata pas évident : pelote de laine à démêler, mais ça fait parti d&amp;rsquo;un projet normal Cool de pouvoir partager les tips de raccourci Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&amp;rsquo;est pas toujours facile Difficile de s&amp;rsquo;accrocher pour un débutant  </description>
+      <description>Sujet : Consumer Kata d&amp;rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :</description>
     </item>
     
     <item>
@@ -175,8 +152,7 @@ Parmi les participants se cachent des saboteurs. Ils ont pour but d&amp;rsquo;em
       <pubDate>Tue, 28 May 2019 20:28:33 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-05-28-coding-dojo/</guid>
-      <description>Sujet : Guilded Rose animé par Colin Format : Pair + Mob Langage : Java, PHP, etc. Nombre de participants : 18  Retours participants :
- Feedback rapide avec le golden master (encore faut-il avoir un golden master !) Sans le jeu de données c&amp;rsquo;est difficile La deuxième fois, c&amp;rsquo;est vraiment beaucoup plus simple Pas de bug dans le code d&amp;rsquo;origine -&amp;gt; plutôt voir le kata Trivia pour expérimenter En essayant avec les tests unitaires en premier : meilleure granularité sur les règles métiers qui échouent.</description>
+      <description>Sujet : Guilded Rose animé par Colin Format : Pair + Mob Langage : Java, PHP, etc.</description>
     </item>
     
   </channel>
