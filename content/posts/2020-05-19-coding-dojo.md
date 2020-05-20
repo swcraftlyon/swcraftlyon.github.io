@@ -1,6 +1,6 @@
 ---
-title: "Legacy code, Mardi 20 mai 2020"
-date: 2020-05-20T14:00:00+02:00
+title: "Legacy code, Mardi 19 mai 2020"
+date: 2020-05-19T14:00:00+02:00
 tags: ["dojo"]
 ---
 - Sujet: Legacy code avec le Trivia
