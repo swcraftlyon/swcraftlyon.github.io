@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>retro on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/retro/</link>
+    <description>Recent content in retro on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 02 Jun 2020 19:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://swcraftlyon.github.io/tags/retro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rétrospective suite au confinement</title>
+      <link>https://swcraftlyon.github.io/posts/2020-06-02-retro/</link>
+      <pubDate>Tue, 02 Jun 2020 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-06-02-retro/</guid>
+      <description>En mars, suite au confinement, nous souhaitons garder du lien et continuer à se retrouver autour de nos sujets préférés.</description>
+    </item>
+    
+  </channel>
+</rss>
