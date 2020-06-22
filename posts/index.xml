@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 25 May 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DDD Lundi 6 Juin 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-06-22-ddd/</link>
+      <pubDate>Mon, 22 Jun 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-06-22-ddd/</guid>
+      <description>Sujet: Discussion autour du DDD Format: Forum ouvert Meetup: https://www.</description>
+    </item>
     
     <item>
       <title>DDD au quotidien</title>
