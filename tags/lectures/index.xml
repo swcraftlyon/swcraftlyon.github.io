@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>live on Compte-rendus des software crafters de Lyon</title>
-    <link>https://swcraftlyon.github.io/tags/live/</link>
-    <description>Recent content in live on Compte-rendus des software crafters de Lyon</description>
+    <title>lectures on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/lectures/</link>
+    <description>Recent content in lectures on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Wed, 13 May 2020 21:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://swcraftlyon.github.io/tags/live/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swcraftlyon.github.io/tags/lectures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
