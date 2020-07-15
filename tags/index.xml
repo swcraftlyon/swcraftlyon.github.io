@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Compte-rendus des software crafters de Lyon</title>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>ddd</title>
+      <title>DDD</title>
       <link>https://swcraftlyon.github.io/tags/ddd/</link>
       <pubDate>Mon, 22 Jun 2020 21:00:00 +0200</pubDate>
       
