@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compte-rendus des software crafters de Lyon</title>
@@ -6,10 +6,19 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 22 Jun 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 14:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coding dojo Mercredi 15 Juillet 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-07-15-coding-dojo/</link>
+      <pubDate>Wed, 15 Jul 2020 14:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-07-15-coding-dojo/</guid>
+      <description>Sujet: Kata Panini sur les monoïds de Cyrille Martraire Format: Mob programming Meetup: https://www.</description>
+    </item>
     
     <item>
       <title>DDD Lundi 22 Juin 2020</title>
@@ -161,7 +170,7 @@
       <pubDate>Fri, 17 Jan 2020 13:44:25 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-01-21-coding-dojo/</guid>
-      <description>Sujet : GuildedRose (https://github.com/emilybache/GildedRose-Refactoring-Kata) Format : Pair programming Langage : Postgresql Nombre de participants : 14  Version utilisé, car pr non mergé : https://github.</description>
+      <description>Sujet : GuildedRose (https://github.</description>
     </item>
     
     <item>
@@ -170,7 +179,7 @@
       <pubDate>Fri, 17 Jan 2020 13:44:25 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2020-01-17-coding-dojo/</guid>
-      <description> Sujet : TicTacToe (https://github.com/AgileTechPraxis/CodeSmells) Format : Mob programming Langage : C# Nombre de participants : 9  Retours participants :  Similaire au travail quotidien, on élimine des smells et bugs potentiels Plus accessible que le Gilded Rose Bien reçu par les moins expérimentés Beaucoup de complexité/bugs potentiels à cause de la façon dont est stocké l&amp;rsquo;état du système Difficultés à faire des baby steps lors des refactos Volonté tout de même de chercher des étapes plus petites Groupe de 9 personne bien pour ce format : tout le monde s&amp;rsquo;est exprimé, a pu participer Le groupe a bien ciblé les smells qui souhaitait adresser Un peu rapide pour certains, aurait mérité d&amp;rsquo;expliquer les smells  ROTI :  5/5 -&amp;gt; 3 4/5 -&amp;gt; 5 3/5 -&amp;gt; 1  </description>
+      <description>Sujet : TicTacToe (https://github.</description>
     </item>
     
     <item>
@@ -224,8 +233,7 @@
       <pubDate>Wed, 09 Oct 2019 19:06:45 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</guid>
-      <description>Format : Forum ouvert
-17 Participants</description>
+      <description>Format : Forum ouvert</description>
     </item>
     
     <item>
@@ -262,7 +270,7 @@
       <pubDate>Tue, 16 Jul 2019 22:06:02 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-07-16-coding-dojo/</guid>
-      <description>Sujet : Kata Tennis Refactoring d&amp;rsquo;Emily Bache</description>
+      <description>Sujet : Kata Tennis Refactoring d&amp;rsquo;Emily Bache Format : Evil Mob Programming.</description>
     </item>
     
     <item>

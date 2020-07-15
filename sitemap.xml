@@ -1,10 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://swcraftlyon.github.io/posts/2020-07-15-coding-dojo/</loc>
+    <lastmod>2020-07-15T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2020-06-22T21:00:00+02:00</lastmod>
+    <lastmod>2020-07-15T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
+    <lastmod>2020-07-15T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2020-07-15T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2020-07-15T14:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -14,16 +34,6 @@
   
   <url>
     <loc>https://swcraftlyon.github.io/posts/2020-06-22-ddd/</loc>
-    <lastmod>2020-06-22T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2020-06-22T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
     <lastmod>2020-06-22T21:00:00+02:00</lastmod>
   </url>
   
@@ -50,11 +60,6 @@
   <url>
     <loc>https://swcraftlyon.github.io/tags/talk/</loc>
     <lastmod>2020-05-25T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
-    <lastmod>2020-05-19T14:00:00+02:00</lastmod>
   </url>
   
   <url>

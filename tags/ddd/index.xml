@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DDD on Compte-rendus des software crafters de Lyon</title>
@@ -89,8 +89,7 @@
       <pubDate>Wed, 09 Oct 2019 19:06:45 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</guid>
-      <description>Format : Forum ouvert
-17 Participants</description>
+      <description>Format : Forum ouvert</description>
     </item>
     
     <item>
