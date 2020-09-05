@@ -6,10 +6,20 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Jul 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rétrospective de la saison 2019/2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-08-25-retro/</link>
+      <pubDate>Tue, 25 Aug 2020 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-08-25-retro/</guid>
+      <description>Personnes présentes :
+ Colin Florent Gautier Guillaume Nastasia Romain Thomas  Bilan de la saison Sentiments de chacun  Gautier : Bonne saison, même si décu de ne pas avoir plus plu avec ses ateliers Colin : Acceuil cool, continue dans l&amp;rsquo;orga !</description>
+    </item>
     
     <item>
       <title>Soirée lectures Jeudi 23 Juillet 2020</title>

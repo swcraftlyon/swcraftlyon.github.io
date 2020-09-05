@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Jul 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 19:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>retro</title>
+      <link>https://swcraftlyon.github.io/tags/retro/</link>
+      <pubDate>Tue, 25 Aug 2020 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/retro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team</title>
+      <link>https://swcraftlyon.github.io/tags/team/</link>
+      <pubDate>Tue, 25 Aug 2020 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/team/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>lectures</title>
@@ -53,24 +71,6 @@
       <pubDate>Mon, 22 Jun 2020 21:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/ddd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>retro</title>
-      <link>https://swcraftlyon.github.io/tags/retro/</link>
-      <pubDate>Tue, 02 Jun 2020 19:00:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/retro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>team</title>
-      <link>https://swcraftlyon.github.io/tags/team/</link>
-      <pubDate>Tue, 02 Jun 2020 19:00:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/team/</guid>
       <description></description>
     </item>
     
