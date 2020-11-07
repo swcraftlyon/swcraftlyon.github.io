@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 13 Oct 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>lectures</title>
+      <link>https://swcraftlyon.github.io/tags/lectures/</link>
+      <pubDate>Thu, 29 Oct 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://swcraftlyon.github.io/tags/live/</link>
+      <pubDate>Thu, 29 Oct 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://swcraftlyon.github.io/tags/talk/</link>
+      <pubDate>Thu, 29 Oct 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DDD</title>
@@ -53,33 +80,6 @@
       <pubDate>Tue, 25 Aug 2020 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lectures</title>
-      <link>https://swcraftlyon.github.io/tags/lectures/</link>
-      <pubDate>Thu, 23 Jul 2020 21:00:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>live</title>
-      <link>https://swcraftlyon.github.io/tags/live/</link>
-      <pubDate>Thu, 23 Jul 2020 21:00:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/live/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://swcraftlyon.github.io/tags/talk/</link>
-      <pubDate>Thu, 23 Jul 2020 21:00:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
       <description></description>
     </item>
     

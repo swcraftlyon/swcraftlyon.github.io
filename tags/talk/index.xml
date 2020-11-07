@@ -6,10 +6,19 @@
     <description>Recent content in talk on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Jul 2020 21:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://swcraftlyon.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Soirée lectures Jeudi 29 octobre 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-10-29-book/</link>
+      <pubDate>Thu, 29 Oct 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-10-29-book/</guid>
+      <description>Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.</description>
+    </item>
     
     <item>
       <title>Soirée lectures Jeudi 23 Juillet 2020</title>
