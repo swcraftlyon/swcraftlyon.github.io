@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://swcraftlyon.github.io/</loc>
+    <lastmod>2020-11-23T22:00:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/2020-11-23-lyontechhub/</loc>
+    <lastmod>2020-11-23T22:00:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2020-11-23T22:00:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2020-11-23T22:00:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/unconf/</loc>
+    <lastmod>2020-11-23T22:00:26+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swcraftlyon.github.io/posts/2020-11-13-coding-dojo/</loc>
     <lastmod>2020-11-15T13:47:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2020-11-15T13:47:26+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
-    <lastmod>2020-11-15T13:47:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2020-11-15T13:47:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
     <lastmod>2020-11-15T13:47:26+01:00</lastmod>
   </url>
   
@@ -75,11 +85,6 @@
   <url>
     <loc>https://swcraftlyon.github.io/tags/refactoring/</loc>
     <lastmod>2020-09-15T12:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/retro/</loc>
-    <lastmod>2020-08-25T19:00:00+02:00</lastmod>
   </url>
   
   <url>

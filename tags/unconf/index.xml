@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unconf on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/unconf/</link>
+    <description>Recent content in unconf on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 23 Nov 2020 22:00:26 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/unconf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LyonTechHub: La soirée des communautés</title>
+      <link>https://swcraftlyon.github.io/posts/2020-11-23-lyontechhub/</link>
+      <pubDate>Mon, 23 Nov 2020 22:00:26 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-11-23-lyontechhub/</guid>
+      <description>Objet: Comme chaque année, LyonTechHub organise une soirée des communautés.</description>
+    </item>
+    
+    <item>
+      <title>DDD Mardi 13 Octobre 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-10-13-ddd/</link>
+      <pubDate>Tue, 13 Oct 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-10-13-ddd/</guid>
+      <description>Sujet: Discussion autour du DDD Format: Forum ouvert Meetup: https://www.</description>
+    </item>
+    
+    <item>
+      <title>DDD Lundi 22 Juin 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-06-22-ddd/</link>
+      <pubDate>Mon, 22 Jun 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-06-22-ddd/</guid>
+      <description>Sujet: Discussion autour du DDD Format: Forum ouvert Meetup: https://www.</description>
+    </item>
+    
+    <item>
+      <title>DDD Mercredi 12 Février 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-02-12-ddd/</link>
+      <pubDate>Wed, 12 Feb 2020 21:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-02-12-ddd/</guid>
+      <description>Sujet : Discussion autour du DDD Format : Forum ouvert Nombre de participants : 11 Meetup: https://www.</description>
+    </item>
+    
+    <item>
+      <title>DDD Mercredi 27 Novembre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/2019-11-27-ddd/</link>
+      <pubDate>Wed, 27 Nov 2019 19:06:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2019-11-27-ddd/</guid>
+      <description>Format : Présentation par Thomas + Forum ouvert</description>
+    </item>
+    
+    <item>
+      <title>DDD Mercredi 9 Octobre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</link>
+      <pubDate>Wed, 09 Oct 2019 19:06:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</guid>
+      <description>Format : Forum ouvert
+17 Participants</description>
+    </item>
+    
+    <item>
+      <title>Session Domain Driven Design Mercredi 11 Septembre 2019</title>
+      <link>https://swcraftlyon.github.io/posts/2019-09-11-ddd/</link>
+      <pubDate>Wed, 11 Sep 2019 10:38:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2019-09-11-ddd/</guid>
+      <description>Format :
+ Forum ouvert  34 participants (avec Greg et Adam)</description>
+    </item>
+    
+    <item>
+      <title>Session Domain Driven Design Mercredi 26 Juin 2019</title>
+      <link>https://swcraftlyon.github.io/posts/2019-06-26-ddd/</link>
+      <pubDate>Wed, 26 Jun 2019 10:38:45 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2019-06-26-ddd/</guid>
+      <description>Sujets :
+ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert  16 participants</description>
+    </item>
+    
+  </channel>
+</rss>
