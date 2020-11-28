@@ -6,11 +6,7 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 13 Oct 2020 21:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 Oct 2020 21:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DDD Mardi 13 Octobre 2020</title>
       <link>https://swcraftlyon.github.io/posts/2020-10-13-ddd/</link>

@@ -6,11 +6,7 @@
     <description>Recent content in gdcr on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 16 Nov 2019 09:43:18 +0200</lastBuildDate>
-    
-	<atom:link href="https://swcraftlyon.github.io/tags/gdcr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 16 Nov 2019 09:43:18 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/gdcr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global Code Retreat Samedi 16 November 2019</title>
       <link>https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/</link>

@@ -6,11 +6,7 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 15 Nov 2020 13:47:26 +0100</lastBuildDate>
-    
-	<atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 15 Nov 2020 13:47:26 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020 11 13 Coding Dojo Midi</title>
       <link>https://swcraftlyon.github.io/posts/2020-11-13-coding-dojo/</link>

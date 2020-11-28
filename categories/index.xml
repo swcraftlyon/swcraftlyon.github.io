@@ -5,10 +5,6 @@
     <link>https://swcraftlyon.github.io/categories/</link>
     <description>Recent content in Categories on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    
-	<atom:link href="https://swcraftlyon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-FR</language><atom:link href="https://swcraftlyon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
