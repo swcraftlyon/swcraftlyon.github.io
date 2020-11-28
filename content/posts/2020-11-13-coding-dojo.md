@@ -1,5 +1,5 @@
 ---
-title: "2020 11 13 Coding Dojo Midi"
+title: "Coding Dojo Midi Vendredi 13 novembre"
 date: 2020-11-15T13:47:26+01:00
 tags: ["dojo"]
 ---
