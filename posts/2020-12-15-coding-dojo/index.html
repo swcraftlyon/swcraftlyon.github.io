@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Coding Dojo Mardi 11 Juin 2019 - Compte-rendus des software crafters de Lyon</title>
-  <meta name="description" content="Sujet : Consumer Kata d&rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :"><script type="application/ld+json">
+  <title>Coding Dojo du Mardi 15 décembre 2020 - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content="Sujet : Train Reservation Kata d&rsquo;Emily Bache Format : pair programming Meetup : https://www."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -43,8 +43,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2019-06-11-coding-dojo\/",
-          "name": "Coding dojo mardi 11 juin 2019"
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2020-12-15-coding-dojo\/",
+          "name": "Coding dojo du mardi 15 décembre 2020"
         }
     }]
 }
@@ -55,15 +55,15 @@
   "author": {
     "name" : ""
   },
-  "headline": "Coding Dojo Mardi 11 Juin 2019",
-  "description" : "Sujet : Consumer Kata d\u0026rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :",
+  "headline": "Coding Dojo du Mardi 15 décembre 2020",
+  "description" : "Sujet : Train Reservation Kata d\u0026rsquo;Emily Bache Format : pair programming Meetup : https:\/\/www.",
   "inLanguage" : "fr",
-  "wordCount":  144 ,
-  "datePublished" : "2019-06-11T13:44:25",
-  "dateModified" : "2019-06-11T13:44:25",
+  "wordCount":  348 ,
+  "datePublished" : "2020-12-15T19:00:00",
+  "dateModified" : "2020-12-15T19:00:00",
   "image" : "https:\/\/swcraftlyon.github.io\/",
   "keywords" : [ "dojo" ],
-  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2019-06-11-coding-dojo\/",
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2020-12-15-coding-dojo\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/swcraftlyon.github.io\/",
@@ -77,14 +77,14 @@
 }
 </script>
 
-<meta property="og:title" content="Coding Dojo Mardi 11 Juin 2019" />
-<meta property="og:description" content="Sujet : Consumer Kata d&rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :">
-<meta property="og:url" content="https://swcraftlyon.github.io/posts/2019-06-11-coding-dojo/" />
+<meta property="og:title" content="Coding Dojo du Mardi 15 décembre 2020" />
+<meta property="og:description" content="Sujet : Train Reservation Kata d&rsquo;Emily Bache Format : pair programming Meetup : https://www.">
+<meta property="og:url" content="https://swcraftlyon.github.io/posts/2020-12-15-coding-dojo/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
 
-  <meta name="twitter:title" content="Coding Dojo Mardi 11 Juin 2019" />
-  <meta name="twitter:description" content="Sujet : Consumer Kata d&rsquo;Emily Bache Format : Mob programming Langage : Java Nombre de participants : 6  Retours participants :">
+  <meta name="twitter:title" content="Coding Dojo du Mardi 15 décembre 2020" />
+  <meta name="twitter:description" content="Sujet : Train Reservation Kata d&rsquo;Emily Bache Format : pair programming Meetup : https://www.">
   <meta name="twitter:card" content="summary" />
   <meta name="generator" content="Hugo 0.79.0" />
   <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
@@ -256,7 +256,7 @@
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="posts-heading">
               
-                <h1>Coding Dojo Mardi 11 Juin 2019</h1>
+                <h1>Coding Dojo du Mardi 15 décembre 2020</h1>
               
               
                 <hr class="small">
@@ -277,25 +277,46 @@
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         <ul>
-<li>Sujet : Consumer Kata d&rsquo;Emily Bache</li>
-<li>Format : Mob programming</li>
-<li>Langage : Java</li>
-<li>Nombre de participants : 6</li>
+<li>Sujet : Train Reservation Kata d&rsquo;Emily Bache</li>
+<li>Format : pair programming</li>
+<li>Meetup : <a href="https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/274471450/">https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/274471450/</a></li>
+<li>Nombre de participants : 16 participants</li>
 </ul>
-<p>Retours participants :</p>
+<h2 id="déroulé-du-kata">Déroulé du kata</h2>
+<h3 id="première-partie--design-upfront">Première partie : Design upfront</h3>
+<p>Dans un premier temps, chaque pair se trouve une salle dans discord et doit trouver un moyen de s&rsquo;appropier les règles du kata. Chaque pair a 20 minutes pour comprendre ce qui est demandé. Au bout de 20 minutes chaque groupe présente son résultat. Dans cette session, il y a eu plusieurs formats:</p>
 <ul>
-<li>Manque de temps pour aller au bout</li>
-<li>Contrainte de limiter à une interface permet de se concentrer sur ce qu&rsquo;il faut</li>
-<li>Frustration de ne pas pouvoir aller loin</li>
-<li>Golden master pas applicable dans ce cas</li>
-<li>Le code semble tellement pourri qu&rsquo;avec les besoins fonctionnels on pourrait le faire de zéro</li>
-<li>Peut se faire devant un tableau blanc pour comprendre ce qu&rsquo;il se passe</li>
-<li>Consumer / Customer amène confusion</li>
-<li>Kata intéressant, avoir plein de points de vue</li>
-<li>Kata pas évident : pelote de laine à démêler, mais ça fait parti d&rsquo;un projet normal</li>
-<li>Cool de pouvoir partager les tips de raccourci</li>
-<li>Kata qui pousse à explorer différentes manières de découvrir des besoins fonctionnels et c&rsquo;est pas toujours facile</li>
-<li>Difficile de s&rsquo;accrocher pour un débutant</li>
+<li>Du pseudo-code</li>
+<li>Des schémas UML</li>
+<li>Un example-mapping</li>
+</ul>
+<h3 id="seconde-partie--tdd">Seconde partie : TDD</h3>
+<p>La deuxième partie est un TDD classique de coding dojo:</p>
+<ol>
+<li>On écrit un test qui échoue</li>
+<li>On implémente le code qui fait passer le test</li>
+<li>On récrit le code pour améliorer sa qualité</li>
+<li>On revient à l&rsquo;étape 1</li>
+</ol>
+<h2 id="les-retours-en-fin-de-session">Les retours en fin de session</h2>
+<p>Design pas optimal, pas de temps gagné sur la phase d&rsquo;analyse. Analyse upfront dans la session peu efficace.<br>
+Essai de gherkin avec les PO, mais ça ne marche pas. Analyse métier uniquement.<br>
+Globalement bien aimé. Tendance à renommer en général ?<br>
+Pas arrivé à l&rsquo;étape où le code montre que le design n&rsquo;est pas valide. Manque de temps sur la seconde partie.<br>
+Que veut dire Design upfront ? C&rsquo;est ce que Bob Martin disait que le code ne pouvait pas être design avant qu&rsquo;il soit écrit, d&rsquo;où le TDD.<br>
+Ça peut être un outil pour comprendre les contraintes techniques. Ça ne doit pas être une phase de 3 mois mené par un architecte qui ne code pas.<br>
+Pour un PO, les use case sont bien pratiques pour communiquer.<br>
+Crevé donc pas possible d&rsquo;être attentif<br>
+Première phase pas claire, donc pas compris ce qui était attendu<br>
+Test first vs TDD : être guidé par les tests demande de l&rsquo;entrainement<br>
+Essayer d&rsquo;exprimer les rêgles<br>
+Dans le mob programming, il faut accepter la première solution qui est donnée et accepter d&rsquo;être constructif pour éviter les phases d&rsquo;échange infini</p>
+<p>Préparation du Kata et déséquilibre des débutants/expérimentés qui n&rsquo;a pas aidé la session.</p>
+<h2 id="roti-">Roti :</h2>
+<ul>
+<li>2 : 1 personne</li>
+<li>3 : 3 personne</li>
+<li>4 : 10 personnes</li>
 </ul>
 
 
@@ -316,13 +337,9 @@
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://swcraftlyon.github.io/posts/2019-05-28-coding-dojo/" data-toggle="tooltip" data-placement="top" title="Coding Dojo Mardi 28 Mai 2019">&larr; Post précédent</a>
+              <a href="https://swcraftlyon.github.io/posts/2020-12-10-ddd/" data-toggle="tooltip" data-placement="top" title="Forum ouvert DDD du Jeudi 10 décembre 2020">&larr; Post précédent</a>
             </li>
           
-          
-            <li class="next">
-              <a href="https://swcraftlyon.github.io/posts/2019-06-20-coding-dojo/" data-toggle="tooltip" data-placement="top" title="Coding Dojo Jeudi 20 Juin 2019">Post suivant &rarr;</a>
-            </li>
           
         </ul>
       
