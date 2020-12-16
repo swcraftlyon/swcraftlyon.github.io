@@ -6,7 +6,16 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 13 Oct 2020 21:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum ouvert DDD du Jeudi 10 décembre 2020</title>
+      <link>https://swcraftlyon.github.io/posts/2020-12-10-ddd/</link>
+      <pubDate>Thu, 10 Dec 2020 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2020-12-10-ddd/</guid>
+      <description>Planning 19h15 -&amp;gt; 19h45 Salle 1 - C&amp;rsquo;est quoi DDD ?</description>
+    </item>
+    
     <item>
       <title>DDD Mardi 13 Octobre 2020</title>
       <link>https://swcraftlyon.github.io/posts/2020-10-13-ddd/</link>
