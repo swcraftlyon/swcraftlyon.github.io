@@ -27,7 +27,7 @@ tags: ["dojo"]
  - Manque d'un protocole de communication
    - Alternativement on aurait pu faire proposition / contre-proposition
    - L'harmonie est venu du driver (qui n'a pas pu être pré-empté à cause de la distance)
- - Tout le monde à jouer le jeu
+ - Tout le monde à joué le jeu
 
 ## Roti :
 - 4 : 2 personnes
