@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 15 Dec 2020 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jan 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Mercredi 6 janvier 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-01-06-coding-dojo/</link>
+      <pubDate>Wed, 06 Jan 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-01-06-coding-dojo/</guid>
+      <description>Sujet : Movie Rental Format : mob programming Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Mardi 15 décembre 2020</title>
       <link>https://swcraftlyon.github.io/posts/2020-12-15-coding-dojo/</link>
