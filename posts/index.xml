@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 27 Jan 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 13:45:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Mercredi 10 février 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-02-10-coding-dojo/</link>
+      <pubDate>Wed, 10 Feb 2021 13:45:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-02-10-coding-dojo/</guid>
+      <description>Sujet : Greed Format : Mob programming Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Table ronde : Du Craftsmanship dans la vraie vie</title>
       <link>https://swcraftlyon.github.io/posts/2021-01-27-craft-talk/</link>
