@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 10 Feb 2021 13:45:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Mercredi 4 Mars 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-03-04-coding-dojo/</link>
+      <pubDate>Thu, 04 Mar 2021 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-03-04-coding-dojo/</guid>
+      <description>Sujet : Transitive dependencies Meetup : http://codekata.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Mercredi 10 février 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-02-10-coding-dojo/</link>
