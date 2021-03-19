@@ -15,11 +15,11 @@ Bon livre pour les débutants en Java, ouvre de nombreuses pistes pour explorer 
 Facile à lire d’autant plus que les chapitres sont indépendants les uns des autres.  
 
 **The Software Craftsman: Professionalism, Pragmatism, Pride** présenté par Jean-Charles  
-https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501 de Sandro Mancuso  
+https://www.babelio.com/livres/Mancuso-The-Software-Craftsman/965165 de Sandro Mancuso  
 Livre essentiellement basé sur les expériences de l'auteur. Divers thèmes abordés autour de l'agilité, de la veille technique, l'attitude à adopter, l'évolution de carrière, les entretients, etc.  
 
 **The Phoenix Project** présenté par Colin  
-https://www.amazon.fr/Phoenix-Project-DevOps-Helping-Business/dp/0988262509 de Gene Kim, Kevin Behr & George Spatford  
+https://www.babelio.com/livres/Kim-The-Phoenix-Project/769670 de Gene Kim, Kevin Behr & George Spatford  
 Livre peu technique, assez romancé. La fin du livre contient un condensé sur les points abordés.  
 Propose de prendre de la hauteur pour aider les gens qui produisent. Revoir l’organisation pour fluidifier les échanges ou faciliter l’accès à des ressources.  
 
