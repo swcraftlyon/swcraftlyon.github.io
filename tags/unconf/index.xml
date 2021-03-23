@@ -6,7 +6,16 @@
     <description>Recent content in unconf on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 21 Jan 2021 13:45:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/unconf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Mar 2021 18:30:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/unconf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open forum avec DDD Iran</title>
+      <link>https://swcraftlyon.github.io/posts/2021-11-03-open-forum/</link>
+      <pubDate>Thu, 11 Mar 2021 18:30:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-11-03-open-forum/</guid>
+      <description>Subject : Open-forum DDD with DDD Iran community Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Forum ouvert avec le JUG Lyon</title>
       <link>https://swcraftlyon.github.io/posts/2021-01-21-forum-ouvert/</link>
