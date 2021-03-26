@@ -35,18 +35,9 @@
     </item>
     
     <item>
-      <title>talk</title>
-      <link>https://swcraftlyon.github.io/tags/talk/</link>
-      <pubDate>Wed, 27 Jan 2021 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>lectures</title>
       <link>https://swcraftlyon.github.io/tags/lectures/</link>
-      <pubDate>Fri, 18 Dec 2020 21:00:00 +0200</pubDate>
+      <pubDate>Mon, 22 Feb 2021 20:45:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
       <description></description>
@@ -55,9 +46,18 @@
     <item>
       <title>live</title>
       <link>https://swcraftlyon.github.io/tags/live/</link>
-      <pubDate>Fri, 18 Dec 2020 21:00:00 +0200</pubDate>
+      <pubDate>Mon, 22 Feb 2021 20:45:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://swcraftlyon.github.io/tags/talk/</link>
+      <pubDate>Mon, 22 Feb 2021 20:45:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
       <description></description>
     </item>
     
