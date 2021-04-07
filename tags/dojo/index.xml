@@ -6,13 +6,22 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 16 Mar 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mercredi 07 avril</title>
+      <link>https://swcraftlyon.github.io/posts/2021-04-07-coding-dojo/</link>
+      <pubDate>Wed, 07 Apr 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-04-07-coding-dojo/</guid>
+      <description>Sujet : Lift kata Format : 2 Mob programming Langage : Java, TypeScript Nombre de participants : 13  Rétrospective Colin code encore, au grand désespoir de certains (tout le monde ?</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mardi 16 mars</title>
-      <link>https://swcraftlyon.github.io/posts/2021-16-03-coding-dojo/</link>
+      <link>https://swcraftlyon.github.io/posts/2021-03-16-coding-dojo/</link>
       <pubDate>Tue, 16 Mar 2021 19:00:00 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2021-16-03-coding-dojo/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2021-03-16-coding-dojo/</guid>
       <description>Sujet : jeu de la bataille choisi par Gautier Format : Pair + Mob Langage : Clojure, .</description>
     </item>
     
