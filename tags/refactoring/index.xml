@@ -6,7 +6,16 @@
     <description>Recent content in refactoring on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 15 Sep 2020 12:30:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mercredi 13 avril</title>
+      <link>https://swcraftlyon.github.io/posts/2021-04-13-coding-dojo/</link>
+      <pubDate>Wed, 07 Apr 2021 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-04-13-coding-dojo/</guid>
+      <description>Sujet : Refactoring Task List Format : Mob programming Langage : Java Nombre de participants : 9 dont 6 nouveaux  Déroulement Rapide sondage pour déterminer un langage et une tentative de stream ratée plus tard, c’est Gautier qui code.</description>
+    </item>
+    
     <item>
       <title>Coding dojo du midi (15/09/2020)</title>
       <link>https://swcraftlyon.github.io/posts/2020-09-15-retro/</link>
