@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo Mercredi 13 avril"
-date: 2021-04-07T12:15:00+02:00
+date: 2021-04-13T19:00:00+02:00
 tags: ["dojo", "refactoring"]
 aliases: [/posts/coding-dojo-13-04-2021/]
 ---
