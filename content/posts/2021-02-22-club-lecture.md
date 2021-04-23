@@ -23,10 +23,10 @@ https://www.babelio.com/livres/Kim-The-Phoenix-Project/769670 de Gene Kim, Kevin
 Livre peu technique, assez romancé. La fin du livre contient un condensé sur les points abordés.  
 Propose de prendre de la hauteur pour aider les gens qui produisent. Revoir l’organisation pour fluidifier les échanges ou faciliter l’accès à des ressources.  
 
-**Conception et programmation orientées objet** présenté par Gauthier  
+**Conception et programmation orientées objet** présenté par Gautier  
 https://www.eyrolles.com/Informatique/Livre/conception-et-programmation-orientees-objet-9782212122701/ de Bertrand Meyer  
 
-**Smalltalk best practice patterns** présenté par Gauthier  
+**Smalltalk best practice patterns** présenté par Gautier  
 https://the-eye.eu/public/Books/Bibliotik/1/1997%20Kent%20Beck%20-%20Smalltalk%20Best%20Practice%20Patterns_Rxl.pdf de Kent Beck  
 
 ## ROTI
