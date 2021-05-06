@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 07 Apr 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mercredi 5 mai</title>
+      <link>https://swcraftlyon.github.io/posts/2021-05-05-coding-dojo/</link>
+      <pubDate>Wed, 05 May 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-05-05-coding-dojo/</guid>
+      <description>Sujet : Bank OCR Format : Mob programming Langage : Java, C#, Python Nombre de participants : 16 dont 6 nouveaux  Déroulement Rapide tour de table pour choisir le format entre un mob et du pair qui sera aussi l’occasion d’une courte présentation.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mercredi 07 avril</title>
       <link>https://swcraftlyon.github.io/posts/2021-04-07-coding-dojo/</link>
