@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>event storming on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/event-storming/</link>
+    <description>Recent content in event storming on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 12 May 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/event-storming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDD du Mercredi 12 mai 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-05-12-ddd/</link>
+      <pubDate>Wed, 12 May 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-05-12-ddd/</guid>
+      <description>Format: Event Storming Meetup: https://www.</description>
+    </item>
+    
+  </channel>
+</rss>
