@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code-retreat on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/code-retreat/</link>
+    <description>Recent content in code-retreat on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 24 Apr 2021 09:30:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/code-retreat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 04 24 Code Retreat</title>
+      <link>https://swcraftlyon.github.io/posts/2021-04-24-code-retreat/</link>
+      <pubDate>Sat, 24 Apr 2021 09:30:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-04-24-code-retreat/</guid>
+      <description>Sujet : Langton Ant Format : Pair programming Langage : Java, C#, TypeScript Nombre de participants : 18  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 5 itérations de 40 minutes avec une contrainte différente à chaque itération suivie de 10 minutes de debrief Golden master et pair programming à chaque itération  Itération 1 : Golden master  Compliqué à mettre en place avec approvaltests  Itération 2 : Freestyle  Reprise des tests Certains on commencé le refactoring Refactorer aide plus à apréhender le code que les tests  Itération 3 : Babystep 2 minutes  Compliqué au début Pratique de voir émerger le code au fur et à mesure Le code semble bien meilleur avec cette contrainte Permet de structurer les étapes  Itération 4 : Ifless  Tentatives de polymorphisme (trop lourd) Utilisation de map Extraction de chaque comportement des enums dans des fonctions Piste à explorer : directement intégrer les comportements dans SpecialOfferType  Itération 5 : Random constraints  ajout de specs primitive obsession =&amp;gt; très bien, implique de l&amp;rsquo;immutabilité ajout de feature en diminuant la complexité =&amp;gt; attaque par le bundle, ségrégation de l&amp;rsquo;ancienne et de la nouvelle méthode de calcul immutabilité =&amp;gt; implique la primitive obsessions  Rétro  Envie de repartir sur la même base de code (qui est sans doûte trop gros) pour éviter les mêmes refactorings Les contraintes ne changeaient pas vraiment l&amp;rsquo;approche Beaucoup de nouvelles têtes Redécouverte de l&amp;rsquo;IDE pour les dev occasionnels On n&amp;rsquo;a pas passé assez de temps sur les tests (:with-test et approval tests nous ont éloignés) Proposition : faire deux mobs de 2 heures le matin, que tous le monde ai la même compréhension Sympa de se voir coder les uns les autres Malgré les différentes technos, tout s&amp;rsquo;est bien passé Kata proche des problématiques d&amp;rsquo;une journée de Travail Refactoring avec des tests permettent un grand confort Partage des connaissances et des pratiques Pas de soucis de setup Bien aimé les changements de partenaires  Itération 6 : Immutabilité  Mod sur C# Extraction de Items et reconstruction du Dictionnary  ROTI  15 votants ROTI 5/5 -&amp;gt; 8 personnes ROTI 4.</description>
+    </item>
+    
+  </channel>
+</rss>
