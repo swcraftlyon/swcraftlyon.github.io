@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 12 May 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 10:40:54 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Vendredi 4 Juin 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-06-04-coding-dojo/</link>
+      <pubDate>Sat, 05 Jun 2021 10:40:54 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-06-04-coding-dojo/</guid>
+      <description>Sujet : FooBarQix, une variation du célèbre FizzBuzz Format : Mob Langage : Java Nombre de participants : 7 (pour commencer) rejoints par un huitième  Déroulement Décision collégiale de partir sur un format mob.</description>
+    </item>
+    
     <item>
       <title>DDD du Mercredi 12 mai 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-05-12-ddd/</link>
