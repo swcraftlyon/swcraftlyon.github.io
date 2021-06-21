@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 05 Jun 2021 10:40:54 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jun 2021 09:33:44 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Jeudi 10 Juin 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-06-10-coding-dojo/</link>
+      <pubDate>Mon, 21 Jun 2021 09:33:44 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-06-10-coding-dojo/</guid>
+      <description>Sujet : Elections kata Format : Pair Langage : Java, Kotlin, TypeScript Nombre de participants : 12  Déroulement En modifiant son pseudo Discord, chacun a indiqué le langage de programmation qu&amp;rsquo;il voulait utiliser.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Vendredi 4 Juin 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-06-04-coding-dojo/</link>
