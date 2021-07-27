@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>lectures - Compte-rendus des software crafters de Lyon</title><script type="application/ld+json">
+  <title>DDD Clinic du Mardi 27 Juillet 2021 - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content="Contexte  15 personnes 1 sujet proposé par Adrien  Gestion des droits   Une application de réservation dans les salons de coiffures"><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -27,13 +28,63 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2021-07-27-ddd\/",
+          "name": "D d d clinic du mardi 27 juillet 2021"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "DDD Clinic du Mardi 27 Juillet 2021",
+  "description" : "Contexte  15 personnes 1 sujet proposé par Adrien  Gestion des droits   Une application de réservation dans les salons de coiffures",
+  "inLanguage" : "fr",
+  "wordCount":  297 ,
+  "datePublished" : "2021-07-27T19:00:00",
+  "dateModified" : "2021-07-27T19:00:00",
+  "image" : "https:\/\/swcraftlyon.github.io\/",
+  "keywords" : [ "ddd" ],
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2021-07-27-ddd\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/swcraftlyon.github.io\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/swcraftlyon.github.io\/",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="lectures" />
-<meta property="og:url" content="https://swcraftlyon.github.io/tags/lectures/" />
+<meta property="og:title" content="DDD Clinic du Mardi 27 Juillet 2021" />
+<meta property="og:description" content="Contexte  15 personnes 1 sujet proposé par Adrien  Gestion des droits   Une application de réservation dans les salons de coiffures">
+<meta property="og:url" content="https://swcraftlyon.github.io/posts/2021-07-27-ddd/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
 
-  <meta name="twitter:title" content="lectures" />
+  <meta name="twitter:title" content="DDD Clinic du Mardi 27 Juillet 2021" />
+  <meta name="twitter:description" content="Contexte  15 personnes 1 sujet proposé par Adrien  Gestion des droits   Une application de réservation dans les salons de coiffures">
   <meta name="twitter:card" content="summary" />
   <meta name="generator" content="Hugo 0.79.0" />
   <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
@@ -113,9 +164,9 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/unconf/">#unconf</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/live/">#live</a></li>
-        
             <li><a href="https://swcraftlyon.github.io/tags/lectures/">#lectures</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/live/">#live</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
         
@@ -209,9 +260,9 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
+            <div class="posts-heading">
               
-                <h1>lectures</h1>
+                <h1>DDD Clinic du Mardi 27 Juillet 2021</h1>
               
               
                 <hr class="small">
@@ -227,318 +278,122 @@
 
 
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <h2 id="contexte">Contexte</h2>
+<ul>
+<li>15 personnes</li>
+<li>1 sujet proposé par Adrien</li>
+</ul>
+<h1 id="gestion-des-droits">Gestion des droits</h1>
+<ul>
+<li>
+<p>Une application de réservation dans les salons de coiffures</p>
+</li>
+<li>
+<p>Il y a une différence entre un client et un gestionnaire</p>
+</li>
+<li>
+<p>Approche 1 : class abstraite avec la gestion délégués aux classes filles</p>
+<ul>
+<li>Problème : expose les scenarii à tous les consommateur</li>
+</ul>
+</li>
+<li>
+<p>Approche 2 :</p>
+<ul>
+<li>un shared kernel (un username)</li>
+<li>la gestion des rôles dans la couche infra</li>
+<li>chaque domaine définis les droits nécessaire (via les annotations, JAVA)</li>
+<li>la couche service via Aspect Oriented Programming va vérifier les droits</li>
+<li>Aucune gestion de rôle dédié</li>
+</ul>
+</li>
+<li>
+<p>Approche 3 : injecter l&rsquo;utilisateur à la commande</p>
+<ul>
+<li>Inconvéniant : peut surcharger le domain</li>
+</ul>
+</li>
+<li>
+<p>Au cours de l&rsquo;event-storming Alberto Brandolini utilise beaucoup les Policy</p>
+</li>
+<li>
+<p>RBAC vs ABAC</p>
+<ul>
+<li>RBAC force a créer beaucoup de rôles</li>
+<li>ABAC donne un sous ensemble d&rsquo;actions restreint</li>
+<li>Les actions ne sont pas dans l&rsquo;idp</li>
+<li>Il y a un mapping role &lt;-&gt; action côté applicatif</li>
+</ul>
+</li>
+<li>
+<p>Cas exceptionel : &ldquo;Roger a besoin de faire ça&rdquo;</p>
+<ul>
+<li>Code smell à creuser =&gt; roole à nommer</li>
+</ul>
+</li>
+<li>
+<p>Éviter l&rsquo;utilisateur en mode God-object, couplé à tout avec le cycle de vie le plus court</p>
+</li>
+</ul>
+<h2 id="comment-gérer-les-erreurs-de-designs">Comment gérer les erreurs de designs</h2>
+<ul>
+<li>L&rsquo;approche peer-review intensive est contre-productive</li>
+<li>Page 321 du Blue book prône le refactoring permanent</li>
+<li>Avancer et refactorer au fur et à mesure de la compréhension du domain</li>
+<li>Les refontes sont rarement bénéfiques lorsque ni les personnes impliquées, ni la méthodologie ne changent</li>
+</ul>
+<h2 id="quotes">Quotes</h2>
+<ul>
+<li>&ldquo;Il faut se surveiller pour ne pas donner une réponse technique quand il faut une réponse fonctionnelle&rdquo; Arthur</li>
+<li>&ldquo;Il y a toujours un moment où le mouellon de la réalité vient s&rsquo;écraser sur la tartelette de notre illusion de la réalité&rdquo; Colin</li>
+</ul>
+<h2 id="autres-références">Autres références</h2>
+<ul>
+<li><a href="https://martinfowler.com/articles/patterns-legacy-displacement/extract-product-lines.html">https://martinfowler.com/articles/patterns-legacy-displacement/extract-product-lines.html</a></li>
+</ul>
+<h2 id="roti-">Roti :</h2>
+<ul>
+<li>2 : 2 personnes</li>
+<li>3 : 3 personnes</li>
+<li>4 : 8 personnes</li>
+<li>5 : 1 personne</li>
+</ul>
+
+
         
-        <div class="posts-list">
+          <div class="blog-tags">
+            
+              <a href="https://swcraftlyon.github.io//tags/ddd/">ddd</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
           
-            <article class="post-preview">
-    <a href="https://swcraftlyon.github.io/posts/2021-06-15-club-lecture/">
-        <h2 class="post-title">Soirée lectures du Mardi 15 Juin 2021</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posté le 21/06/2021
-  
-  
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.
-        <a href="https://swcraftlyon.github.io/posts/2021-06-15-club-lecture/" class="post-read-more">[Voir plus]</a>
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://swcraftlyon.github.io//tags/talk/">talk</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/live/">live</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/lectures/">lectures</a>&nbsp;
-        
-    </div>
-    
-
-</article>
+            <li class="previous">
+              <a href="https://swcraftlyon.github.io/posts/2021-06-15-club-lecture/" data-toggle="tooltip" data-placement="top" title="Soirée lectures du Mardi 15 Juin 2021">&larr; Post précédent</a>
+            </li>
           
-            <article class="post-preview">
-    <a href="https://swcraftlyon.github.io/posts/2021-04-22-club-lecture/">
-        <h2 class="post-title">2021 04 22 Club Lecture</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posté le 22/04/2021
-  
-  
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.
-        <a href="https://swcraftlyon.github.io/posts/2021-04-22-club-lecture/" class="post-read-more">[Voir plus]</a>
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://swcraftlyon.github.io//tags/talk/">talk</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/live/">live</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/lectures/">lectures</a>&nbsp;
-        
-    </div>
-    
-
-</article>
           
-            <article class="post-preview">
-    <a href="https://swcraftlyon.github.io/posts/2021-02-22-club-lecture/">
-        <h2 class="post-title">Soirée lectures du Lundi 22 février 2021</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posté le 22/02/2021
-  
-  
-  
-  
-  
-</span>
+        </ul>
+      
 
 
-    </p>
-    <div class="post-entry">
-        
-        Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.
-        <a href="https://swcraftlyon.github.io/posts/2021-02-22-club-lecture/" class="post-read-more">[Voir plus]</a>
-        
-    </div>
+      
 
-    
-    <div class="blog-tags">
-        
-        <a href="https://swcraftlyon.github.io//tags/talk/">talk</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/live/">live</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/lectures/">lectures</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://swcraftlyon.github.io/posts/2020-12-18-book/">
-        <h2 class="post-title">Soirée lectures Vendredi 18 décembre 2020</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posté le 18/12/2020
-  
-  
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.
-        <a href="https://swcraftlyon.github.io/posts/2020-12-18-book/" class="post-read-more">[Voir plus]</a>
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://swcraftlyon.github.io//tags/talk/">talk</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/live/">live</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/lectures/">lectures</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://swcraftlyon.github.io/posts/2020-10-29-book/">
-        <h2 class="post-title">Soirée lectures Jeudi 29 octobre 2020</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posté le 29/10/2020
-  
-  
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.
-        <a href="https://swcraftlyon.github.io/posts/2020-10-29-book/" class="post-read-more">[Voir plus]</a>
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://swcraftlyon.github.io//tags/talk/">talk</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/live/">live</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/lectures/">lectures</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://swcraftlyon.github.io/posts/2020-07-23-book/">
-        <h2 class="post-title">Soirée lectures Jeudi 23 Juillet 2020</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posté le 23/07/2020
-  
-  
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.
-        <a href="https://swcraftlyon.github.io/posts/2020-07-23-book/" class="post-read-more">[Voir plus]</a>
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://swcraftlyon.github.io//tags/talk/">talk</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/live/">live</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/lectures/">lectures</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://swcraftlyon.github.io/posts/2020-05-13-talk/">
-        <h2 class="post-title">Soirée lectures Jeudi 13 Mai 2020</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;Posté le 13/05/2020
-  
-  
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        Sujet: Les Duchess et les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.
-        <a href="https://swcraftlyon.github.io/posts/2020-05-13-talk/" class="post-read-more">[Voir plus]</a>
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://swcraftlyon.github.io//tags/talk/">talk</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/live/">live</a>&nbsp;
-        
-        <a href="https://swcraftlyon.github.io//tags/lectures/">lectures</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-        </div>
-        
-      </div>
     </div>
   </div>
+</div>
 
       
 <footer>
