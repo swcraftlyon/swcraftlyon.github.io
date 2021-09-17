@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kata on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/kata/</link>
+    <description>Recent content in kata on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 09 Sep 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo jeudi 9 septembre 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-09-09-coding-dojo-soir/</link>
+      <pubDate>Thu, 09 Sep 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-09-09-coding-dojo-soir/</guid>
+      <description>Sujet : FizzBuzz Format : Pair programming Langage : Java, TypeScript, Rust, F# Nombre de participants : 10 dont 2 nouveaux  Déroulement Tour de table pour rapidement se présenter permettant aux retardataires d’arriver.</description>
+    </item>
+    
+  </channel>
+</rss>
