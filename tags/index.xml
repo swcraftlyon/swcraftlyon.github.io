@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 Sep 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 21:00:12 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>clinic</title>
+      <link>https://swcraftlyon.github.io/tags/clinic/</link>
+      <pubDate>Tue, 05 Oct 2021 21:00:12 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/clinic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDD</title>
+      <link>https://swcraftlyon.github.io/tags/ddd/</link>
+      <pubDate>Tue, 05 Oct 2021 21:00:12 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event modeling</title>
+      <link>https://swcraftlyon.github.io/tags/event-modeling/</link>
+      <pubDate>Tue, 05 Oct 2021 21:00:12 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/event-modeling/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>unconf</title>
       <link>https://swcraftlyon.github.io/tags/unconf/</link>
@@ -31,15 +58,6 @@
       <pubDate>Fri, 17 Sep 2021 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/kata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DDD</title>
-      <link>https://swcraftlyon.github.io/tags/ddd/</link>
-      <pubDate>Tue, 27 Jul 2021 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/ddd/</guid>
       <description></description>
     </item>
     

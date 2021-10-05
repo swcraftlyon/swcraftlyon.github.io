@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 Sep 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 21:00:12 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soirée DDD du Mardi 05 octobre 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-10-05-ddd/</link>
+      <pubDate>Tue, 05 Oct 2021 21:00:12 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-10-05-ddd/</guid>
+      <description>Sujet: Code clinic en Event modeling : venez avec vos contextes métiers et nous tenterons de nous servir de l&amp;rsquo;Event Modeling Format: Code clinic Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Forum Ouvert</title>
       <link>https://swcraftlyon.github.io/posts/2021-09-21-forum-ouvert/</link>
