@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 05 Oct 2021 21:00:12 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo mercredi 13 octobre 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-10-13-coding-dojo/</link>
+      <pubDate>Wed, 13 Oct 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-10-13-coding-dojo/</guid>
+      <description>Sujet : Salary slip (Version avec update des dépendances par Nolwenn) Format : Mob programmings Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Soirée DDD du Mardi 05 octobre 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-10-05-ddd/</link>

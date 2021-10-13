@@ -6,7 +6,16 @@
     <description>Recent content in kata on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 17 Sep 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Oct 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo mercredi 13 octobre 2021</title>
+      <link>https://swcraftlyon.github.io/posts/2021-10-13-coding-dojo/</link>
+      <pubDate>Wed, 13 Oct 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-10-13-coding-dojo/</guid>
+      <description>Sujet : Salary slip (Version avec update des dépendances par Nolwenn) Format : Mob programmings Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo jeudi 17 septembre 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-09-17-coding-dojo-midi/</link>
