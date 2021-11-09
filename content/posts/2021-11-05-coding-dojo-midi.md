@@ -17,7 +17,7 @@ Nous avons d'abord commencé par implémenter l'affichage de la grille, de faço
 
 ## Rétrospective
 
-La solution nous a permis de découvrir quelques API récentes de Java : [Text Blocks]https://docs.oracle.com/en/java/javase/16/text-blocks/index.html, très pratique pour l'affichage de la grille, [Record Classes]https://docs.oracle.com/en/java/javase/16/language/records.html (pour Gunship puis Ship) et [Switch Expressions]https://docs.oracle.com/en/java/javase/16/language/switch-expressions.html.
+La solution nous a permis de découvrir quelques API récentes de Java : [Text Blocks](https://docs.oracle.com/en/java/javase/16/text-blocks/index.html), très pratique pour l'affichage de la grille, [Record Classes](https://docs.oracle.com/en/java/javase/16/language/records.html) (pour Gunship puis Ship) et [Switch Expressions](https://docs.oracle.com/en/java/javase/16/language/switch-expressions.html).
 
 La démarche a plutôt fonctionné. Les refactorings ont été traités au bon moment. Le code produit est de plutôt bonne qualité. L'utilisation de l'API stream a permis d'obtenir un code concis et lisible.
 
