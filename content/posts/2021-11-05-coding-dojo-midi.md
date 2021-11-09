@@ -21,6 +21,8 @@ La solution nous a permis de découvrir quelques API récentes de Java : [Text B
 
 La démarche a plutôt fonctionné. Les refactorings ont été traités au bon moment. Le code produit est de plutôt bonne qualité. L'utilisation de l'API stream a permis d'obtenir un code concis et lisible.
 
+[Le repo du code](https://github.com/blackheaven/kata-battleships).
+
 ## ROTI
 
 - 5/5 : 4
