@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 16 Nov 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo</title>
+      <link>https://swcraftlyon.github.io/posts/2021-11-23-coding-dojo/</link>
+      <pubDate>Tue, 23 Nov 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-11-23-coding-dojo/</guid>
+      <description>Sujet: Coding Dojo Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Forum Ouvert</title>
       <link>https://swcraftlyon.github.io/posts/2021-11-16-forum-ouvert/</link>

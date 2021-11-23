@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding dojo on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/coding-dojo/</link>
+    <description>Recent content in coding dojo on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo</title>
+      <link>https://swcraftlyon.github.io/posts/2021-11-23-coding-dojo/</link>
+      <pubDate>Tue, 23 Nov 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-11-23-coding-dojo/</guid>
+      <description>Sujet: Coding Dojo Meetup: https://www.</description>
+    </item>
+    
+  </channel>
+</rss>
