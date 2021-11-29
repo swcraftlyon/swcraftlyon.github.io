@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lectures</title>
+      <link>https://swcraftlyon.github.io/tags/lectures/</link>
+      <pubDate>Mon, 29 Nov 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://swcraftlyon.github.io/tags/live/</link>
+      <pubDate>Mon, 29 Nov 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://swcraftlyon.github.io/tags/talk/</link>
+      <pubDate>Mon, 29 Nov 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>coding dojo</title>
       <link>https://swcraftlyon.github.io/tags/coding-dojo/</link>
@@ -31,15 +58,6 @@
       <pubDate>Tue, 09 Nov 2021 09:05:51 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/dojo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://swcraftlyon.github.io/tags/talk/</link>
-      <pubDate>Tue, 26 Oct 2021 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -76,24 +94,6 @@
       <pubDate>Tue, 05 Oct 2021 21:00:12 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/event-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lectures</title>
-      <link>https://swcraftlyon.github.io/tags/lectures/</link>
-      <pubDate>Wed, 29 Sep 2021 21:00:12 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>live</title>
-      <link>https://swcraftlyon.github.io/tags/live/</link>
-      <pubDate>Wed, 29 Sep 2021 21:00:12 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/live/</guid>
       <description></description>
     </item>
     

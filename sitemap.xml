@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://swcraftlyon.github.io/</loc>
+    <lastmod>2021-11-29T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/lectures/</loc>
+    <lastmod>2021-11-29T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/live/</loc>
+    <lastmod>2021-11-29T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2021-11-29T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/2021-11-29-club-lecture/</loc>
+    <lastmod>2021-11-29T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2021-11-29T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/talk/</loc>
+    <lastmod>2021-11-29T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swcraftlyon.github.io/posts/2021-11-23-coding-dojo/</loc>
     <lastmod>2021-11-23T19:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://swcraftlyon.github.io/tags/coding-dojo/</loc>
-    <lastmod>2021-11-23T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2021-11-23T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2021-11-23T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
     <lastmod>2021-11-23T19:00:00+01:00</lastmod>
   </url>
   
@@ -49,11 +69,6 @@
   
   <url>
     <loc>https://swcraftlyon.github.io/posts/2021-10-26-craft-talk/</loc>
-    <lastmod>2021-10-26T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/talk/</loc>
     <lastmod>2021-10-26T19:00:00+01:00</lastmod>
   </url>
   
@@ -90,16 +105,6 @@
   <url>
     <loc>https://swcraftlyon.github.io/posts/2021-10-05-ddd/</loc>
     <lastmod>2021-10-05T21:00:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/lectures/</loc>
-    <lastmod>2021-09-29T21:00:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/live/</loc>
-    <lastmod>2021-09-29T21:00:12+02:00</lastmod>
   </url>
   
   <url>
