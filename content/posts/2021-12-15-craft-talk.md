@@ -22,13 +22,13 @@ Allard recommande plutôt de construire un monolithe de façon structurée, puis
 DDD ([Domain-Driven Design](https://fr.wikipedia.org/wiki/Conception_pilot%C3%A9e_par_le_domaine)) peut aider, mais il est facile de se perdre en chemin.
 Un domaine est une chose complexe, dont on ne s'intéresse véritablement qu'à un aspect.
 Pour cela, on construit [un modèle](https://en.wikipedia.org/wiki/All_models_are_wrong) qui sert notre besoin.
-Avec les patterns stratégiques, qui sont plus abstraits (bounded contexts, etc.), DDD ajoute de la structure à notre modèle.
+Avec ses patterns stratégiques, qui sont plus abstraits (bounded contexts, etc.), DDD ajoute de la structure à notre modèle.
 Allard propose ensuite de faire un détour par le [Reactive Manifesto](https://www.reactivemanifesto.org/) et les [Reactive Principles](https://principles.reactive.foundation/), un ensemble de principes qui peuvent aider pour construire des systèmes distribués.
 Par définition du manifeste, un système réactif est [Message-Driven](https://www.reactivemanifesto.org/glossary#Message-Driven).
 Les messages ne se limitent toutefois pas aux seuls événements, il y a aussi les commandes (Commands) et les requêtes (Queries), dont l'intention est différente.
-Ces différents types de messages ont des besoin de routage différents.
+Ces différents types de messages ont des besoins de routage différents.
 On peut utiliser [publish-subscribe](https://fr.wikipedia.org/wiki/Publish-subscribe) pour les événements.
-Les effets de bord produits par une commande ne doivent généralement être déclenché que depuis un seul composant, une commande n'est donc routée que vers un seul composant qui retourne un acquittement.
+Les effets de bord produits par une commande ne doivent généralement être déclenchés que depuis un seul composant, une commande n'est donc routée que vers un seul composant qui retourne un acquittement.
 Pour les requêtes, plusieurs solutions existent selon le cas d'utilisation : point-à-point, scatter-gather, souscription (par exemple avec des [Server-sent events](https://fr.wikipedia.org/wiki/Server-sent_events)).
 L'utilisation des patterns adaptés en fonction du type de messages permet la [Location Transparency](https://www.reactivemanifesto.org/glossary#Location-Transparency).
 Par la suite, Allard clarifie la différence entre Event Streaming et Event Sourcing (enregistrer les événements et les évaluer pour déterminer l'état courant).
