@@ -76,7 +76,7 @@ Pas besoin d'être expert pour regarder cette vidéo.
 **[Hacking the Nintendo Game & Watch](https://media.ccc.de/v/rc3-11527-hacking_the_nintendo_game_watch) de Thomas Roth** présenté par Florent
 
 Explication du mécanisme de sécurité de la console de Nintendo.
-Revoir the [Old Man Glitch](https://www.youtube.com/watch?v=NU-lcw8-G-c) sur le même thème. Dans la même, sur [sa chaîne Youtube](https://www.youtube.com/c/HusseinNasser-software-engineering), Hussein Nasser explique des exploits.
+Revoir the [Old Man Glitch](https://www.youtube.com/watch?v=NU-lcw8-G-c) sur le même thème. Dans la même veine, sur [sa chaîne Youtube](https://www.youtube.com/c/HusseinNasser-software-engineering), Hussein Nasser explique des exploits.
 
 **[Les Cantos d'Hyperion](https://fr.wikipedia.org/wiki/Les_Cantos_d%27Hyp%C3%A9rion) de Dan Simons** par Florent
 
