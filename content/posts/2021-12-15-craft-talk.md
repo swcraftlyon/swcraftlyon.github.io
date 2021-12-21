@@ -6,8 +6,8 @@ tags: ["talk"]
 
 - Sujet : DDD, CQRS, and Event Sourcing, beyond the hype
 - Format : Talk  
-- Meetup : https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/281010315/
-- Replay : https://www.youtube.com/watch?v=7fV3l_WPdTk
+- Meetup : https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/282137789/
+- Replay : https://www.youtube.com/watch?v=SxkfkOBzacE
 
 ## Déroulement de la soirée
 
@@ -37,8 +37,6 @@ Il y a des raisons métier à concevoir un système event sourcé et des raisons
 CQRS et ES se complètent bien, et [Axon](https://axoniq.io/), le produit sur lequel travaille Allard peut aider à implémenter des systèmes Message-Driven.
 D'un point de vue infrastructure, le choix se fait classiquement entre un [Message Broker](https://fr.wikipedia.org/wiki/Agent_de_messages), qui permet d'envoyer des messages de façon fiable, ou un ESB ([Enterprise Service Bus](https://fr.wikipedia.org/wiki/Enterprise_service_bus)) qui peut prendre des décisions fondées sur le contenu des messages. Axon se situe entre les 2 et comprend les patterns de routage et les différents types de messages.
 Allard revient sur la nécessité de se familiariser avec [EventStorming](https://www.eventstorming.com/), DDD et [Event Modeling](https://eventmodeling.org/).
-
-[La vidéo sur Youtube](https://www.youtube.com/watch?v=SxkfkOBzacE)
 
 ## Roti :
 
