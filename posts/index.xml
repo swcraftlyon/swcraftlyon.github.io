@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 08 Dec 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDD, CQRS, and Event Sourcing, beyond the hype</title>
+      <link>https://swcraftlyon.github.io/posts/2021-12-15-craft-talk/</link>
+      <pubDate>Wed, 15 Dec 2021 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2021-12-15-craft-talk/</guid>
+      <description>Sujet : DDD, CQRS, and Event Sourcing, beyond the hype Format : Talk Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Soirée talks DDD du Mercredi 8 Décembre 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-12-08-soiree-ddd/</link>
