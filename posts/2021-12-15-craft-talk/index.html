@@ -174,19 +174,19 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
-        
-            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
-        
             <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/gdcr/">#gdcr</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
         
+            <li><a href="https://swcraftlyon.github.io/tags/coding-dojo/">#coding dojo</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
+        
             <li><a href="https://swcraftlyon.github.io/tags/event-storming/">#event storming</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/coding-dojo/">#coding dojo</a></li>
+            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
         
 
         
@@ -306,13 +306,13 @@ Allard recommande plutôt de construire un monolithe de façon structurée, puis
 <p>DDD (<a href="https://fr.wikipedia.org/wiki/Conception_pilot%C3%A9e_par_le_domaine">Domain-Driven Design</a>) peut aider, mais il est facile de se perdre en chemin.
 Un domaine est une chose complexe, dont on ne s&rsquo;intéresse véritablement qu&rsquo;à un aspect.
 Pour cela, on construit <a href="https://en.wikipedia.org/wiki/All_models_are_wrong">un modèle</a> qui sert notre besoin.
-Avec les patterns stratégiques, qui sont plus abstraits (bounded contexts, etc.), DDD ajoute de la structure à notre modèle.
+Avec ses patterns stratégiques, qui sont plus abstraits (bounded contexts, etc.), DDD ajoute de la structure à notre modèle.
 Allard propose ensuite de faire un détour par le <a href="https://www.reactivemanifesto.org/">Reactive Manifesto</a> et les <a href="https://principles.reactive.foundation/">Reactive Principles</a>, un ensemble de principes qui peuvent aider pour construire des systèmes distribués.
 Par définition du manifeste, un système réactif est <a href="https://www.reactivemanifesto.org/glossary#Message-Driven">Message-Driven</a>.
 Les messages ne se limitent toutefois pas aux seuls événements, il y a aussi les commandes (Commands) et les requêtes (Queries), dont l&rsquo;intention est différente.
-Ces différents types de messages ont des besoin de routage différents.
+Ces différents types de messages ont des besoins de routage différents.
 On peut utiliser <a href="https://fr.wikipedia.org/wiki/Publish-subscribe">publish-subscribe</a> pour les événements.
-Les effets de bord produits par une commande ne doivent généralement être déclenché que depuis un seul composant, une commande n&rsquo;est donc routée que vers un seul composant qui retourne un acquittement.
+Les effets de bord produits par une commande ne doivent généralement être déclenchés que depuis un seul composant, une commande n&rsquo;est donc routée que vers un seul composant qui retourne un acquittement.
 Pour les requêtes, plusieurs solutions existent selon le cas d&rsquo;utilisation : point-à-point, scatter-gather, souscription (par exemple avec des <a href="https://fr.wikipedia.org/wiki/Server-sent_events">Server-sent events</a>).
 L&rsquo;utilisation des patterns adaptés en fonction du type de messages permet la <a href="https://www.reactivemanifesto.org/glossary#Location-Transparency">Location Transparency</a>.
 Par la suite, Allard clarifie la différence entre Event Streaming et Event Sourcing (enregistrer les événements et les évaluer pour déterminer l&rsquo;état courant).
