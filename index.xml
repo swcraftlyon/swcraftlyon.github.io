@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 Dec 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Jeudi 6 Janvier 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-01-06-coding-dojo-soir/</link>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-01-06-coding-dojo-soir/</guid>
+      <description>Sujet : Pagination Seven Format : Pair Langage : Java Nombre de participants : 7  Déroulement 3 groupes Java, constitués de Java-istes et non-Java-istes.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mardi 21 Décembre 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-12-21-coding-dojo/</link>
