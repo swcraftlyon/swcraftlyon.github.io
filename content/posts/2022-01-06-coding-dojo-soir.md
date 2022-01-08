@@ -17,6 +17,7 @@ aliases: [/posts/coding-dojo-06-01-2022/]
 L'exercice a été globalement très apprécié par les participants.
 
 ## ROTI
-* 5/5: 4 personnes
-* 4.78/5: 1 personne
-* 4/2: 3 personnes
+
+- 5/5 : 4
+- 4.78/5 : 1
+- 4/2 : 3
