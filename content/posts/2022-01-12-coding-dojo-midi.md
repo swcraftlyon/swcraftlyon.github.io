@@ -26,12 +26,12 @@ L'algorithme de détermination des éléments mal placés nous donne du fil à r
 
 ## Rétrospective
 
-Le début c'est très bien passé.
-Peu de palabre, on a attaqué d'emblée.
+Le début s'est très bien passé.
+Peu de palabre, nous avons attaqué d'emblée.
 Notre travail de découpage était abouti et le design émergent vraiment propre.
-En revanche nous n'avons peut-être pas eu les bons réflexes sur la calcul des mal placés, en implémentant trop vite des approches très compliquées.
+En revanche nous n'avons peut-être pas eu les bons réflexes sur le calcul des mal placés, en implémentant trop vite des approches très compliquées.
 Peut-être a-t-on voulu aller trop vite ?
-Notre nouveau participant s'est bien retrouvé dans la démarche, mais n'étant pas javaiste a un peu décroché lorsque nous avons poussé l'utilisation des streams.
+Notre nouveau participant s'est bien retrouvé dans la démarche, mais n'étant pas java-iste s'est retrouvé perdu lorsque nous avons poussé l'utilisation des streams.
 La maîtrise de l'IDE par le driver était agréable pour le mob.
 
 ## ROTI
