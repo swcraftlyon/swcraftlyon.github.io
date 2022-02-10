@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 01 Feb 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Feb 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum Ouvert</title>
+      <link>https://swcraftlyon.github.io/posts/2022-02-10-forum-ouvert/</link>
+      <pubDate>Thu, 10 Feb 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-02-10-forum-ouvert/</guid>
+      <description>Sujet: Forum Ouvert Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mardi 1er Février 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-02-01-coding-dojo-soir/</link>
@@ -321,15 +330,6 @@
       
       <guid>https://swcraftlyon.github.io/posts/2021-02-16-coding-dojo/</guid>
       <description>Sujet : Fantasy Battle Refactoring Kata Format : Mob programming (4 groupes) Meetup : https://www.</description>
-    </item>
-    
-    <item>
-      <title>Forum Ouvert</title>
-      <link>https://swcraftlyon.github.io/posts/2022-02-10-forum-ouvert/</link>
-      <pubDate>Wed, 10 Feb 2021 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2022-02-10-forum-ouvert/</guid>
-      <description>Sujet: Forum Ouvert Meetup: https://www.</description>
     </item>
     
     <item>
