@@ -7,7 +7,7 @@ tags: ["talk"]
 - Sujet: Et si on Dev avec des connaissances en cybersécurité / Phishing?
 - Format : Talk  
 - Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/283463509/
-- Replay : https://youtu.be/RmOx799Vwiw
+- Replay : https://youtu.be/FZCS-mqSfxU
 - Environ 20-30 personnes
 
 Session en partenariat avec le MUG Lyon.
