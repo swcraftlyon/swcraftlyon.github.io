@@ -6,7 +6,16 @@
     <description>Recent content in live on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 08 Dec 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soirée lectures du Mardi 25 janvier 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-01-25-club-lecture/</link>
+      <pubDate>Tue, 25 Jan 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-01-25-club-lecture/</guid>
+      <description>Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Soirée talks DDD du Mercredi 8 Décembre 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-12-08-soiree-ddd/</link>

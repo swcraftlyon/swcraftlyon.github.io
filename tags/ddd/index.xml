@@ -6,7 +6,16 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 08 Dec 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atelier Découpe mon monolithe</title>
+      <link>https://swcraftlyon.github.io/posts/2022-01-20-atelier/</link>
+      <pubDate>Thu, 20 Jan 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-01-20-atelier/</guid>
+      <description>Meetup : https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/282268624/ Nombre de participants : 20 Animateurs: Johan Martinsson, Clément Bouillier et Florent Pellet Lieu: Campus Ynov Lyon  Description Vous vous dites qu&amp;rsquo;il faut arrêter de faire du logiciel couplé, arrêter de faire grossir le monolithe.</description>
+    </item>
+    
     <item>
       <title>Soirée talks DDD du Mercredi 8 Décembre 2021</title>
       <link>https://swcraftlyon.github.io/posts/2021-12-08-soiree-ddd/</link>

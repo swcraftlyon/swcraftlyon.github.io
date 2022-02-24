@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 10 Feb 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mardi 15 Février 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-02-15-coding-dojo-midi/</link>
+      <pubDate>Tue, 15 Feb 2022 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-02-15-coding-dojo-midi/</guid>
+      <description>Sujet : A la découverte de TDD via Mastermind Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Forum Ouvert</title>
       <link>https://swcraftlyon.github.io/posts/2022-02-10-forum-ouvert/</link>
@@ -23,6 +32,24 @@
       
       <guid>https://swcraftlyon.github.io/posts/2022-02-01-coding-dojo-soir/</guid>
       <description>Sujet : BugsZero Kata Format : Pair Langage : Java, TypeScript, C#, Kotlin Nombre de participants : 11  Déroulement Le format en pair programming pour ce kata du soir.</description>
+    </item>
+    
+    <item>
+      <title>Soirée lectures du Mardi 25 janvier 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-01-25-club-lecture/</link>
+      <pubDate>Tue, 25 Jan 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-01-25-club-lecture/</guid>
+      <description>Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Atelier Découpe mon monolithe</title>
+      <link>https://swcraftlyon.github.io/posts/2022-01-20-atelier/</link>
+      <pubDate>Thu, 20 Jan 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-01-20-atelier/</guid>
+      <description>Meetup : https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/282268624/ Nombre de participants : 20 Animateurs: Johan Martinsson, Clément Bouillier et Florent Pellet Lieu: Campus Ynov Lyon  Description Vous vous dites qu&amp;rsquo;il faut arrêter de faire du logiciel couplé, arrêter de faire grossir le monolithe.</description>
     </item>
     
     <item>
