@@ -22,7 +22,7 @@ Il est organisé par thématiques et patterns, Adrien recommande de commencer pa
 
 Livre avec des exemples proposés en JavaScript.  
 Comme pour le livre précédent, il n'est pas fait pour être lu cover to cover.  
-Propose des exemples de code où : 
+Propose des exemples de code où :
 - il faut identifier des code smells  
 - il propose des refactoring pour éliminer ces smells  
 
@@ -45,23 +45,23 @@ Démarche intéressante, d'autant plus du côté du testing.
 
 S'en suit une discussion sur les bénéfices et travers du mob programming.  
 
-**Talk: [REST next level : Ecrire des APIs web orientées métier](https://youtu.be/96vfLoM3yxY) de Julien Topçu** présenté par Nolwen
+**Talk: [REST next level : Ecrire des APIs web orientées métier](https://youtu.be/96vfLoM3yxY) de Julien Topçu** présenté par Nolwenn
 
 Présentation sur les API REST, propose une approche plus poussée que les 4 verbes classiques.  
 Le but est d'avoir des APIs plus complètes, et d'éviter de dupliquer le métier côté front. Idéalement, cela doit permettre de pouvoir changer les flux métier sans casser le front.  
 Permets de revoir la sémantique de nos APIs.  
 
-**Talk: [L’architecture ESA : le futur des API web](https://youtu.be/nizgrkIuuVs) de Kévin DUNGLAS** présenté par Nolwen
+**Talk: [L’architecture ESA : le futur des API web](https://youtu.be/nizgrkIuuVs) de Kévin DUNGLAS** présenté par Nolwenn
 
 L'objectif est de proposer des APIs plus performantes et surtout moins demandeuses en termes de volume de données échangé.  
 Framework PHP, mais les concepts présentés sont généralisables.  
 
-**Vidéos: [ITER ET LA FUSION - Visite du chantier du plus gros tokamak du monde](https://youtu.be/36WpRwY2DYw) de "Monsieur Bidouille"** et **[Du Soleil à ITER : une Histoire de la FUSION #11 Science](https://youtu.be/JjgcD2o7IME) de 
+**Vidéos: [ITER ET LA FUSION - Visite du chantier du plus gros tokamak du monde](https://youtu.be/36WpRwY2DYw) de "Monsieur Bidouille"** et **[Du Soleil à ITER : une Histoire de la FUSION #11 Science](https://youtu.be/JjgcD2o7IME) de
 "J'm'énerve pas, j'explique"** présenté par Colin
 
 Présentation autour du projet ITER, des activités et de la roadmap du projet.  
 Réflexion de Colin : redonne fois en l'humanité
-- collaboration internationnale  
+- collaboration internationale  
 - transparence du projet  
 
 Questionnement : comment planifient-ils ? Les activités menées n'ont jamais été faites, ils sont dans l'inconnu.  
@@ -79,7 +79,7 @@ Projet "portant" la carte du monde dans une console.
 
 **Blog: [The USE Method](https://www.brendangregg.com/usemethod.html)** présenté par Florent
 
-Achronyme pour "Utilization Saturation and Errors".  
+Acronyme pour "Utilization Saturation and Errors".  
 Permet de monitorer l'état de son système.  
 
 **Talk: [To DDD or not to DDD? What to do if your domain is boring?](https://youtu.be/h6WvetICeo4) de Weronika Łabaj** présenté par Florent
@@ -107,5 +107,5 @@ Discussions autour de la veille technique. Mais aussi des moyens que devrait nou
 
 ## Debrief
 
-Petite appréhension avant la soirée, est-ce que le format s'essoufle ? Finalement satisfait de la soirée.  
-Côté rafraichissant d'avoir d'autres sujets hors de la tech pure. Mais ne semble pas forcément avoir été apprécié de tous. Faut-il poser tout de même une thématique sur les sujets proposés ? Juste élargir et ne plus appeler seulement ça "soirée lecture".  
+Petite appréhension avant la soirée, est-ce que le format s'essouffle ? Finalement satisfait de la soirée.  
+Côté rafraîchissant d'avoir d'autres sujets hors de la tech pure. Mais ne semble pas forcément avoir été apprécié de tous. Faut-il poser tout de même une thématique sur les sujets proposés ? Juste élargir et ne plus appeler seulement ça "soirée lecture".  
