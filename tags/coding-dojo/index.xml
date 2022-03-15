@@ -6,14 +6,14 @@
     <description>Recent content in coding dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coding Dojo</title>
-      <link>https://swcraftlyon.github.io/posts/2021-11-23-coding-dojo/</link>
-      <pubDate>Tue, 23 Nov 2021 19:00:00 +0100</pubDate>
+      <title>Modular monolith with DDD</title>
+      <link>https://swcraftlyon.github.io/posts/2022-03-15-coding-dojo-soir/</link>
+      <pubDate>Tue, 15 Mar 2022 19:00:00 +0100</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2021-11-23-coding-dojo/</guid>
-      <description>Sujet: Coding Dojo Meetup: https://www.</description>
+      <guid>https://swcraftlyon.github.io/posts/2022-03-15-coding-dojo-soir/</guid>
+      <description>Sujet: Modular monolith with DDD Meetup: https://www.</description>
     </item>
     
   </channel>
