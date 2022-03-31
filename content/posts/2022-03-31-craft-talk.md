@@ -8,6 +8,7 @@ tags: ["talk"]
 - Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/284098519/
 - 39 inscrits / 68 présents dont 30 en même temps
 - Lieu: twitch
+- Vidéo: https://www.youtube.com/watch?v=W1dAByNWrLI
 
 ## Description
 
