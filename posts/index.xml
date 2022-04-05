@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 15 Mar 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game of Life</title>
+      <link>https://swcraftlyon.github.io/posts/2022-04-05-coding-dojo-soir/</link>
+      <pubDate>Tue, 05 Apr 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-04-05-coding-dojo-soir/</guid>
+      <description>Sujet: Modular monolith with DDD Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Faites confiance aux développeurs·euses de votre équipe</title>
       <link>https://swcraftlyon.github.io/posts/2022-03-31-craft-talk/</link>
