@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 11 Apr 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lectures</title>
+      <link>https://swcraftlyon.github.io/tags/lectures/</link>
+      <pubDate>Wed, 27 Apr 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://swcraftlyon.github.io/tags/live/</link>
+      <pubDate>Wed, 27 Apr 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://swcraftlyon.github.io/tags/talk/</link>
+      <pubDate>Wed, 27 Apr 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>DDD</title>
       <link>https://swcraftlyon.github.io/tags/ddd/</link>
@@ -35,15 +62,6 @@
     </item>
     
     <item>
-      <title>talk</title>
-      <link>https://swcraftlyon.github.io/tags/talk/</link>
-      <pubDate>Tue, 15 Mar 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>dojo</title>
       <link>https://swcraftlyon.github.io/tags/dojo/</link>
       <pubDate>Thu, 03 Mar 2022 12:15:00 +0100</pubDate>
@@ -58,24 +76,6 @@
       <pubDate>Thu, 10 Feb 2022 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/unconf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lectures</title>
-      <link>https://swcraftlyon.github.io/tags/lectures/</link>
-      <pubDate>Tue, 25 Jan 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>live</title>
-      <link>https://swcraftlyon.github.io/tags/live/</link>
-      <pubDate>Tue, 25 Jan 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/live/</guid>
       <description></description>
     </item>
     
