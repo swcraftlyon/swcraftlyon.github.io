@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo Mardi 22 Avril 2022"
-date: 2022-03-03T12:15:00+01:00
+date: 2022-04-22T12:15:00+01:00
 tags: ["dojo"]
 ---
 
