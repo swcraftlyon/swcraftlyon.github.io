@@ -6,7 +6,16 @@
     <description>Recent content in coding dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 05 Apr 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du soir : Calendly on steroids</title>
+      <link>https://swcraftlyon.github.io/posts/2022-05-27-coding-dojo-soir/</link>
+      <pubDate>Fri, 27 May 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-05-27-coding-dojo-soir/</guid>
+      <description>Sujet: Calendly on steroids Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Game of Life</title>
       <link>https://swcraftlyon.github.io/posts/2022-04-05-coding-dojo-soir/</link>
