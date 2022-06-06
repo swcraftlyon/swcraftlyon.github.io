@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://swcraftlyon.github.io/</loc>
+    <lastmod>2022-06-06T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/ddd/</loc>
+    <lastmod>2022-06-06T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/2022-06-06-forum-ouvert/</loc>
+    <lastmod>2022-06-06T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2022-06-06T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2022-06-06T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/unconf/</loc>
+    <lastmod>2022-06-06T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swcraftlyon.github.io/tags/coding-dojo/</loc>
     <lastmod>2022-05-27T19:00:00+01:00</lastmod>
   </url>
@@ -13,27 +43,7 @@
   </url>
   
   <url>
-    <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2022-05-27T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2022-05-27T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
-    <lastmod>2022-05-27T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://swcraftlyon.github.io/posts/2022-05-16-forum-ouvert/</loc>
-    <lastmod>2022-05-16T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/unconf/</loc>
     <lastmod>2022-05-16T19:00:00+01:00</lastmod>
   </url>
   
@@ -75,11 +85,6 @@
   <url>
     <loc>https://swcraftlyon.github.io/posts/2022-04-22-coding-dojo-midi/</loc>
     <lastmod>2022-04-22T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/ddd/</loc>
-    <lastmod>2022-04-11T19:00:00+01:00</lastmod>
   </url>
   
   <url>
