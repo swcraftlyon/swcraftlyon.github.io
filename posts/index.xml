@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 06 Jun 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Jeudi 16 Juin 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-06-16-coding-dojo-midi/</link>
+      <pubDate>Thu, 16 Jun 2022 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-06-16-coding-dojo-midi/</guid>
+      <description>Sujet : Theatrical Players Refactoring Kata (https://github.</description>
+    </item>
+    
     <item>
       <title>Forum Ouvert DDD</title>
       <link>https://swcraftlyon.github.io/posts/2022-06-06-forum-ouvert/</link>
