@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 16 Jun 2022 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lectures</title>
+      <link>https://swcraftlyon.github.io/tags/lectures/</link>
+      <pubDate>Mon, 27 Jun 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://swcraftlyon.github.io/tags/live/</link>
+      <pubDate>Mon, 27 Jun 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://swcraftlyon.github.io/tags/talk/</link>
+      <pubDate>Mon, 27 Jun 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dojo</title>
       <link>https://swcraftlyon.github.io/tags/dojo/</link>
@@ -40,33 +67,6 @@
       <pubDate>Fri, 27 May 2022 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/coding-dojo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>live</title>
-      <link>https://swcraftlyon.github.io/tags/live/</link>
-      <pubDate>Wed, 04 May 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/live/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://swcraftlyon.github.io/tags/talk/</link>
-      <pubDate>Wed, 04 May 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lectures</title>
-      <link>https://swcraftlyon.github.io/tags/lectures/</link>
-      <pubDate>Wed, 27 Apr 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
       <description></description>
     </item>
     
