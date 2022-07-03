@@ -29,7 +29,7 @@ S’il vous reste du temps, vous pourrez gérer deux autres cas :
 
 La session s'est déroulée en mob.
 L'utilisation conjointe de Discord et de la plateforme [CodeSandbox](https://codesandbox.io/) a permis de mettre en place une rotation facile des [drivers et navigators](https://martinfowler.com/articles/on-pair-programming.html#DriverAndNavigator).
-Nous n'avons implémenté que les règles de gestion relative aux propositions pierre, feuille et ciseaux.
+Nous n'avons implémenté que les règles de gestion relatives aux propositions pierre, feuille et ciseaux.
 
 ## Rétrospective
 
