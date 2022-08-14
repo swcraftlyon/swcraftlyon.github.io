@@ -6,7 +6,17 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Jun 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jul 2022 20:50:10 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rétrospective des mois écoulés</title>
+      <link>https://swcraftlyon.github.io/posts/2022-07-20-ag/</link>
+      <pubDate>Wed, 20 Jul 2022 20:50:10 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-07-20-ag/</guid>
+      <description>Personnes présentes :
+ Anthony Colin Florent Gautier Nolwenn Romain  Forum ouvert Le dernier forum ouvert était catastrophique.</description>
+    </item>
+    
     <item>
       <title>Soirée lectures du Mardi 28 juin 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-06-28-club-lecture/</link>
