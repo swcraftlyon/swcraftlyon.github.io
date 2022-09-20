@@ -7,7 +7,7 @@ tags: ["talk", "live", "lectures"]
 - Sujet: Club de lecture
 - Format: Discussion online
 - Meetup: https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/286154887/
-- Vidéo: 
+- Vidéo: https://www.youtube.com/watch?v=kU0UaTZ0v3I
 
 ## Retrospective DDD Europe
 
