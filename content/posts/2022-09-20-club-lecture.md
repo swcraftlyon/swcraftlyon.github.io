@@ -7,7 +7,7 @@ tags: ["talk", "live", "lectures"]
 - Sujet: Club de lecture
 - Format: Discussion online
 - Meetup: https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/287932702/
-- Vidéo: 
+- Vidéo: https://youtu.be/xOmS8zUU5AI
 
 ## Programming Conversations - Alex Stepanov and Paramjit Oberoi's
 https://www.youtube.com/playlist?list=PLHxtyCq_WDLXFAEA-lYoRNQIezL_vaSX-  
