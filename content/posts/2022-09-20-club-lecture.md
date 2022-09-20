@@ -11,7 +11,7 @@ tags: ["talk", "live", "lectures"]
 
 ## Programming Conversations - Alex Stepanov and Paramjit Oberoi's
 https://www.youtube.com/playlist?list=PLHxtyCq_WDLXFAEA-lYoRNQIezL_vaSX-  
-présenté par Gauthier
+présenté par Gautier
 
 Vidéos annexes: 
 - Bench sur la stack asp .net core: https://learn.microsoft.com/en-us/events/dotnetconf-2021/benchmarking-aspnet-applications-with-net-crank
