@@ -33,3 +33,6 @@ présenté par Gautier
 ## A Philosophy of Software Design - John Ousterhout
 https://www.goodreads.com/fr/book/show/39996759  
 présenté par Gautier
+
+Liens annexes: 
+- https://www.goodreads.com/book/show/57345272-code-that-fits-in-your-head
