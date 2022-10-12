@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo Mercredi 20 Juillet 2022"
-date: 2022-06-16T12:15:00+01:00
+date: 2022-07-20T12:15:00+01:00
 tags: ["dojo"]
 ---
 
