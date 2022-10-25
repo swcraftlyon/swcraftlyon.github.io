@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 10 Oct 2022 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EventStorming du Jeudi 20 Octobre 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-10-20-event-storming/</link>
+      <pubDate>Thu, 20 Oct 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-10-20-event-storming/</guid>
+      <description>Sujet : EventStorming sur le métier de l&amp;rsquo;engagement employé·e·s Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Midi Mercredi 12 Octobre 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-10-12-coding-dojo-midi/</link>
