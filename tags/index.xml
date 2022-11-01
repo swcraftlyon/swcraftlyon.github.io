@@ -6,13 +6,22 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 20 Oct 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DDD</title>
       <link>https://swcraftlyon.github.io/tags/ddd/</link>
-      <pubDate>Thu, 20 Oct 2022 19:00:00 +0100</pubDate>
+      <pubDate>Fri, 28 Oct 2022 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://swcraftlyon.github.io/tags/talk/</link>
+      <pubDate>Fri, 28 Oct 2022 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -49,15 +58,6 @@
       <pubDate>Tue, 20 Sep 2022 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/live/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://swcraftlyon.github.io/tags/talk/</link>
-      <pubDate>Tue, 20 Sep 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
       <description></description>
     </item>
     
