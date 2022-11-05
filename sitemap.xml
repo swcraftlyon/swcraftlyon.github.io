@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://swcraftlyon.github.io/posts/2022-11-05-code-retreat/</loc>
+    <lastmod>2022-11-05T09:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/code-retreat/</loc>
+    <lastmod>2022-11-05T09:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2022-10-28T19:00:00+02:00</lastmod>
+    <lastmod>2022-11-05T09:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2022-11-05T09:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2022-11-05T09:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -14,16 +34,6 @@
   
   <url>
     <loc>https://swcraftlyon.github.io/posts/2022-10-28-craft-talk-ddd-ex-avec-ts/</loc>
-    <lastmod>2022-10-28T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2022-10-28T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
     <lastmod>2022-10-28T19:00:00+02:00</lastmod>
   </url>
   
@@ -379,11 +389,6 @@
   
   <url>
     <loc>https://swcraftlyon.github.io/posts/2021-04-24-code-retreat/</loc>
-    <lastmod>2021-04-24T09:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/code-retreat/</loc>
     <lastmod>2021-04-24T09:30:00+02:00</lastmod>
   </url>
   
