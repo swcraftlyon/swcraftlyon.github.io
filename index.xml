@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 05 Nov 2022 09:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Midi Jeudi 10 novembre 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-11-10-coding-dojo-midi/</link>
+      <pubDate>Thu, 10 Nov 2022 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-11-10-coding-dojo-midi/</guid>
+      <description>Sujet : Hangman https://github.com/ardalis/kata-catalog/blob/main/katas/Hangman.md Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Code Retreat 05 Novembre 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-11-05-code-retreat/</link>
