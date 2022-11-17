@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 10 Nov 2022 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atelier DDD : modélisons nos agrégats pour mieux les découper</title>
+      <link>https://swcraftlyon.github.io/posts/2022-11-17-modelisation-aggregate/</link>
+      <pubDate>Thu, 17 Nov 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-11-17-modelisation-aggregate/</guid>
+      <description>Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315774/ Board Miro : https://miro.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Midi Jeudi 10 novembre 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-11-10-coding-dojo-midi/</link>

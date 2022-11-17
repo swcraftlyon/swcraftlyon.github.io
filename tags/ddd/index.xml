@@ -6,7 +6,16 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 28 Oct 2022 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atelier DDD : modélisons nos agrégats pour mieux les découper</title>
+      <link>https://swcraftlyon.github.io/posts/2022-11-17-modelisation-aggregate/</link>
+      <pubDate>Thu, 17 Nov 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-11-17-modelisation-aggregate/</guid>
+      <description>Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315774/ Board Miro : https://miro.</description>
+    </item>
+    
     <item>
       <title>Entrer dans le Domain Driven Design par l’exemple avec TypeScript Vendredi 28 Octobre 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-10-28-craft-talk-ddd-ex-avec-ts/</link>
