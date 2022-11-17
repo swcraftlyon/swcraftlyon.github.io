@@ -10,9 +10,9 @@ tags: ["ddd"]
 
 # Iteration 1 : Train reservation
 
-On arrive globalement à la même solution : Aggregate train et des entités pour Wagon, seat, ...
-Il est cependant possible d'avoir un aggregte Train et un aggregate Wagon qui permet une meilleur scalabilité. Cela demande la création d'un service Reservation pour orchestrer le tout.
-Une autre solution est d'utiliser des domain events pour changer de règle de remplissage ce qui pose des soucis de cohérence a terme et qui peut créer de la frustration pour les usagés.
+On arrive globalement à la même solution : Aggregate train et des entités pour Wagon, seat, ...  
+Il est cependant possible d'avoir un aggregte Train et un aggregate Wagon qui permet une meilleur scalabilité. Cela demande la création d'un service Reservation pour orchestrer le tout.  
+Une autre solution est d'utiliser des domain events pour changer de règle de remplissage ce qui pose des soucis de cohérence a terme et qui peut créer de la frustration pour les usagés.  
 
 # Iteration 2 : Team
 
@@ -41,9 +41,9 @@ Dans ce cas la création du projet ne peut pas se faire sans équipe
 
 ### Variantes project: 
 
-Project en ValueObject dans Team
-Project en Aggregate et lien dans Team
-Project en Aggregate et ValueObject de Team dans Project
+Project en ValueObject dans Team  
+Project en Aggregate et lien dans Team  
+Project en Aggregate et ValueObject de Team dans Project  
 
 ### Solution 1 : 
 
