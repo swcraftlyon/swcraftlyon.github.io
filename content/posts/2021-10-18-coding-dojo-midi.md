@@ -1,7 +1,7 @@
 ---
 title: "Coding Dojo lundi 18 octobre 2021"
 date: 2021-10-18T13:00:00+02:00
-tags: ["dojo", "kata"]
+tags: ["dojo"]
 aliases: [/posts/coding-dojo-18-10-2021/]
 ---
 - Sujet : [cli-args-parser](https://github.com/ivoputzer/cli-args-parser-kata)

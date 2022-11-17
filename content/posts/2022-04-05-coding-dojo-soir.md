@@ -1,7 +1,7 @@
 ---
 title: "Game of Life"
 date: 2022-04-05T19:00:00+01:00 
-tags: ["coding dojo"] 
+tags: ["dojo"] 
 ---
 
 - Sujet: Modular monolith with DDD

@@ -1,7 +1,7 @@
 ---
 title: "Coding dojo du soir : Calendly on steroids"
 date: 2022-05-27T19:00:00+01:00 
-tags: ["coding dojo"] 
+tags: ["dojo"] 
 ---
 
 - Sujet: Calendly on steroids

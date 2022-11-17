@@ -1,7 +1,7 @@
 ---
 title: "Coding Dojo jeudi 17 septembre 2021"
 date: 2021-09-17T19:00:00+02:00
-tags: ["dojo", "kata"]
+tags: ["dojo"]
 aliases: [/posts/coding-dojo-17-09-2021/]
 ---
 - Sujet : [Yatzee](https://github.com/emilybache/Yatzy-Refactoring-Kata)

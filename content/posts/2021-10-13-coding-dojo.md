@@ -1,7 +1,7 @@
 ---
 title: "Coding Dojo mercredi 13 octobre 2021"
 date: 2021-10-13T19:00:00+02:00
-tags: ["dojo", "kata"]
+tags: ["dojo"]
 aliases: [/posts/coding-dojo-13-10-2021/]
 ---
 

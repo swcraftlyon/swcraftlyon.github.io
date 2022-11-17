@@ -1,7 +1,7 @@
 ---
 title: "Coding Dojo jeudi 9 septembre 2021"
 date: 2021-09-09T19:00:00+02:00
-tags: ["dojo", "kata"]
+tags: ["dojo"]
 aliases: [/posts/coding-dojo-09-09-2021/]
 ---
 - Sujet : FizzBuzz

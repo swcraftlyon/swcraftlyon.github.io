@@ -1,7 +1,7 @@
 ---
 title: "Modular monolith with DDD"
 date: 2022-03-15T19:00:00+01:00 
-tags: ["coding dojo"] 
+tags: ["dojo"] 
 ---
 
 - Sujet: Modular monolith with DDD
