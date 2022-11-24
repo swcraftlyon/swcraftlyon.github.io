@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 17 Nov 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 21:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Soir Jeudi 24 novembre 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-11-24-coding-dojo-soir/</link>
+      <pubDate>Thu, 24 Nov 2022 21:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-11-24-coding-dojo-soir/</guid>
+      <description>Sujet : ExpenseReport (https://github.com/christianhujer/expensereport) Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Atelier DDD : modélisons nos agrégats pour mieux les découper</title>
       <link>https://swcraftlyon.github.io/posts/2022-11-17-modelisation-aggregate/</link>
