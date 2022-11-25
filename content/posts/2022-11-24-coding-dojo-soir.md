@@ -24,7 +24,7 @@ Problème technique avec discord... soi-disant... Forcé de devoir aller dans la
 
 ### Groupe java
 - Bien, mais certains ont été un peu perdus après le passage à des interfaces
-- Ils n'ont pas eu le temps de regarder la nouvelle 
+- Ils n'ont pas eu le temps de regarder la nouvelle feature
 
 ### Groupe fsharp
 - Galère sur le setup avec l'IDE (console, whitespace...)
