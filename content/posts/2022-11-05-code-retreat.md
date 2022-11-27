@@ -75,6 +75,11 @@ Sujet vraiment bien, première itération compliqué mais après assez libre de 
 - 4/5 : 14
 - 5/5 : 17
 
+L'ensemble des retours des facilitateurs sont également très positifs.
+
+Pistes d'améliorations:
+- Proposer des bootstraps pour éviter que certains groupes perdent une itération.
+
 ## Comptes-rendus externes
 
 - https://gautier.difolco.dev/2022-11/gdcr-summary/
