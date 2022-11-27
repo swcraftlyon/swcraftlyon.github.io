@@ -8,6 +8,14 @@ tags: ["code-retreat"]
 - Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/288442752/
 - 44 inscrit·e·s
 
+## Sujet
+
+Le sujet de cette année n'était pas le jeu de la vie.  
+Le but était de récupérer le cout de CO2 (et ses équivalents) des lancements des Falcon 9 sur une période donnée.  
+La construction et le lancement ont un cout. Et il faut donner l'équivalence par rapport à 1kg de Boeuf et un trajet Paris-New York.  
+Suivant la période, il faut y avoir plusieurs lancements, avec le réemploi ou non de la fusée.  
+Les données sont récupérables via l'api https://api.spacexdata.com/v5/launches  
+
 ## Session 1 (Discovery)
 
 Timming un peu court pour tout faire  
@@ -66,3 +74,7 @@ Sujet vraiment bien, première itération compliqué mais après assez libre de 
 - 3/5 : 2 (débutant donc rame, connaissais déjà le kata et pas de révolutions)
 - 4/5 : 14
 - 5/5 : 17
+
+## Comptes-rendus externes
+
+- https://gautier.difolco.dev/2022-11/gdcr-summary/
