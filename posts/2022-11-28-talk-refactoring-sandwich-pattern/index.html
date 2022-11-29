@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Coding Dojo Mardi 28 Mai 2019 - Compte-rendus des software crafters de Lyon</title>
-  <meta name="description" content="Sujet : Guilded Rose animé par Colin Format : Pair &#43; Mob Langage : Java, PHP, etc."><script type="application/ld+json">
+  <title>Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022 - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content="Sujet : Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022 Meetup : https://www."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -43,8 +43,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2019-05-28-coding-dojo\/",
-          "name": "Coding dojo mardi 28 mai 2019"
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2022-11-28-talk-refactoring-sandwich-pattern\/",
+          "name": "Refactoring avec le sandwich pattern par sepehr namdar lundi 28 novembre 2022"
         }
     }]
 }
@@ -55,15 +55,15 @@
   "author": {
     "name" : ""
   },
-  "headline": "Coding Dojo Mardi 28 Mai 2019",
-  "description" : "Sujet : Guilded Rose animé par Colin Format : Pair \u002b Mob Langage : Java, PHP, etc.",
+  "headline": "Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022",
+  "description" : "Sujet : Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022 Meetup : https:\/\/www.",
   "inLanguage" : "fr",
-  "wordCount":  218 ,
-  "datePublished" : "2019-05-28T20:28:33",
-  "dateModified" : "2019-05-28T20:28:33",
+  "wordCount":  302 ,
+  "datePublished" : "2022-11-28T19:00:00",
+  "dateModified" : "2022-11-28T19:00:00",
   "image" : "https:\/\/swcraftlyon.github.io\/",
-  "keywords" : [ "dojo" ],
-  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2019-05-28-coding-dojo\/",
+  "keywords" : [ "talk, DDD, refactoring" ],
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2022-11-28-talk-refactoring-sandwich-pattern\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "https:\/\/swcraftlyon.github.io\/",
@@ -77,14 +77,14 @@
 }
 </script>
 
-<meta property="og:title" content="Coding Dojo Mardi 28 Mai 2019" />
-<meta property="og:description" content="Sujet : Guilded Rose animé par Colin Format : Pair &#43; Mob Langage : Java, PHP, etc.">
-<meta property="og:url" content="https://swcraftlyon.github.io/posts/2019-05-28-coding-dojo/" />
+<meta property="og:title" content="Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022" />
+<meta property="og:description" content="Sujet : Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022 Meetup : https://www.">
+<meta property="og:url" content="https://swcraftlyon.github.io/posts/2022-11-28-talk-refactoring-sandwich-pattern/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
 
-  <meta name="twitter:title" content="Coding Dojo Mardi 28 Mai 2019" />
-  <meta name="twitter:description" content="Sujet : Guilded Rose animé par Colin Format : Pair &#43; Mob Langage : Java, PHP, etc.">
+  <meta name="twitter:title" content="Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 …" />
+  <meta name="twitter:description" content="Sujet : Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022 Meetup : https://www.">
   <meta name="twitter:card" content="summary" />
   <meta name="generator" content="Hugo 0.79.0" />
   <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
@@ -178,11 +178,11 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/forum-ouvert/">#forum ouvert</a></li>
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
+            <li><a href="https://swcraftlyon.github.io/tags/forum-ouvert/">#forum ouvert</a></li>
         
 
         
@@ -266,7 +266,7 @@
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="posts-heading">
               
-                <h1>Coding Dojo Mardi 28 Mai 2019</h1>
+                <h1>Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022</h1>
               
               
                 <hr class="small">
@@ -287,39 +287,48 @@
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         <ul>
-<li>Sujet : Guilded Rose animé par Colin</li>
-<li>Format : Pair + Mob</li>
-<li>Langage : Java, PHP, etc.</li>
-<li>Nombre de participants : 18</li>
+<li>Sujet : Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022</li>
+<li>Meetup : <a href="https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315830/">https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315830/</a></li>
+<li>36 spectateurs en moyenne</li>
+<li>Lieu : twitch</li>
+<li>Langage : Java</li>
+<li>Youtube : <a href="https://www.youtube.com/watch?v=1zZcXdJJzZU">https://www.youtube.com/watch?v=1zZcXdJJzZU</a></li>
 </ul>
-<p>Retours participants :</p>
+<h2 id="résumé">Résumé</h2>
+<p>Travailler avec un code legacy, procédural et sans tests est une tâche quotidienne de beaucoup d’entre nous, développeuses ou développeurs, et ce n’est pas très agréable.
+C’est pourquoi dans cette session de live coding nous allons nous intéresser au pattern Sandwich qui pourrait nous aider à refactorer ce genres de codes.</p>
+<p>Dans le pattern Sandwich, nous partons d&rsquo;une classe (généralement un Application Service). Nous identifions où elle utilise un état partagé (généralement à partir d&rsquo;une base de données). Ensuite, nous poussons ce code à ses extrêmes (haut et bas) entre lesquels nous avons un modèle du domaine immuable avec lequel nous pouvons interagir.</p>
+<p>L&rsquo;idée est de protéger notre code à l&rsquo;aide d&rsquo;ApprovalTest et de refactoriser ce code legacy en code centré sur le domaine. Nous utiliserons les bonnes pratiques de développement pour arriver finalement à des services qui correspondent au pattern Sandwich et à des objets du domaine riches et cohérents contenant des comportements métier.
+Entre les étapes de Refactoring, nous discuterons de :</p>
 <ul>
-<li>Feedback rapide avec le golden master (encore faut-il avoir un golden master !)</li>
-<li>Sans le jeu de données c&rsquo;est difficile</li>
-<li>La deuxième fois, c&rsquo;est vraiment beaucoup plus simple</li>
-<li>Pas de bug dans le code d&rsquo;origine -&gt; plutôt voir le kata Trivia pour expérimenter</li>
-<li>En essayant avec les tests unitaires en premier : meilleure granularité sur les règles métiers qui échouent. Est-ce plus lent ou rapide que le golden master ?</li>
-<li>Comment faire pour l&rsquo;objet &ldquo;Conjured&rdquo; ? L&rsquo;objectif c&rsquo;est de supprimer le golden master pour écrire des tests unitaires : on l&rsquo;attaque à ce moment là</li>
-<li>Manque d&rsquo;instruction sur ce qu&rsquo;il fallait faire ? Certains groupes n&rsquo;ont pas fait de refactoring mais ont implémentés les nouvelles fonctionnalités</li>
-<li>Deux heures, c&rsquo;est un peu court pour ce kata</li>
-<li>4 ont découvert le golden master, c&rsquo;est la première implémentation pour d&rsquo;autres (joie !)</li>
-<li>Pour éviter les effets de bords, Colin coupe le réseau</li>
-<li>Pour explorer le métier, découvrir le property-based peut être intéressant</li>
-<li>Frustrant au départ mais on y arrive à la fin</li>
-<li>Grave bien / 20</li>
+<li>Comment gérer le couplage temporel</li>
+<li>Domain Model Pureness Vs.Completeness</li>
+<li>Quelle est la différence entre un Application Service et un Domain Service ?</li>
+<li>Le pattern Sandwich nous aide-t-il à créer des Domain Services propres ?</li>
 </ul>
-<h3 id="roti">ROTI</h3>
+<h2 id="déroulement">Déroulement</h2>
+<p>Après quelques soucis de prise de son en amont du talk, tout s’est bien déroulé. Sepehr a dédié cette présentation à Mshsa Amini. C’est une des victimes de la répression du mouvement de libération des femmes iraniennes.</p>
+<h2 id="conférencier">Conférencier</h2>
+<h3 id="sepehr-namdar">Sepehr Namdar</h3>
+<p>Habitué des conférences craft et autres (DDD Europe notamment), il a cofondé le meetup DDD Iran.</p>
+<h2 id="roti">ROTI</h2>
 <ul>
-<li>3/5 : 1, c&rsquo;était plus dur en mob, plutôt à faire en pair</li>
-<li>4/5 : moitié</li>
-<li>5/5 : moitié</li>
+<li>1/5 : 0</li>
+<li>2/5 : 0</li>
+<li>3/5 : 2
+4/5 : 9</li>
+<li>5/5 : 1</li>
 </ul>
 
 
         
           <div class="blog-tags">
             
-              <a href="https://swcraftlyon.github.io//tags/dojo/">dojo</a>&nbsp;
+              <a href="https://swcraftlyon.github.io//tags/talk/">talk</a>&nbsp;
+            
+              <a href="https://swcraftlyon.github.io//tags/ddd/">DDD</a>&nbsp;
+            
+              <a href="https://swcraftlyon.github.io//tags/refactoring/">refactoring</a>&nbsp;
             
           </div>
         
@@ -333,13 +342,9 @@
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="https://swcraftlyon.github.io/posts/my-first-post/" data-toggle="tooltip" data-placement="top" title="Introduction des compte-rendus des software crafters">&larr; Post précédent</a>
+              <a href="https://swcraftlyon.github.io/posts/2022-11-24-coding-dojo-soir/" data-toggle="tooltip" data-placement="top" title="Coding Dojo Soir Jeudi 24 novembre 2022">&larr; Post précédent</a>
             </li>
           
-          
-            <li class="next">
-              <a href="https://swcraftlyon.github.io/posts/2019-06-11-coding-dojo/" data-toggle="tooltip" data-placement="top" title="Coding Dojo Mardi 11 Juin 2019">Post suivant &rarr;</a>
-            </li>
           
         </ul>
       
