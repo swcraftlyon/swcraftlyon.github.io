@@ -5,7 +5,7 @@ tags: ["dojo"]
 aliases: [/posts/coding-dojo-07-12-2022/]
 ---
 
-- Sujet : No Space Left On Device
+- Sujet : [No Space Left On Device](https://adventofcode.com/2022/day/7)
 - Format : Mob
 - Langage : Java
 - Nombre de participants : 5
@@ -28,8 +28,8 @@ Le [Gist](https://gist.github.com/NolwennD/de3178fb60ad187da503d1ab0759ff47) de 
 
 Bonne durée, pas trop simple.
 Nous étions le bon nombre pour faire un mob programming.
-Certains edge cases et refactoring ont été laissés de côté, mais l'essentiel a été traité.
-Nous aurions pu nommer les dossiers et les fichiers pour réduire gagner plus de certitudes sur les dossiers retournés par nos tests.
+Certains edge cases et refactorings ont été laissés de côté, mais l'essentiel a été traité.
+Nous aurions pu nommer les dossiers et les fichiers pour gagner plus de certitude sur les dossiers retournés par nos tests.
 
 ## ROTI
 
