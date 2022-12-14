@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Coding Dojo Mercredi 14 Décembre 2022 - Compte-rendus des software crafters de Lyon</title>
-  <meta name="description" content="Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge, vert et bleu."><script type="application/ld+json">
+  <meta name="description" content="Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (F00), vert (0F0) et bleu (00F)."><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -56,9 +56,9 @@
     "name" : ""
   },
   "headline": "Coding Dojo Mercredi 14 Décembre 2022",
-  "description" : "Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge, vert et bleu.",
+  "description" : "Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (F00), vert (0F0) et bleu (00F).",
   "inLanguage" : "fr",
-  "wordCount":  318 ,
+  "wordCount":  322 ,
   "datePublished" : "2022-12-14T12:15:00",
   "dateModified" : "2022-12-14T12:15:00",
   "image" : "https:\/\/swcraftlyon.github.io\/",
@@ -78,7 +78,7 @@
 </script>
 
 <meta property="og:title" content="Coding Dojo Mercredi 14 Décembre 2022" />
-<meta property="og:description" content="Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge, vert et bleu.">
+<meta property="og:description" content="Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (F00), vert (0F0) et bleu (00F).">
 <meta property="og:url" content="https://swcraftlyon.github.io/posts/2022-12-14-coding-dojo-midi/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
@@ -178,11 +178,11 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
+            <li><a href="https://swcraftlyon.github.io/tags/forum-ouvert/">#forum ouvert</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/forum-ouvert/">#forum ouvert</a></li>
+            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
         
 
         
@@ -293,14 +293,14 @@
 <li>Nombre de participants : 5</li>
 </ul>
 <h2 id="rappel-du-sujet">Rappel du sujet</h2>
-<p>On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs <code>rouge</code>, <code>vert</code> et <code>bleu</code>.</p>
+<p>On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (<code>F00</code>), vert (<code>0F0</code>) et bleu (<code>00F</code>).</p>
 <h2 id="déroulement">Déroulement</h2>
 <p>La session s&rsquo;est déroulée en mob.
 Anthony était driver.
 Nous avons commencé par exprimer les types <code>Component</code> et <code>Color</code>, puis en faisant du <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test-Driven Development</a>, nous avons commencé à implémenter la fonction <code>findNearest(Color): Color</code>.</p>
 <p>Au fur et à mesure que les cas tests ont été ajoutés, nous avons eu besoin d&rsquo;introduire la notion de distance entre <code>Component</code>s.</p>
 <p>Nous l&rsquo;avons d&rsquo;abord implémentée naïvement en soustrayant le charCode de la lettre représentant le nombre hexadécimal, mais la rupture entre <code>9</code> et <code>A</code> nous a fait préférer un mapping explicite.</p>
-<p>Une fois la distance exprimée pour un <code>Component</code> il restait à sommer la distance pour les 3 <code>Component</code>s composant une couleur, puis à exploiter cette distance entre 2 couleurs pour déterminer meilleure proximité.</p>
+<p>Une fois la distance exprimée pour un <code>Component</code> il restait à sommer la distance des 3 <code>Component</code>s constitutifs de la couleur, puis à exploiter cette distance entre 2 couleurs pour déterminer la meilleure proximité.</p>
 <h2 id="rétrospective">Rétrospective</h2>
 <ul>
 <li>Un kata pas si simple, qui offre des approches différentes.

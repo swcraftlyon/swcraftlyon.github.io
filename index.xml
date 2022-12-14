@@ -13,7 +13,7 @@
       <pubDate>Wed, 14 Dec 2022 12:15:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-12-14-coding-dojo-midi/</guid>
-      <description>Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge, vert et bleu.</description>
+      <description>Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (F00), vert (0F0) et bleu (00F).</description>
     </item>
     
     <item>
