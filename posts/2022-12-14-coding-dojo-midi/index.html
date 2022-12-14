@@ -58,7 +58,7 @@
   "headline": "Coding Dojo Mercredi 14 Décembre 2022",
   "description" : "Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (F00), vert (0F0) et bleu (00F).",
   "inLanguage" : "fr",
-  "wordCount":  322 ,
+  "wordCount":  336 ,
   "datePublished" : "2022-12-14T12:15:00",
   "dateModified" : "2022-12-14T12:15:00",
   "image" : "https:\/\/swcraftlyon.github.io\/",
@@ -170,17 +170,17 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
-        
             <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
         
+            <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
+        
             <li><a href="https://swcraftlyon.github.io/tags/event-storming/">#event storming</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/forum-ouvert/">#forum ouvert</a></li>
-        
-            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
         
@@ -300,7 +300,9 @@ Anthony était driver.
 Nous avons commencé par exprimer les types <code>Component</code> et <code>Color</code>, puis en faisant du <a href="https://en.wikipedia.org/wiki/Test-driven_development">Test-Driven Development</a>, nous avons commencé à implémenter la fonction <code>findNearest(Color): Color</code>.</p>
 <p>Au fur et à mesure que les cas tests ont été ajoutés, nous avons eu besoin d&rsquo;introduire la notion de distance entre <code>Component</code>s.</p>
 <p>Nous l&rsquo;avons d&rsquo;abord implémentée naïvement en soustrayant le charCode de la lettre représentant le nombre hexadécimal, mais la rupture entre <code>9</code> et <code>A</code> nous a fait préférer un mapping explicite.</p>
-<p>Une fois la distance exprimée pour un <code>Component</code> il restait à sommer la distance des 3 <code>Component</code>s constitutifs de la couleur, puis à exploiter cette distance entre 2 couleurs pour déterminer la meilleure proximité.</p>
+<p>Une fois la distance entre 2 <code>Component</code>s exprimée, la distance entre 2 <code>Color</code>s s&rsquo;obtient en sommant sur les 3 <code>Component</code>s.
+Reste alors à comparer les distances à rouge, vert et bleu pour déterminer la meilleure proximité.
+Faute de temps, nous nous sommes arrêtés avant de terminer cette étape.</p>
 <h2 id="rétrospective">Rétrospective</h2>
 <ul>
 <li>Un kata pas si simple, qui offre des approches différentes.
