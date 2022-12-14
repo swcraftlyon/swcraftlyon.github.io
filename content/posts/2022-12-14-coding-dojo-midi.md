@@ -24,7 +24,9 @@ Au fur et à mesure que les cas tests ont été ajoutés, nous avons eu besoin d
 
 Nous l'avons d'abord implémentée naïvement en soustrayant le charCode de la lettre représentant le nombre hexadécimal, mais la rupture entre `9` et `A` nous a fait préférer un mapping explicite.
 
-Une fois la distance exprimée pour un `Component` il restait à sommer la distance des 3 ``Component``s constitutifs de la couleur, puis à exploiter cette distance entre 2 couleurs pour déterminer la meilleure proximité.
+Une fois la distance entre 2 ``Component``s exprimée, la distance entre 2 ``Color``s s'obtient en sommant sur les 3 ``Component``s.
+Reste alors à comparer les distances à rouge, vert et bleu pour déterminer la meilleure proximité.
+Faute de temps, nous nous sommes arrêtés avant de terminer cette étape.
 
 ## Rétrospective
 
