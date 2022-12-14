@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 07 Dec 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mercredi 14 Décembre 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-12-14-coding-dojo-midi/</link>
+      <pubDate>Wed, 14 Dec 2022 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-12-14-coding-dojo-midi/</guid>
+      <description>Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5  Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge, vert et bleu.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mercredi 7 Décembre 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-12-07-coding-dojo-soir/</link>
