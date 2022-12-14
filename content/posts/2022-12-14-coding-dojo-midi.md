@@ -12,7 +12,7 @@ aliases: [/posts/coding-dojo-14-12-2022/]
 
 ## Rappel du sujet
 
-On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs `rouge`, `vert` et `bleu`.
+On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (`F00`), vert (`0F0`) et bleu (`00F`).
 
 ## Déroulement
 
@@ -24,7 +24,7 @@ Au fur et à mesure que les cas tests ont été ajoutés, nous avons eu besoin d
 
 Nous l'avons d'abord implémentée naïvement en soustrayant le charCode de la lettre représentant le nombre hexadécimal, mais la rupture entre `9` et `A` nous a fait préférer un mapping explicite.
 
-Une fois la distance exprimée pour un `Component` il restait à sommer la distance pour les 3 ``Component``s composant une couleur, puis à exploiter cette distance entre 2 couleurs pour déterminer meilleure proximité.
+Une fois la distance exprimée pour un `Component` il restait à sommer la distance des 3 ``Component``s constitutifs de la couleur, puis à exploiter cette distance entre 2 couleurs pour déterminer la meilleure proximité.
 
 ## Rétrospective
 
