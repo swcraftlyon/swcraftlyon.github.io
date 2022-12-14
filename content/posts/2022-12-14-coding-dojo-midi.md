@@ -20,7 +20,7 @@ La session s'est déroulée en mob.
 Anthony était driver.
 Nous avons commencé par exprimer les types `Component` et `Color`, puis en faisant du [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development), nous avons commencé à implémenter la fonction `findNearest(Color): Color`.
 
-Au fur et à mesure que les cas tests ont été ajoutés, nous avons eu besoin d'introduire la notion de distance entre `Component`.
+Au fur et à mesure que les cas tests ont été ajoutés, nous avons eu besoin d'introduire la notion de distance entre ``Component``s.
 
 Nous l'avons d'abord implémentée naïvement en soustrayant le charCode de la lettre représentant le nombre hexadécimal, mais la rupture entre `9` et `A` nous a fait préférer un mapping explicite.
 
@@ -37,7 +37,7 @@ Le kata force à découper.
 C'est très agréable de voir d'autres gens travailler, ça permet de voir comment ils raisonnent, prenant des directions différentes des nôtres.
 Un peu déçu de ne pas aller au bout.
 Permet de voir un TDD avec plus rigueur.
-- Comme souvent, on n'a pas pu aller au bout du kata, et la tentation de finir se fait au détriment du refactoring, étape clé du cycle Red-Green-Blue de TDD, c'est dommage que cette étape cruciale soit régulièrement sacrifiée.
+- Comme souvent, on n'a pas pu aller au bout du kata, et la tentation de finir se fait au détriment du refactoring, étape clé du cycle Red-Green-Refactor de TDD, c'est dommage que cette étape cruciale soit régulièrement sacrifiée.
 
 
 ## ROTI
