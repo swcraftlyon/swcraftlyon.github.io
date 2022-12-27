@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 14 Dec 2022 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Living documentation - tu ne sais pas encore mais tu l&#39;as déjà documenté</title>
+      <link>https://swcraftlyon.github.io/posts/2022-12-23-craft-talk/</link>
+      <pubDate>Fri, 23 Dec 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-12-23-craft-talk/</guid>
+      <description>Sujet : Living documentation - tu ne sais pas encore mais tu l&amp;rsquo;as déjà documenté Format : Talk Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mercredi 14 Décembre 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-12-14-coding-dojo-midi/</link>
