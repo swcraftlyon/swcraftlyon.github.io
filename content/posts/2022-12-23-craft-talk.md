@@ -6,27 +6,25 @@ tags: ["talk"]
 
 - Sujet : Living documentation - tu ne sais pas encore mais tu l'as déjà documenté
 - Format : Talk  
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289884378/
-- Replay : https://youtu.be/SC_anhY2Sag
-- Slides : https://baldir-fr.github.io/slides-living-documentation/#/
-- Repo des slides : https://github.com/baldir-fr/slides-living-documentation/
-
-## Living Documentation
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289884378/)
+- [Replay](https://youtu.be/SC_anhY2Sag)
+- [Slides](https://baldir-fr.github.io/slides-living-documentation/#/)
+- [Repo des slides](https://github.com/baldir-fr/slides-living-documentation/)
 
 Présentation par [Marc Bouvier](https://u.baldir.fr/me/) coach technique et co-organisateur du meetup [Software Crafters Strasbourg](https://swcraftstras.github.io/).
 
-### Qu'est-ce que la documentation ?
+## Qu'est-ce que la documentation ?
 
 Marc définit la documentation d'un produit informatique comme la connaissance partagée.
 Prenant l'exemple d'un consultant abordant un nouveau projet, il décrit les difficultés rencontrées pour accéder à une documentation utile.
 Les obstacles dans l'obtention des droits d'accès au repo, l'organisation du projet, la flakiness des tests, la dépendance à des outils tiers (suite Office) sont autant de facteurs agravants.
 
-### Que documenter ?
+## Que documenter ?
 
-Pour Marc, l'effort de documentation doit se faire sur les connaissances spécifiques, requises sur le long terme, ou par de nombreuses personnes.
+Pour Marc, l'effort de documentation doit porter sur les connaissances spécifiques, requises sur le long terme, ou par de nombreuses personnes.
 Il recommande de capitaliser sur la connaissance interne au produit : le code, les tests, les générateurs de documentation ([JavaDoc](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html#CHDFCBAD), [JSDoc](https://jsdoc.app/), [Doxygen](https://www.doxygen.nl/)...), les commentaires exécutables (pour [Python](https://docs.python.org/3/library/doctest.html), [Elixir](https://elixir-lang.org/getting-started/mix-otp/docs-tests-and-with.html), [Rust](https://doc.rust-lang.org/rustdoc/write-documentation/documentation-tests.html), ou [Go](https://github.com/apitoolkit/doctests)), les manifestes, l'IaC, les pipelines, les logs et traces, l'outillage... pour aboutir à une documentation vivante, fiable, collaborative et pertinente.
 
-### Des idées pour augmenter la documentation
+## Des idées pour augmenter la documentation
 
 Marc nous livre une quantité d'idées pour améliorer notre documentation :
 
@@ -54,7 +52,7 @@ Marc nous livre une quantité d'idées pour améliorer notre documentation :
 * Utiliser l'IDE pour générer les documentations techniques, diagrammes ad-hoc et graphes de dépendance
 * Commencer l'automatisation par la documentation des étapes nécessaires, puis en convertissant ces étapes en scripts appelés par un outil d'exécution de pipelines
 
-### L'importance des conversations entre humains
+## L'importance des conversations entre humains
 
 Au delà des outils, les conversations entre humains sont primordiales :
 
