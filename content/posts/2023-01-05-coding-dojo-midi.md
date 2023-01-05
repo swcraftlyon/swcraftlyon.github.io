@@ -33,5 +33,5 @@ Déterminer si un prix est soumis à une promotion en fonction de ses variations
 
 ## ROTI
 
-- 3/5 : 3
+- 3/5 : 4
 - 4/5 : 3
