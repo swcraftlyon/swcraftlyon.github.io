@@ -2,7 +2,7 @@
 title: "Coding Dojo Jeudi 19 Janvier 2023"
 date: 2023-01-19T19:00:00+01:00
 tags: ["dojo"]
-aliases: [/posts/coding-dojo-07-12-2022/]
+aliases: [/posts/coding-dojo-19-01-2023/]
 ---
 
 - Sujet : [Ohce](https://kata-log.rocks/ohce-kata)
