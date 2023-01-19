@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 11 Jan 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Jeudi 19 Janvier 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-01-19-coding-dojo-soir/</link>
+      <pubDate>Thu, 19 Jan 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-01-19-coding-dojo-soir/</guid>
+      <description>Sujet : Ohce Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Domain Message Flow Modeling</title>
       <link>https://swcraftlyon.github.io/posts/2023-01-11-ddd/</link>
