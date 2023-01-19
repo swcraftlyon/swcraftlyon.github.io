@@ -6,7 +6,16 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 28 Nov 2022 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Domain Message Flow Modeling</title>
+      <link>https://swcraftlyon.github.io/posts/2023-01-11-ddd/</link>
+      <pubDate>Wed, 11 Jan 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-01-11-ddd/</guid>
+      <description>Sujet: Domain Message Flow Modeling Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-11-28-talk-refactoring-sandwich-pattern/</link>
@@ -77,15 +86,6 @@
       
       <guid>https://swcraftlyon.github.io/posts/2022-01-20-atelier/</guid>
       <description>Meetup : https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/282268624/ Nombre de participants : 20 Animateurs: Johan Martinsson, Clément Bouillier et Florent Pellet Lieu: Campus Ynov Lyon  Description Vous vous dites qu&amp;rsquo;il faut arrêter de faire du logiciel couplé, arrêter de faire grossir le monolithe.</description>
-    </item>
-    
-    <item>
-      <title>Domain Message Flow Modeling</title>
-      <link>https://swcraftlyon.github.io/posts/2023-01-11-ddd/</link>
-      <pubDate>Tue, 11 Jan 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2023-01-11-ddd/</guid>
-      <description>Sujet: Domain Message Flow Modeling Meetup: https://www.</description>
     </item>
     
     <item>
