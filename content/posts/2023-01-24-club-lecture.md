@@ -9,7 +9,7 @@ tags: ["talk", "live", "lectures"]
 - Meetup: https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/290896484/
 - Vidéo: https://youtu.be/uec5Glruhbg
 
-## No eestimate - Colin
+## No estimate - Colin
 * Liens
   * Quora : [What are the techniques set by the Scrum guidelines for a task estimation in sprint planning? Are there any limitations to these techniques?](https://www.quora.com/What-are-the-techniques-set-by-the-Scrum-guidelines-for-a-task-estimation-in-sprint-planning-Are-there-any-limitations-to-these-techniques/answer/Jeff-Sutherland-10?srid=1yykhttps://ronjeffries.com/articles/019-01ff/story-points/Index.htmlhttps://www.youtube.com/watch?v=fZXV9YeAFnY) - Jeff Sutherland
   * Article : [Story Points Revisited](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) Ron Jeffries
