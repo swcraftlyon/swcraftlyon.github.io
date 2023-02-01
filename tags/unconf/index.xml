@@ -6,7 +6,16 @@
     <description>Recent content in unconf on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 06 Jun 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/unconf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/unconf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum Ouvert</title>
+      <link>https://swcraftlyon.github.io/posts/2023-02-01-forum-ouvert/</link>
+      <pubDate>Wed, 01 Feb 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-02-01-forum-ouvert/</guid>
+      <description>Sujet : Forum Ouvert Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Forum Ouvert DDD</title>
       <link>https://swcraftlyon.github.io/posts/2022-06-06-forum-ouvert/</link>
