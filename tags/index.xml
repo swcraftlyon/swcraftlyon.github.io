@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 01 Feb 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dojo</title>
+      <link>https://swcraftlyon.github.io/tags/dojo/</link>
+      <pubDate>Mon, 06 Feb 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/dojo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>unconf</title>
       <link>https://swcraftlyon.github.io/tags/unconf/</link>
@@ -49,15 +58,6 @@
       <pubDate>Mon, 23 Jan 2023 19:45:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/orga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dojo</title>
-      <link>https://swcraftlyon.github.io/tags/dojo/</link>
-      <pubDate>Thu, 19 Jan 2023 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/dojo/</guid>
       <description></description>
     </item>
     
