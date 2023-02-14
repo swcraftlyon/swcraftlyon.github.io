@@ -1,7 +1,7 @@
 ---
 title: "Réunion des crafters du Lundi 27 janvier 2023"
 date: 2023-01-23T19:45:00+01:00
-tags: ['orga']
+tags: ['team']
 ---
 
 ## Groupe
