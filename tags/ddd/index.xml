@@ -6,7 +6,16 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 11 Jan 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dessine moi une patate 22 Février 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-02-22-dessine-moi-une-patate/</link>
+      <pubDate>Wed, 22 Feb 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-02-22-dessine-moi-une-patate/</guid>
+      <description>Retrospective globale  Intéressant d&amp;rsquo;échanger sur un format auquel on n&amp;rsquo;est pas forcement habitué Intéressant d&amp;rsquo;avoir une vue d&amp;rsquo;ensemble des contexts maps Intéressant de représenter le client (laptop) Il faudrait en faire d&amp;rsquo;autres (une bonne cinquantaine) pour comprendre Intéressant de voir la dichotomie entre ce qu&amp;rsquo;on voudrait faire et ce qu&amp;rsquo;on fait vraiment Intéressant de revoir les stratégies de communication entre les contexts Question de l&amp;rsquo;utilisation de cet outil en entreprise et de l&amp;rsquo;utilité d&amp;rsquo;y intégrer les experts métier  Dans les discutions on se rend compte de différences même au sein de la même entreprise    Métier de la coiffure  Intéressant de découvrir un métier étonnement complexe &amp;ldquo;Je bosse dedans depuis quasiment 2 ans et j&amp;rsquo;ai appris des trucs&amp;rdquo; de la part de la personne qui présentait le sujet Une &amp;ldquo;nouvelle patate&amp;rdquo; est apparue parce que la map parraissait plus logique de cette manière  ROTI  3/5 : 4 4/5 : 15 5/5 : 5  </description>
+    </item>
+    
     <item>
       <title>Domain Message Flow Modeling</title>
       <link>https://swcraftlyon.github.io/posts/2023-01-11-ddd/</link>
