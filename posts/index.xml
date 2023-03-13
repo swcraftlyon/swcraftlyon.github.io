@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 22 Feb 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Midi Jeudi 8 mars 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-03-08-coding-dojo-midi/</link>
+      <pubDate>Wed, 08 Mar 2023 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-03-08-coding-dojo-midi/</guid>
+      <description>Sujet : Reversi/Othello Meetup Format : Mob Langage : Java Nombre de participants : 3  Déroulement Seulement trois participants, nous sommes partis sur un mob.</description>
+    </item>
+    
     <item>
       <title>Dessine moi une patate 22 Février 2023</title>
       <link>https://swcraftlyon.github.io/posts/2023-02-22-dessine-moi-une-patate/</link>
