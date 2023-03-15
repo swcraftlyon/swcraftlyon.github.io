@@ -8,11 +8,11 @@ aliases: [/posts/coding-dojo-14-03-2023/]
 - Sujet : [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
 - Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/291954690/
 - Format : 2 Mob
-- Nombre de participants : 8
+- Nombre de participants : 10
 
 ## Retrospective globale
 
-Départ sur un mob, puis deux avec les derniers arrivés. Démarrage un peu poussif pour choisir les setups et se répartir en deux groupes.
+Départ sur un mob, puis deux avec les derniers arrivés. Démarrage un peu poussif pour choisir les setups et se répartir en deux groupes. Dix participants puis deux sont partis en cours de route.
 
 ### Groupe Java
 
@@ -23,6 +23,7 @@ Départ sur un mob, puis deux avec les derniers arrivés. Démarrage un peu pous
 - Pas bien convaincu sur le début, un peu fouilli mais ça s’est stabilisé en cours de route. Le refactoring est arrivé un peu tard.
 - La classe Timeline gérait les souscriptions.
 - Le driver était un peu trop volontaire ! Les étapes étaient un peu grosses. Le nommage des tests n’était pas forcément adapté et reflétait plus un exemple métier qu’une règle.
+- le code produit : https://gitlab.com/pinage404/social-networking-kata-with-software-crafters-lyon/-/blob/main/src/hello.test.ts
 
 ## ROTI
 - 2/5 : 1
