@@ -100,14 +100,24 @@ Au global les participants étaient surpris de la richesse du kata car il n’au
 
 # C’est l’histoire de la vie, le cycle (presque) éternel.
 
+## Notes
+
+- Sujet : Game Of Life en commençant par la cellule
+- 9 pairs + 1 solo
+- 3 en C#, 2 en TypeScript, 4 en Java, 1 en Vue/TypeScript
+- Le participant en Vue à été jusqu'à sortir un visuel de la grille
+
 ## Rétrospective
 
-
+- Bonne introduction
+- Sujet simple à apréhendé
+- Bien guidé
+- Pas de gros problèmes
 
 ## ROTI
 
 - 1/5 : 
-- 2/5 : 
-- 3/5 : 
-- 4/5 : 
+- 2/5 : 2
+- 3/5 : 7
+- 4/5 : 5
 - 5/5 :
