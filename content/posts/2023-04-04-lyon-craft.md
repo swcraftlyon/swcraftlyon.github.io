@@ -30,17 +30,23 @@ Moyenne à 4/5
 
 # Codons un jeu du pendu
 
-## Rétrospective
+## Rétrospective intermédiaire
 
+Découverte du TDD, début difficile et du mal à voir la phase de refacto. 
+Choisir le niveau de scope des tests qui à tester des méthodes privées. Si trop haut niveau, trop long pour faire une implémentation rapide.
+Utilisation des tests paramétriques pour avoir des aspects plus comportementaux. Bémol sur les tests paramétriques qui tend à nommer la méthode de test `it_works`.
 
+## Rétrospective intermédiaire 2
+
+Stratégie de sprint sur le TCR avec du pseudo-code à implémenter en deux minutes. Viser le comportement qui doit apparaître avant les aspects techniques. Le but du TCR est de pousser au refactoring
+au plus tôt.
+
+Au global les participants étaient surpris de la richesse du kata car il n’autorise pas de faire un tout droit et c’est fini. Il permet de faire de nombreux choix design.
 
 ## ROTI
-
-- 1/5 : 
-- 2/5 : 
-- 3/5 : 
-- 4/5 : 
-- 5/5 :
+ 
+- 4/5 : 16
+- 5/5 : 2
 
 # Un démarrage TDD accéléré !
 
