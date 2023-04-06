@@ -50,6 +50,18 @@ Au global les participants étaient surpris de la richesse du kata car il n’au
 
 # Un démarrage TDD accéléré !
 
+## Présentation
+
+TDD c'est hyper difficile. Ah non en fait c'est facile. Ah, j'avais pas tout compris. Oh c'est ça ?"… Je vous propose de (re)démarrer ensemble la découverte de TDD, en live-coding. Objectif : booster votre apprentissage, reconnaître des erreurs de compréhension de TDD, et les bannir au plus vite.
+
+## Orateur
+
+Je suis développeur, lead dev, coach craft et practice manager chez Ippon. Mes passions tournent autour du Craftsmanship et de l'Ecologie, pour les deux termes dans mon environnement professionnel, et à la maison :)
+
+## Support
+
+https://github.com/onepunchmagne/garden
+
 # Du DDD chez Enedis, pourquoi ?
 
 # Initier une pattern library
