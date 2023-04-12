@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 28 Mar 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 09:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CR Lyon Craft 11 avril 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-04-11-cr-lyon-craft/</link>
+      <pubDate>Tue, 11 Apr 2023 09:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-04-11-cr-lyon-craft/</guid>
+      <description>Retours en vrac  Épuisant pour Colin, il aurait fallut plus d&amp;rsquo;orga visible lors de la keynote ; Il ne faut pas avoir plus de 150 personnes sur une journée pour maintenir les échanges ; La salle du fond (l&amp;rsquo;escale) n&amp;rsquo;était pas adaptée :  Passage vers les toilettes ; Tables trop petites.</description>
+    </item>
+    
     <item>
       <title>Tests d&#39;intégration: Rex sur l&#39;usage de TestContainers</title>
       <link>https://swcraftlyon.github.io/posts/2023-03-28-craft-talk/</link>
