@@ -12,7 +12,8 @@ aliases: [/posts/coding-dojo-25-04-2023/]
 
 ## Retrospective globale
 
-La base code est vieillissante pour les deux groupes.
+* La base code est vieillissante pour les deux groupes.
+* Que des débutants en katas
 
 ### Groupe PHP puis C# puis TypeScript
 
