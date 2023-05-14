@@ -1,7 +1,7 @@
 ---
 title: "Forum ouvert avec le CARA"
 date: 2022-03-15T19:00:00+01:00 
-tags: ["forum ouvert"] 
+tags: ["unconf"] 
 ---
 
 - Sujet: Forum ouvert avec le CARA

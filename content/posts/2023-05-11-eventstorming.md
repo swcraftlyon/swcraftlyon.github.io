@@ -1,7 +1,7 @@
 ---
 title: "Initiation à l'EventStorming"
 date: 2023-05-11T19:00:00+02:00
-tags: ["event storming", "ddd"]
+tags: ["Event Storming", "ddd"]
 ---
 
 - Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229227/
