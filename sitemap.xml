@@ -1,829 +1,499 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/2023-04-25-coding-dojo-soir/</loc>
-    <lastmod>2023-04-25T19:00:00+02:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://swcraftlyon.github.io/</loc>
+    <lastmod>2023-05-11T19:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/ddd/</loc>
+    <lastmod>2023-05-11T19:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/event-storming/</loc>
+    <lastmod>2023-05-11T19:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/2023-05-11-eventstorming/</loc>
+    <lastmod>2023-05-11T19:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2023-05-11T19:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2023-05-11T19:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/2023-04-25-coding-dojo-soir/</loc>
     <lastmod>2023-04-25T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
     <lastmod>2023-04-25T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2023-04-25T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
-    <lastmod>2023-04-25T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-04-20-coding-dojo-midi/</loc>
     <lastmod>2023-04-20T12:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-04-11-cr-lyon-craft/</loc>
     <lastmod>2023-04-11T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/lyon-craft/</loc>
     <lastmod>2023-04-11T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/talk/</loc>
     <lastmod>2023-03-28T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-03-28-craft-talk/</loc>
     <lastmod>2023-03-28T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-03-21-coding-dojo-soir-bis/</loc>
     <lastmod>2023-03-21T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-03-14-coding-dojo-soir/</loc>
     <lastmod>2023-03-14T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-03-08-coding-dojo-midi/</loc>
     <lastmod>2023-03-08T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/ddd/</loc>
-    <lastmod>2023-02-22T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-02-22-dessine-moi-une-patate/</loc>
     <lastmod>2023-02-22T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-02-16-coding-dojo-midi/</loc>
     <lastmod>2023-02-16T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-02-06-coding-dojo/</loc>
     <lastmod>2023-02-06T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-02-01-forum-ouvert/</loc>
     <lastmod>2023-02-01T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/unconf/</loc>
     <lastmod>2023-02-01T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/lectures/</loc>
     <lastmod>2023-01-24T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/live/</loc>
     <lastmod>2023-01-24T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-01-24-club-lecture/</loc>
     <lastmod>2023-01-24T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-01-23-reunion-crafters/</loc>
     <lastmod>2023-01-23T19:45:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/team/</loc>
     <lastmod>2023-01-23T19:45:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-01-19-coding-dojo-soir/</loc>
     <lastmod>2023-01-19T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-01-11-ddd/</loc>
     <lastmod>2023-01-11T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-01-05-coding-dojo-midi/</loc>
     <lastmod>2023-01-05T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-12-23-craft-talk/</loc>
     <lastmod>2022-12-23T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-12-14-coding-dojo-midi/</loc>
     <lastmod>2022-12-14T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-12-07-coding-dojo-soir/</loc>
     <lastmod>2022-12-07T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/refactoring/</loc>
     <lastmod>2022-11-28T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-11-28-talk-refactoring-sandwich-pattern/</loc>
     <lastmod>2022-11-28T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-11-24-coding-dojo-soir/</loc>
     <lastmod>2022-11-24T21:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-11-17-modelisation-aggregate/</loc>
     <lastmod>2022-11-17T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-11-10-coding-dojo-midi/</loc>
     <lastmod>2022-11-10T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-11-05-code-retreat/</loc>
     <lastmod>2022-11-05T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/code-retreat/</loc>
     <lastmod>2022-11-05T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-10-28-craft-talk-ddd-ex-avec-ts/</loc>
     <lastmod>2022-10-28T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/event-storming/</loc>
-    <lastmod>2022-10-20T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-10-20-event-storming/</loc>
     <lastmod>2022-10-20T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-10-12-coding-dojo-midi/</loc>
     <lastmod>2022-10-10T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-10-03-coding-dojo-soir/</loc>
     <lastmod>2022-10-03T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-09-28-coding-dojo-du-soir/</loc>
     <lastmod>2022-09-28T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-09-20-club-lecture/</loc>
     <lastmod>2022-09-20T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-09-14-coding-dojo-midi/</loc>
     <lastmod>2022-09-14T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-09-08-coding-dojo-soir/</loc>
     <lastmod>2022-09-08T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-07-20-ag/</loc>
     <lastmod>2022-07-20T20:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-07-20-coding-dojo-midi/</loc>
     <lastmod>2022-07-20T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-06-28-club-lecture/</loc>
     <lastmod>2022-06-27T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-06-21-coding-dojo-soir/</loc>
     <lastmod>2022-06-21T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-07-06-coding-dojo-soir/</loc>
     <lastmod>2022-06-16T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-06-16-coding-dojo-midi/</loc>
     <lastmod>2022-06-16T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-06-06-forum-ouvert/</loc>
     <lastmod>2022-06-06T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-05-27-coding-dojo-soir/</loc>
     <lastmod>2022-05-27T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-05-16-forum-ouvert/</loc>
     <lastmod>2022-05-16T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-05-12-coding-dojo-midi/</loc>
     <lastmod>2022-05-12T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-05-04-back-from-devoxx/</loc>
     <lastmod>2022-05-04T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-04-27-club-lecture/</loc>
     <lastmod>2022-04-27T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-04-22-coding-dojo-midi/</loc>
     <lastmod>2022-04-22T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-04-11-ddd/</loc>
     <lastmod>2022-04-11T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-04-05-coding-dojo-soir/</loc>
     <lastmod>2022-04-05T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-03-31-craft-talk/</loc>
     <lastmod>2022-03-15T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swcraftlyon.github.io/tags/forum-ouvert/</loc>
-    <lastmod>2022-03-15T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-03-22-forum-ouvert/</loc>
     <lastmod>2022-03-15T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-03-15-coding-dojo-soir/</loc>
     <lastmod>2022-03-15T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-03-10-ddd/</loc>
     <lastmod>2022-03-10T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-03-03-coding-dojo-midi/</loc>
     <lastmod>2022-03-03T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-02-24-craft-talk/</loc>
     <lastmod>2022-02-24T19:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-02-15-coding-dojo-midi/</loc>
     <lastmod>2022-02-15T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-02-10-forum-ouvert/</loc>
     <lastmod>2022-02-10T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-02-01-coding-dojo-soir/</loc>
     <lastmod>2022-02-01T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-01-25-club-lecture/</loc>
     <lastmod>2022-01-25T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-01-20-atelier/</loc>
     <lastmod>2022-01-20T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-01-12-coding-dojo-midi/</loc>
     <lastmod>2022-01-12T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2022-01-06-coding-dojo-soir/</loc>
     <lastmod>2022-01-06T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-12-21-coding-dojo/</loc>
     <lastmod>2021-12-21T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-12-15-craft-talk/</loc>
     <lastmod>2021-12-15T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-12-08-soiree-ddd/</loc>
     <lastmod>2021-12-08T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-11-29-club-lecture/</loc>
     <lastmod>2021-11-29T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-11-23-coding-dojo/</loc>
     <lastmod>2021-11-23T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-11-16-forum-ouvert/</loc>
     <lastmod>2021-11-16T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-11-05-coding-dojo-midi/</loc>
     <lastmod>2021-11-09T09:05:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-10-26-craft-talk/</loc>
     <lastmod>2021-10-26T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-10-18-coding-dojo-midi/</loc>
     <lastmod>2021-10-18T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-10-13-coding-dojo/</loc>
     <lastmod>2021-10-13T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/clinic/</loc>
     <lastmod>2021-10-05T21:00:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/event-modeling/</loc>
     <lastmod>2021-10-05T21:00:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-10-05-ddd/</loc>
     <lastmod>2021-10-05T21:00:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-09-29-club-lecture/</loc>
     <lastmod>2021-09-29T21:00:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-09-21-forum-ouvert/</loc>
     <lastmod>2021-09-21T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-09-17-coding-dojo-midi/</loc>
     <lastmod>2021-09-17T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-09-09-coding-dojo-soir/</loc>
     <lastmod>2021-09-09T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-07-27-ddd/</loc>
     <lastmod>2021-07-27T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-06-15-club-lecture/</loc>
     <lastmod>2021-06-21T10:38:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-06-10-coding-dojo/</loc>
     <lastmod>2021-06-21T09:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-06-04-coding-dojo/</loc>
     <lastmod>2021-06-05T10:40:54+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-05-12-ddd/</loc>
     <lastmod>2021-05-12T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-05-05-coding-dojo/</loc>
     <lastmod>2021-05-05T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/tags/mob/</loc>
     <lastmod>2021-05-05T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-04-28-forum-ouvert/</loc>
     <lastmod>2021-04-28T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-04-24-code-retreat/</loc>
     <lastmod>2021-04-24T09:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-04-22-club-lecture/</loc>
     <lastmod>2021-04-22T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-04-13-coding-dojo/</loc>
     <lastmod>2021-04-13T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-04-07-coding-dojo/</loc>
     <lastmod>2021-04-07T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-04-01-retro/</loc>
     <lastmod>2021-04-06T20:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-03-16-coding-dojo/</loc>
     <lastmod>2021-03-16T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-03-11-open-forum/</loc>
     <lastmod>2021-03-11T18:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-03-04-coding-dojo/</loc>
     <lastmod>2021-03-04T12:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-02-22-club-lecture/</loc>
     <lastmod>2021-02-22T20:45:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-02-16-coding-dojo/</loc>
     <lastmod>2021-02-16T20:45:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-02-10-coding-dojo/</loc>
     <lastmod>2021-02-10T13:45:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-01-27-craft-talk/</loc>
     <lastmod>2021-01-27T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-01-21-forum-ouvert/</loc>
     <lastmod>2021-01-21T13:45:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-01-11-coding-dojo/</loc>
     <lastmod>2021-01-11T13:45:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2021-01-06-coding-dojo/</loc>
     <lastmod>2021-01-06T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-12-21-coding-dojo-russie/</loc>
     <lastmod>2020-12-21T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-12-18-book/</loc>
     <lastmod>2020-12-18T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-12-15-coding-dojo/</loc>
     <lastmod>2020-12-15T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-12-10-ddd/</loc>
     <lastmod>2020-12-10T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-12-02-coding-dojo/</loc>
     <lastmod>2020-12-02T13:47:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-11-23-lyontechhub/</loc>
     <lastmod>2020-11-23T22:00:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-11-13-coding-dojo/</loc>
     <lastmod>2020-11-15T13:47:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-11-07-gdcr/</loc>
     <lastmod>2020-11-07T17:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-10-29-book/</loc>
     <lastmod>2020-10-29T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-10-13-ddd/</loc>
     <lastmod>2020-10-13T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-10-08-coding-dojo/</loc>
     <lastmod>2020-10-08T19:06:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-09-15-retro/</loc>
     <lastmod>2020-09-15T12:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-08-25-retro/</loc>
     <lastmod>2020-08-25T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-07-23-book/</loc>
     <lastmod>2020-07-23T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-07-15-coding-dojo/</loc>
     <lastmod>2020-07-15T14:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-06-22-ddd/</loc>
     <lastmod>2020-06-22T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-06-02-retro/</loc>
     <lastmod>2020-06-02T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-05-25-ddd-au-quotidien/</loc>
     <lastmod>2020-05-25T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-05-19-coding-dojo/</loc>
     <lastmod>2020-05-19T14:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-05-13-talk/</loc>
     <lastmod>2020-05-13T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-05-07-talk/</loc>
     <lastmod>2020-05-07T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-04-29-coding-dojo/</loc>
     <lastmod>2020-04-29T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-04-21-ddd/</loc>
     <lastmod>2020-04-21T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-04-15-coding-dojo/</loc>
     <lastmod>2020-04-15T14:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-04-08-coding-dojo/</loc>
     <lastmod>2020-04-08T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-04-02-ddd/</loc>
     <lastmod>2020-04-02T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-03-27-coding-dojo/</loc>
     <lastmod>2020-03-27T14:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-02-20-coding-dojo/</loc>
     <lastmod>2020-02-20T13:44:25+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-02-14-coding-dojo/</loc>
     <lastmod>2020-02-14T13:44:25+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-02-12-ddd/</loc>
     <lastmod>2020-02-12T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-01-27-ddd/</loc>
     <lastmod>2020-01-27T13:44:25+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-01-21-coding-dojo/</loc>
     <lastmod>2020-01-17T13:44:25+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2020-01-17-coding-dojo/</loc>
     <lastmod>2020-01-17T13:44:25+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-12-09-ddd/</loc>
     <lastmod>2019-12-09T19:06:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-12-02-coding-dojo/</loc>
     <lastmod>2019-12-02T20:33:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-11-27-ddd/</loc>
     <lastmod>2019-11-27T19:06:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/</loc>
     <lastmod>2019-11-16T09:43:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-10-21-coding-dojo/</loc>
     <lastmod>2019-10-21T20:28:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-10-09-ddd/</loc>
     <lastmod>2019-10-09T19:06:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-09-24-coding-dojo/</loc>
     <lastmod>2019-09-24T13:24:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-09-11-ddd/</loc>
     <lastmod>2019-09-11T10:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-07-22-coding-dojo/</loc>
     <lastmod>2019-08-01T17:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-07-16-coding-dojo/</loc>
     <lastmod>2019-07-16T22:06:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-07-08-ddd/</loc>
     <lastmod>2019-07-08T19:06:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-06-26-ddd/</loc>
     <lastmod>2019-06-26T10:38:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-06-20-coding-dojo/</loc>
     <lastmod>2019-06-20T20:45:05+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-06-11-coding-dojo/</loc>
     <lastmod>2019-06-11T13:44:25+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2019-05-28-coding-dojo/</loc>
     <lastmod>2019-05-28T20:28:33+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/my-first-post/</loc>
     <lastmod>2019-05-25T13:02:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swcraftlyon.github.io/categories/</loc>
   </url>
-  
 </urlset>
