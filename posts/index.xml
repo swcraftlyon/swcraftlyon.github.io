@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 16 May 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lighning talks avec les Human Talk Lyon</title>
+      <link>https://swcraftlyon.github.io/posts/2023-05-23-lighning-talks/</link>
+      <pubDate>Tue, 23 May 2023 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-05-23-lighning-talks/</guid>
+      <description>Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229231/ Format : Présentiel Nombre de participants : 18 Objectif L&amp;rsquo;objectif est d&amp;rsquo;avoir 4 talks de 10 minutes (suivis de 5 minutes de questions) et d&amp;rsquo;avoir une &amp;ldquo;réponse&amp;rdquo; à ces talks lors de la session des Human Talks du 13 Juin.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du mardi 16 mai 2023</title>
       <link>https://swcraftlyon.github.io/posts/2023-05-16-coding-dojo-soir/</link>
