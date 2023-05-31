@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 16 May 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 May 2023 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initiation au TDD</title>
+      <link>https://swcraftlyon.github.io/posts/2023-05-31-coding-dojo-soir/</link>
+      <pubDate>Wed, 31 May 2023 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-05-31-coding-dojo-soir/</guid>
+      <description>Sujet : Bowling Game Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du mardi 16 mai 2023</title>
       <link>https://swcraftlyon.github.io/posts/2023-05-16-coding-dojo-soir/</link>
