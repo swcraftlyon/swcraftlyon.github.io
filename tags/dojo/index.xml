@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 31 May 2023 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mardi 6 Juin 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-06-06-coding-dojo-midi/</link>
+      <pubDate>Tue, 06 Jun 2023 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-06-06-coding-dojo-midi/</guid>
+      <description>Sujet : Pierre Feuille Ciseaux Meetup Format : Mob Langage : Java et TypeScript Nombre de participants : 8 Rappel du sujet Il s’agit d’implémenter les règles du jeu, qui se joue à deux, dont voici un rappel :</description>
+    </item>
+    
     <item>
       <title>Initiation au TDD</title>
       <link>https://swcraftlyon.github.io/posts/2023-05-31-coding-dojo-soir/</link>
@@ -221,15 +230,6 @@
       
       <guid>https://swcraftlyon.github.io/posts/2022-06-16-coding-dojo-midi/</guid>
       <description>Sujet : Theatrical Players Refactoring Kata (https://github.</description>
-    </item>
-    
-    <item>
-      <title>Coding Dojo Mardi 6 Juin 2023</title>
-      <link>https://swcraftlyon.github.io/posts/2023-06-06-coding-dojo-midi/</link>
-      <pubDate>Mon, 06 Jun 2022 12:15:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2023-06-06-coding-dojo-midi/</guid>
-      <description>Sujet : Pierre Feuille Ciseaux Meetup Format : Mob Langage : Java et TypeScript Nombre de participants : 8 Rappel du sujet Il s’agit d’implémenter les règles du jeu, qui se joue à deux, dont voici un rappel :</description>
     </item>
     
     <item>
