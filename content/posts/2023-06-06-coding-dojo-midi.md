@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo Mardi 6 Juin 2023"
-date: 2022-06-06T12:15:00+01:00
+date: 2023-06-06T12:15:00+01:00
 tags: ["dojo"]
 aliases: [/posts/coding-dojo-06-06-2023/]
 ---
