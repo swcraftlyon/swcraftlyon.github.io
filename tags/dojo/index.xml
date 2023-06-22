@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 06 Jun 2023 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jun 2023 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie rental refactoring</title>
+      <link>https://swcraftlyon.github.io/posts/2023-06-21-coding-dojo-soir/</link>
+      <pubDate>Wed, 21 Jun 2023 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-06-21-coding-dojo-soir/</guid>
+      <description>Sujet : Movie rental Repository de départ : https://gitlab.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mardi 6 Juin 2023</title>
       <link>https://swcraftlyon.github.io/posts/2023-06-06-coding-dojo-midi/</link>
