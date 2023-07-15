@@ -50,12 +50,12 @@ Utilisant Eclipse comme IDE, Les tests Cucumber ne sont pas lancés automatiquem
 La feature Cucumber sera son test rouge le plus longtemps.
 La première boucle de TDD démarre avec un test JUnit, avec le cas élémentaire d'une liste d'applications vide.
 
-Maxime recommande de lancer les tests tout le temps, et avec le couverture, pour attraper les régressions au plus tôt.
+Maxime recommande de lancer les tests tout le temps, et avec la couverture, pour attraper les régressions au plus tôt.
 
 Plus on a de tests, plus ils sont faciles à écrire, car la plomberie nécessaire à leur rédaction existe déjà.
 
 La conception émerge au fur et à mesure des remaniements.
-Au cours du live-coding, on voit apparaître que le le taux de complétion typé `int` serait plus justement décrit par un type  `PercentRate`.
+Au cours du live-coding, on voit apparaître que le taux de complétion typé `int` serait plus justement décrit par un type  `PercentRate`.
 
 Les tests unitaires devraient avoir un nom parlant, et leur code organisé en [Arrange-Act-Assert](https://learn.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2022#write-your-tests) ou [Given-When-Then](https://en.wikipedia.org/wiki/Given-When-Then).
 
