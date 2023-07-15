@@ -58,7 +58,7 @@
   "headline": "Le TDD du Kata à la Production",
   "description" : "Sujet : Le TDD du Kata à la Production Format : Talk Meetup Présentation par Maxime Dezette, développeur chez Groupe PSIH, de pistes pour pratiquer le TDD au quotidien.",
   "inLanguage" : "fr",
-  "wordCount":  924 ,
+  "wordCount":  923 ,
   "datePublished" : "2023-07-03T19:15:00",
   "dateModified" : "2023-07-03T19:15:00",
   "image" : "https:\/\/swcraftlyon.github.io\/",
@@ -170,19 +170,19 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
-        
             <li><a href="https://swcraftlyon.github.io/tags/event-storming/">#Event Storming</a></li>
         
+            <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
+        
             <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
-        
-            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
         
 
         
@@ -323,10 +323,10 @@ En termes d&rsquo;architecture, l&rsquo;application est une petite API REST avec
 Utilisant Eclipse comme IDE, Les tests Cucumber ne sont pas lancés automatiquement, au contraire des tests unitaires qui le sont à chaque changement.
 La feature Cucumber sera son test rouge le plus longtemps.
 La première boucle de TDD démarre avec un test JUnit, avec le cas élémentaire d&rsquo;une liste d&rsquo;applications vide.</p>
-<p>Maxime recommande de lancer les tests tout le temps, et avec le couverture, pour attraper les régressions au plus tôt.</p>
+<p>Maxime recommande de lancer les tests tout le temps, et avec la couverture, pour attraper les régressions au plus tôt.</p>
 <p>Plus on a de tests, plus ils sont faciles à écrire, car la plomberie nécessaire à leur rédaction existe déjà.</p>
 <p>La conception émerge au fur et à mesure des remaniements.
-Au cours du live-coding, on voit apparaître que le le taux de complétion typé <code>int</code> serait plus justement décrit par un type  <code>PercentRate</code>.</p>
+Au cours du live-coding, on voit apparaître que le taux de complétion typé <code>int</code> serait plus justement décrit par un type  <code>PercentRate</code>.</p>
 <p>Les tests unitaires devraient avoir un nom parlant, et leur code organisé en <a href="https://learn.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2022#write-your-tests">Arrange-Act-Assert</a> ou <a href="https://en.wikipedia.org/wiki/Given-When-Then">Given-When-Then</a>.</p>
 <p>Pour savoir quoi tester, on peut établir une todo list comme décrit dans <a href="https://www.amazon.fr/Test-Driven-Development-Kent-Beck/dp/0321146530">Test Driven Development: By Example</a> de Kent Beck, formalisée à côté, sinon dans la tête.
 Le pattern <a href="http://blog.wingman-sw.com/tdd-guided-by-zombies">ZOMBIES</a> décrit par James Grenning, peut aider, tout comme ajouter un futur test avec une instruction <code>throw</code>, ou mettre en place une règle SonarQube qui force à traiter les TODOs.</p>
