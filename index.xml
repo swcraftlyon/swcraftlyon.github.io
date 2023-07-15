@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 21 Jun 2023 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 19:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le TDD du Kata à la Production</title>
+      <link>https://swcraftlyon.github.io/posts/2023-07-03-craft-talk/</link>
+      <pubDate>Mon, 03 Jul 2023 19:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-07-03-craft-talk/</guid>
+      <description>Sujet : Le TDD du Kata à la Production Format : Talk Meetup Présentation par Maxime Dezette, développeur chez Groupe PSIH, de pistes pour pratiquer le TDD au quotidien.</description>
+    </item>
+    
     <item>
       <title>Movie rental refactoring</title>
       <link>https://swcraftlyon.github.io/posts/2023-06-21-coding-dojo-soir/</link>
