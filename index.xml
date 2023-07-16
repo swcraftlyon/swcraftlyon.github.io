@@ -31,7 +31,7 @@
       <pubDate>Wed, 21 Jun 2023 12:15:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-06-21-coding-dojo-soir/</guid>
-      <description>Sujet : Movie rental Repository de départ : https://gitlab.</description>
+      <description>Sujet : Movie rental Repository de départ Meetup Format : mob, online sur discord Nombre de participants : 7 (/ 11 inscrits) Déroulement Mob drivé par Colin en Java, sous Éclipse en fond blanc.</description>
     </item>
     
     <item>
@@ -58,16 +58,16 @@
       <pubDate>Wed, 31 May 2023 12:15:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-05-31-coding-dojo-soir/</guid>
-      <description>Sujet : Bowling Game Meetup : https://www.</description>
+      <description>Sujet : Bowling Game Meetup Format : mob, online sur discord Contrainte: TCR Nombre de participants : 8 Déroulement Mob drivé par Colin.</description>
     </item>
     
     <item>
-      <title>Lighning talks avec les Human Talk Lyon</title>
-      <link>https://swcraftlyon.github.io/posts/2023-05-23-lighning-talks/</link>
+      <title>Lightning talks avec les Human Talk Lyon</title>
+      <link>https://swcraftlyon.github.io/posts/2023-05-23-lightning-talks/</link>
       <pubDate>Tue, 23 May 2023 19:00:00 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2023-05-23-lighning-talks/</guid>
-      <description>Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229231/ Format : Présentiel Nombre de participants : 18 Objectif L&amp;rsquo;objectif est d&amp;rsquo;avoir 4 talks de 10 minutes (suivis de 5 minutes de questions) et d&amp;rsquo;avoir une &amp;ldquo;réponse&amp;rdquo; à ces talks lors de la session des Human Talks du 13 Juin.</description>
+      <guid>https://swcraftlyon.github.io/posts/2023-05-23-lightning-talks/</guid>
+      <description>Meetup Format : Présentiel Nombre de participants : 18 Objectif L&amp;rsquo;objectif est d&amp;rsquo;avoir 4 talks de 10 minutes (suivis de 5 minutes de questions) et d&amp;rsquo;avoir une &amp;ldquo;réponse&amp;rdquo; à ces talks lors de la session des Human Talks du 13 Juin.</description>
     </item>
     
     <item>
@@ -76,7 +76,7 @@
       <pubDate>Tue, 16 May 2023 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-05-16-coding-dojo-soir/</guid>
-      <description>Sujet : Employee Report Meetup : https://www.</description>
+      <description>Sujet : Employee Report Meetup Format : binome, online sur discord Nombre de participants : 15 Déroulement Contraintes:</description>
     </item>
     
     <item>
@@ -112,16 +112,16 @@
       <pubDate>Tue, 11 Apr 2023 09:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-04-11-cr-lyon-craft/</guid>
-      <description>Retours en vrac Épuisant pour Colin, il aurait fallut plus d&amp;rsquo;orga visible lors de la keynote ; Il ne faut pas avoir plus de 150 personnes sur une journée pour maintenir les échanges ; La salle du fond (l&amp;rsquo;escale) n&amp;rsquo;était pas adaptée : Passage vers les toilettes ; Tables trop petites.</description>
+      <description>Retours en vrac Épuisant pour Colin, il aurait fallu plus d&amp;rsquo;orgas visibles lors de la keynote ; Il ne faut pas avoir plus de 150 personnes sur une journée pour maintenir les échanges ; La salle du fond (l&amp;rsquo;escale) n&amp;rsquo;était pas adaptée : Passage vers les toilettes ; Tables trop petites.</description>
     </item>
     
     <item>
-      <title>Tests d&#39;intégration: Rex sur l&#39;usage de TestContainers</title>
+      <title>Tests d&#39;intégration: Rex sur l&#39;usage de Testcontainers</title>
       <link>https://swcraftlyon.github.io/posts/2023-03-28-craft-talk/</link>
       <pubDate>Tue, 28 Mar 2023 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-03-28-craft-talk/</guid>
-      <description>Sujet : Tests d&amp;rsquo;intégration: Rex sur l&amp;rsquo;usage de TestContainers Format : Talk Meetup Replay Michelle Avomo, développeuse chez CodeWorks, nous fera part de son expérience sur les tests d&amp;rsquo;intégration et TestContainers.</description>
+      <description>Sujet : Tests d&amp;rsquo;intégration: Rex sur l&amp;rsquo;usage de Testcontainers Format : Talk Meetup Replay Michelle Avomo, développeuse chez CodeWorks, nous fera part de son expérience sur les tests d&amp;rsquo;intégration et TestContainers.</description>
     </item>
     
     <item>
@@ -130,7 +130,7 @@
       <pubDate>Tue, 21 Mar 2023 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-03-21-coding-dojo-soir-bis/</guid>
-      <description>Sujet : Train Reservation Meetup : https://www.</description>
+      <description>Sujet : Train Reservation Meetup Format : 1 Mob Nombre de participants : 6 Langage : C# Retrospective globale C’est parti dans tous les sens, on n’a pas bien vu de TDD.</description>
     </item>
     
     <item>
@@ -139,7 +139,7 @@
       <pubDate>Tue, 14 Mar 2023 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-03-14-coding-dojo-soir/</guid>
-      <description>Sujet : Social Networking Kata Meetup : https://www.</description>
+      <description>Sujet : Social Networking Kata Meetup Format : 2 Mobs Nombre de participants : 10 Retrospective globale Départ sur un mob, puis deux avec les derniers arrivés.</description>
     </item>
     
     <item>
@@ -157,7 +157,7 @@
       <pubDate>Wed, 22 Feb 2023 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-02-22-dessine-moi-une-patate/</guid>
-      <description>Retrospective globale Intéressant d&amp;rsquo;échanger sur un format auquel on n&amp;rsquo;est pas forcement habitué Intéressant d&amp;rsquo;avoir une vue d&amp;rsquo;ensemble des contexts maps Intéressant de représenter le client (laptop) Il faudrait en faire d&amp;rsquo;autres (une bonne cinquantaine) pour comprendre Intéressant de voir la dichotomie entre ce qu&amp;rsquo;on voudrait faire et ce qu&amp;rsquo;on fait vraiment Intéressant de revoir les stratégies de communication entre les contexts Question de l&amp;rsquo;utilisation de cet outil en entreprise et de l&amp;rsquo;utilité d&amp;rsquo;y intégrer les experts métier Dans les discutions on se rend compte de différences même au sein de la même entreprise Métier de la coiffure Intéressant de découvrir un métier étonnement complexe &amp;ldquo;Je bosse dedans depuis quasiment 2 ans et j&amp;rsquo;ai appris des trucs&amp;rdquo; de la part de la personne qui présentait le sujet Une &amp;ldquo;nouvelle patate&amp;rdquo; est apparue parce que la map parraissait plus logique de cette manière ROTI 3/5 : 4 4/5 : 15 5/5 : 5 </description>
+      <description>Retrospective globale Intéressant d&amp;rsquo;échanger sur un format auquel on n&amp;rsquo;est pas forcement habitué Intéressant d&amp;rsquo;avoir une vue d&amp;rsquo;ensemble des contexts maps Intéressant de représenter le client (laptop) Il faudrait en faire d&amp;rsquo;autres (une bonne cinquantaine) pour comprendre Intéressant de voir la dichotomie entre ce qu&amp;rsquo;on voudrait faire et ce qu&amp;rsquo;on fait vraiment Intéressant de revoir les stratégies de communication entre les contexts Question de l&amp;rsquo;utilisation de cet outil en entreprise et de l&amp;rsquo;utilité d&amp;rsquo;y intégrer les experts métier Dans les discutions on se rend compte de différences même au sein de la même entreprise Métier de la coiffure Intéressant de découvrir un métier étonnement complexe &amp;ldquo;Je bosse dedans depuis quasiment 2 ans et j&amp;rsquo;ai appris des trucs&amp;rdquo; de la part de la personne qui présentait le sujet Une &amp;ldquo;nouvelle patate&amp;rdquo; est apparue parce que la map paraissait plus logique de cette manière ROTI 3/5 : 4 4/5 : 15 5/5 : 5 </description>
     </item>
     
     <item>
@@ -175,7 +175,7 @@
       <pubDate>Mon, 06 Feb 2023 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-02-06-coding-dojo/</guid>
-      <description>Sujet : Trivia Meetup : https://www.</description>
+      <description>Sujet : Trivia Meetup Format : 2 Mobs Nombre de participants : 11 Retrospective globale Découverte des tests exploratoires et du Golden Master La version TS est encore plus cassée que les autres (NaN sur le premier joueur) : pas intéressant pour le kata Kata très (trop ?</description>
     </item>
     
     <item>
@@ -315,10 +315,10 @@
     
     <item>
       <title>EventStorming du Jeudi 20 Octobre 2022</title>
-      <link>https://swcraftlyon.github.io/posts/2022-10-20-event-storming/</link>
+      <link>https://swcraftlyon.github.io/posts/2022-10-20-eventstorming/</link>
       <pubDate>Thu, 20 Oct 2022 19:00:00 +0100</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2022-10-20-event-storming/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2022-10-20-eventstorming/</guid>
       <description>Sujet : EventStorming sur le métier de l&amp;rsquo;engagement employé·e·s Meetup : https://www.</description>
     </item>
     
@@ -806,7 +806,7 @@ Anthony Colin Florent Gautier Nolwenn Romain Forum ouvert Le dernier forum ouver
       <pubDate>Wed, 12 May 2021 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2021-05-12-ddd/</guid>
-      <description>Format: Event Storming Meetup: https://www.</description>
+      <description>Format: EventStorming Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/277320425/ Miro: https://miro.</description>
     </item>
     
     <item>
