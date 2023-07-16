@@ -85,7 +85,7 @@
       <pubDate>Thu, 11 May 2023 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-05-11-eventstorming/</guid>
-      <description>Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229227/ Format : 2 groupes Nombre de participants : 17 Déroulement Sujets des groupes:</description>
+      <description>Meetup Format : 2 groupes Nombre de participants : 17 Déroulement Sujets des groupes:</description>
     </item>
     
     <item>
@@ -94,7 +94,7 @@
       <pubDate>Tue, 25 Apr 2023 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-04-25-coding-dojo-soir/</guid>
-      <description>Sujet : Trip Service Kata Meetup : https://www.</description>
+      <description>Sujet : Trip Service Kata Meetup Format : 2 Mobs Nombre de participants : 8 Retrospective globale La base de code est vieillissante pour les deux groupes.</description>
     </item>
     
     <item>
@@ -126,10 +126,10 @@
     
     <item>
       <title>Coding Dojo du mardi 21 Mars 2023</title>
-      <link>https://swcraftlyon.github.io/posts/2023-03-21-coding-dojo-soir-bis/</link>
+      <link>https://swcraftlyon.github.io/posts/2023-03-21-coding-dojo-soir/</link>
       <pubDate>Tue, 21 Mar 2023 19:00:00 +0100</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2023-03-21-coding-dojo-soir-bis/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2023-03-21-coding-dojo-soir/</guid>
       <description>Sujet : Train Reservation Meetup Format : 1 Mob Nombre de participants : 6 Langage : C# Retrospective globale C’est parti dans tous les sens, on n’a pas bien vu de TDD.</description>
     </item>
     
@@ -211,7 +211,7 @@
       <pubDate>Thu, 19 Jan 2023 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-01-19-coding-dojo-soir/</guid>
-      <description>Sujet : Ohce Meetup : https://www.</description>
+      <description>Sujet : Ohce Meetup Format : Mob Langage : F# Nombre de participants : 5 Rappel du sujet Afficher des &amp;lsquo;greetings&amp;rsquo; en espagnol en fonction de l&amp;rsquo;heure.</description>
     </item>
     
     <item>
@@ -220,7 +220,7 @@
       <pubDate>Wed, 11 Jan 2023 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-01-11-ddd/</guid>
-      <description>Sujet: Domain Message Flow Modeling Meetup: https://www.</description>
+      <description>Sujet: Domain Message Flow Modeling Meetup https://github.</description>
     </item>
     
     <item>
@@ -229,7 +229,7 @@
       <pubDate>Thu, 05 Jan 2023 12:15:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-01-05-coding-dojo-midi/</guid>
-      <description>Sujet : Red pencil kata Sale Kata ; lien sur Meetup Format : Mob Langage : Java Nombre de participants : 10 Rappel du sujet Déterminer si un prix est soumis à une promotion en fonction de ses variations en fonction du temps.</description>
+      <description>Sujet : Red pencil kata Sale Kata Meetup Format : Mob Langage : Java Nombre de participants : 10 Rappel du sujet Déterminer si un prix est soumis à une promotion en fonction de ses variations en fonction du temps.</description>
     </item>
     
     <item>
@@ -247,7 +247,7 @@
       <pubDate>Wed, 14 Dec 2022 12:15:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-12-14-coding-dojo-midi/</guid>
-      <description>Sujet : Nearest Color ; lien sur Meetup Format : Mob Langage : TypeScript Nombre de participants : 5 Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (F00), vert (0F0) et bleu (00F).</description>
+      <description>Sujet : Nearest Color Meetup Format : Mob Langage : TypeScript Nombre de participants : 5 Rappel du sujet On cherche la couleur la plus proche, exprimée en hexadécimal dans un ensemble contenant les couleurs rouge (F00), vert (0F0) et bleu (00F).</description>
     </item>
     
     <item>
@@ -265,7 +265,7 @@
       <pubDate>Mon, 28 Nov 2022 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-11-28-talk-refactoring-sandwich-pattern/</guid>
-      <description>Sujet : Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022 Meetup : https://www.</description>
+      <description>Sujet : Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022 Meetup 36 spectateurs en moyenne Lieu : Twitch Langage : Java Replay Résumé Travailler avec un code legacy, procédural et sans tests est une tâche quotidienne de beaucoup d’entre nous, développeuses ou développeurs, et ce n’est pas très agréable.</description>
     </item>
     
     <item>
@@ -283,7 +283,7 @@
       <pubDate>Thu, 17 Nov 2022 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-11-17-modelisation-aggregate/</guid>
-      <description>Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315774/ Board Miro : https://miro.</description>
+      <description>Meetup Board Miro 16 présent·e·s Iteration 1 : Train reservation On arrive globalement à la même solution : Aggregate train et des entités pour Wagon, seat, &amp;hellip;</description>
     </item>
     
     <item>
@@ -292,7 +292,7 @@
       <pubDate>Thu, 10 Nov 2022 12:15:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-11-10-coding-dojo-midi/</guid>
-      <description>Sujet : Hangman https://github.com/ardalis/kata-catalog/blob/main/katas/Hangman.md Meetup : https://www.</description>
+      <description>Sujet : Hangman Meetup 22 inscrits / 16 présents Lieu : Discord Format : Mob programming (3 groupes) Langage : Java/TypeScript/C# Retours Première fois \o/ -&amp;gt; excellente idée et reviendra une prochaine fois.</description>
     </item>
     
     <item>
@@ -301,7 +301,7 @@
       <pubDate>Sat, 05 Nov 2022 09:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-11-05-code-retreat/</guid>
-      <description>Sujet : Falcon CO2 Meetup : https://www.</description>
+      <description>Sujet : Falcon CO2 Meetup 44 inscrit·e·s Sujet Le sujet de cette année n&amp;rsquo;était pas le jeu de la vie.</description>
     </item>
     
     <item>
@@ -310,7 +310,7 @@
       <pubDate>Fri, 28 Oct 2022 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-10-28-craft-talk-ddd-ex-avec-ts/</guid>
-      <description>Sujet : Entrer dans le Domain Driven Design par l’exemple avec TypeScript par Romain Fallet (remplacé par Colin qui fait des factures en Java) Meetup : https://www.</description>
+      <description>Sujet : Entrer dans le Domain Driven Design par l’exemple avec TypeScript par Romain Fallet (remplacé par Colin qui fait des factures en Java) Meetup 40 spectateurs en moyenne Lieu : Twitch Langage : Java Replay Résumé Comment mettre en place le DDD quand on a du mal à manier les concepts théoriques ?</description>
     </item>
     
     <item>
@@ -319,7 +319,7 @@
       <pubDate>Thu, 20 Oct 2022 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-10-20-eventstorming/</guid>
-      <description>Sujet : EventStorming sur le métier de l&amp;rsquo;engagement employé·e·s Meetup : https://www.</description>
+      <description>Sujet : EventStorming sur le métier de l&amp;rsquo;engagement employé·e·s Meetup 22 inscrit·e·s / 21 présent·e·s Discussions autours de l&amp;rsquo;atelier Utilisation de l&amp;rsquo;atelier :</description>
     </item>
     
     <item>
@@ -328,7 +328,7 @@
       <pubDate>Mon, 10 Oct 2022 12:15:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-10-12-coding-dojo-midi/</guid>
-      <description>Sujet : Roman Numerals https://codingdojo.</description>
+      <description>Sujet : Roman Numerals Meetup 14 inscrits / 11 présents Lieu : Discord Format : Mob programming (2 groupes) Langage : Java/TypeScript Retours Beaucoup de nouveaux pour cette session (trois).</description>
     </item>
     
     <item>
@@ -337,16 +337,16 @@
       <pubDate>Mon, 03 Oct 2022 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-10-03-coding-dojo-soir/</guid>
-      <description>Sujet : Petit kata sous contraintes Meetup : https://www.</description>
+      <description>Sujet : Petit kata sous contraintes Meetup Katas suggérés : FizzBuzz Leap Years Employee Report 6 inscrits / 7 présents Lieu : Discord Format : Mobs programmings par groupes de 3 - 4 personnes Langages : Java, Haskell Sessions 19h20 - 20h, deux groupes FizzBuzz sans if en Haskell</description>
     </item>
     
     <item>
       <title>Coding Dojo Mercredi 28 Septembre 2022</title>
-      <link>https://swcraftlyon.github.io/posts/2022-09-28-coding-dojo-du-soir/</link>
+      <link>https://swcraftlyon.github.io/posts/2022-09-28-coding-dojo-soir/</link>
       <pubDate>Wed, 28 Sep 2022 19:00:00 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2022-09-28-coding-dojo-du-soir/</guid>
-      <description>Sujet : Minesweeper (https://codingdojo.org/kata/Minesweeper/) Meetup : https://www.</description>
+      <guid>https://swcraftlyon.github.io/posts/2022-09-28-coding-dojo-soir/</guid>
+      <description>Sujet : Minesweeper Meetup 11 inscrits / 6 présents Lieu : Discord Format : Mob Langage : C# Déroulement Nous avons eu du mal à comprendre le sujet au tout début à cause de son manque de clarté.</description>
     </item>
     
     <item>
