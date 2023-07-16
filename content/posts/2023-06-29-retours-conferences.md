@@ -89,26 +89,55 @@ Colin a animé une session "Faire bouger le mammouth", un problème spécifique 
 
 Ando est allé voir une discussion autour de la living documentation, fusion de 2 sujets.
 2 visions se sont opposées : l'une défendant la documentation comme source de vérité, avec des processus autour, l'autre reposant sur des concepts comme les [ADR](https://adr.github.io/).
-Il est ensuite allé voir un sujet sur l'apprentissage, animé par une personne souhaitant proposer un futur talk à Agile Grenoble.
+Il est ensuite allé voir un sujet sur l'apprentissage, animé par Émeric, qui souhaite proposer un futur talk à Agile Grenoble.
 
 Pendant ce temps, Colin a participé à "Diffuser le craft dans une équipe de 20", puis a papillonné de salle en salle, appliquant la loi des 2 pieds.
 
-Avant la pause de midi, pendant qu'Adrien interceptait Nicolas Savois, Arthur rejoignait Pascal Le Merrer à l'extérieur du bâtiment pour discuter [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) et l'a compris comme une contrainte supplémentaire sur le domaine (un cœur purement fonctionnel, entouré d'une couche dédiée à l'application d'effets de bord).
+Avant la pause de midi, pendant qu'Adrien interceptait Nicolas Savois pour poursuivre sa redécouverte d'EventStorming (notamment l'apport des policies), Arthur rejoignait Pascal Le Merrer à l'extérieur du bâtiment pour discuter [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell).
+Il l'a compris comme une contrainte supplémentaire sur le domaine (un cœur purement fonctionnel, entouré d'une couche dédiée à l'application d'effets de bord).
 
-Après la pause, Colin anime une session [JHipster Lite](https://www.jhipster.tech/jhipster-lite/), puis une ode à la bien-violence, pour partager le ras-le-bol de la bienveillance poussée à l'extrême en entreprise et l'envie d'une meilleur équilibre.
+Après la pause, Colin a animé une session [JHipster Lite](https://www.jhipster.tech/jhipster-lite/), suivie d'une ode à la bien-violence, pour partager le ras-le-bol de la bienveillance poussée à l'extrême en entreprise et l'envie d'une meilleur équilibre.
 
 Pendant la pause, Arthur a rejoint la session de Christophe Thibaut intitulée "Non, vous ne produisez pas du logiciel", une discussion pour examiner ce qu'est le travail de développeur, par essence. Christophe nous a invité à envisager notre rôle comme traducteur d'un système d'idées à un autre.
 Le logiciel serait un objet en perpétuel changement, dès la première ligne de code.
 Nous avons aussi débattu le glissement sémantique de l'artiste de l'atelier de génie logiciel à l'ouvrier des software factories modernes.
 Il a été question du livre de Bruno Latour [Aramis ou l'Amour des techniques](https://fr.wikipedia.org/wiki/Aramis_ou_l%27Amour_des_techniques).
 
-Au même moment, Ando découvrait dans l'atelier de Mathieu que le slow code, contrairement à ce que le nom indique, c'est aller à la bonne vitesse, à l'opposée de l'injonction de nos sociétés actuelles.
-La bonne allure peut être de faire une boucle de [TCR](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864), puis une minute de rétro.
+Au même moment, Ando découvrait dans l'atelier de Mathieu que le slow code, contrairement à ce que le nom peut laisser penser, c'est aller à la bonne vitesse, à l'opposée de l'injonction de nos sociétés actuelles.
+La bonne allure peut être de faire une boucle de [TCR](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864), puis une minute de ROTI.
 
-Colin quant à lui est allé retrouver [Maxime](https://fr.linkedin.com/in/maxime-dezette) pour discuter du sujet qui deviendra le craft talk de juillet des Software Crafters de Lyon.
+Colin, quant à lui, est allé retrouver [Maxime](https://fr.linkedin.com/in/maxime-dezette) pour discuter du sujet qui deviendra le craft talk de juillet des Software Crafters de Lyon.
 
 Ando a rejoint la session d'Hadrien sur [Toki Pona](https://fr.wikipedia.org/wiki/Toki_pona), une langue construite minimaliste, tandis que Colin poursuivait les débats avec [Jonathan Laurent](https://fr.linkedin.com/in/jonathan-laurent) dans sa session "Arrêtez de complexifier mon TDD".
 
 ## DDD Europe
 
-TODO
+Conférence sur 2 jours, organisée à Amsterdam, en anglais.
+
+Présents : Adrien et Colin
+
+La conférence préférée de Colin, pour les échanges.
+Bien que parler et écouter en anglais soit un exercice épuisant, Adrien a beaucoup aimé.
+La conférence est très riche et on peut y croiser des personnes qui façonnent notre industrie.
+Par exemple, le premier jour, Colin s'est engagé dans une discussion passionnante avec [Rebecca Wirfs-Brock](https://en.wikipedia.org/wiki/Rebecca_Wirfs-Brock).
+
+### Premier jour
+
+Adrien et Colin retiennent le talk Balancing Coupling in Software Design de [Vlad Khononov](https://vladikk.com/).
+Colin a été marqué par le talk Strategic Domain-Driven Refactorings de [Henning Schwentner](https://hschwentner.io/), tant sur le fond que la forme.
+Adrien a bien aimé le message d'[Andreas Pinhammer](https://twitter.com/apinhamm) dans DDD in large product portfolios sur le fait de prendre du recul.
+
+### Deuxième jour
+
+Le talk de [Dana Bredemeyer](https://twitter.com/DanaBredemeyer) System Design & Technical Decision Making, vu par Colin et Adrien a paru à ce dernier peu applicable au poste de développeur. 
+
+Colin a appris beaucoup de choses du talk de [Simone de Gijt](http://twitter.com/de_gijt) sur la mémoire (Wired! How your brain learns new (programming) languages).
+
+Après la pause, Colin a passé un très bon moment pendant Programming and Reasoning proposé par [Mathias Verraes](https://verraes.net/) et [Romeu Moura](https://twitter.com/malk_zameth), un atelier qui aurait dû être un pair programming, et qui a plutôt amené à discuter plein d'heuristiques de design.
+
+Pendant ce temps, Adrien est allé voir Extreme Modelling Patterns d'[Alberto Brandolini](https://medium.com/@ziobrando), un ensemble de pistes pour ne pas camper sur ses acquis.
+
+La deuxième journée s'est terminée sur une keynote de Kent Beck, Tidy First? A Daily Practice of Empirical Software Design, que Colin nous invite à regarder quand la vidéo sera disponible.
+
+Pour Colin, il est de plus en plus difficile d'avoir une révélation pendant un talk, c'est pour cela qu'il recherche de plus en plus les rencontres.
+Adrien estime que la valeur est aujourd'hui plus dans les conférences craft que dans les conférences comme celles organisées par Microsoft.
