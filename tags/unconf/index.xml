@@ -6,14 +6,23 @@
     <description>Recent content in unconf on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 01 Feb 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/unconf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/unconf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum ouvert avec les crafters de Paris et Strasbourg</title>
+      <link>https://swcraftlyon.github.io/posts/2023-06-15-forum-ouvert/</link>
+      <pubDate>Thu, 15 Jun 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-06-15-forum-ouvert/</guid>
+      <description>Sujet: Forum Ouvert Meetup 10-14 personnes Forum ouvert avec les crafters de Paris et Strasbourg Après NewCrafts, les communautés craft de Strasbourg, Paris et Lyon ont décidé de se rencontrer pour un forum ouvert, structuré en 3 sessions de 25 minutes suivies d&amp;rsquo;une rétrospective.</description>
+    </item>
+    
     <item>
       <title>Forum Ouvert</title>
       <link>https://swcraftlyon.github.io/posts/2023-02-01-forum-ouvert/</link>
       <pubDate>Wed, 01 Feb 2023 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2023-02-01-forum-ouvert/</guid>
-      <description>Sujet : Forum Ouvert Meetup : https://www.</description>
+      <description>Sujet : Forum Ouvert Meetup 8 personnes Session 1 : 19h25 – 19h50 Salle 1 : Rex déployer des branches de feature sur AWS avec Terraform (ça marche bien)</description>
     </item>
     
     <item>

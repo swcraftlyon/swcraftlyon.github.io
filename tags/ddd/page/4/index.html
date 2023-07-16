@@ -7,8 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>DDD Mercredi 27 Novembre 2019 - Compte-rendus des software crafters de Lyon</title>
-  <meta name="description" content="Format : Présentation par Thomas &#43; Forum ouvert"><script type="application/ld+json">
+  <title>DDD - Compte-rendus des software crafters de Lyon</title><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -28,63 +27,13 @@
   
 }
 </script>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "https:\/\/swcraftlyon.github.io\/",
-          "name": "home"
-        }
-    },{
-        "@type": "ListItem",
-        "position": 3,
-        "item": {
-          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2019-11-27-ddd\/",
-          "name": "Ddd mercredi 27 novembre 2019"
-        }
-    }]
-}
-</script><script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Article",
-  "author": {
-    "name" : ""
-  },
-  "headline": "DDD Mercredi 27 Novembre 2019",
-  "description" : "Format : Présentation par Thomas \u002b Forum ouvert",
-  "inLanguage" : "fr",
-  "wordCount":  149 ,
-  "datePublished" : "2019-11-27T19:06:45",
-  "dateModified" : "2019-11-27T19:06:45",
-  "image" : "https:\/\/swcraftlyon.github.io\/",
-  "keywords" : [ "DDD, unconf" ],
-  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2019-11-27-ddd\/",
-  "publisher" : {
-    "@type": "Organization",
-    "name" : "https:\/\/swcraftlyon.github.io\/",
-    "logo" : {
-        "@type" : "ImageObject",
-        "url" : "https:\/\/swcraftlyon.github.io\/",
-        "height" :  60 ,
-        "width" :  60
-    }
-  }
-}
-</script>
 
-<meta property="og:title" content="DDD Mercredi 27 Novembre 2019" />
-<meta property="og:description" content="Format : Présentation par Thomas &#43; Forum ouvert">
-<meta property="og:url" content="https://swcraftlyon.github.io/posts/2019-11-27-ddd/" />
+<meta property="og:title" content="DDD" />
+<meta property="og:url" content="https://swcraftlyon.github.io/tags/ddd/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
 
-  <meta name="twitter:title" content="DDD Mercredi 27 Novembre 2019" />
-  <meta name="twitter:description" content="Format : Présentation par Thomas &#43; Forum ouvert">
+  <meta name="twitter:title" content="DDD" />
   <meta name="twitter:card" content="summary" />
   <meta name="generator" content="Hugo 0.111.3">
   <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
@@ -180,9 +129,9 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/retro/">#retro</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
-        
             <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
         
@@ -266,9 +215,9 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="posts-heading">
+            <div class="tags-heading">
               
-                <h1>DDD Mercredi 27 Novembre 2019</h1>
+                <h1>DDD</h1>
               
               
                 <hr class="small">
@@ -284,70 +233,68 @@
 
 
     
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article role="main" class="blog-post">
-        <p>Format : Présentation par Thomas + Forum ouvert</p>
-<p>18 Participants</p>
-<p>Sujets :</p>
-<h3 id="présentation-de-thomas">Présentation de Thomas</h3>
-<p>Lien vers les <a href="https://sadraskol.com/slides/ddd-persistence/#/">slides</a></p>
-<h3 id="opération-invalide-sur-les-aggrégats">Opération invalide sur les aggrégats</h3>
-<p>&ldquo;Ça dépend&rdquo;, du métier et du language. Les code retours permettent de suivre le chemin logique.
-Les exceptions court-circuitent la logique et permettent de se concentrer sur les cas qui marchent.
-On peut demander au métier ce qui est attendu quand l&rsquo;exception est lancé.</p>
-<h3 id="le-métier-nest-pas-infini">Le métier n&rsquo;est pas infini</h3>
-<p>Le métier a des contraintes, les types primitives ne conviennent pas
-on peut utiliser les types pour contraindre le métier. On utilise des exceptions
-en production pour gagner en efficacité. Compilation &gt; Runtime</p>
-<h3 id="retour-des-participants">Retour des participants</h3>
-<p>Mettre le github dans l&rsquo;event Meetup</p>
-<ul>
-<li>ROTI 2/5 -&gt; 1</li>
-<li>ROTI 3/5 -&gt; 3</li>
-<li>ROTI 4/5 -&gt; 8</li>
-<li>ROTI 5/5 -&gt; 4</li>
-</ul>
-<p>Je m&rsquo;intéresse au CQRS mais la présentation manque de règles métiers, je n&rsquo;ai pas compris l&rsquo;intéret de l&rsquo;aggrégat</p>
-
-
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
-          <div class="blog-tags">
+        <div class="posts-list">
+          
+            <article class="post-preview">
+    <a href="https://swcraftlyon.github.io/posts/2019-06-26-ddd/">
+        <h2 class="post-title">Session Domain Driven Design Mercredi 26 Juin 2019</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posté le 26/06/2019
+  
+  
+  
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        Sujets :
+Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert 16 participants
+        <a href="https://swcraftlyon.github.io/posts/2019-06-26-ddd/" class="post-read-more">[Voir plus]</a>
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://swcraftlyon.github.io//tags/ddd/">DDD</a>&nbsp;
+        
+        <a href="https://swcraftlyon.github.io//tags/unconf/">unconf</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+          
+        </div>
+        
+          <ul class="pager main-pager">
             
-              <a href="https://swcraftlyon.github.io//tags/ddd/">DDD</a>&nbsp;
+              <li class="previous">
+                <a href="https://swcraftlyon.github.io/tags/ddd/page/3/">&larr; Nouveaux posts</a>
+              </li>
             
-              <a href="https://swcraftlyon.github.io//tags/unconf/">unconf</a>&nbsp;
             
-          </div>
+          </ul>
         
-
-        
-
-        
-      </article>
-
-      
-        <ul class="pager blog-pager">
-          
-            <li class="previous">
-              <a href="https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/" data-toggle="tooltip" data-placement="top" title="Global Code Retreat Samedi 16 November 2019">&larr; Post précédent</a>
-            </li>
-          
-          
-            <li class="next">
-              <a href="https://swcraftlyon.github.io/posts/2019-12-02-coding-dojo/" data-toggle="tooltip" data-placement="top" title="Coding Dojo 02 12 2019">Post suivant &rarr;</a>
-            </li>
-          
-        </ul>
-      
-
-
-      
-
+      </div>
     </div>
   </div>
-</div>
 
       
 <footer>
