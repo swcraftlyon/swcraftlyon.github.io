@@ -16,13 +16,12 @@ Après [NewCrafts](https://ncrafts.io/), les communautés craft de [Strasbourg](
 
 ### Salle 1 : Comment coder un processus métier (quand passer à l’étape suivante, annuler, mettre en attente) ? (Nolwenn)
 
-- Recoder une machine à état ?
-https://github.com/arthur-noseda/gamebook/tree/main/backend/src/main/java/com/ingeniouscontraptions/games/gamebook/domain/encounter
+- Recoder une machine à état ? (exemple de l'application [Gamebook](https://github.com/arthur-noseda/gamebook/tree/main/backend/src/main/java/com/ingeniouscontraptions/games/gamebook/domain/encounter)/LDVELH)
 - Qui a la charge de savoir les prochains états possibles
 - Comment gérer les droits dans le processus métier
 - Est-ce que ça ne devient pas compliqué si on crée une classe par état ?
 
-### Salle 2 : Organiser une conférence c'est facile, suivi de Que voudriez-vous voir abordé dans une conf "avancée" sur le craft ? (Colin)
+### Salle 2 : En fait organiser une conférence c'est facile ! et Qu'est-ce que vous voudriez voir aborder comme sujets dans une conf "avancée" sur le craft ? (Colin)
 
 Sujets à aborder dans une conférence :
 
@@ -34,7 +33,6 @@ Choisir la version facile :
 - Pas de CFP
 - Moins de 150 personnes (plus simple pour les salles / nourriture / boissons)
 - Acheter des services (même pour les trucs simple).
-
 - Attention à HT/TTC quand on échange avec les pros
 - Prix d'un billet, quel est le bon montant pour certifier l'engagement sans être excessif
 - Pour gagner du temps être directif sur le choix des sujets est efficace
@@ -50,9 +48,7 @@ Choisir la version facile :
 - https://www.youtube.com/@nickchapsas
 - https://youtu.be/a1ye9eGTB98 (Don't Throw Exceptions)
 
-Un exemple réel : https://github.com/taxi-gestion/api 
-=> défintions des codecs avec io-ts : https://github.com/taxi-gestion/api/blob/main/src/commands/schedule-fare/schedule-fare.definitions.ts
-=> la gateway : https://github.com/taxi-gestion/api/blob/main/src/commands/schedule-fare/schedule-fare.validation.ts
+[Un exemple réel](https://github.com/taxi-gestion/api), [la définition des codecs avec io-ts](https://github.com/taxi-gestion/api/blob/main/src/commands/schedule-fare/schedule-fare.definitions.ts) et [la gateway](https://github.com/taxi-gestion/api/blob/main/src/commands/schedule-fare/schedule-fare.validation.ts).
 
 ### Salle 4 : JPP des katas que je vois en dojo. C'est pas mieux de coder des vrais trucs en dojo ? Vous attendez quoi d'un dojo ? (Othman)
 
@@ -62,7 +58,7 @@ Un exemple réel : https://github.com/taxi-gestion/api
 - 20 minutes de setup, 30 minutes de comment nommer une variable, et après il faut clôturer => Pas la même expérience aux Software Crafters Lyon.
 - Utiliser [cyber-dojo](https://cyber-dojo.org/) pour réduire le temps de setup.
 
-### Salle 5 : Aidez-moi à animer des sessions Ensemble Programming en full remote (Ando)
+### Salle 5 : Aidez-moi à animer des sessions Ensemble Programming en full remote (Ando)
 
 - Mettre un timer (par exemple [mob timer](http://mobtimer.zoeetrope.com/))
 - [Technique Pomodoro](https://fr.wikipedia.org/wiki/Technique_Pomodoro)
