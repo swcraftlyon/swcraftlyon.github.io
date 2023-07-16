@@ -1,10 +1,10 @@
 ---
-title: "Lighning talks avec les Human Talk Lyon"
+title: "Lightning talks avec les Human Talk Lyon"
 date: 2023-05-23T19:00:00+02:00
 tags: ["talk"]
 ---
 
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229231/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229231/)
 - Format : Présentiel
 - Nombre de participants : 18
 

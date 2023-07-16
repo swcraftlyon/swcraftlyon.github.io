@@ -20,7 +20,7 @@ aliases: [/posts/ddd-2023-02-23/]
 
 * Intéressant de découvrir un métier étonnement complexe
 * "Je bosse dedans depuis quasiment 2 ans et j'ai appris des trucs" de la part de la personne qui présentait le sujet
-* Une "nouvelle patate" est apparue parce que la map parraissait plus logique de cette manière
+* Une "nouvelle patate" est apparue parce que la map paraissait plus logique de cette manière
 
 ## ROTI
 - 3/5 : 4

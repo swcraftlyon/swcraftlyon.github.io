@@ -6,7 +6,7 @@ aliases: [/posts/coding-dojo-21-03-2023/]
 ---
 
 - Sujet : [Train Reservation](https://github.com/emilybache/KataTrainReservation)
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/291954712/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/291954712/)
 - Format : 1 Mob
 - Nombre de participants : 6
 - Langage : C#

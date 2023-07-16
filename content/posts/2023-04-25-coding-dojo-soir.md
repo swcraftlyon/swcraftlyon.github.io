@@ -22,7 +22,7 @@ aliases: [/posts/coding-dojo-25-04-2023/]
 - Faire des extractions de méthodes et des protected
 - Ne pas faire d'héritage
 - Des soucis avec le coverage avec jest
-- Idée d'utiliser des builder dans les tests
+- Idée d'utiliser des builders dans les tests
 - Les `Trip` dans la classe User c'est bizarre
 - Aucun mock de créé
 - Difficile de savoir à qui est le tour : peut-être faut-il utiliser Mobster

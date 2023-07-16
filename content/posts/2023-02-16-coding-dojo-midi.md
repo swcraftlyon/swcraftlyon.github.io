@@ -23,13 +23,13 @@ En fonction d'un entier en entrée, retourner l'entrée, Fizz, Buzz ou FizzBuzz
 
 ## Rétrospective
 
-* Trop de refactoring trop tôt, ce qui nous a gêner
+* Trop de refactoring trop tôt, ce qui nous a gêné
 * Groupe trop gros, trop de temps entres les tours
 * Bonne ambiance
 * Requirements flous (2ème partie)
 * Prendre le temps d'expliquer ce qu'on va faire avant de le faire
   * Facilite la reprise en cas de tour trop court
-  * Récolte du feedback (et des véto)
+  * Récolte du feedback (et des vétos)
   * Brainstorming, comparaison d'implémentations
 
 ## ROTI

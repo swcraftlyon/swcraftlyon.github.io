@@ -19,7 +19,7 @@ Nous avons fait un Mob Java et un Mob TypeScript.
 
 - Intéressant de faire du TDD en mob
 - Beaucoup trop de temps à réfléchir ou à penser à l'implémentation au lieu de faire des tests sur la session TypeScript
-- TDD en mob c'est plus efficace quand on est tous habitué au mob et au TDD
+- TDD en mob c'est plus efficace quand on est tous habitués au mob et au TDD
 - Le mob est pratique pour les échanges sur la conception
 - 8 ça fait beaucoup de monde pour un mob
 - Certains ont été déçu du sujet du kata

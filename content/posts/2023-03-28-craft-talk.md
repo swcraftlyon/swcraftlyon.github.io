@@ -1,10 +1,10 @@
 ---
-title: "Tests d'intégration: Rex sur l'usage de TestContainers"
+title: "Tests d'intégration: Rex sur l'usage de Testcontainers"
 date: 2023-03-28T19:00:00+01:00
 tags: ["talk"]
 ---
 
-- Sujet : Tests d'intégration: Rex sur l'usage de TestContainers
+- Sujet : Tests d'intégration: Rex sur l'usage de Testcontainers
 - Format : Talk  
 - [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/291954703/)
 - [Replay](https://youtu.be/C8a8r68b_r0)

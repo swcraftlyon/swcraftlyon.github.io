@@ -150,7 +150,7 @@ Tools for online workshop sessions :
 * Bounded contexts in our mind : Emtional part and logical part
 * A way to prioritize
 * People can interact with each other in primary/secondary
-* Event storming to understand the stories/use cases of a particular event which can be interpreted as bounded contexts with subsystems
+* EventStorming to understand the stories/use cases of a particular event which can be interpreted as bounded contexts with subsystems
 * Let someone tell their story and that will be the ubiquitous language
 * People from the outside don’t understand why we do what we do
 * We’re always looking for solutions whereas others are willing to put up with their problems

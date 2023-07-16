@@ -7,7 +7,7 @@ aliases: [/posts/cr-lyon-craft-11-04-2023/]
 
 ## Retours en vrac
 
-* Épuisant pour Colin, il aurait fallut plus d'orga visible lors de la keynote ;
+* Épuisant pour Colin, il aurait fallu plus d'orgas visibles lors de la keynote ;
 * Il ne faut pas avoir plus de 150 personnes sur une journée pour maintenir les échanges ;
 * La salle du fond (l'escale) n'était pas adaptée : 
   * Passage vers les toilettes ;
@@ -15,14 +15,14 @@ aliases: [/posts/cr-lyon-craft-11-04-2023/]
 * Manque de toilettes ;
 * Un espace extérieur aménagé aurait pu être une bonne idée ;
 * Bonne utilisation des temps de pause, planning bien équilibré ;
-* Il aurait fallut plus de temps entre les talks pour équiper les intervenant·e·s ;
+* Il aurait fallu plus de temps entre les talks pour équiper les intervenant·e·s ;
 * Ajouter des sessions d'EventStorming aurait été une bonne idée ;
 * A part l'EventStorming les ateliers n'ont jamais atteint leur capacité max ;
-* On ne sais pas encore ce que l'on pourra sauver comme captation mais on sais qu'on a rien d'exploitable pour la matineé. Ça aurait été beaucoup plus facile en ayant les informations sur le matériel en avance ;
+* On ne sait pas encore ce que l'on pourra sauver comme captation mais on sait qu'on a rien d'exploitable pour la matinée. Ça aurait été beaucoup plus facile en ayant les informations sur le matériel en avance ;
 * Les sessions ont globalement été appréciées ;
-* Les viennoiseries et les softs ont été retirés trop tôt. Les tenanciers de la salle n'étaient pas coopératif et très rigide dans leur fonctionnement ;
-* Certains retours sur les chaises de la grande salle mais on a pas forcement trouvé ça génant ;
-* Une salle pour les speakers/orga aurait été utile pour offrir un lieu calme.
+* Les viennoiseries et les softs ont été retirés trop tôt. Les tenanciers de la salle n'étaient pas coopératifs et très rigides dans leur fonctionnement ;
+* Certains retours sur les chaises de la grande salle mais on a pas forcement trouvé ça gênant ;
+* Une salle pour les speakers/orgas aurait été utile pour offrir un lieu calme.
 
 ## Prochaînes sessions
 
@@ -36,4 +36,4 @@ Les idées (à la noix):
  * conserver les ateliers
  * des conférences pour attirer les gens
  * une track Romeu Moura
- * 2 talk le matin, 3 l'après-midi (pour garder du temps pour l'apéro)
+ * 2 talks le matin, 3 l'après-midi (pour garder du temps pour l'apéro)

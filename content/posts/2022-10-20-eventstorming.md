@@ -1,7 +1,7 @@
 ---
 title: "EventStorming du Jeudi 20 Octobre 2022"
 date: 2022-10-20T19:00:00+01:00
-tags: ["ddd","event-storming"]
+tags: ["ddd","eventstorming"]
 ---
 
 - Sujet : EventStorming sur le métier de l'engagement employé·e·s

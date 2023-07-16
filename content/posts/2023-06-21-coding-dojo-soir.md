@@ -5,8 +5,8 @@ tags: ["dojo"]
 ---
 
 - Sujet : [Movie rental](https://codingdojo.org/kata/movie-rental/)
-- Repository de départ : https://gitlab.com/azae/craft/movie-rental
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293565578/
+- [Repository de départ](https://gitlab.com/azae/craft/movie-rental)
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293565578/)
 - Format : mob, online sur discord
 - Nombre de participants : 7 (/ 11 inscrits)
 

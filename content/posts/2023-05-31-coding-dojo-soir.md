@@ -5,7 +5,7 @@ tags: ["dojo"]
 ---
 
 - Sujet : [Bowling Game](https://codingdojo.org/kata/Bowling/)
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229210/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229210/)
 - Format : mob, online sur discord
 - Contrainte: TCR
 - Nombre de participants : 8

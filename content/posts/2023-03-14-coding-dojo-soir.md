@@ -6,8 +6,8 @@ aliases: [/posts/coding-dojo-14-03-2023/]
 ---
 
 - Sujet : [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/291954690/
-- Format : 2 Mob
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/291954690/)
+- Format : 2 Mobs
 - Nombre de participants : 10
 
 ## Retrospective globale
