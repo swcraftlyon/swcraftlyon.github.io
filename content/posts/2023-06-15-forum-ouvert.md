@@ -22,7 +22,7 @@ https://github.com/arthur-noseda/gamebook/tree/main/backend/src/main/java/com/in
 - Comment gérer les droits dans le processus métier
 - Est-ce que ça ne devient pas compliqué si on crée une classe par état ?
 
-### Salle 2 : En fait organiser une conférence c'est facile ! et Qu'est-ce que vous voudriez voir aborder comme sujets dans une conf "avancée" sur le craft ? (Colin)
+### Salle 2 : Organiser une conférence c'est facile, suivi de Que voudriez-vous voir abordé dans une conf "avancée" sur le craft ? (Colin)
 
 Sujets à aborder dans une conférence :
 
@@ -56,12 +56,11 @@ Un exemple réel : https://github.com/taxi-gestion/api
 
 ### Salle 4 : JPP des katas que je vois en dojo. C'est pas mieux de coder des vrais trucs en dojo ? Vous attendez quoi d'un dojo ? (Othman)
 
-https://sammancoaching.org/
-Choisir le kata en fonction de ce qu'on veut exercer comme skill / domaine / techno.
-Essayer d'aller à des dojos avec une audience constante pour ne pas se retrouver à chaque fois dans des dojos "débutants" ou "tdd"
-20 minutes de setup, 30 minutes de comment nommer une variable, et après il faut clôturer.
-=> Pas la même expérience aux Software Crafters Lyon.
-Utiliser Cyberdojo pour réduire le temps de setup.
+- [Samman Technical Coaching](https://sammancoaching.org/)
+- Choisir le kata en fonction de ce qu'on veut exercer comme skill / domaine / techno.
+- Essayer d'aller à des dojos avec une audience constante pour ne pas se retrouver à chaque fois dans des dojos "débutants" ou "tdd"
+- 20 minutes de setup, 30 minutes de comment nommer une variable, et après il faut clôturer => Pas la même expérience aux Software Crafters Lyon.
+- Utiliser [cyber-dojo](https://cyber-dojo.org/) pour réduire le temps de setup.
 
 ### Salle 5 : Aidez-moi à animer des sessions Ensemble Programming en full remote (Ando)
 
@@ -114,7 +113,7 @@ Couts vs Efforts d'un test.
 - [Set de cartes](https://miro.com/app/board/uXjVMD2Gxsw=/?share_link_id=367068083359)
 - [Infographie du livre "Programmer's Brain" (et plus)](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/my-book-infographics)
 
-# Salle 5 : Comment j’ai appris Rust (Nolwenn)
+### Salle 5 : Comment j’ai appris Rust (Nolwenn)
 
 - [The Book](https://doc.rust-lang.org/book/)
 - [Exercism](https://exercism.org/tracks/rust)
@@ -127,7 +126,7 @@ Couts vs Efforts d'un test.
 
 ### Salle 2 : "Railway programming" pour intégrer les erreurs dans votre flux (Romain)
 
-Typecheck / Rulecheck ... le pattern Gateway aux stéroïdes pour une API type-safe, worth it ? [Romain]
+Typecheck / Rulecheck... le pattern Gateway aux stéroïdes pour une API type-safe, worth it ? [Romain]
 
 - [Railway Programming: la voie vers un code plus honnête (Romain Berthon et Sylvain Coudert)](https://youtu.be/xQ7Fstshckk)
 - Domain Modeling Made Functional de Scott Wlaschin
