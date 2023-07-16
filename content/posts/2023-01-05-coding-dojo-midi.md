@@ -5,7 +5,8 @@ tags: ["dojo"]
 aliases: [/posts/coding-dojo-05-01-2023/]
 ---
 
-- Sujet : [Red pencil kata Sale Kata](https://github.com/ardalis/kata-catalog/blob/main/katas/Red%20Pencil%20Sale.md) ; [lien sur Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/290654463/)
+- Sujet : [Red pencil kata Sale Kata](https://github.com/ardalis/kata-catalog/blob/main/katas/Red%20Pencil%20Sale.md)
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/290654463/)
 - Format : Mob
 - Langage : Java
 - Nombre de participants : 10

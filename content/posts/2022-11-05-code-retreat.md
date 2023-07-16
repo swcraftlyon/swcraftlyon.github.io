@@ -5,7 +5,7 @@ tags: ["code-retreat"]
 ---
 
 - Sujet : Falcon CO2
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/288442752/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/288442752/)
 - 44 inscrit·e·s
 
 ## Sujet

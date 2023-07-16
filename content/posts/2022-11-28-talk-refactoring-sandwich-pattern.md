@@ -5,11 +5,11 @@ tags: ["talk", "DDD", "refactoring"]
 ---
 
 - Sujet : Refactoring avec le sandwich pattern par Sepehr Namdar lundi 28 novembre 2022
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315830/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315830/)
 - 36 spectateurs en moyenne
-- Lieu : twitch
+- Lieu : Twitch
 - Langage : Java
-- Youtube : https://www.youtube.com/watch?v=1zZcXdJJzZU
+- [Replay](https://youtu.be/1zZcXdJJzZU)
 
 ## Résumé
 

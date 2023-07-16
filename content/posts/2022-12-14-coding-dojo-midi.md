@@ -5,7 +5,8 @@ tags: ["dojo"]
 aliases: [/posts/coding-dojo-14-12-2022/]
 ---
 
-- Sujet : [Nearest Color](https://codingdojo.org/kata/NearestColor/) ; [lien sur Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289884566/)
+- Sujet : [Nearest Color](https://codingdojo.org/kata/NearestColor/)
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289884566/)
 - Format : Mob
 - Langage : TypeScript
 - Nombre de participants : 5

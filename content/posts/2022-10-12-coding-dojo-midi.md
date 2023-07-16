@@ -4,8 +4,8 @@ date: 2022-10-10T12:15:00+01:00
 tags: ["dojo"]
 ---
 
-- Sujet : Roman Numerals https://codingdojo.org/kata/RomanNumerals/
-- Meetup : https://www.meetup.com/software-craftsmanship-lyon/events/288817472/
+- Sujet : [Roman Numerals](https://codingdojo.org/kata/RomanNumerals/)
+- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/288817472/)
 - 14 inscrits / 11 présents
 - Lieu : Discord
 - Format : Mob programming (2 groupes)

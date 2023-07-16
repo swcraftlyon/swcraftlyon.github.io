@@ -4,8 +4,8 @@ date: 2022-11-10T12:15:00+01:00
 tags: ["dojo"]
 ---
 
-- Sujet : Hangman https://github.com/ardalis/kata-catalog/blob/main/katas/Hangman.md
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315760/
+- Sujet : [Hangman](https://github.com/ardalis/kata-catalog/blob/main/katas/Hangman.md)
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315760/)
 - 22 inscrits / 16 présents
 - Lieu : Discord
 - Format : Mob programming (3 groupes)

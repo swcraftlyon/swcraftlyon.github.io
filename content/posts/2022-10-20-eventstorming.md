@@ -5,7 +5,7 @@ tags: ["ddd","eventstorming"]
 ---
 
 - Sujet : EventStorming sur le métier de l'engagement employé·e·s
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/288817285/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/288817285/)
 - 22 inscrit·e·s / 21 présent·e·s
 
 # Discussions autours de l'atelier

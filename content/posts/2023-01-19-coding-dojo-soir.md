@@ -6,7 +6,7 @@ aliases: [/posts/coding-dojo-19-01-2023/]
 ---
 
 - Sujet : [Ohce](https://kata-log.rocks/ohce-kata)
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/290874741/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/290874741/)
 - Format : Mob
 - Langage : F#
 - Nombre de participants : 5

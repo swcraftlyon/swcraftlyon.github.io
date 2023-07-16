@@ -6,13 +6,13 @@ aliases: [/posts/coding-dojo-25-04-2023/]
 ---
 
 - Sujet : [Trip Service Kata](https://github.com/sandromancuso/trip-service-kata)
-- Meetup : https://www.meetup.com/software-craftsmanship-lyon/events/292534186/
-- Format : 2 Mob
+- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/292534186/)
+- Format : 2 Mobs
 - Nombre de participants : 8
 
 ## Retrospective globale
 
-* La base code est vieillissante pour les deux groupes.
+* La base de code est vieillissante pour les deux groupes.
 * Que des débutants en katas
 
 ### Groupe PHP puis C# puis TypeScript

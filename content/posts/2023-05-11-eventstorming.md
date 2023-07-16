@@ -4,7 +4,7 @@ date: 2023-05-11T19:00:00+02:00
 tags: ["eventstorming", "ddd"]
 ---
 
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229227/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/293229227/)
 - Format : 2 groupes
 - Nombre de participants : 17
 

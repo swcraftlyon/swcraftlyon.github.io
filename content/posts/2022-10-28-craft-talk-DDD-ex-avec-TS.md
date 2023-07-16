@@ -5,11 +5,11 @@ tags: ["talk", "DDD"]
 ---
 
 - Sujet : Entrer dans le Domain Driven Design par l’exemple avec TypeScript par Romain Fallet (remplacé par Colin qui fait des factures en Java)
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289227969/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289227969/)
 - 40 spectateurs en moyenne
-- Lieu : twitch
+- Lieu : Twitch
 - Langage : Java
-- Youtube : https://www.youtube.com/watch?v=ZpqpmK5k44k
+- [Replay](https://youtu.be/ZpqpmK5k44k)
 
 ## Résumé
 

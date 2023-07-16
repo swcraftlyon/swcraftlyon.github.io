@@ -4,8 +4,8 @@ date: 2022-11-17T19:00:00+01:00
 tags: ["ddd"]
 ---
 
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315774/
-- Board Miro : https://miro.com/app/board/uXjVPCDgBE8=/?share_link_id=484965691262
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315774/)
+- [Board Miro](https://miro.com/app/board/uXjVPCDgBE8=/?share_link_id=484965691262)
 - 16 présent·e·s
 
 # Iteration 1 : Train reservation

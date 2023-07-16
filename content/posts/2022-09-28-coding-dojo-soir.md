@@ -4,11 +4,11 @@ date: 2022-09-28T19:00:00+02:00
 tags: ["dojo"]
 ---
 
-- Sujet : Minesweeper (https://codingdojo.org/kata/Minesweeper/)
-- Meetup : https://www.meetup.com/software-craftsmanship-lyon/events/287932673/
+- Sujet : [Minesweeper](https://codingdojo.org/kata/Minesweeper/)
+- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/287932673/)
 - 11 inscrits / 6 présents
-- Lieu : discord
-- Format : Mob programming
+- Lieu : Discord
+- Format : Mob
 - Langage : C#
 
 ## Déroulement

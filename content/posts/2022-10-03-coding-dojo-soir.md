@@ -5,7 +5,7 @@ tags: ["dojo"]
 ---
 
 - Sujet : Petit kata sous contraintes
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/288772216/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/288772216/)
 - Katas suggérés : 
   - [FizzBuzz](https://codingdojo.org/kata/FizzBuzz/)
   - [Leap Years](https://codingdojo.org/kata/LeapYears/)

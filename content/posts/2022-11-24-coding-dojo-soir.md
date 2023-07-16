@@ -8,8 +8,8 @@ tags: ["dojo"]
 - Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/289315798/
 - 14 inscrits / 8 présents
 - Lieu : Discord
-- Format : 2 Mobs programming
-- Langage : Java/FSharp
+- Format : 2 Mobs
+- Langage : Java/F#
 
 ## Retours
 Problème technique avec discord... soi-disant... Forcé de devoir aller dans la session Java 🙀
