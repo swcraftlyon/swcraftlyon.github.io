@@ -18,11 +18,11 @@ Conférence sur 2 jours, organisée à Paris, à vocation internationale, en ang
 Cette année, Florent et Colin y ont participé.
 La conf a permis à Florent de revoir pas mal de monde.
 C'était la première participation de Colin à NewCrafts.
-Quelques problèmes techniques à déplorer pendant la première journée, mais une organisation au top, malgré les galères sans que la pression ne redescende sur les speakers.
+Quelques problèmes techniques à déplorer pendant la première journée, mais une organisation au top, malgré les galères, sans que la pression ne redescende sur les speakers.
 
 ### Première journée
 
-La première journée de Colin était intéressante, mais son choix de tracks n'a pas conduit à de grosses nouveautés.
+La première journée de Colin était intéressante, mais il n'a pas été édifié par son choix de tracks.
 Les crafters retiennent la keynote de fin de [Felienne Hermans](https://en.wikipedia.org/wiki/Felienne_Hermans) sur le langage [Hedy](https://www.felienne.com/abouthedy) qui a beaucoup plu (en particulier les problématiques d'internationalisation, et l'appel à contribution).
 
 Colin est allé voir les talks de [Sophie Küster](https://ncrafts.io/speaker/sophiekuster) sur le syndrome de l'imposteur, d'[Adam Tornhill](https://adamtornhill.com/) et de [Laurent Bossavit](https://twitter.com/morendil).
@@ -36,12 +36,12 @@ Le lendemain, les crafters retrouvent [Clare Sudbery](https://mastodon.social/@c
 Colin est ensuite allé écouter le talk de [Dianing Yudono](https://hachyderm.io/@galihmelon) "The dark side of lessons learned" et l'a beaucoup aimé.
 
 Les crafters ont ensuite découvert un nouveau type d'atelier proposé par [Andrea Magnorsky](https://uk.linkedin.com/in/magnorsky), appelé [Bytesize Architecture Sessions](https://bytesizearchitecturesessions.com/).
-Colin, enthousiaste, a mis en place cet atelier, en l'adaptant à son contexte, avec les conseils d'Andrea, tandis que Florent est moins convaincu.
+Colin, enthousiaste, a mis en place cet atelier, en l'adaptant à son contexte, avec les conseils d'Andrea, tandis que Florent a été moins convaincu.
 
 Colin est ensuite allé voir [Trond Hjorteland](https://mastodon.social/@trondhjort) (dur), [Steve Upton](https://twitter.com/Steve_Upton) (très bien, très bonne utilisation de [Cynefin](https://en.wikipedia.org/wiki/Cynefin_framework)).
 Pendant ce temps, Florent est allé voir un talk intéressant de [Tomas Petricek](https://tomasp.net/blog/) sur l'opacité croissante des logiciels.
 
-La keynote de clôture a été servie par un Kent Beck malade (donc indisponible pour les échanges). Intéressant, bien mené, mais rien de nouveau.
+La keynote de clôture a été servie par un [Kent Beck](https://fr.wikipedia.org/wiki/Kent_Beck) malade (donc indisponible pour les échanges). Intéressant, bien mené, mais rien de nouveau.
 
 
 ## AlpesCraft
@@ -50,10 +50,10 @@ Conférence sur 2 jours, organisée à Grenoble, en français.
 
 Présents : Adrien, Ando, Anthony, Arthur, Colin, Gautier
 
-Pour son remier AlpesCraft, Adrien a apprécié les rencontres avec des gens, l'ouverture et le côté détendu.
-Ando venait pour la deuxième fois, déjà convaincu par la formule, s'est laissé convaincre par l'unconf dont il avait entendu le plus grand bien.
+Pour son premier AlpesCraft, Adrien a apprécié les rencontres avec des gens, l'ouverture et le côté détendu.
+Venant pour la deuxième fois et déjà convaincu par la formule, Ando et Arthur se sont laissés tenter par l'unconf dont ils avaient entendu le plus grand bien.
 
-### Premier journée
+### Premier journée : conf
 
 Les crafters ont beaucoup aimé la très bonne keynote sur [XP](https://fr.wikipedia.org/wiki/Extreme_programming) de [Pascal Le Merrer](https://fr.linkedin.com/in/pascal-le-merrer-872a478), avec un flot de présentation très calme, qui embarque bien les gens dans son histoire.
 
@@ -69,18 +69,46 @@ Pendant ce temps, Adrien pratiquait l'[EventStorming](https://en.wikipedia.org/w
 
 Après la pause déjeuner, Adrien, Arthur et Colin partent voir le très bon live-coding de [Pauline Jamin](https://fr.linkedin.com/in/paulinejamin/) et [Caroline Desplanques](https://fr.linkedin.com/in/caroline-desplanques), également proposé à [Lyon Craft](https://lyon-craft.fr/).
 
-Ando est allé voir le talk d'[Hadrien Mens-Pellen](https://twitter.com/@HadrienMP) et [Thomas Carpaye](https://www.linkedin.com/in/thomascarpaye/) sur le mob programming et les améliorations apportées par le mob programming, mesurées en termes de coût, nombre de bugs et d'entente entre développeurs.
+Ando est allé voir le talk d'[Hadrien Mens-Pellen](https://twitter.com/@HadrienMP) et [Thomas Carpaye](https://www.linkedin.com/in/thomascarpaye/) sur le mob programming et les bénéfices apportés par ce format, mesurés en termes de coût, nombre de bugs et entente entre développeurs.
 
 En fin de journée, Adrien, Ando et Arthur sont allés voir [Thierry de Pauw](https://twitter.com/tdpauw) présenter l'intégration continue en 14 pratiques. Malgré des répétitions et un échec remarqué à respecter le timing, Adrien a beaucoup aimé ce talk très détaillé, par son approche très méthodique, très documentée.
 
 Colin est allé écouter le retour d'expérience de [Marjorie Aubert](https://www.linkedin.com/in/marjorie-aubert-full-stack-developer/), développeuse reconvertie, sur XP et TDD.
 Bien que manquant de spontanéité, le talk était très bien.
 
-### Deuxième journée
+### Deuxième journée : unconf
 
-TODO
+Pour Colin, la longue introduction au format unconf d'[Houssam Fakih](https://fr.linkedin.com/in/hfakih/fr) a coûté un temps qui aurait été plus rentable pour ajouter un créneau supplémentaire.
+De son côté Adrien s'est laissé prendre au jeu.
+
+Les sujets du matin déterminés, Arthur a participé à "[Accelerate](https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out?hl=en) vs Craft", pour comprendre en quoi les 2 concepts étaient opposés.
+En définitive, les points de vue et périmètres d'Accelerate (au sens pratiques DevOps) et du craft sont très différents, et il apparaît que les approches sont complémentaires et adressent des personnes différentes dans les organisations.
+La discussion a pris un tour inattendu, lorsqu'elle nous a conduit sur les apports des communautés françaises en termes méthodologiques (les coding dojos).
+
+Colin a animé une session "Faire bouger le mammouth", un problème spécifique des gens qui essayent de transformer les grosses entreprises.
+
+Ando est allé voir une discussion autour de la living documentation, fusion de 2 sujets.
+2 visions se sont opposées : l'une défendant la documentation comme source de vérité, avec des processus autour, l'autre reposant sur des concepts comme les [ADR](https://adr.github.io/).
+Il est ensuite allé voir un sujet sur l'apprentissage, animé par une personne souhaitant proposer un futur talk à Agile Grenoble.
+
+Pendant ce temps, Colin a participé à "Diffuser le craft dans une équipe de 20", puis a papillonné de salle en salle, appliquant la loi des 2 pieds.
+
+Avant la pause de midi, pendant qu'Adrien interceptait Nicolas Savois, Arthur rejoignait Pascal Le Merrer à l'extérieur du bâtiment pour discuter [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) et l'a compris comme une contrainte supplémentaire sur le domaine (un cœur purement fonctionnel, entouré d'une couche dédiée à l'application d'effets de bord).
+
+Après la pause, Colin anime une session [JHipster Lite](https://www.jhipster.tech/jhipster-lite/), puis une ode à la bien-violence, pour partager le ras-le-bol de la bienveillance poussée à l'extrême en entreprise et l'envie d'une meilleur équilibre.
+
+Pendant la pause, Arthur a rejoint la session de Christophe Thibaut intitulée "Non, vous ne produisez pas du logiciel", une discussion pour examiner ce qu'est le travail de développeur, par essence. Christophe nous a invité à envisager notre rôle comme traducteur d'un système d'idées à un autre.
+Le logiciel serait un objet en perpétuel changement, dès la première ligne de code.
+Nous avons aussi débattu le glissement sémantique de l'artiste de l'atelier de génie logiciel à l'ouvrier des software factories modernes.
+Il a été question du livre de Bruno Latour [Aramis ou l'Amour des techniques](https://fr.wikipedia.org/wiki/Aramis_ou_l%27Amour_des_techniques).
+
+Au même moment, Ando découvrait dans l'atelier de Mathieu que le slow code, contrairement à ce que le nom indique, c'est aller à la bonne vitesse, à l'opposée de l'injonction de nos sociétés actuelles.
+La bonne allure peut être de faire une boucle de [TCR](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864), puis une minute de rétro.
+
+Colin quant à lui est allé retrouver [Maxime](https://fr.linkedin.com/in/maxime-dezette) pour discuter du sujet qui deviendra le craft talk de juillet des Software Crafters de Lyon.
+
+Ando a rejoint la session d'Hadrien sur [Toki Pona](https://fr.wikipedia.org/wiki/Toki_pona), une langue construite minimaliste, tandis que Colin poursuivait les débats avec [Jonathan Laurent](https://fr.linkedin.com/in/jonathan-laurent) dans sa session "Arrêtez de complexifier mon TDD".
 
 ## DDD Europe
 
 TODO
-
