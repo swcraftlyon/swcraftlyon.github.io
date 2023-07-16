@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 21 Jun 2023 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo lundi 10 juillet 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-07-10-coding-dojo-midi/</link>
+      <pubDate>Mon, 10 Jul 2023 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-07-10-coding-dojo-midi/</guid>
+      <description>Sujet : Word Wrap Meetup Format : Mob Langage : Java et TypeScript Nombre de participants : 10 Rappel du sujet Il s’agit de couper des mots ou des phrases à une certaine colonne.</description>
+    </item>
+    
     <item>
       <title>Movie rental refactoring</title>
       <link>https://swcraftlyon.github.io/posts/2023-06-21-coding-dojo-soir/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://swcraftlyon.github.io/posts/2023-06-21-coding-dojo-soir/</guid>
       <description>Sujet : Movie rental Repository de départ Meetup Format : mob, online sur discord Nombre de participants : 7 (/ 11 inscrits) Déroulement Mob drivé par Colin en Java, sous Éclipse en fond blanc.</description>
-    </item>
-    
-    <item>
-      <title>Coding Dojo lundi 10 juillet 2023</title>
-      <link>https://swcraftlyon.github.io/posts/2023-07-10-coding-dojo-midi/</link>
-      <pubDate>Tue, 06 Jun 2023 12:15:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2023-07-10-coding-dojo-midi/</guid>
-      <description>Sujet : Word Wrap Meetup Format : Mob Langage : Java et TypeScript Nombre de participants : 10 Rappel du sujet Il s’agit de couper des mots ou des phrases à une certaine colonne.</description>
     </item>
     
     <item>
