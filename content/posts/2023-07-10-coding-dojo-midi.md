@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo lundi 10 juillet 2023"
-date: 2023-06-06T12:15:00+01:00
+date: 2023-07-10T12:15:00+01:00
 tags: ["dojo"]
 aliases: [/posts/coding-dojo-10-07-2023/]
 ---
@@ -16,8 +16,8 @@ aliases: [/posts/coding-dojo-10-07-2023/]
 
 Il s’agit de couper des mots ou des phrases à une certaine colonne.
 
-* https://codingdojo.org/kata/WordWrap/
-* http://thecleancoder.blogspot.com/2010/10/craftsman-62-dark-path.html
+- https://codingdojo.org/kata/WordWrap/
+- http://thecleancoder.blogspot.com/2010/10/craftsman-62-dark-path.html
 
 ## Rétrospective
 
@@ -29,8 +29,6 @@ Petite déception sur l’énoncé qui ne permettait pas de savoir si on avait u
 
 ## ROTI
 
-1/5 : 
-2/5 :
-3/5 : 2
-4/5 : 5
-5/5 : 1
+- 3/5 : 2
+- 4/5 : 5
+- 5/5 : 1
