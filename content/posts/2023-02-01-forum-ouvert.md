@@ -5,7 +5,7 @@ tags: ["unconf"]
 ---
 
 - Sujet : Forum Ouvert
-- Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/291092202/
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/291092202/)
 - 8 personnes
 
 # Session 1 : 19h25 – 19h50

@@ -88,7 +88,7 @@ FP: pure computations without side effects:
     
 **Resources**
 
-* https://pragprog.com/titles/swdddf/domain-modeling-made-functional/ by https://twitter.com/ScottWlaschin
+* [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) by [Scott Wlaschin](https://twitter.com/ScottWlaschin)
 * https://fsharpforfunandprofit.com/books/
 * https://github.com/HackYourJob/introFSharp-TypeDD-Fable/blob/master/fsharp/Game.fsx
 * https://enterprisecraftsmanship.com/posts/having-the-domain-model-separate-from-the-persistence-model/
