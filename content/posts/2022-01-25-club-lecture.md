@@ -6,8 +6,8 @@ tags: ["talk", "live", "lectures"]
 
 - Sujet: Les Crafters parlent de bouquins
 - Format: Discussion online
-- Meetup: https://www.meetup.com/Software-Craftsmanship-Lyon/events/282937143/
-- Vidéo: https://www.youtube.com/watch?v=ZVKQcveesTE
+- [Meetup](https://www.meetup.com/Software-Craftsmanship-Lyon/events/282937143/)
+- [Replay](https://youtu.be/ZVKQcveesTE)
 
 ## Sujets
 

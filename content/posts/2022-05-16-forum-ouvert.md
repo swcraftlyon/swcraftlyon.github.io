@@ -5,7 +5,7 @@ tags: ["unconf"]
 ---
 
 - Sujet: Forum Ouvert
-- Meetup: https://www.meetup.com/Software-Craftsmanship-Lyon/events/285516495/
+- [Meetup](https://www.meetup.com/Software-Craftsmanship-Lyon/events/285516495/)
 - 9 personnes
 ---
 

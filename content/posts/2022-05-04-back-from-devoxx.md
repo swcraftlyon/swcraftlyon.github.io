@@ -1,13 +1,13 @@
 ---
 title: "Back from Devoxx du Mercredi 04 mai 2022"
 date: 2022-05-04T19:00:00+01:00
-tags: ["talk", "live"]
+tags: ["retro", "live"]
 ---
 
-- Sujet: Back from Devoxx
-- Format: Discussion online
-- Meetup: https://www.meetup.com/Software-Craftsmanship-Lyon/events/285516446/
-- Vidéo: https://youtu.be/DBK9HYWJS-I  
+- Sujet : Back from Devoxx
+- Format : Discussion online
+- [Meetup](https://www.meetup.com/Software-Craftsmanship-Lyon/events/285516446/)
+- [Replay](https://youtu.be/DBK9HYWJS-I)
 
 ------
 ## La conférence

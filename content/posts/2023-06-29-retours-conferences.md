@@ -1,7 +1,7 @@
 ---
 title: "Retours sur les conférences de mai et juin"
 date: 2023-06-29T19:00:00+01:00
-tags: ["retro"]
+tags: ["retro", "live"]
 aliases: [/posts/coding-dojo-29-06-2023/]
 ---
 

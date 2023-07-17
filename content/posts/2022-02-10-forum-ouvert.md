@@ -135,8 +135,8 @@ Sympa de faire ce format autour du craft plutôt qu'autour du DDD.
 
 ## ROTI
 
-- 5/5: 1 personnes
-- 4.5/5: 1 personnes
+- 5/5: 1 personne
+- 4.5/5: 1 personne
 - 4/5: 3 personnes
-- 3/5: 1 personnes
+- 3/5: 1 personne
 - 1/5: 1 personne

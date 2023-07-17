@@ -4,10 +4,10 @@ date: 2022-06-27T19:00:00+01:00
 tags: ["talk", "live", "lectures"]
 ---
 
-- Sujet: Club de lecture
-- Format: Discussion online
-- Meetup: https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/286154887/
-- Vidéo: https://www.youtube.com/watch?v=kU0UaTZ0v3I
+- Sujet : Club de lecture
+- Format : Discussion online
+- [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/286154887/)
+- [Replay](https://youtu.be/kU0UaTZ0v3I)
 
 ## Retrospective DDD Europe
 

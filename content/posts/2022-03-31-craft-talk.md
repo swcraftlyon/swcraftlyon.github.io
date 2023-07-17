@@ -4,11 +4,11 @@ date: 2022-03-15T19:00:00+01:00
 tags: ["talk"] 
 ---
 
-- Sujet: Faites confiance aux développeurs·euses de votre équipe: voyez plus loin que les fonctionnalités
-- Meetup: https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/284098519/
+- Sujet: Faites confiance aux développeurs·euses de votre équipe : voyez plus loin que les fonctionnalités
+- [Meetup](https://www.meetup.com/fr-FR/Software-Craftsmanship-Lyon/events/284098519/)
 - 39 inscrits / 68 présents dont 30 en même temps
-- Lieu: twitch
-- Vidéo: https://www.youtube.com/watch?v=W1dAByNWrLI
+- Lieu : Twitch
+- [Teplay](https://youtu.be/W1dAByNWrLI)
 
 ## Description
 
