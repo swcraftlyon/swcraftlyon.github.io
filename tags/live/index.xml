@@ -6,7 +6,16 @@
     <description>Recent content in live on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 24 Jan 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retours sur les conférences de mai et juin</title>
+      <link>https://swcraftlyon.github.io/posts/2023-06-29-retours-conferences/</link>
+      <pubDate>Thu, 29 Jun 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-06-29-retours-conferences/</guid>
+      <description>Sujet : Retours sur les conférences de mai et juin Meetup Replay Retours des software crafters de Lyon sur NewCrafts, AlpesCraft et DDD Europe.</description>
+    </item>
+    
     <item>
       <title>Soirée lectures du Mardi 24 janvier 2023</title>
       <link>https://swcraftlyon.github.io/posts/2023-01-24-club-lecture/</link>
@@ -31,7 +40,7 @@
       <pubDate>Mon, 27 Jun 2022 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-06-28-club-lecture/</guid>
-      <description>Sujet: Club de lecture Format: Discussion online Meetup: https://www.</description>
+      <description>Sujet : Club de lecture Format : Discussion online Meetup Replay Retrospective DDD Europe Does culture impact software design?</description>
     </item>
     
     <item>
@@ -40,7 +49,7 @@
       <pubDate>Wed, 04 May 2022 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-05-04-back-from-devoxx/</guid>
-      <description>Sujet: Back from Devoxx Format: Discussion online Meetup: https://www.</description>
+      <description>Sujet : Back from Devoxx Format : Discussion online Meetup Replay La conférence Vidéos du Devoxx (seul les ateliers n&amp;rsquo;ont pas été filmés).</description>
     </item>
     
     <item>
@@ -58,7 +67,7 @@
       <pubDate>Tue, 25 Jan 2022 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/posts/2022-01-25-club-lecture/</guid>
-      <description>Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup: https://www.</description>
+      <description>Sujet: Les Crafters parlent de bouquins Format: Discussion online Meetup Replay Sujets Livre : Les BDD Books de Gáspár Nagy &amp;amp; Seb Rose présenté par Romain</description>
     </item>
     
     <item>

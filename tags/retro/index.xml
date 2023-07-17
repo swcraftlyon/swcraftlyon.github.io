@@ -16,5 +16,14 @@
       <description>Sujet : Retours sur les conférences de mai et juin Meetup Replay Retours des software crafters de Lyon sur NewCrafts, AlpesCraft et DDD Europe.</description>
     </item>
     
+    <item>
+      <title>Back from Devoxx du Mercredi 04 mai 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-05-04-back-from-devoxx/</link>
+      <pubDate>Wed, 04 May 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2022-05-04-back-from-devoxx/</guid>
+      <description>Sujet : Back from Devoxx Format : Discussion online Meetup Replay La conférence Vidéos du Devoxx (seul les ateliers n&amp;rsquo;ont pas été filmés).</description>
+    </item>
+    
   </channel>
 </rss>
