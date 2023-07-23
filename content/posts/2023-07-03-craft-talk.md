@@ -46,7 +46,8 @@ En termes d'architecture, l'application est une petite API REST avec un frontend
 Maxime commence par rédiger un test d'ensemble avec Cucumber, dans un langage proche du métier, pour notamment participer à la documentation vivante de l'application, lisible par n'importe qui, par exemple le développeur front : "on fait notre documentation en même temps qu'on fait notre test".
 
 Maxime conseille de designer les steps Cucumber pour avoir le feedback le plus explicite, pour savoir quand ça ne marche pas, pourquoi ça ne marche pas.
-Utilisant Eclipse comme IDE, Les tests Cucumber ne sont pas lancés automatiquement, au contraire des tests unitaires qui le sont à chaque changement.
+Une "Run-conf" IntelliJ permet de lancer les tests unitaires automatiquement à chaque changement.
+Pour que la boucle de feedback reste courte, Les tests Cucumber sont exclus de l'exécution et doivent être lancés manuellement.
 La feature Cucumber sera son test rouge le plus longtemps.
 La première boucle de TDD démarre avec un test JUnit, avec le cas élémentaire d'une liste d'applications vide.
 
