@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Forum ouvert - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content="Format: Forum Ouvert Sujet: Parlons des relectures de nos PR/MR Meetup 14 personnes présentes / 21 inscrites Forum ouvert Session 1 : 19h15 - 19h45 Salle 1 [Colin] Je demande 3 PRs / MRs / jour par poste ou on fait du code, ça vous semble cohérent ou délirant ?"><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Compte-rendus des software crafters de Lyon",
+    
+    "url": "https:\/\/swcraftlyon.github.io\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/swcraftlyon.github.io\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2023-07-28-forum-ouvert\/",
+          "name": "Forum ouvert"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Forum ouvert",
+  "description" : "Format: Forum Ouvert Sujet: Parlons des relectures de nos PR\/MR Meetup 14 personnes présentes \/ 21 inscrites Forum ouvert Session 1 : 19h15 - 19h45 Salle 1 [Colin] Je demande 3 PRs \/ MRs \/ jour par poste ou on fait du code, ça vous semble cohérent ou délirant ?",
+  "inLanguage" : "fr",
+  "wordCount":  1156 ,
+  "datePublished" : "2023-07-28T19:00:00",
+  "dateModified" : "2023-07-28T19:00:00",
+  "image" : "https:\/\/swcraftlyon.github.io\/",
+  "keywords" : [ "unconf, craft" ],
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2023-07-28-forum-ouvert\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/swcraftlyon.github.io\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/swcraftlyon.github.io\/",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="Forum ouvert" />
+<meta property="og:description" content="Format: Forum Ouvert Sujet: Parlons des relectures de nos PR/MR Meetup 14 personnes présentes / 21 inscrites Forum ouvert Session 1 : 19h15 - 19h45 Salle 1 [Colin] Je demande 3 PRs / MRs / jour par poste ou on fait du code, ça vous semble cohérent ou délirant ?">
+<meta property="og:url" content="https://swcraftlyon.github.io/posts/2023-07-28-forum-ouvert/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
+
+  <meta name="twitter:title" content="Forum ouvert" />
+  <meta name="twitter:description" content="Format: Forum Ouvert Sujet: Parlons des relectures de nos PR/MR Meetup 14 personnes présentes / 21 inscrites Forum ouvert Session 1 : 19h15 - 19h45 Salle 1 [Colin] Je demande 3 PRs / MRs / jour par …">
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.111.3">
+  <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://swcraftlyon.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/syntax.css" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous"><style>
+  .navbar-header {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+  }
+
+  .navbar-toggle {
+    float: none;
+    position: unset;
+  }
+
+  .navbar-brand {
+    padding: 5px;
+    padding-left: 10px;
+    height: unset;
+    flex-grow: 1;
+  }
+
+  .navbar {
+    min-height: unset;
+  }
+
+  @media screen and (min-width: 766px) {
+    .navbar-nav > li > a {
+      padding: 0;
+      padding-right: 0.5em;
+    }
+  }
+
+  @media screen and (min-width: 1100px) {
+    .navbar > div {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .navbar-nav > li > a {
+      padding-right: 1em;
+    }
+  }
+</style>
+
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+            <li><a href="https://swcraftlyon.github.io/tags/dojo/">#dojo</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/talk/">#talk</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ddd/">#DDD</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/unconf/">#unconf</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/live/">#live</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lectures/">#lectures</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/eventstorming/">#eventstorming</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/retro/">#retro</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/craft/">#craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="posts-heading">
+              
+                <h1>Forum ouvert</h1>
+              
+              
+                <hr class="small">
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <ul>
+<li>Format: Forum Ouvert</li>
+<li>Sujet: Parlons des relectures de nos PR/MR</li>
+<li><a href="https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/294927796/">Meetup</a></li>
+<li>14 personnes présentes / 21 inscrites</li>
+</ul>
+<h2 id="forum-ouvert">Forum ouvert</h2>
+<h3 id="session-1--19h15---19h45">Session 1 : 19h15 - 19h45</h3>
+<h4 id="salle-1">Salle 1</h4>
+<ul>
+<li>[Colin] Je demande 3 PRs / MRs / jour par poste ou on fait du code, ça vous semble cohérent ou délirant ?</li>
+</ul>
+<p><em>2 heures :</em></p>
+<ul>
+<li>pattern (d’autres que Colin font ça)</li>
+<li>biais cognitifif : dur de perdre plus</li>
+<li>son propre score : 8 par jour en moyenne, alors que TL donc réunions</li>
+<li>pas de PR qui partent d’une autre PR</li>
+<li>mergé sans que ce soit utilisé</li>
+<li>relecture avec un expert métier, PO (enfin, pas le code des adapters ;-) (autre exemple : le code des adapteurs sera revue par l’experte Oracle qui verra des index manquants)</li>
+<li>difficultés d’adoption, ça nécessite du TDD (les séniors préfèrent payer l’apéro que d’essayer)</li>
+<li>ensuite la CI souffre :-D</li>
+<li>une grosse PR créée de la frustration (des centaines de commentaires), et du gâchis (une relecture ne devrait prendre que quelques minutes pendant un temps mort) -&gt; ça passe par dépit</li>
+<li>l’enfer des grosses PR (ex: sprints de 3 semaines, la dernière est consacrée aux MRs)</li>
+<li>ne pas chercher la PR de 2 heures tout de suite, y aller au fur et à mesure du TDD (ex : renommage de champ). Ça serait du bruit pour rien au sein du travail principal</li>
+<li>Inside Out, composition plutôt qu’héritage</li>
+<li>débit de relecture : auto-merge accepté. Priorités :
+<ol>
+<li>prod
+2 pause quand on en a besoin
+3 relecture de PR (très petites, claires, documentées, …)</li>
+<li>dévelopement</li>
+</ol>
+</li>
+<li>attention à la friction des outils (ex : GitLab vs BitBucket)</li>
+<li>CI : 15 minutes max par branche, 30 sur main (plus long sur main car sécurité, e2e, …). Quand ça dépasse on investi (en urgence + de matos, puis parallélisation, cache [souvent le plus rentable], …)</li>
+<li>CI : maintenant on différencie l’intégration (build, tests, e2e, …) de la delivery et déploiement</li>
+</ul>
+<h4 id="salle-3">Salle 3</h4>
+<ul>
+<li>[David] Est-ce que la manière de review une PR doit être harmonisée à l&rsquo;échelle de l&rsquo;équipe ? C&rsquo;est-à-dire que chaque dev fasse la review de la même manière.</li>
+</ul>
+<p><em>Contexte:</em></p>
+<ul>
+<li>
+<p>Une équipe de 3 ou 4</p>
+</li>
+<li>
+<p>Manière très différente de faire des PR</p>
+</li>
+<li>
+<p>Première personne : commencer par les tests, si pas bon =&gt; regarder le code plus tard, si bon =&gt; regarder le code</p>
+</li>
+<li>
+<p>Autre personne possible : télécharger le code pour la review</p>
+</li>
+<li>
+<p>Pas forcément un problème de relecture de code mais plus un problème de standard dans l&rsquo;équipe</p>
+</li>
+<li>
+<p>Est-ce qu&rsquo;on doit harmoniser ou non ?</p>
+</li>
+<li>
+<p>Tendance à regarder l&rsquo;implémentation et vérifier par les tests ont la bonne valeur</p>
+</li>
+<li>
+<p>On a tendance à savoir assez vite si le code a été écrit en TDD ou non, avec des Types ou non</p>
+</li>
+<li>
+<p>Tenter de s&rsquo;harmoniser sur le but de la relecture, comprendre pourquoi c&rsquo;est codé comme ça, ce que la revue par un tiers peut apporter</p>
+</li>
+<li>
+<p>Avoir en tête le nommage, les types expressifs, fonctions expressives mais ne pas s&rsquo;acharner dessus</p>
+</li>
+<li>
+<p>Si c&rsquo;est automatisable, l&rsquo;automatiser : exemple linter</p>
+</li>
+<li>
+<p>Utilisation d&rsquo;un linter qui ajoute des commentaires parfois contraignantes</p>
+</li>
+<li>
+<p>Standard de pratique que l&rsquo;équipe finit par avoir en commun, exemple:</p>
+<ul>
+<li>Exemple : si quelqu&rsquo;un ne fait pas du TDD, l&rsquo;accompagner vers l&rsquo;approche</li>
+</ul>
+</li>
+<li>
+<p>Plutôt s&rsquo;interroger sur le &ldquo;pourquoi&rdquo; que le &ldquo;comment&rdquo; review une PR</p>
+</li>
+<li>
+<p>But possible de la PR : transmettre à l&rsquo;équipe les changements</p>
+</li>
+<li>
+<p>Rôles tournants (par semaine) avec quelqu&rsquo;un qui relit toutes les PRs ?</p>
+</li>
+<li>
+<p>Beaucoup de temps à passer sur la PR lorsqu&rsquo;on ne connaît pas le sujet, peut dissuader</p>
+</li>
+<li>
+<p>Présenter la PR, le problème métier et comment on l&rsquo;a résolu</p>
+</li>
+<li>
+<p>Ref : podcast <a href="https://www.codingblocks.net/">https://www.codingblocks.net/</a></p>
+</li>
+<li>
+<p><a href="https://martinfowler.com/articles/ship-show-ask.html">https://martinfowler.com/articles/ship-show-ask.html</a></p>
+</li>
+<li>
+<p>Nous sommes plusieurs à faire de l&rsquo;auto review</p>
+</li>
+<li>
+<p>Les outils de reviews (MR dans GitLab par exemple) ne sont pas toujours très pratiques pour relire</p>
+</li>
+</ul>
+<h3 id="session-2--19h55---20h25">Session 2 : 19h55 - 20h25</h3>
+<h4 id="salle-1-1">Salle 1</h4>
+<ul>
+<li>
+<p>[Gautier] Peer review vs pair programming : dans quelles situations sont-ils pertinents?</p>
+</li>
+<li>
+<p>Contexte :</p>
+<ul>
+<li>Ancienne équipe sur la même timezone</li>
+<li>Faire des PR : point de friction</li>
+<li>Certains fusionnaient les PR sans la review</li>
+<li>Effet &ldquo;laisser filer&rdquo; sur les PR</li>
+<li>Nouvelle équipe sur des timezones différentes</li>
+</ul>
+</li>
+<li>
+<p>Est-ce que la PR n&rsquo;est pas la &ldquo;pair programming&rdquo; du pauvre ?</p>
+</li>
+<li>
+<p>Sur plusieurs timezones, il est difficile de faire du pair =&gt; les PR sont sans doute plus efficaces pour ça</p>
+</li>
+<li>
+<p>Si une PR reste en review trop longtemps =&gt; nécessite une séance de pair plutôt que de laisser vivre</p>
+</li>
+<li>
+<p>Proposition de durée trop longue pour nécessiter une review en pair/mob : 3 jours</p>
+</li>
+<li>
+<p>Problème de la review obligatoire : si au moins une personne est nécessaire pour une review, ça n&rsquo;inclue pas le pair/mob</p>
+</li>
+<li>
+<p>Supprimer une PR =&gt; souvent mal vu par son auteur/autrice ; plus simple lorsque la décision est collégiale</p>
+</li>
+<li>
+<p>Problème des (story) points =&gt; difficile de prendre de la hauteur pour ne pas laisser trop vivre longtemps une PR</p>
+</li>
+<li>
+<p>On a beaucoup moins de soucis avec du Pair Programming qu&rsquo;avec des PR en général</p>
+</li>
+<li>
+<p>Suite à un Pair, la PR peut permettre de prendre de la hauteur</p>
+</li>
+<li>
+<p>Possible de review à chaque commit</p>
+</li>
+<li>
+<p>Utilisation d&rsquo;une PR à titre d&rsquo;exemple sans but d&rsquo;être fusionné</p>
+</li>
+<li>
+<p>Apport du &ldquo;craft&rdquo; : détachement de l&rsquo;humain de la PR</p>
+</li>
+</ul>
+<h4 id="salle-2">Salle 2</h4>
+<ul>
+<li>[Jérémy] Propriétés d&rsquo;une PR/MR : Quelle taille max ? Faut-il séparer feature et refacto ? Faut il une PR pour tout ?</li>
+<li>[Nolwenn] Faut-il toujours demander des relectures ?</li>
+</ul>
+<ul>
+<li>Plus c&rsquo;est long, plus c&rsquo;est compliqué à relire</li>
+<li>Un rename peut impacter N classes, pas intéressant</li>
+<li>S&rsquo;efforcer de faire plusieurs commits pour faciliter la relecture plutôt qu&rsquo;un énorme commit</li>
+<li>Organisation : par défaut on review et y&rsquo;a des exceptions VS l&rsquo;inverse</li>
+<li>Limiter la taille d&rsquo;une MR :
+<ul>
+<li>Découper le problème : domaine, puis ports secondaires, puis ports primaires&hellip;</li>
+<li>Si grosse refacto identifiée sur code legacy =&gt; Kent beck =&gt; MR de refacto puis MR de feature</li>
+<li>Pas besoin de relecture : modifications automatiques</li>
+</ul>
+</li>
+<li>Code Scene =&gt; analyse de l&rsquo;utilisation du code</li>
+<li>Code Red: The Business Impact of Code Quality (par le créateur de codescene) -&gt;https://www.youtube.com/watch?v=X2RdwmPqBvQ</li>
+<li>Feature + refacto ? Rendre le changement simple avant de faire le changement</li>
+</ul>
+<h4 id="salle-3-1">Salle 3</h4>
+<ul>
+<li>*[Tlaop] Checklists/standards de relecture de PR ?</li>
+</ul>
+<ul>
+<li>Une checklist différente par PR (en fonction du niveau de séniorité, des tâches, du parcours [ex : reconversion])</li>
+<li>Plutôt junior : nommage, tests, extraction de méthode, … (ça tient en un écran). On n’utilisera pas la terminologie craft, les noms de patterns, … (aider à prendre confiance)</li>
+<li>on peut se permettre de laisser passer des erreurs</li>
+<li>“injustice”</li>
+<li>En open-source ce sera complètement différent</li>
+<li>les fameuses micro-PR de renommage, … du round précédent c’est ça</li>
+<li>chaque personne tend à faire des erreurs qui leurs sont spécifiques (typos, visibilité, …)</li>
+<li>se limiter dans le nombre de retours par PR</li>
+<li>Conventional comments : <a href="https://conventionalcomments.org/">https://conventionalcomments.org/</a></li>
+<li>Faire la review avec la personne plutôt que de mettre des commentaires (bonus: facilite le mentoring)</li>
+<li>les joies des PRs en open-source (barrières de langues et cultures,  temporalité des merges, …)</li>
+</ul>
+<h2 id="roti-">ROTI :</h2>
+<ul>
+<li>3 : 3</li>
+<li>3.5 : 2</li>
+<li>4 : 5</li>
+<li>5 : 2</li>
+</ul>
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://swcraftlyon.github.io//tags/unconf/">unconf</a>&nbsp;
+            
+              <a href="https://swcraftlyon.github.io//tags/craft/">craft</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://swcraftlyon.github.io/posts/2023-07-10-coding-dojo-midi/" data-toggle="tooltip" data-placement="top" title="Coding Dojo lundi 10 juillet 2023">&larr; Post précédent</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2023
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          Carbure avec <a href="https://gohugo.io">Hugo v0.111.3</a>&nbsp;&bull;&nbsp; Avec le Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapté de <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://swcraftlyon.github.io/js/main.js"></script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://swcraftlyon.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
+
+    
+  </body>
+</html>
+

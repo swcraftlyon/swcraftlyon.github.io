@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>craft on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/craft/</link>
+    <description>Recent content in craft on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 28 Jul 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/craft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum ouvert</title>
+      <link>https://swcraftlyon.github.io/posts/2023-07-28-forum-ouvert/</link>
+      <pubDate>Fri, 28 Jul 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-07-28-forum-ouvert/</guid>
+      <description>Format: Forum Ouvert Sujet: Parlons des relectures de nos PR/MR Meetup 14 personnes présentes / 21 inscrites Forum ouvert Session 1 : 19h15 - 19h45 Salle 1 [Colin] Je demande 3 PRs / MRs / jour par poste ou on fait du code, ça vous semble cohérent ou délirant ?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://swcraftlyon.github.io/</loc>
+    <lastmod>2023-07-28T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/craft/</loc>
+    <lastmod>2023-07-28T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/2023-07-28-forum-ouvert/</loc>
+    <lastmod>2023-07-28T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2023-07-28T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2023-07-28T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/unconf/</loc>
+    <lastmod>2023-07-28T19:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-07-10-coding-dojo-midi/</loc>
     <lastmod>2023-07-10T12:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2023-07-10T12:15:00+01:00</lastmod>
-  </url><url>
     <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
-    <lastmod>2023-07-10T12:15:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2023-07-10T12:15:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
     <lastmod>2023-07-10T12:15:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-07-03-craft-talk/</loc>
@@ -42,9 +51,6 @@
     <lastmod>2023-06-15T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-06-15-forum-ouvert/</loc>
-    <lastmod>2023-06-15T19:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/unconf/</loc>
     <lastmod>2023-06-15T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2023-06-06-coding-dojo-midi/</loc>
