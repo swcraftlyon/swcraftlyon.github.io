@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 28 Jul 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atelier découverte de CQRS/ES par le code</title>
+      <link>https://swcraftlyon.github.io/posts/2023-09-21-atelier/</link>
+      <pubDate>Thu, 21 Sep 2023 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-09-21-atelier/</guid>
+      <description> Meetup : https://www.meetup.com/software-craftsmanship-lyon/events/295774500/ Nombre de participants : 25 Animateurs: Florent et Adrien Lieu: en ligne Description Exploration des concepts CQRS/ES Fabrication de Mixter, une sorte de Twitter-like en CQRS/ES Déroulement 7 groupes répartis dans des salles Retrospective globale En JS, beaucoup de blocage avec la base code JS L&amp;rsquo;absence de type en JS est compliqué Bien aimé le côté Pair Programming Lors des blocages l&amp;rsquo;aide était facile avec le partage d&amp;rsquo;écran dans Discord Un peu trop de tâtonnement pour saisir vraiment les notions, la présentation n&amp;rsquo;était peut-être pas suffisante pour tout comprendre On comprend mieux en faisant On gagne en clarté en avançant dans les étapes Besoin d&amp;rsquo;approfondir les concepts théoriques entre les étapes Refaire l&amp;rsquo;exercice pourrait aider à approfondir les concepts Le setup est appréciable Objectif de l&amp;rsquo;atelier : mettre des étoiles sur le repo GitHub Un peu trop de bruit dans la base code Très bien d&amp;rsquo;avoir une base code fournie pour s&amp;rsquo;inspirer ROTI 4/5 : 9 5/5 : 10 </description>
+    </item>
+    
     <item>
       <title>Forum ouvert</title>
       <link>https://swcraftlyon.github.io/posts/2023-07-28-forum-ouvert/</link>
