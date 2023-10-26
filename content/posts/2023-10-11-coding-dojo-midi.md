@@ -2,7 +2,6 @@
 title: "Coding Dojo mercredi 11 octobre 2023"
 date: 2023-07-10T12:15:00+01:00
 tags: ["dojo"]
-aliases: [/posts/coding-dojo-11-10-2023/]
 ---
 
 - Sujet : [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata)
