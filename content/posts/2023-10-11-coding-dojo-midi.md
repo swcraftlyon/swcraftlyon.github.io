@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo mercredi 11 octobre 2023"
-date: 2023-07-10T12:15:00+01:00
+date: 2023-10-11T12:15:00+02:00
 tags: ["dojo"]
 ---
 
