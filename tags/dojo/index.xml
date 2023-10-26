@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 21 Sep 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Oct 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo jeudi 26 octobre 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-10-26-coding-dojo-soir/</link>
+      <pubDate>Thu, 26 Oct 2023 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-10-26-coding-dojo-soir/</guid>
+      <description>Sujet : Trivia Refactoring Kata Meetup Format : 2 * Mob Langage : Java et Python Nombre de participants : 9 Rétrospective Gros groupe coté Python Java on utilisé la version Bug Zéro avec l&amp;rsquo;avantage d&amp;rsquo;avoir déjà le test unitaire: https://github.</description>
+    </item>
+    
     <item>
       <title>Atelier découverte de CQRS/ES par le code</title>
       <link>https://swcraftlyon.github.io/posts/2023-09-21-atelier/</link>
