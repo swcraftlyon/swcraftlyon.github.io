@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gdcr on Compte-rendus des software crafters de Lyon</title>
+    <title>GDCR on Compte-rendus des software crafters de Lyon</title>
     <link>https://swcraftlyon.github.io/tags/gdcr/</link>
-    <description>Recent content in gdcr on Compte-rendus des software crafters de Lyon</description>
+    <description>Recent content in GDCR on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 16 Nov 2019 09:43:18 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/gdcr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 09:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/gdcr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Global Code Retreat Samedi 16 November 2019</title>
-      <link>https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/</link>
-      <pubDate>Sat, 16 Nov 2019 09:43:18 +0200</pubDate>
+      <title>Code Retreat 05 Novembre 2022</title>
+      <link>https://swcraftlyon.github.io/posts/2022-11-05-code-retreat/</link>
+      <pubDate>Sat, 05 Nov 2022 09:00:00 +0100</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2019-11-16-global-code-retreat/</guid>
-      <description>Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C++, Scala, TypeScript, F#, Kotlin Nombre de participants : 25  Objectif  Améliorer nos pratiques de code  Déroulement  Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération  Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&amp;rsquo;habitude.</description>
+      <guid>https://swcraftlyon.github.io/posts/2022-11-05-code-retreat/</guid>
+      <description>Sujet : Falcon CO2 Meetup 44 inscrit·e·s Sujet Le sujet de cette année n&amp;rsquo;était pas le jeu de la vie.</description>
     </item>
     
   </channel>
