@@ -1,7 +1,7 @@
 ---
 title: "Code Retreat 05 Novembre 2022"
 date: 2022-11-05T09:00:00+01:00
-tags: ["code-retreat"]
+tags: ["code-retreat", "GDCR"]
 ---
 
 - Sujet : Falcon CO2
