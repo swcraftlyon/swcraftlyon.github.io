@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 26 Oct 2023 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo mercredi 11 novembre 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-11-15-coding-dojo-midi/</link>
+      <pubDate>Wed, 15 Nov 2023 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-11-15-coding-dojo-midi/</guid>
+      <description> Sujet : Battleships Kata Meetup Format : Pair Langage : C#, Java, Python, Rust, TypeScript Nombre de participants : 17 Rétrospective Salle C# 4 Personnes Pas forcément à l&amp;rsquo;aise en inside-out Commencé par la grille, terminé facilement Salle TypeScript 4 Personnes Naturellement partis en outside-in EventSourcing Lourdeur dans la définition des bateaux Frustration du manque de refactoring Fluidité dans les expérimentations de design Petites étapes sur les types Commencé par les utilisateurs et les tours qui ont posés le design Salle Python 2 Personnes Premier kata, plutôt bien passé Salle Rust 3 Personnes Grosses étapes en suivant le sujet Difficulté/lourdeur à tester l&amp;rsquo;affichage de la grille Salle Java 4 Personnes Commencé par la grille Deux gros rollback sur le design ROTI 3/5 : 5 4/5 : 9 5/5 : 2 </description>
+    </item>
+    
     <item>
       <title>Coding Dojo jeudi 26 octobre 2023</title>
       <link>https://swcraftlyon.github.io/posts/2023-10-26-coding-dojo-soir/</link>
