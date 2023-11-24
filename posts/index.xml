@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 15 Nov 2023 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Nov 2023 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soirée retour de XCraft</title>
+      <link>https://swcraftlyon.github.io/posts/2023-11-24-retours-xcraft/</link>
+      <pubDate>Fri, 24 Nov 2023 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-11-24-retours-xcraft/</guid>
+      <description> Sujet : Soirée retour de XCraft Format : Talk Meetup Twitch XCraft Déroulé Lectures des feedbacks des formulaires Playlists des captations: Halle Romeu 135 billets distribués (3 no-show) Pas mal de soucis d&amp;rsquo;organisations jusqu&amp;rsquo;au dernier moment, notamment à cause des intempéris Houleymatou Baldé a fait son premier talk après une intense session de conviction le jour même Retours OpenFeedback Que deux retours négatif sur la nourriture (soucis où les 15 burgers sans gluten étaient végétariens) Tentatives de faire des tracks full tech 3 talks non-inédits Bonnes expériences de certains intervenant(e)s (notamment pour leur premier passage) Les participant(e)s n&amp;rsquo;ont pas trouvé le niveau trop élevé/élitiste Soucis de communication LyonCraft : évangélisation XCraft : xDD sont supposés être acquis Le but c&amp;rsquo;est de gardé un nombre de participants max à 150 € Pour pouvoir parler à tout le monde Ne pas surcharger les orgas (tous bénévoles) Ne pas avoir de soucis à avancer les fonds (&amp;lt; 20k€) Difficultés à prévoir et annoncer les dates suffisemment à l&amp;rsquo;avance Mieux répartir la gestion des intervenants L&amp;rsquo;organisations sur deux jours exploserait le budget (&amp;gt; 30k€) et le temps/l&amp;rsquo;énergie des orgas Généralement de bons retours Beaucoup de remarques sur le prix des places (170€) à priori Pas eu de soucis de personnes toxiques à gérer LyonCraft va rester avec des intervenant(e)s locaux LyonCraft/XCraft sont de bons tremplins pour les intervenant(e)s peu expérimenté(e) XCraft est plus bac à sable Ne plus faire de GDCR le lendemain Peut-être baissé le standing pour baisser le prix et pouvoir s&amp;rsquo;autonomiser Deux petites conférences semble un bon compromis (même si la limite des places va se faire sentir) GDCR 40 personnes (deux départs à midi) beaucoup de nouveaux bon sujet bien animé </description>
+    </item>
+    
     <item>
       <title>Coding Dojo mercredi 11 novembre 2023</title>
       <link>https://swcraftlyon.github.io/posts/2023-11-15-coding-dojo-midi/</link>
