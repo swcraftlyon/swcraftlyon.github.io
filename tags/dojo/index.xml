@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 15 Nov 2023 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo jeudi 7 decembre 2023</title>
+      <link>https://swcraftlyon.github.io/posts/2023-12-07-coding-dojo-midi/</link>
+      <pubDate>Thu, 07 Dec 2023 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2023-12-07-coding-dojo-midi/</guid>
+      <description>Sujet : Mastermind Kata Meetup Format : 2 Mobs Langage : Scala/TypeScript Nombre de participants : 10 Rétrospective TypeScript Bien aimé le kata, particulièrement apprécié les premiers steps listés dans l&amp;rsquo;exemple, pas beaucoup de code à créer, on peut rapidement itérer Algo de misplaced et de well placed avec des marches sympa Étapes un peu trop grosses parfois Kata terminé 3ème kata : bien aimé surtout le fait de bien itérer Découverte de TypeScript : ça s&amp;rsquo;est bien passé 2ème kata : Ça partait un peu dans tous les sens à la fin pour les notions Partie bien aimé : quand on a commencé à se prendre les pieds dans le tapis, refaire un test plus petit pour repartir Content d&amp;rsquo;avoir utilisé les tests paramétrés Scala Découverte de Scala sympa, assez proche de Java, découverte de la fonction zip Pas réussi à faire un code très &amp;ldquo;craft&amp;rdquo; Ressenti plus comme un kata &amp;ldquo;algorithmique&amp;rdquo; qu&amp;rsquo;un kata craft On s&amp;rsquo;est bien pris les pieds dans le tapis Tests optimisés mais on ne comprend pas le code ni pourquoi ça marche Bien aimé le support de l&amp;rsquo;équipe quand il y avait besoin Syntaxe du langage un peu folklorique Des zips de partout Peut-être trop d&amp;rsquo;anticipations sur certains cas vers la fin ROTI 3.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo mercredi 11 novembre 2023</title>
       <link>https://swcraftlyon.github.io/posts/2023-11-15-coding-dojo-midi/</link>
