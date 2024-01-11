@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 05 Jan 2024 11:30:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo mercredi 10 janvier 2024</title>
+      <link>https://swcraftlyon.github.io/posts/2024-01-10-coding-dojo-midi/</link>
+      <pubDate>Wed, 10 Jan 2024 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-01-10-coding-dojo-midi/</guid>
+      <description> Sujet : Bowling Kata Meetup Format : 2 Mobs Langage : Python/TypeScript Nombre de participants : 8 Rétrospective TypeScript Deux personnes ont fait leur première session Pas l&amp;rsquo;habitude de faire des tests C&amp;rsquo;est bien de faire le kata avec des personnes un peu &amp;ldquo;aguerries&amp;rdquo; Le plus important, c&amp;rsquo;est le refacto, le nommage : c&amp;rsquo;est un peu une sorte de preuve par l&amp;rsquo;exemple Un peu perdu avec les règles métier Apprentissage grâce à l&amp;rsquo;équipe : merci d&amp;rsquo;avoir pris le temps pour les règles Python Ça fait longtemps que le kata n&amp;rsquo;a pas été fait, mais il a été terminé Peu de &amp;ldquo;grand&amp;rdquo; refacto sur la session Python était nouveau pour certains L&amp;rsquo;exercice est bien Première fois pour un kata en ligne Le groupe est accueillant, c&amp;rsquo;est motivant ROTI 2/5 : 1 =&amp;gt; trop court 3/5 : 1 4/5 : 5 </description>
+    </item>
+    
     <item>
       <title>Discussions pour un track Craft a Tech &amp; Wine</title>
       <link>https://swcraftlyon.github.io/posts/2024-01-05-tech-and-wine/</link>
