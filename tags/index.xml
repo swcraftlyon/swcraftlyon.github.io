@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 22 Jan 2024 12:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jan 2024 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lectures</title>
+      <link>https://swcraftlyon.github.io/tags/lectures/</link>
+      <pubDate>Mon, 29 Jan 2024 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://swcraftlyon.github.io/tags/live/</link>
+      <pubDate>Mon, 29 Jan 2024 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://swcraftlyon.github.io/tags/talk/</link>
+      <pubDate>Mon, 29 Jan 2024 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dojo</title>
       <link>https://swcraftlyon.github.io/tags/dojo/</link>
@@ -44,15 +71,6 @@
     </item>
     
     <item>
-      <title>talk</title>
-      <link>https://swcraftlyon.github.io/tags/talk/</link>
-      <pubDate>Fri, 24 Nov 2023 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>twitch</title>
       <link>https://swcraftlyon.github.io/tags/twitch/</link>
       <pubDate>Fri, 24 Nov 2023 19:00:00 +0100</pubDate>
@@ -80,15 +98,6 @@
     </item>
     
     <item>
-      <title>live</title>
-      <link>https://swcraftlyon.github.io/tags/live/</link>
-      <pubDate>Thu, 29 Jun 2023 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/live/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>retro</title>
       <link>https://swcraftlyon.github.io/tags/retro/</link>
       <pubDate>Thu, 29 Jun 2023 19:00:00 +0100</pubDate>
@@ -112,15 +121,6 @@
       <pubDate>Tue, 11 Apr 2023 09:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/lyon-craft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lectures</title>
-      <link>https://swcraftlyon.github.io/tags/lectures/</link>
-      <pubDate>Tue, 24 Jan 2023 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/lectures/</guid>
       <description></description>
     </item>
     
