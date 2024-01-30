@@ -7,7 +7,7 @@ tags: ["talk", "live", "lectures"]
 - Sujet: Club de lecture
 - Format: Discussion online
 - Meetup: https://www.meetup.com/software-craftsmanship-lyon/events/297930858/
-- Vidéo: https://youtu.be/xOmS8zUU5AI
+- Vidéo: https://youtu.be/y8nx1RKO6CU
 - 3 intervenants / 6 viewers
 
 ## (Video) "What UNIX Cost Us" - Benno Rice (LCA 2020)
