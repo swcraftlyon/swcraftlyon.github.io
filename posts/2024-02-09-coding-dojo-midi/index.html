@@ -58,7 +58,7 @@
   "headline": "Coding Dojo Vendredi 9 février 2024",
   "description" : "Sujet : IceCream Refactoring Meetup Format : Mob Langage : Java, Python et TypeScript Nombre de participants : 20 Rappel du sujet Ce kata de refactoring est disponible pour plusieurs langages de programmation.",
   "inLanguage" : "fr",
-  "wordCount":  466 ,
+  "wordCount":  471 ,
   "datePublished" : "2024-02-09T12:15:00",
   "dateModified" : "2024-02-09T12:15:00",
   "image" : "https:\/\/swcraftlyon.github.io\/",
@@ -170,27 +170,27 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/eventstorming/">#eventstorming</a></li>
-        
             <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/craft/">#craft</a></li>
+            <li><a href="https://swcraftlyon.github.io/tags/eventstorming/">#eventstorming</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/retro/">#retro</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/craft/">#craft</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/twitch/">#twitch</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/xcraft/">#xcraft</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
-        
-            <li><a href="https://swcraftlyon.github.io/tags/gdcr/">#GDCR</a></li>
+            <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
+            <li><a href="https://swcraftlyon.github.io/tags/gdcr/">#GDCR</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
         
@@ -319,9 +319,9 @@ La refonte des classes a débloqué la possibilité d&rsquo;attaquer le reste.</
 <p>Le groupe TS a essayé de transformer le flux de contrôle (<code>if</code>s et <code>switch</code>s) en map.
 La travail s&rsquo;est arrếté avec le remplacement de l&rsquo;enum <code>IceCream</code> par une classe.
 Un peu de temps a été perdu à chercher pourquoi la couverture du code par les tests n&rsquo;était pas calculée (les tests en échec l&rsquo;empêchaient).</p>
-<p>Le deuxième groupe Java a suivi la consigne, surchargeant <code>Scorer#getScore()</code> avec une méthode <code>getScore(boolean sunnyDay)</code> et introduisant en plus du constructeur implicite un constructeur <code>Scorer(Random random)</code> permettant dans les tests de mocker Random, afin de rendre déterministes les algorithmes de <code>Scorer</code>.
-De proche en proche, les classes applicatives sont devenues de plus en plus testables, mais les refactoring sont restés faibles ; le but étant de transformer juste ce qu&rsquo;il fallait pour garder des tests simples sans altérer la sémantique du code fourni.
-Le groupe n&rsquo;est pas arrivé au terme, mais n&rsquo;a pas rencontré d&rsquo;obstacles significatifs pour empêcher la progression.</p>
+<p>Le deuxième groupe Java a suivi la consigne, surchargeant <code>Scorer#getScore()</code> avec une méthode <code>getScore(boolean sunnyDay)</code> et introduisant en plus du constructeur implicite un constructeur <code>Scorer(Random random)</code> permettant dans les tests de mocker les instances de <code>Random</code>, afin de rendre déterministes les algorithmes de <code>Scorer</code>.
+De proche en proche, les classes applicatives sont devenues de plus en plus testables, mais les remaniements sont restés limités ; le but étant de transformer juste ce qu&rsquo;il fallait pour garder des tests simples sans altérer la sémantique du code fourni.
+Le groupe n&rsquo;est pas arrivé au terme de l&rsquo;exercice, mais n&rsquo;a pas rencontré d&rsquo;obstacles significatifs pour empêcher sa progression.</p>
 <p>Le kata n&rsquo;est pas si facile que ça, surtout pour des débutants.
 Beaucoup d&rsquo;idées différentes ont été confrontées.
 Détermination difficile entre ces 2 chemins : conserver le code applicatif ce qui résulte en des tests compliqués, inversement modifier le code applicatif mais sans garantie suffisante par les tests.
