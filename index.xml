@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 29 Jan 2024 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Feb 2024 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Vendredi 9 février 2024</title>
+      <link>https://swcraftlyon.github.io/posts/2024-02-09-coding-dojo-midi/</link>
+      <pubDate>Fri, 09 Feb 2024 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-02-09-coding-dojo-midi/</guid>
+      <description>Sujet : IceCream Refactoring Meetup Format : Mob Langage : Java, Python et TypeScript Nombre de participants : 20 Rappel du sujet Ce kata de refactoring est disponible pour plusieurs langages de programmation.</description>
+    </item>
+    
     <item>
       <title>Soirée lectures du Lundi 29 Janvier</title>
       <link>https://swcraftlyon.github.io/posts/2024-01-29-club-lecture/</link>

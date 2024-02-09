@@ -58,7 +58,7 @@
   "headline": "Le TDD du Kata à la Production",
   "description" : "Sujet : Le TDD du Kata à la Production Format : Talk Meetup Présentation par Maxime Dezette, développeur chez Groupe PSIH, de pistes pour pratiquer le TDD au quotidien.",
   "inLanguage" : "fr",
-  "wordCount":  923 ,
+  "wordCount":  933 ,
   "datePublished" : "2023-07-03T19:15:00",
   "dateModified" : "2023-07-03T19:15:00",
   "image" : "https:\/\/swcraftlyon.github.io\/",
@@ -170,9 +170,9 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
-        
             <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/eventstorming/">#eventstorming</a></li>
         
@@ -184,15 +184,15 @@
         
             <li><a href="https://swcraftlyon.github.io/tags/xcraft/">#xcraft</a></li>
         
-            <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
-        
-            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
-        
             <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
         
             <li><a href="https://swcraftlyon.github.io/tags/gdcr/">#GDCR</a></li>
         
+            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
+        
             <li><a href="https://swcraftlyon.github.io/tags/twitch/">#twitch</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
         
 
         
@@ -330,7 +330,8 @@ La feature à développer est d&rsquo;ajouter le taux de complétion de l&rsquo;
 En termes d&rsquo;architecture, l&rsquo;application est une petite API REST avec un frontend en Vue.js, qui sont les technologies utilisées par Maxime au quotidien.</p>
 <p>Maxime commence par rédiger un test d&rsquo;ensemble avec Cucumber, dans un langage proche du métier, pour notamment participer à la documentation vivante de l&rsquo;application, lisible par n&rsquo;importe qui, par exemple le développeur front : &ldquo;on fait notre documentation en même temps qu&rsquo;on fait notre test&rdquo;.</p>
 <p>Maxime conseille de designer les steps Cucumber pour avoir le feedback le plus explicite, pour savoir quand ça ne marche pas, pourquoi ça ne marche pas.
-Utilisant Eclipse comme IDE, Les tests Cucumber ne sont pas lancés automatiquement, au contraire des tests unitaires qui le sont à chaque changement.
+Une &ldquo;Run-conf&rdquo; IntelliJ permet de lancer les tests unitaires automatiquement à chaque changement.
+Pour que la boucle de feedback reste courte, Les tests Cucumber sont exclus de l&rsquo;exécution et doivent être lancés manuellement.
 La feature Cucumber sera son test rouge le plus longtemps.
 La première boucle de TDD démarre avec un test JUnit, avec le cas élémentaire d&rsquo;une liste d&rsquo;applications vide.</p>
 <p>Maxime recommande de lancer les tests tout le temps, et avec la couverture, pour attraper les régressions au plus tôt.</p>
