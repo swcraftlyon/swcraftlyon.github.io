@@ -36,9 +36,9 @@ Le groupe TS a essayé de transformer le flux de contrôle (`if`s et `switch`s) 
 La travail s'est arrếté avec le remplacement de l'enum `IceCream` par une classe.
 Un peu de temps a été perdu à chercher pourquoi la couverture du code par les tests n'était pas calculée (les tests en échec l'empêchaient).
 
-Le deuxième groupe Java a suivi la consigne, surchargeant `Scorer#getScore()` avec une méthode `getScore(boolean sunnyDay)` et introduisant en plus du constructeur implicite un constructeur `Scorer(Random random)` permettant dans les tests de mocker Random, afin de rendre déterministes les algorithmes de `Scorer`.
-De proche en proche, les classes applicatives sont devenues de plus en plus testables, mais les refactoring sont restés faibles ; le but étant de transformer juste ce qu'il fallait pour garder des tests simples sans altérer la sémantique du code fourni.
-Le groupe n'est pas arrivé au terme, mais n'a pas rencontré d'obstacles significatifs pour empêcher la progression.
+Le deuxième groupe Java a suivi la consigne, surchargeant `Scorer#getScore()` avec une méthode `getScore(boolean sunnyDay)` et introduisant en plus du constructeur implicite un constructeur `Scorer(Random random)` permettant dans les tests de mocker les instances de `Random`, afin de rendre déterministes les algorithmes de `Scorer`.
+De proche en proche, les classes applicatives sont devenues de plus en plus testables, mais les remaniements sont restés limités ; le but étant de transformer juste ce qu'il fallait pour garder des tests simples sans altérer la sémantique du code fourni.
+Le groupe n'est pas arrivé au terme de l'exercice, mais n'a pas rencontré d'obstacles significatifs pour empêcher sa progression.
 
 Le kata n'est pas si facile que ça, surtout pour des débutants.
 Beaucoup d'idées différentes ont été confrontées.
