@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo Dimanche 18 février 2024"
-date: 2024-02-18T12:15:00+01:00
+date: 2024-02-18T15:15:00+01:00
 tags: ["dojo"]
 aliases: [/posts/coding-dojo-18-02-2024/]
 ---
