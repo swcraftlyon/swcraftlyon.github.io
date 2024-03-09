@@ -6,7 +6,16 @@
     <description>Recent content in team on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 05 Jan 2024 11:30:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/team/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Mar 2024 20:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assemblée Générale du CARA du Vendredi 8 Mars</title>
+      <link>https://swcraftlyon.github.io/posts/2024-03-08-ag-cara/</link>
+      <pubDate>Fri, 08 Mar 2024 20:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-03-08-ag-cara/</guid>
+      <description>Pour rappel la Software Crafters Lyon font partie de l&amp;rsquo;association du CARA Lyon.</description>
+    </item>
+    
     <item>
       <title>Discussions pour un track Craft a Tech &amp; Wine</title>
       <link>https://swcraftlyon.github.io/posts/2024-01-05-tech-and-wine/</link>

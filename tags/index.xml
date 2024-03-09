@@ -6,22 +6,40 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 29 Feb 2024 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Mar 2024 20:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>forum-ouvert</title>
-      <link>https://swcraftlyon.github.io/tags/forum-ouvert/</link>
-      <pubDate>Thu, 29 Feb 2024 19:00:00 +0100</pubDate>
+      <title>cara</title>
+      <link>https://swcraftlyon.github.io/tags/cara/</link>
+      <pubDate>Fri, 08 Mar 2024 20:00:00 +0100</pubDate>
       
-      <guid>https://swcraftlyon.github.io/tags/forum-ouvert/</guid>
+      <guid>https://swcraftlyon.github.io/tags/cara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team</title>
+      <link>https://swcraftlyon.github.io/tags/team/</link>
+      <pubDate>Fri, 08 Mar 2024 20:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dojo</title>
       <link>https://swcraftlyon.github.io/tags/dojo/</link>
-      <pubDate>Fri, 23 Feb 2024 12:15:00 +0100</pubDate>
+      <pubDate>Tue, 05 Mar 2024 12:15:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/dojo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forum-ouvert</title>
+      <link>https://swcraftlyon.github.io/tags/forum-ouvert/</link>
+      <pubDate>Thu, 29 Feb 2024 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/forum-ouvert/</guid>
       <description></description>
     </item>
     
@@ -67,15 +85,6 @@
       <pubDate>Wed, 17 Jan 2024 19:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/unconf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>team</title>
-      <link>https://swcraftlyon.github.io/tags/team/</link>
-      <pubDate>Fri, 05 Jan 2024 11:30:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/team/</guid>
       <description></description>
     </item>
     
