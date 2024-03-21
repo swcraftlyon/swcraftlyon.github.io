@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://swcraftlyon.github.io/posts/2024-03-21-coding-dojo-soir/</loc>
+    <lastmod>2024-03-21T12:19:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/</loc>
+    <lastmod>2024-03-21T12:19:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
+    <lastmod>2024-03-21T12:19:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2024-03-21T12:19:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2024-03-21T12:19:00+01:00</lastmod>
+  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2024-03-13-ddd/</loc>
     <lastmod>2024-03-13T19:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2024-03-13T19:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://swcraftlyon.github.io/tags/ddd/</loc>
-    <lastmod>2024-03-13T19:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2024-03-13T19:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
     <lastmod>2024-03-13T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2024-03-08-ag-cara/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2024-03-08T20:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2024-03-05-coding-dojo-midi/</loc>
-    <lastmod>2024-03-05T12:15:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
     <lastmod>2024-03-05T12:15:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2024-02-29-forum-ouvert-communaute-francophone/</loc>

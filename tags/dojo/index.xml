@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 05 Mar 2024 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Mar 2024 12:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Soir</title>
+      <link>https://swcraftlyon.github.io/posts/2024-03-21-coding-dojo-soir/</link>
+      <pubDate>Thu, 21 Mar 2024 12:19:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-03-21-coding-dojo-soir/</guid>
+      <description> Sujet : Diamond kata Meetup Format : 2 mob (TypeScript / Java), en ligne Nombre de participants : 9 (/ 10) Retrospective globale Mob java (4), TS (4) Moins d&amp;rsquo;une heure pour arriver à la solution Java : Difficultés avec le cast Pure outside in (char en entrée, String en sortie) Baby-step (approche naive puis refactoring progressif) Double boucles TS : Mix outside in (enum en entrée, tableau de lignes en sorties) Approche itérative puis gros refactoring Une boucle jusqu&amp;rsquo;à la médiane, puis la médiane et le reverse de la première partie 3 =&amp;gt; rien appris Les petits groupes étaient bien Un retardataire est arrive au moment du gros refactoring mais a bien aimé ROTI 3/5 : 1 4/5 : 3 5/5 : 4 </description>
+    </item>
+    
     <item>
       <title>Coding Dojo du midi Mardi 5 mars 2024</title>
       <link>https://swcraftlyon.github.io/posts/2024-03-05-coding-dojo-midi/</link>
