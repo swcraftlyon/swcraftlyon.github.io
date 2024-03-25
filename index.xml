@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 21 Mar 2024 12:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Mar 2024 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le TDD du Kata à la Production</title>
+      <link>https://swcraftlyon.github.io/posts/2024-03-25-craft-talk/</link>
+      <pubDate>Mon, 25 Mar 2024 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-03-25-craft-talk/</guid>
+      <description>Sujet : Le TDD du Kata à la Production Format : Talk Meetup 14 présents / 19 inscrits Présentation par Maxime Dezette, développeur chez Groupe PSIH, de pistes pour pratiquer le TDD au quotidien.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Soir</title>
       <link>https://swcraftlyon.github.io/posts/2024-03-21-coding-dojo-soir/</link>
