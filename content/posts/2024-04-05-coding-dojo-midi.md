@@ -23,7 +23,7 @@ Java :
 
 - Efficace en pair
 - Résultat satisfaisant
-- Over Engineering, une boucle ruge un peu longue mais c'était sympa quand même => pari assez payant
+- Over Engineering, une boucle rouge un peu longue mais c'était sympa quand même => pari assez payant
 - Utilisation du pattern strategy
 
 TypeScript :
