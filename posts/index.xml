@@ -6,7 +6,25 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 25 Mar 2024 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 May 2024 12:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Soir</title>
+      <link>https://swcraftlyon.github.io/posts/2024-05-07-coding-dojo-soir/</link>
+      <pubDate>Tue, 07 May 2024 12:19:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-05-07-coding-dojo-soir/</guid>
+      <description>Sujet : Calcul du score d’un jeu du tennis Meetup Format : des paires et des triplettes Nombre de participants : 10 Des premières participations Retrospective globale Beaucoup d’apprentissage pour une première fois, découverte de nouveaux outils.</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo du Soir</title>
+      <link>https://swcraftlyon.github.io/posts/2024-04-16-coding-dojo-soir/</link>
+      <pubDate>Tue, 16 Apr 2024 12:19:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-04-16-coding-dojo-soir/</guid>
+      <description>Sujet : Markov Chain Meetup Format : 3 mob (TypeScript / Java), en ligne Nombre de participants : 10 Des premières participations Retrospective globale Départ un peu poussif pour comprendre le kata.</description>
+    </item>
+    
     <item>
       <title>Le TDD du Kata à la Production</title>
       <link>https://swcraftlyon.github.io/posts/2024-03-25-craft-talk/</link>
