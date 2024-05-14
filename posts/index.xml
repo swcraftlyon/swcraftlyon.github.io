@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 07 May 2024 12:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2024 12:20:15 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reprendre la main sur mon backend Node (Testing &amp; refactoring)</title>
+      <link>https://swcraftlyon.github.io/posts/2024-05-14-atelier-test-refactoring/</link>
+      <pubDate>Tue, 14 May 2024 12:20:15 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-05-14-atelier-test-refactoring/</guid>
+      <description>Sujet : Reprendre la main sur mon backend Node (Testing &amp;amp; refactoring) Meetup Format : Deux mobs de 5 et 6 Nombre de participants : 12 Des premières participations Contexte Il s’agissait de tester un atelier de deux heures qui se tiendra à la conférence Tech &amp;amp; Wine le 18 juin (https://technwine.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Soir</title>
       <link>https://swcraftlyon.github.io/posts/2024-05-07-coding-dojo-soir/</link>
