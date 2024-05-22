@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 07 May 2024 12:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 May 2024 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du midi Mercredi 24 Mai 2024</title>
+      <link>https://swcraftlyon.github.io/posts/2024-05-22-coding-dojo-midi/</link>
+      <pubDate>Wed, 22 May 2024 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-05-22-coding-dojo-midi/</guid>
+      <description>Sujet : Game Of Life Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Soir</title>
       <link>https://swcraftlyon.github.io/posts/2024-05-07-coding-dojo-soir/</link>
