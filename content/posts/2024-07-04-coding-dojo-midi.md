@@ -1,4 +1,8 @@
-# Coding Dojo du midi Jeudi 04 Juillet 2024
+---
+title: "Coding Dojo du midi Jeudi 04 Juillet 2024"
+date: 2024-07-04:12:00+01:00
+tags: ["dojo"]
+---
 
 - Sujet : Yatzy
 - Meetup : https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/301840563/
