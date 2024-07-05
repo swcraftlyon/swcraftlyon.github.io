@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo du midi Jeudi 04 Juillet 2024"
-date: 2024-07-04:12:00+01:00
+date: 2024-07-04T12:00:00+01:00
 tags: ["dojo"]
 ---
 
