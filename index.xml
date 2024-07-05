@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 27 Jun 2024 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jul 2024 12:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du midi Jeudi 04 Juillet 2024</title>
+      <link>https://swcraftlyon.github.io/posts/2024-07-04-coding-dojo-midi/</link>
+      <pubDate>Thu, 04 Jul 2024 12:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-07-04-coding-dojo-midi/</guid>
+      <description>Sujet : Yatzy Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du midi Jeudi 27 Juin 2024</title>
       <link>https://swcraftlyon.github.io/posts/2024-06-27-coding-dojo-midi/</link>
@@ -1704,15 +1713,6 @@ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert 16 partic
       
       <guid>https://swcraftlyon.github.io/posts/my-first-post/</guid>
       <description>Suite à notre visite aux crafters de Paris et aux retours de plusieurs personnes, nous avons décidé de commencer à faire des compte-rendus de séances.</description>
-    </item>
-    
-    <item>
-      <title>Coding Dojo du midi Jeudi 04 Juillet 2024</title>
-      <link>https://swcraftlyon.github.io/posts/2024-07-04-coding-dojo-midi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2024-07-04-coding-dojo-midi/</guid>
-      <description>Sujet : Yatzy Meetup : https://www.</description>
     </item>
     
   </channel>
