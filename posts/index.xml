@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 28 Aug 2024 19:30:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Sep 2024 12:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du midi Jeudi 04 Septembre 2024</title>
+      <link>https://swcraftlyon.github.io/posts/2024-09-04-coding-dojo-midi/</link>
+      <pubDate>Wed, 04 Sep 2024 12:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-09-04-coding-dojo-midi/</guid>
+      <description>Sujet : Tic-Tac-Toe Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Assemblé Générale</title>
       <link>https://swcraftlyon.github.io/posts/2024-08-08-ag/</link>
