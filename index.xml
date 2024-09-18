@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 12 Sep 2024 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2024 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arg puis RomanNumerals</title>
+      <link>https://swcraftlyon.github.io/posts/2024-09-18-coding-dojo/</link>
+      <pubDate>Wed, 18 Sep 2024 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-09-18-coding-dojo/</guid>
+      <description>Sujet : Args puis RomanNumerals Un groupe parti sur une approche en TypeDD mais qui peut être déroutante quand on n&amp;rsquo;a pas l&amp;rsquo;habitude de l&amp;rsquo;approche A la 2nd participation, l&amp;rsquo;approche et la méthode sont de plus en plus claire : &amp;ldquo;J&amp;rsquo;apprends des choses&amp;rdquo; Des soucis de discord Le premier test peut passer rapidement mais les problèmes suivent aussi très rapidement &amp;ldquo;Bien aimé le coté itératif&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Découverte de DDD</title>
       <link>https://swcraftlyon.github.io/posts/2024-09-12-soiree-ddd/</link>
