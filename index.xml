@@ -6,7 +6,17 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 18 Sep 2024 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trip Service</title>
+      <link>https://swcraftlyon.github.io/posts/2024-10-03-coding-dojo/</link>
+      <pubDate>Thu, 03 Oct 2024 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-10-03-coding-dojo/</guid>
+      <description>Sujet : Trip Service
+1 groupe TS de 5 personnes 1 groupe Java de 5 personnes Retour sur la session Bien aimé le refacto, on en fait pas souvent</description>
+    </item>
+    
     <item>
       <title>Arg puis RomanNumerals</title>
       <link>https://swcraftlyon.github.io/posts/2024-09-18-coding-dojo/</link>
