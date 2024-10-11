@@ -6,7 +6,17 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 03 Oct 2024 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Oct 2024 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>String calculator</title>
+      <link>https://swcraftlyon.github.io/posts/2024-10-10-coding-dojo/</link>
+      <pubDate>Thu, 10 Oct 2024 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-10-10-coding-dojo/</guid>
+      <description>Sujet : String calculator
+12 personnes en pair</description>
+    </item>
+    
     <item>
       <title>Trip Service</title>
       <link>https://swcraftlyon.github.io/posts/2024-10-03-coding-dojo/</link>
