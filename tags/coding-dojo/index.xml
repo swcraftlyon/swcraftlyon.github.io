@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>coding dojo on Compte-rendus des software crafters de Lyon</title>
+    <title>coding-dojo on Compte-rendus des software crafters de Lyon</title>
     <link>https://swcraftlyon.github.io/tags/coding-dojo/</link>
-    <description>Recent content in coding dojo on Compte-rendus des software crafters de Lyon</description>
+    <description>Recent content in coding-dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 27 May 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 20:20:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coding dojo du soir : Calendly on steroids</title>
-      <link>https://swcraftlyon.github.io/posts/2022-05-27-coding-dojo-soir/</link>
-      <pubDate>Fri, 27 May 2022 19:00:00 +0100</pubDate>
+      <title>Coding dojo du soir : Sail Boat</title>
+      <link>https://swcraftlyon.github.io/posts/2024-10-14-coding-dojo-soil-sail-boat/</link>
+      <pubDate>Mon, 14 Oct 2024 20:20:00 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2022-05-27-coding-dojo-soir/</guid>
-      <description>Sujet: Calendly on steroids Meetup: https://www.</description>
-    </item>
-    
-    <item>
-      <title>Game of Life</title>
-      <link>https://swcraftlyon.github.io/posts/2022-04-05-coding-dojo-soir/</link>
-      <pubDate>Tue, 05 Apr 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2022-04-05-coding-dojo-soir/</guid>
-      <description>Sujet: Modular monolith with DDD Meetup: https://www.</description>
-    </item>
-    
-    <item>
-      <title>Modular monolith with DDD</title>
-      <link>https://swcraftlyon.github.io/posts/2022-03-15-coding-dojo-soir/</link>
-      <pubDate>Tue, 15 Mar 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2022-03-15-coding-dojo-soir/</guid>
-      <description>Sujet: Modular monolith with DDD Meetup: https://www.</description>
+      <guid>https://swcraftlyon.github.io/posts/2024-10-14-coding-dojo-soil-sail-boat/</guid>
+      <description>Meetup Sujet : https://shodo-nantes.github.io/code-retreat/katas/sailboat/ Format : Mob Java et TS Nombre de participants : 10 Des premières participations Contexte Session à 20 heure pour satisfaire d’autres personnes.</description>
     </item>
     
   </channel>

@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 10 Oct 2024 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 20:20:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du soir : Sail Boat</title>
+      <link>https://swcraftlyon.github.io/posts/2024-10-14-coding-dojo-soil-sail-boat/</link>
+      <pubDate>Mon, 14 Oct 2024 20:20:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-10-14-coding-dojo-soil-sail-boat/</guid>
+      <description>Meetup Sujet : https://shodo-nantes.github.io/code-retreat/katas/sailboat/ Format : Mob Java et TS Nombre de participants : 10 Des premières participations Contexte Session à 20 heure pour satisfaire d’autres personnes.</description>
+    </item>
+    
     <item>
       <title>String calculator</title>
       <link>https://swcraftlyon.github.io/posts/2024-10-10-coding-dojo/</link>

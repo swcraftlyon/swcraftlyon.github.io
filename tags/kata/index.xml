@@ -6,41 +6,14 @@
     <description>Recent content in kata on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 18 Oct 2021 13:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 20:20:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coding Dojo lundi 18 octobre 2021</title>
-      <link>https://swcraftlyon.github.io/posts/2021-10-18-coding-dojo-midi/</link>
-      <pubDate>Mon, 18 Oct 2021 13:00:00 +0200</pubDate>
+      <title>Coding dojo du soir : Sail Boat</title>
+      <link>https://swcraftlyon.github.io/posts/2024-10-14-coding-dojo-soil-sail-boat/</link>
+      <pubDate>Mon, 14 Oct 2024 20:20:00 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2021-10-18-coding-dojo-midi/</guid>
-      <description>Sujet : cli-args-parser Meetup: https://www.</description>
-    </item>
-    
-    <item>
-      <title>Coding Dojo mercredi 13 octobre 2021</title>
-      <link>https://swcraftlyon.github.io/posts/2021-10-13-coding-dojo/</link>
-      <pubDate>Wed, 13 Oct 2021 19:00:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2021-10-13-coding-dojo/</guid>
-      <description>Sujet : Salary slip (Version avec update des dépendances par Nolwenn) Format : Mob programmings Meetup: https://www.</description>
-    </item>
-    
-    <item>
-      <title>Coding Dojo jeudi 17 septembre 2021</title>
-      <link>https://swcraftlyon.github.io/posts/2021-09-17-coding-dojo-midi/</link>
-      <pubDate>Fri, 17 Sep 2021 19:00:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2021-09-17-coding-dojo-midi/</guid>
-      <description>Sujet : Yatzee Format : Mob programming Langage : Java, C# Nombre de participants : 16 dont 6 nouveaux  Déroulement Tour de table pour rapidement se présenter permettant aux retardataires d’arriver.</description>
-    </item>
-    
-    <item>
-      <title>Coding Dojo jeudi 9 septembre 2021</title>
-      <link>https://swcraftlyon.github.io/posts/2021-09-09-coding-dojo-soir/</link>
-      <pubDate>Thu, 09 Sep 2021 19:00:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2021-09-09-coding-dojo-soir/</guid>
-      <description>Sujet : FizzBuzz Format : Pair programming Langage : Java, TypeScript, Rust, F# Nombre de participants : 10 dont 2 nouveaux  Déroulement Tour de table pour rapidement se présenter permettant aux retardataires d’arriver.</description>
+      <guid>https://swcraftlyon.github.io/posts/2024-10-14-coding-dojo-soil-sail-boat/</guid>
+      <description>Meetup Sujet : https://shodo-nantes.github.io/code-retreat/katas/sailboat/ Format : Mob Java et TS Nombre de participants : 10 Des premières participations Contexte Session à 20 heure pour satisfaire d’autres personnes.</description>
     </item>
     
   </channel>
