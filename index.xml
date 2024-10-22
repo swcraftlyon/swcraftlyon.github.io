@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 14 Oct 2024 20:20:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Oct 2024 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CQRS / ES : nos heuristiques après plusieurs années de prod</title>
+      <link>https://swcraftlyon.github.io/posts/2024-10-22-cqrs-es/</link>
+      <pubDate>Tue, 22 Oct 2024 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-10-22-cqrs-es/</guid>
+      <description> Meetup Nombre de participants : ~40 ROTI 0/5 : 0 1/5 : 0 2/5 : 0 3/5 : 12 4/5 : 21 5/5 : 2 </description>
+    </item>
+    
     <item>
       <title>Coding dojo du soir : Sail Boat</title>
       <link>https://swcraftlyon.github.io/posts/2024-10-14-coding-dojo-soil-sail-boat/</link>
