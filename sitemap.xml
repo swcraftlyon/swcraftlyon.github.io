@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2024-10-22T19:00:00+02:00</lastmod>
+    <lastmod>2024-10-23T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://swcraftlyon.github.io/posts/2024-10-22-cqrs-es/</loc>
-    <lastmod>2024-10-22T19:00:00+02:00</lastmod>
+    <loc>https://swcraftlyon.github.io/posts/2024-10-23-forum-ouvert-communaute-francophone/</loc>
+    <lastmod>2024-10-23T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/forum-ouvert/</loc>
+    <lastmod>2024-10-23T18:00:00+02:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2024-10-22T19:00:00+02:00</lastmod>
+    <lastmod>2024-10-23T18:00:00+02:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2024-10-23T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/2024-10-22-cqrs-es/</loc>
     <lastmod>2024-10-22T19:00:00+02:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/tags/talk/</loc>
@@ -108,9 +114,6 @@
     <lastmod>2024-03-05T12:15:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2024-02-29-forum-ouvert-communaute-francophone/</loc>
-    <lastmod>2024-02-29T19:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/forum-ouvert/</loc>
     <lastmod>2024-02-29T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2024-02-23-petits-katas-sous-contrainte/</loc>

@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 22 Oct 2024 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Oct 2024 18:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>forum-ouvert</title>
+      <link>https://swcraftlyon.github.io/tags/forum-ouvert/</link>
+      <pubDate>Wed, 23 Oct 2024 18:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/forum-ouvert/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>talk</title>
       <link>https://swcraftlyon.github.io/tags/talk/</link>
@@ -85,15 +94,6 @@
       <pubDate>Fri, 08 Mar 2024 20:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>forum-ouvert</title>
-      <link>https://swcraftlyon.github.io/tags/forum-ouvert/</link>
-      <pubDate>Thu, 29 Feb 2024 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/forum-ouvert/</guid>
       <description></description>
     </item>
     
