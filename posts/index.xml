@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 23 Oct 2024 18:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Nov 2024 12:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du midi Jeudi 07 Novembre 2024</title>
+      <link>https://swcraftlyon.github.io/posts/2024-11-07-coding-dojo-midi/</link>
+      <pubDate>Thu, 07 Nov 2024 12:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-11-07-coding-dojo-midi/</guid>
+      <description>Sujets : Parallel change Roman Numerals Meetup : https://www.</description>
+    </item>
+    
     <item>
       <title>Forum ouvert des communautés francophone Mercredi 23 octobre 2024</title>
       <link>https://swcraftlyon.github.io/posts/2024-10-23-forum-ouvert-communaute-francophone/</link>
