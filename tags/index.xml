@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 07 Nov 2024 12:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Nov 2024 09:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code-retreat</title>
+      <link>https://swcraftlyon.github.io/tags/code-retreat/</link>
+      <pubDate>Sat, 09 Nov 2024 09:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/code-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDCR</title>
+      <link>https://swcraftlyon.github.io/tags/gdcr/</link>
+      <pubDate>Sat, 09 Nov 2024 09:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/gdcr/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dojo</title>
       <link>https://swcraftlyon.github.io/tags/dojo/</link>
@@ -184,24 +202,6 @@
       <pubDate>Mon, 28 Nov 2022 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/refactoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code-retreat</title>
-      <link>https://swcraftlyon.github.io/tags/code-retreat/</link>
-      <pubDate>Sat, 05 Nov 2022 09:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/code-retreat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GDCR</title>
-      <link>https://swcraftlyon.github.io/tags/gdcr/</link>
-      <pubDate>Sat, 05 Nov 2022 09:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/gdcr/</guid>
       <description></description>
     </item>
     

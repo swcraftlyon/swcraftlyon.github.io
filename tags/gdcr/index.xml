@@ -6,7 +6,16 @@
     <description>Recent content in GDCR on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 05 Nov 2022 09:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/gdcr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Nov 2024 09:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/gdcr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Retreat 9 Novembre 2024</title>
+      <link>https://swcraftlyon.github.io/posts/2024-11-09-code-retreat/</link>
+      <pubDate>Sat, 09 Nov 2024 09:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-11-09-code-retreat/</guid>
+      <description>Sujet : Jeu de la vie Meetup 33 inscrit·e·s / 27 présent·e·s Introduction contraintes permanentes : TDD pair programming Session 1 : Decouverte Première fois pour le jeu de la vie, il est pas simple a appréhender Illustration des règles pas claires =&amp;gt; sont aller voir ailleurs (Wikipedia notamment) Commencer par une grille c&amp;rsquo;est complique (6 groupes) =&amp;gt; Il faut trouver les bonnes positions pour faire un cas a la fois moitie Commencer par une cellule ça biaise ton design (i.</description>
+    </item>
+    
     <item>
       <title>Code Retreat 05 Novembre 2022</title>
       <link>https://swcraftlyon.github.io/posts/2022-11-05-code-retreat/</link>
