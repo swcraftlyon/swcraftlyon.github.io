@@ -1,5 +1,5 @@
 ---
-title: "Faites confiance aux développeurs·euses de votre équipe"
+title: "Craft talk: Apprendre à animer un coding dojo"
 date: 2024-11-20T19:00:00+01:00 
 tags: ["talk"] 
 ---
