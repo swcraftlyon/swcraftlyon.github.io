@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2024-11-20T19:00:00+01:00</lastmod>
+    <loc>https://swcraftlyon.github.io/posts/2024-11-27-coding-dojo-soir/</loc>
+    <lastmod>2024-11-27T20:19:00+01:00</lastmod>
   </url><url>
-    <loc>https://swcraftlyon.github.io/posts/2024-11-20-craft-talk/</loc>
-    <lastmod>2024-11-20T19:00:00+01:00</lastmod>
+    <loc>https://swcraftlyon.github.io/tags/coding-dojo/</loc>
+    <lastmod>2024-11-27T20:19:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/</loc>
+    <lastmod>2024-11-27T20:19:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/kata/</loc>
+    <lastmod>2024-11-27T20:19:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2024-11-20T19:00:00+01:00</lastmod>
+    <lastmod>2024-11-27T20:19:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2024-11-27T20:19:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/2024-11-20-craft-talk/</loc>
     <lastmod>2024-11-20T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/tags/talk/</loc>
@@ -42,12 +51,6 @@
     <lastmod>2024-10-22T19:00:00+02:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2024-10-14-coding-dojo-soil-sail-boat/</loc>
-    <lastmod>2024-10-14T20:20:00+02:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/coding-dojo/</loc>
-    <lastmod>2024-10-14T20:20:00+02:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/kata/</loc>
     <lastmod>2024-10-14T20:20:00+02:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2024-10-10-coding-dojo/</loc>
