@@ -6,13 +6,22 @@
     <description>Recent content in coding-dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 27 Nov 2024 20:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/coding-dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du midi : Bowling Game</title>
+      <link>https://swcraftlyon.github.io/posts/2024-11-27-coding-dojo-soir-copy/</link>
+      <pubDate>Thu, 05 Dec 2024 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-11-27-coding-dojo-soir-copy/</guid>
+      <description>Meetup Sujet : Bowling Game Format : Mob Java Nombre de participants : 7 Des premières participations Retrospective Il est très facile de faire l&amp;rsquo;erreur &amp;ldquo;Refactor further than necessary&amp;rdquo; :).</description>
+    </item>
+    
     <item>
       <title>Coding dojo du soir : Hangman</title>
-      <link>https://swcraftlyon.github.io/posts/2024-11-27-coding-dojo-soir/</link>
+      <link>https://swcraftlyon.github.io/posts/2024-12-05-coding-dojo-midi/</link>
       <pubDate>Wed, 27 Nov 2024 20:19:00 +0100</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2024-11-27-coding-dojo-soir/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2024-12-05-coding-dojo-midi/</guid>
       <description>Meetup Sujet : Hangman Format : Mob Java et TS Nombre de participants : 9 / 12 inscrits Des premières participations Retrospective Java Bien aimé le kata Beaucoup de code au début qui a été redémarrer sur une implémentation immuable Bien aimé la prise de conscience de pouvoir recommencer une implémentation Grosses steps, du mal à faire le premier test au vert TS Baby steps assuré par le groupe Le sujet est bien Peu de refacto, partis pour supporté toutes les règles Déroulement agréable, pas de cul-de-sac, tout le monde avait la prochaine étape en tête Un participant voulait faire des baby steps plus petites et aller au bout des règles ROTI 3.</description>
     </item>
     
