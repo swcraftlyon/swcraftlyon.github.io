@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 05 Dec 2024 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 20:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du soir : GildedRose</title>
+      <link>https://swcraftlyon.github.io/posts/2024-12-16-coding-dojo-soir/</link>
+      <pubDate>Mon, 16 Dec 2024 20:19:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-12-16-coding-dojo-soir/</guid>
+      <description>Meetup Sujet : GildedRose Format : Pair / petits mobs Nombre de participants : 14 Des premières participations Retrospective C&amp;rsquo;était trop bien Bien aimé le fait que les règle ne soient pas trop compliquées et que le code soit &amp;ldquo;proprement sale&amp;rdquo; L&amp;rsquo;équipe a bien marché Bien aimé mais très compliqué, pas habitué à l&amp;rsquo;exercice du refactoring.</description>
+    </item>
+    
     <item>
       <title>Coding dojo du midi : Bowling Game</title>
       <link>https://swcraftlyon.github.io/posts/2024-11-27-coding-dojo-soir-copy/</link>
