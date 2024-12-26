@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Random lightning talks - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content="Meetup Sujet : Random lightning talks Nombre de participants : 7 Des premières participations Déroulement Colin : &ldquo;Dé-dupliquons un tableau d&rsquo;objets non primitifs en TypeScript&rdquo; Appréhension sur le sujet L&rsquo;utilisation du live coding a bien démontré le propos Le propos a bien été amené Sylvain : &ldquo;Travaillez votre personal branding !"><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Compte-rendus des software crafters de Lyon",
+    
+    "url": "https:\/\/swcraftlyon.github.io\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/swcraftlyon.github.io\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2024-12-26-random-lts\/",
+          "name": "Random lightning talks"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Random lightning talks",
+  "description" : "Meetup Sujet : Random lightning talks Nombre de participants : 7 Des premières participations Déroulement Colin : \u0026ldquo;Dé-dupliquons un tableau d\u0026rsquo;objets non primitifs en TypeScript\u0026rdquo; Appréhension sur le sujet L\u0026rsquo;utilisation du live coding a bien démontré le propos Le propos a bien été amené Sylvain : \u0026ldquo;Travaillez votre personal branding !",
+  "inLanguage" : "fr",
+  "wordCount":  336 ,
+  "datePublished" : "2024-12-26T19:00:00",
+  "dateModified" : "2024-12-26T19:00:00",
+  "image" : "https:\/\/swcraftlyon.github.io\/",
+  "keywords" : [ "random-lightning-talks" ],
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2024-12-26-random-lts\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/swcraftlyon.github.io\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/swcraftlyon.github.io\/",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="Random lightning talks" />
+<meta property="og:description" content="Meetup Sujet : Random lightning talks Nombre de participants : 7 Des premières participations Déroulement Colin : &ldquo;Dé-dupliquons un tableau d&rsquo;objets non primitifs en TypeScript&rdquo; Appréhension sur le sujet L&rsquo;utilisation du live coding a bien démontré le propos Le propos a bien été amené Sylvain : &ldquo;Travaillez votre personal branding !">
+<meta property="og:url" content="https://swcraftlyon.github.io/posts/2024-12-26-random-lts/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
+
+  <meta name="twitter:title" content="Random lightning talks" />
+  <meta name="twitter:description" content="Meetup Sujet : Random lightning talks Nombre de participants : 7 Des premières participations Déroulement Colin : &ldquo;Dé-dupliquons un tableau d&rsquo;objets non primitifs en TypeScript&rdquo; …">
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.111.3">
+  <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://swcraftlyon.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/syntax.css" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous"><style>
+  .navbar-header {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+  }
+
+  .navbar-toggle {
+    float: none;
+    position: unset;
+  }
+
+  .navbar-brand {
+    padding: 5px;
+    padding-left: 10px;
+    height: unset;
+    flex-grow: 1;
+  }
+
+  .navbar {
+    min-height: unset;
+  }
+
+  @media screen and (min-width: 766px) {
+    .navbar-nav > li > a {
+      padding: 0;
+      padding-right: 0.5em;
+    }
+  }
+
+  @media screen and (min-width: 1100px) {
+    .navbar > div {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .navbar-nav > li > a {
+      padding-right: 1em;
+    }
+  }
+</style>
+
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+            <li><a href="https://swcraftlyon.github.io/tags/dojo/">#dojo</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/talk/">#talk</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ddd/">#DDD</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/unconf/">#unconf</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/live/">#live</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lectures/">#lectures</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/coding-dojo/">#coding-dojo</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/kata/">#kata</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/eventstorming/">#eventstorming</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/forum-ouvert/">#forum-ouvert</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/craft/">#craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/gdcr/">#GDCR</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/retro/">#retro</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/random-lightning-talks/">#random-lightning-talks</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/xcraft/">#xcraft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ag/">#ag</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/atelier/">#atelier</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/cara/">#cara</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/twitch/">#twitch</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="posts-heading">
+              
+                <h1>Random lightning talks</h1>
+              
+              
+                <hr class="small">
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <ul>
+<li><a href="https://www.meetup.com/fr-FR/software-craftsmanship-lyon/events/304799474">Meetup</a></li>
+<li>Sujet : Random lightning talks</li>
+<li>Nombre de participants : 7</li>
+<li>Des premières participations</li>
+</ul>
+<h2 id="déroulement">Déroulement</h2>
+<ul>
+<li><em>Colin</em> : &ldquo;<em>Dé-dupliquons un tableau d&rsquo;objets non primitifs en TypeScript</em>&rdquo;
+<ul>
+<li>Appréhension sur le sujet</li>
+<li>L&rsquo;utilisation du live coding a bien démontré le propos</li>
+<li>Le propos a bien été amené</li>
+</ul>
+</li>
+<li><em>Sylvain</em> : &ldquo;<em>Travaillez votre personal branding !</em>&rdquo;
+<ul>
+<li>Trop scolaire (slides à points, très rassurant)</li>
+<li>Peur de dévier ou de ne pas être exhautif =&gt; &ldquo;<em>5 minutes est suffisant pour 0.5 message fort</em>&rdquo;</li>
+</ul>
+</li>
+<li><em>Gautier</em> : &ldquo;<em>Le dévelopement logiciel : une lutte permanente contre la complexité</em>&rdquo;
+<ul>
+<li>Un peu court (le temps a fillé sur la première partie donc la partie importante est passé vite)</li>
+<li>Manque de citations :
+<ul>
+<li><a href="https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf">Out of the Tar Pit</a></li>
+<li><a href="https://www.youtube.com/watch?v=yBEcq23OgB4">Couplig vs cohesion</a></li>
+</ul>
+</li>
+<li>Bon sujet pour 15 minutes</li>
+<li>Les slides étaient propre =&gt; utilisation d&rsquo;un watcher <a href="https://pandoc.org/">pandoc</a> qui <a href="https://revealjs.com/">revealjs</a></li>
+</ul>
+</li>
+<li><em>Zak</em> : &ldquo;<em>Partagez vos connaissances !</em>&rdquo;
+<ul>
+<li>Sujet très vaste mais l&rsquo;axe était bon (on a pu revenir sur son expérience)</li>
+<li>Trop scolaire (slides à points, très rassurant)</li>
+<li>Un peu court</li>
+</ul>
+</li>
+<li><em>Rémy</em> : &ldquo;<em>Comment découper les tâches</em>&rdquo;
+<ul>
+<li>L&rsquo;utilisation de <a href="https://excalidraw.com/">Excalidraw</a> était fluide et nous a emmener</li>
+<li>Assez à l&rsquo;aise au début, puis il y a une accelération quand le temps à manquer</li>
+<li>Manque de détail sur le &ldquo;pourquoi&rdquo;</li>
+<li>Désaccord sur le fond (mais c&rsquo;est normal)</li>
+</ul>
+</li>
+<li><em>Emmanuel</em>: &ldquo;<em>Ce que Sir Adrian Cartion de Wiart nous apprends sur la résilience humaine</em>&rdquo;
+<ul>
+<li>Français : language non-martenelle</li>
+<li>Un peu dur avec soit-même, le français était compréhensible</li>
+<li>Le sujet était compliqué mais le rendu et les slides étaient bien</li>
+</ul>
+</li>
+<li><em>Pin</em>: &ldquo;<em>C&rsquo;est quoi un monoïd ?</em>&rdquo;
+<ul>
+<li>Pas eu le temps de creuser en 10 minutes</li>
+<li>Moins scolaire</li>
+<li>L&rsquo;introduction était bien (de se baser sur <a href="https://www.youtube.com/watch?v=_jr8E5GVnBA">Cyrille Martraire</a>)</li>
+<li>Manque du &ldquo;pourquoi ?&rdquo;</li>
+</ul>
+</li>
+</ul>
+<h2 id="retrospective">Retrospective</h2>
+<ul>
+<li>Les sujets sont toujours détournables</li>
+<li>L&rsquo;exercice était bien, surtout sans préparation</li>
+<li>Difficile de structurer son travail en 10 minutes</li>
+<li>Bonnes astuces échangées durant la soirée</li>
+<li>Plus compliqué que prévu mais ça allait</li>
+<li>Plus compliqué qu&rsquo;un slides karaoké (rechercher, structurer, tenir 5 minutes)</li>
+<li>Moment de détente, pas de pression</li>
+</ul>
+<h2 id="roti">ROTI</h2>
+<ul>
+<li>4/5 : 4</li>
+<li>4.0786284/5 : 1</li>
+<li>4.5/5 : 1</li>
+</ul>
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://swcraftlyon.github.io//tags/random-lightning-talks/">random-lightning-talks</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://swcraftlyon.github.io/posts/2024-12-16-coding-dojo-soir/" data-toggle="tooltip" data-placement="top" title="Coding dojo du soir : GildedRose">&larr; Post précédent</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2024
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          Carbure avec <a href="https://gohugo.io">Hugo v0.111.3</a>&nbsp;&bull;&nbsp; Avec le Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapté de <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://swcraftlyon.github.io/js/main.js"></script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://swcraftlyon.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
+
+    
+  </body>
+</html>
+

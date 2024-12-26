@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 16 Dec 2024 20:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Dec 2024 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random lightning talks</title>
+      <link>https://swcraftlyon.github.io/posts/2024-12-26-random-lts/</link>
+      <pubDate>Thu, 26 Dec 2024 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2024-12-26-random-lts/</guid>
+      <description>Meetup Sujet : Random lightning talks Nombre de participants : 7 Des premières participations Déroulement Colin : &amp;ldquo;Dé-dupliquons un tableau d&amp;rsquo;objets non primitifs en TypeScript&amp;rdquo; Appréhension sur le sujet L&amp;rsquo;utilisation du live coding a bien démontré le propos Le propos a bien été amené Sylvain : &amp;ldquo;Travaillez votre personal branding !</description>
+    </item>
+    
     <item>
       <title>Coding dojo du soir : GildedRose</title>
       <link>https://swcraftlyon.github.io/posts/2024-12-16-coding-dojo-soir/</link>
