@@ -47,7 +47,7 @@ On procède de façon _barbare_ pour gagner une compréhension, et affiner.
 Sur un projet plus gros, ça peut être plus compliqué.
 Approval Tests permet de constituer un gros jeu de données.
 C'est un outil pratique quand le use case est déterministe.
-Dans un vrai projet, on n'est pas obligé de tout refactorer d'un coup.
+Dans un vrai projet, on n'est pas obligés de tout refactorer d'un coup.
 On pourrait aussi enregistrer des données en prod pour les utiliser lors des tests.
 
 ## ROTI
@@ -56,5 +56,3 @@ On pourrait aussi enregistrer des données en prod pour les utiliser lors des te
 - 3/5 : 1
 - 4/5 : 6
 - 5/5 : 4
-
-Keypromoter plugin pour IntelliJ
