@@ -18,7 +18,7 @@ La présence d'une dépendance vers [Approval Tests](https://approvaltests.com/)
 
 ## Déroulement
 
-La session s'est déroulée en pair jusqu'à 20h40 à travers Discord.
+La session s'est déroulée en pair jusqu'à 20h40, suivi de 20 minutes de rétrospective, à travers Discord.
 Le sujet peut se dérouler en 2 phases : construction d'un harnais de tests satisfaisant, puis [refactoring](https://en.wikipedia.org/wiki/Code_refactoring).
 
 ## Rétrospective
@@ -32,10 +32,10 @@ Quand c'était rouge on rajoutait un test.
 - On a fait les tests à la main : 9 tests en tout => on a pu refactorer sans ajouter d'autres tests.
 Vérifier la couverture permet d'identifier les tests à rajouter.
 On avait un branching coverage et un code coverage de 100 %.
-- Bien aimé faire ce kata, bien que je n'apprécie pas plus que ça.
+- Bien aimé faire ce kata, bien que je ne l'apprécie pas plus que ça.
 C'était assez tranquille : pas de problème, les directions étaient claires.
-- Nous n'avons pas regardé les règles du shopping cart (ou le readme) avant de commencer.
-Nous serions bien incapable de dire ce qu'il fallait faire, mais avec Approval Tests, nous avons pu guider le travail par l'angle technique.
+- Nous n'avons pas regardé les règles du shopping cart (ou le readme du kata) avant de commencer.
+Nous serions bien incapables de dire ce qu'il fallait faire, mais avec Approval Tests, nous avons pu guider le travail par l'angle technique.
 - Le polymorphisme répond bien au cas de refactoring que l'on rencontre dans ce kata.
 
 Doit-on garder les tests liés au Golden Master ?
