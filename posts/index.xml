@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 16 Jan 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jan 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dessine-moi une patate Mardi 21 Janvier 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-01-21-dessine-moi-une-patate/</link>
+      <pubDate>Tue, 21 Jan 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-01-21-dessine-moi-une-patate/</guid>
+      <description>Nombre de participants : 25 Meetup Déroulement 2 sessions de 45 minutes, pour se familiariser avec le context mapping, un outil du Domain-Driven Design, sur des cas réels.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mardi 16 Janvier 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-01-16-coding-dojo-midi/</link>
