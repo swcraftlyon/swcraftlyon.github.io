@@ -32,15 +32,15 @@ Puis dans une deuxième, nous avons réfléchi et entamé le refactoring.
 * On a fini avec un _record_ dont le 2ème paramètre était une fonction.
 * J'ai bien aimé l'optimisation du code par le refactoring.
 On découvre d'autres manières de faire, ça enrichit la caisse à outils pour le travail quotidien.
-* Un peu frustré de ne pas avoir obtenu la réponse à l'issue de la mise en place de types : nous avions modélisé un type union qui renvoie une fonction ; un cas se produit où notre tableau peut retourner `undefined`.
+* Un peu frustré de ne pas avoir obtenu ma réponse à l'issue de la mise en place de types : nous avions modélisé un type union qui renvoie une fonction ; un cas non élucidé se produit où notre tableau peut retourner `undefined`.
 * J'ai bien aimé comment notre compréhension progresse au fur et à mesure que nous simplifions le code.
-Celle-ci fait émerger des concepts implicites dans le code d'origine qui aide encore à le clarifier (ex : `Category`, `QuestionDeck`...).
+Celle-ci fait émerger des concepts implicites dans le code d'origine qui aident encore à le clarifier (ex : `Category`, `QuestionDeck`...).
 * Trop court hélas.
 * On s'est battu avec la couverture de code, puis on a décidé qu'elle était suffisante et que ce n'était pas l'objet du travail du jour.
 * Petit problème avec IntelliJ et la couverture du code par les tests qui ne s'affichait pas sur la classe `Game`.
-* Kata difficile à animer, on s'est un peu perdu au niveau déroulé, on n'a pas trouvé d'axe de refactoring qui tiennent la route.
+* Kata difficile à animer, on s'est un peu perdu dans le déroulé, on n'a pas trouvé d'axe de refactoring qui tienne la route.
 * Les objectifs du kata sont hyper flous, ce n'est pas simple quand il n'y a pas de guide.
-* On n'est pas arrivé à la penalty box, il y a un bug (on ne peut pas en sortir, mais on ne l'a pas trouvé).
+* On n'est pas arrivé jusqu'au moment où il faut découvrir le bug de la penalty box (on ne peut pas en sortir).
 
 Le groupe Java soulève le fait qu'ils n'ont pas établi de structure pour la prise de parole dans le mob.
 Cela présente avantages et inconvénients.

@@ -21,7 +21,7 @@ On reste sur notre faim.
 Le context mapping nécessite de _payer_ un ticket d'entrée et on n'a pas pu creuser suffisamment chaque situation, peut-être aurait-il fallu faire 2 sessions, d'1 h 30 ?
 Ça permettrait de vraiment challenger le découpage et d'avoir de meilleures patates.
 * Avant tout le but c'est de mieux comprendre les outils, et moins de creuser le métier.
-Inversement, plus tu creuses le métier, plus cela te permettrait d'éviter les pièges, notamment si tu veux refaire l'exercice avec tes collègues.
+* Inversement, plus tu creuses le métier, plus cela te permettrait d'éviter les pièges, notamment si tu veux refaire l'exercice avec tes collègues.
 L'important c'est de poser des questions.
 * Si vous voulez creuser ça dans votre contexte, n'hésitez pas à faire appel à des professionnels (il y en a dans la salle) qui seront ravis d'intervenir dans vos entreprises.
 
@@ -38,7 +38,7 @@ Toutes les questions étaient centrées sur le métier.
 * La vidéo introductive mentionnée sur Meetup ([Introduction to Context Mapping](https://www.youtube.com/watch?v=k5i4sP9q2Lk)) était chouette, elle a permis de mieux vivre l'atelier.
 * L'important c'est d'organiser ce genre d'événements, et ensuite chacun évolue à son rythme.
 * C'était mon premier meetup, c'est pas mal du tout, le format en temps restreint permet de mettre un pied dedans et de comprendre la philosophie.
-On découvre une autre facçon de penser, je m'y retrouve pas mal et pourquoi pas une session plus longue.
+On découvre une autre façon de penser, je m'y retrouve pas mal et pourquoi pas une session plus longue.
 
 ## ROTI
 
