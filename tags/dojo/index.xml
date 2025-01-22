@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 07 Jan 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mardi 16 Janvier 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-01-16-coding-dojo-midi/</link>
+      <pubDate>Thu, 16 Jan 2025 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-01-16-coding-dojo-midi/</guid>
+      <description>Sujet : BugZero Trivia Meetup Format : Mob Langages : TS, Java Nombre de participants : 12 Rappel du sujet Le kata propose de réfléchir puis corriger les problèmes de design posés par l&amp;rsquo;impression d&amp;rsquo;un jeu librement inspiré du Trivial Pursuit.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mardi 7 Janvier 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-01-07-coding-dojo-soir/</link>
