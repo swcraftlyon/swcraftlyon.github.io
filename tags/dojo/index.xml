@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 16 Jan 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Feb 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mercredi 05 Février 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-02-05-coding-dojo-midi/</link>
+      <pubDate>Wed, 05 Feb 2025 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-02-05-coding-dojo-midi/</guid>
+      <description>Sujet : FooBarQix Meetup Format : Mob Langages : TS, Java Nombre de participants : 16 Rappel du sujet Le kata propose une version plus complexe du kata FizzBuzz.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mardi 16 Janvier 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-01-16-coding-dojo-midi/</link>
