@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 10 Feb 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Mar 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Vendredi 07 Mars 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-03-07-coding-dojo-midi/</link>
+      <pubDate>Fri, 07 Mar 2025 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-03-07-coding-dojo-midi/</guid>
+      <description>Sujet : Bowling Meetup Format : Mob Langages : TS, Java Nombre de participants : 11 Rappel du sujet Le kata propose de calculer le score final d&amp;rsquo;une partie de bowling, à partir d&amp;rsquo;une séquence de lancers donnée.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mercredi 10 Février 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-02-10-coding-dojo-soir/</link>
