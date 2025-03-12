@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 07 Mar 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Mar 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mardi 11 Mars 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-03-11-coding-dojo/</link>
+      <pubDate>Tue, 11 Mar 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-03-11-coding-dojo/</guid>
+      <description>Sujet : Gilded Rose Meetup Format : Mob en participation libre Langages : TS Nombre de participants : 5 Rappel du sujet Une petite auberge possède un système permettant de gérer la dégradation de la qualité de ses produits à mesure qu&amp;rsquo;ils approchent de leur date de péremption.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Vendredi 07 Mars 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-03-07-coding-dojo-midi/</link>
