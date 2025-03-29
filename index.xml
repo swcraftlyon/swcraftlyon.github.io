@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 19 Mar 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Vendredi 28 Mars 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-03-28-coding-dojo/</link>
+      <pubDate>Fri, 28 Mar 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-03-28-coding-dojo/</guid>
+      <description>Sujet : Roman Calculator Meetup Format : Mob Langages : TS Nombre de participants : 6 Rappel du sujet L&amp;rsquo;objectif est d&amp;rsquo;additionner deux nombres romains.</description>
+    </item>
+    
     <item>
       <title>Forum Ouvert du Mercredi 19 Mars 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-03-19-forum-ouvert/</link>

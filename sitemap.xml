@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://swcraftlyon.github.io/posts/2025-03-28-coding-dojo/</loc>
+    <lastmod>2025-03-28T19:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2025-03-19T19:00:00+01:00</lastmod>
+    <lastmod>2025-03-28T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
+    <lastmod>2025-03-28T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/</loc>
+    <lastmod>2025-03-28T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2025-03-28T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2025-03-19-forum-ouvert/</loc>
     <lastmod>2025-03-19T19:00:00+01:00</lastmod>
@@ -11,16 +23,7 @@
     <loc>https://swcraftlyon.github.io/tags/forum-ouvert/</loc>
     <lastmod>2025-03-19T19:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2025-03-19T19:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/</loc>
-    <lastmod>2025-03-19T19:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://swcraftlyon.github.io/posts/2025-03-11-coding-dojo/</loc>
-    <lastmod>2025-03-11T19:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
     <lastmod>2025-03-11T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2025-03-07-coding-dojo-midi/</loc>
