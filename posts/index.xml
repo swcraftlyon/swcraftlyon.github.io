@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 28 Mar 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Apr 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Jeudi 03 Avril 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-04-03-coding-dojo-midi/</link>
+      <pubDate>Thu, 03 Apr 2025 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-04-03-coding-dojo-midi/</guid>
+      <description>Sujet : Potter Meetup Format : Mob Langages : TS, Java Nombre de participants : 12 Déroulement 3 mobs se sont constitués, 1 en Java et 2 en TS.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Vendredi 28 Mars 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-03-28-coding-dojo/</link>
