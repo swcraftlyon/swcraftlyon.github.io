@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 03 Apr 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Apr 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Jeudi 10 Avril 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-04-10-coding-dojo-soir/</link>
+      <pubDate>Thu, 10 Apr 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-04-10-coding-dojo-soir/</guid>
+      <description>Sujet : Jeu de Nim Meetup Format : Mob Langages : TS Nombre de participants : 8 Rappel du sujet Le kata propose d&amp;rsquo;implémenter un jeu de Nim.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Jeudi 03 Avril 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-04-03-coding-dojo-midi/</link>
