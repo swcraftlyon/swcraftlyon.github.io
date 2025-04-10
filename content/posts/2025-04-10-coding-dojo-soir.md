@@ -18,13 +18,13 @@ Une fois le jeu de base implémenté, le mob a appliqué des contraintes au desi
 ## Déroulement
 
 Session réalisée en mob sur Discord.
-Le driver code en TypeScript.
+Le driver développait en TypeScript.
 
 ## Rétrospective
 
 * Session très fun.
 * La dernière mise en œuvre, avec les classes `Nim10`, `Nim9`, `Nim8`, etc. chaînées ont permis de concevoir un système cohérent en compile-time : la réflexion n'est pas bête !
-* Très marrant, arrivé au moment, quand on a ajouté des trucs piquants. C'était bien cool
+* Très marrant, arrivé au bon moment, quand on a ajouté des trucs piquants. C'était bien cool
 * Pas évident de participer, étant arrivé tard.
 J'avais déjà réalisé des designs similaires au dernier, notamment pour contrer par le système de types des problématiques de couplage temporel.
 * J'ai bien aimé.
