@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 10 Apr 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 20:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Lundi 05 Mai 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-05-05-coding-dojo-soir/</link>
+      <pubDate>Mon, 05 May 2025 20:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-05-05-coding-dojo-soir/</guid>
+      <description>Sujet : Tennis Meetup Format : Mob Langages : TS/Java Nombre de participants : 12 Rappel du sujet Le kata propose d&amp;rsquo;implémenter un algo pour calculer le score d&amp;rsquo;un jeu de Tennis.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Jeudi 10 Avril 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-04-10-coding-dojo-soir/</link>
