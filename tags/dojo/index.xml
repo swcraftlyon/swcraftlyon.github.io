@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 13 Jun 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jun 2025 20:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Vendredi 24 Juin 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-06-24-coding-dojo-soir/</link>
+      <pubDate>Tue, 24 Jun 2025 20:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-06-24-coding-dojo-soir/</guid>
+      <description>Sujet : Social Network Meetup Format : Atelier guidé Langages : Java Nombre de participants : 7 Rétrospective Colin parle trop Session qui allait doucement ce qui est appréciable par ces fortes chaleurs Découverte de BDD et Cucumber Sympa de revoir du cucumber L&amp;rsquo;architecture hexagonale, quand on ne connait pas, c&amp;rsquo;est compliqué.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Vendredi 20 Juin 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-06-20-coding-dojo-soir/</link>
