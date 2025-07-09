@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 04 Jul 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 20:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mercredi 9 Juillet 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-07-09-coding-dojo-soir/</link>
+      <pubDate>Wed, 09 Jul 2025 20:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-07-09-coding-dojo-soir/</guid>
+      <description>Sujet : Elections Meetup Format : Pair programming Langages : Java/TypeScript Nombre de participants : 8 Rétrospective TypeScript Beaucoup de refactorings qui n&amp;rsquo;auraient pas du passer =&amp;gt; les tests ne testent rien Tentatives de divers refactorings Le kata est assez long pour tenter plusieurs techniques Le kata est rigolo Il aurait été aussi bien avec un vote en moins On a dupliqué et extrait chaque variable au fur et à mesure On a divisé les classes à la fin Java Soucis avec l&amp;rsquo;outillage pour le maître du temps On a bien avancé à 10 minutes de la fin ROTI 3/5 : 3 4/5 : 2 4.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Vendredi 4 Juillet 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-07-04-coding-dojo-midi/</link>
