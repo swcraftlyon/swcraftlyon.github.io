@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 09 Jul 2025 20:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Aug 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ag</title>
+      <link>https://swcraftlyon.github.io/tags/ag/</link>
+      <pubDate>Wed, 27 Aug 2025 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/ag/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dojo</title>
       <link>https://swcraftlyon.github.io/tags/dojo/</link>
@@ -85,15 +94,6 @@
       <pubDate>Sat, 09 Nov 2024 09:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/gdcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ag</title>
-      <link>https://swcraftlyon.github.io/tags/ag/</link>
-      <pubDate>Wed, 28 Aug 2024 19:30:00 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/ag/</guid>
       <description></description>
     </item>
     
