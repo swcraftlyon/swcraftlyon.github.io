@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 08 Sep 2025 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Jeudi 18 Septembre 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-09-18-coding-dojo-soir/</link>
+      <pubDate>Thu, 18 Sep 2025 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-09-18-coding-dojo-soir/</guid>
+      <description>Sujet : Roman Numerals Meetup Format : Pair Programming Langages : TS/Java Nombre de participants : 12 Déroulement Colin a fait une introduction au TDD ; Il a fait un premier test en live Java ; Nous avons formé des groupes de 2 ou 3 personnes ; Colin a résolu le kata en Java.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Lundi 8 Septembre 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-09-08-coding-dojo-midi/</link>
