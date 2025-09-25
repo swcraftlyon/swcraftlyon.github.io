@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 18 Sep 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le TDD du Kata à la Production</title>
+      <link>https://swcraftlyon.github.io/posts/2025-09-25-craft-talk/</link>
+      <pubDate>Thu, 25 Sep 2025 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-09-25-craft-talk/</guid>
+      <description>Sujets : &amp;ldquo;Peut-on faire du BDD sans Gherkin et Cucumber ?</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Jeudi 18 Septembre 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-09-18-coding-dojo-soir/</link>
