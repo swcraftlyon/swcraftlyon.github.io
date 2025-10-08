@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 18 Sep 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Oct 2025 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo Mercredi 8 Octobre 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-10-08-coding-dojo-midi/</link>
+      <pubDate>Wed, 08 Oct 2025 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-10-08-coding-dojo-midi/</guid>
+      <description>Sujet : Supermarket Pricing Meetup Format : Mob Langages : TS Nombre de participants : 8 Déroulement Nous avons choisi de partir sur le code et non la modélisation comme le propose le kata.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Jeudi 18 Septembre 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-09-18-coding-dojo-soir/</link>
