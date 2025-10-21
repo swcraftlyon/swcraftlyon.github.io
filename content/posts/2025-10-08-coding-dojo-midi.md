@@ -12,14 +12,14 @@ tags: ["dojo"]
 
 ## Déroulement
 
-Nous avons choisi de partir sur le code et non la modélisation comme le propose le kata.  
+Nous avons choisi de partir sur le code et non la modélisation, comme le propose le kata.  
 Le TS a été choisi, avec un seul mob, et le clavier fix.  
 
 ## Rétrospective
 
 - première fois en mob (positif)
-- aurait aimer voir dans un autre language que TS (limité sur les types numériques)
-- bien sur traiter le sujet
+- aurait aimé voir dans un autre langage que TS (limité sur les types numériques)
+- bien sut traiter le sujet
 - peut être essayer une prochaine fois par modélisation pour voir
 
 ## ROTI
