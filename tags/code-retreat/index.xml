@@ -43,5 +43,14 @@
       <description>Sujet : Langton Ant Format : Pair programming Langage : Java, Python, C++, Scala, TypeScript, F#, Kotlin Nombre de participants : 25 Objectif Améliorer nos pratiques de code Déroulement Présentation du sujet 6 itérations de 45 minutes avec une contrainte différente à chaque itération suivie de 15 minutes de debrief TDD et pair/mob programming à chaque itération Itération 1 : Mise en place Compliqué à lancer, approche TDD difficile quand pas l&amp;rsquo;habitude.</description>
     </item>
     
+    <item>
+      <title>Global Day of Code Retreat du 08/11/2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-11-08-gdcr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-11-08-gdcr/</guid>
+      <description>Sujet : Yatzy Meetup Format : Pair programming avec binômes tournants Langages : TS, Java, C#, Python Scala Nombre de participants : 19 Nombre d&amp;rsquo;orgas : 4 Objectifs Amélioration les pratiques de code Découverte/pratique du pair programmming et du TDD Déroulement 5 itérations se déroulant de la manière suivante :</description>
+    </item>
+    
   </channel>
 </rss>
