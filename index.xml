@@ -2150,5 +2150,14 @@ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert 16 partic
       <description>Suite à notre visite aux crafters de Paris et aux retours de plusieurs personnes, nous avons décidé de commencer à faire des compte-rendus de séances.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://swcraftlyon.github.io/posts/2025-11-08-global-day-of-code-retreat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-11-08-global-day-of-code-retreat/</guid>
+      <description>file-path: content/posts/2025-11-08-gdcr.md title: &amp;ldquo;Global Day of Code Retreat&amp;rdquo; tags: [&amp;ldquo;code-retreat&amp;rdquo;] Sujet : Yatzy Meetup Format : Pair programming avec binômes tournants Langages : TS, Java, C#, Python Scala Nombre de participants : 19 Nombre d&amp;rsquo;orgas : 4 Objectifs Amélioration les pratiques de code Découverte/pratique du pair programmming et du TDD Déroulement 5 itérations se déroulant de la manière suivante :</description>
+    </item>
+    
   </channel>
 </rss>
