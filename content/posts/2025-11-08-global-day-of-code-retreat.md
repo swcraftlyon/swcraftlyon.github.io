@@ -1,0 +1,76 @@
+file-path: content/posts/2025-11-08-gdcr.md
+---
+title: "Global Day of Code Retreat"
+tags: ["code-retreat"]
+---
+- Sujet : [Yatzy](https://github.com/emilybache/Yatzy-Refactoring-Kata)
+- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/310809225/)
+- Format : Pair programming avec binômes tournants
+- Langages : TS, Java, C#, Python Scala
+- Nombre de participants :  19
+- Nombre d'orgas : 4
+
+## Objectifs
+- Amélioration les pratiques de code
+- Découverte/pratique du pair programmming et du TDD
+
+## Déroulement
+5 itérations se déroulant de la manière suivante :
+- 5 minutes d’explications
+- 5 minutes pour former les binômes
+- 40 minutes de code 
+- 10 minutes de retours sur l'itération
+
+1 rétrospective globale sur la journée
+1 itération bonus pour les volontaires
+
+## Contraintes proposées
+0 -> GoldenMaster (mise en place des approvals tests et découverte du kata)
+Figer le système avant de le modifier
+Éviter les régressions
+Obtenir rapidement une bonne couverture de code
+
+1 -> Objets calisthéniques
+Un seul niveau d'indentation par méthode
+Pas de ELSE
+Primitives et chaînes de caractères encapsulés
+Collections encapsulées
+Pas d’abréviations
+
+2 -> Immutabilité (contrainte votée par les participants)
+Supprimer la mutabilité dans chaque fonction
+
+3 -> Ping pong Muet
+Changer de rôles après chaque refactoring
+Pas le droit de communiquer (paroles, commentaires)
+
+4 -> Blind Navigator
+Le driver est au clavier
+Le navigator ne voit pas l'écran
+Les rôles peuvent tourner.
+
+Bonus -> IfLess
+Pas de structures de contrôle (if, case, while, for)
+En mob programming
+
+## Rétrospective
+Retours sur la journée :
+- souci de setup, qualité de code de départ très inégale en fonction des langages
+- blind navigator en fin de journée c'est mieux
+- règles métier peu utilisées au final
+- premier code retreat sur du refactoring, ca change
+- possibilité de pratiquer plusieurs langages c'est top
+- repo à revoir, faire des PR
+- choix des contraintes mal adapté au mode refactoring
+- le lieu est sympa
+- bon accueil
+- niveau de bruit ok à 19, avec les 32 participants prévus ca n'aurait pas fonctionné
+- deux dernières consignes plus difficiles pour la fin de journée
+- contrainte votée = top
+- journée assez accessible pour des débutants
+- proposer des paires de contraintes avec un niveau débutant et un complément de consignes pour les plus aguerris
+
+## ROTI
+- 3/5 : 3
+- 4/5 : 11
+- 5/5 : 5
