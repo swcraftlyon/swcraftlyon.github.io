@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 12 Nov 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soirée DDD du Mercredi 19 Novembre 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-11-19-ddd/</link>
+      <pubDate>Wed, 19 Nov 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-11-19-ddd/</guid>
+      <description>Sujet: Atelier DDD: modélisation d&amp;rsquo;aggregate sans code Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Mercredi 12 Novembre 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-11-12-coding-dojo-midi/</link>

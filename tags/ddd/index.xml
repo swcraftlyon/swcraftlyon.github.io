@@ -6,7 +6,16 @@
     <description>Recent content in DDD on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 Jan 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soirée DDD du Mercredi 19 Novembre 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-11-19-ddd/</link>
+      <pubDate>Wed, 19 Nov 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-11-19-ddd/</guid>
+      <description>Sujet: Atelier DDD: modélisation d&amp;rsquo;aggregate sans code Meetup: https://www.</description>
+    </item>
+    
     <item>
       <title>Dessine-moi une patate Mardi 21 Janvier 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-01-21-dessine-moi-une-patate/</link>

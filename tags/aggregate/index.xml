@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aggregate on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/aggregate/</link>
+    <description>Recent content in aggregate on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 19 Nov 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/aggregate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soirée DDD du Mercredi 19 Novembre 2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-11-19-ddd/</link>
+      <pubDate>Wed, 19 Nov 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-11-19-ddd/</guid>
+      <description>Sujet: Atelier DDD: modélisation d&amp;rsquo;aggregate sans code Meetup: https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

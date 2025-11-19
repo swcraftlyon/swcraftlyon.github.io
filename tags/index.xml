@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 12 Nov 2025 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aggregate</title>
+      <link>https://swcraftlyon.github.io/tags/aggregate/</link>
+      <pubDate>Wed, 19 Nov 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/aggregate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>atelier</title>
+      <link>https://swcraftlyon.github.io/tags/atelier/</link>
+      <pubDate>Wed, 19 Nov 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/atelier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDD</title>
+      <link>https://swcraftlyon.github.io/tags/ddd/</link>
+      <pubDate>Wed, 19 Nov 2025 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/tags/ddd/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dojo</title>
       <link>https://swcraftlyon.github.io/tags/dojo/</link>
@@ -40,15 +67,6 @@
       <pubDate>Wed, 27 Aug 2025 19:00:00 +0200</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/ag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DDD</title>
-      <link>https://swcraftlyon.github.io/tags/ddd/</link>
-      <pubDate>Tue, 21 Jan 2025 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/ddd/</guid>
       <description></description>
     </item>
     
@@ -94,15 +112,6 @@
       <pubDate>Sat, 09 Nov 2024 09:00:00 +0100</pubDate>
       
       <guid>https://swcraftlyon.github.io/tags/gdcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>atelier</title>
-      <link>https://swcraftlyon.github.io/tags/atelier/</link>
-      <pubDate>Tue, 14 May 2024 12:20:15 +0200</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/tags/atelier/</guid>
       <description></description>
     </item>
     
