@@ -1,5 +1,5 @@
 ---
-title: "Le TDD du Kata à la Production"
+title: "Craft talk : BDD sans Gherkin | Se mettre à la clean archi"
 date: 2025-09-25T19:00:00+02:00
 tags: ["talk"]
 ---
@@ -9,6 +9,7 @@ tags: ["talk"]
   - "Comment se mettre à la clean architecture" par __Ando Nary__
 - Format : 2 Talks
 - [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/310664878)
+- [Youtube](https://www.youtube.com/watch?v=yiUHQ9icFEQ)
 
 
 ## Peut-on faire du BDD sans Gherkin et Cucumber ?
