@@ -7,7 +7,7 @@ tags: ["dojo"]
 Sujet : Movie rental, refactoring
 Lieu : Infosup rue Sainte Catherine
 
-14 personnes en pair dont 8 première participation
+14 personnes en pair dont 8 première participation. Deux sont parties avant la fin.
 
 Première fois dans ce lieu et pas d’accès à un wifi et réseau mobile compliqué.
 
@@ -21,8 +21,8 @@ Première fois dans ce lieu et pas d’accès à un wifi et réseau mobile compl
 
 ## ROTI
 
-1 - 0
-2 - 0
-3 - 3
-4 - 8
-5 - 1
+- **1** - 0
+- **2** - 0
+- **3** - 3
+- **4** - 8
+- **5** - 1
