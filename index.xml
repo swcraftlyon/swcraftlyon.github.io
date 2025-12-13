@@ -45,6 +45,15 @@
     </item>
     
     <item>
+      <title>Global Day of Code Retreat du 08/11/2025</title>
+      <link>https://swcraftlyon.github.io/posts/2025-11-08-gdcr/</link>
+      <pubDate>Sat, 08 Nov 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-11-08-gdcr/</guid>
+      <description>Sujet : Yatzy Meetup Format : Pair programming avec binômes tournants Langages : TS, Java, C#, Python Scala Nombre de participants : 19 Nombre d&amp;rsquo;orgas : 4 Objectifs Amélioration les pratiques de code Découverte/pratique du pair programmming et du TDD Déroulement 5 itérations se déroulant de la manière suivante :</description>
+    </item>
+    
+    <item>
       <title>Coding Dojo Mercredi 21 Octobre 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-10-21-coding-dojo-soir/</link>
       <pubDate>Tue, 21 Oct 2025 19:15:00 +0200</pubDate>
@@ -2185,15 +2194,6 @@ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert 16 partic
       
       <guid>https://swcraftlyon.github.io/posts/my-first-post/</guid>
       <description>Suite à notre visite aux crafters de Paris et aux retours de plusieurs personnes, nous avons décidé de commencer à faire des compte-rendus de séances.</description>
-    </item>
-    
-    <item>
-      <title>Global Day of Code Retreat du 08/11/2025</title>
-      <link>https://swcraftlyon.github.io/posts/2025-11-08-gdcr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2025-11-08-gdcr/</guid>
-      <description>Sujet : Yatzy Meetup Format : Pair programming avec binômes tournants Langages : TS, Java, C#, Python Scala Nombre de participants : 19 Nombre d&amp;rsquo;orgas : 4 Objectifs Amélioration les pratiques de code Découverte/pratique du pair programmming et du TDD Déroulement 5 itérations se déroulant de la manière suivante :</description>
     </item>
     
   </channel>
