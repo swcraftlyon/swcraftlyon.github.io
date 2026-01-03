@@ -99,6 +99,44 @@ Pendant une partie de la session, nous avons utilisé l'intégration de Claude C
 
 L'utilisation d'un terminal en dehors de l'IDE semble, pour le moment, plus adapté.
 
+### Gemini CLI
+
+#### Tokens
+
+Nous avons pu faire plusieurs itérations en étant bien loin de la limite d'utilisation des tokens.
+
+#### Context windows
+
+En plus de la limite d'utilisation des tokens, il faut tenir compte de la context windows, nombre maximal de token pour une session.
+
+Elle est de 260k pour Claude Pro et 2M pour Gemini et Claude Max.
+
+Il faut en théorie garder celui-ci petit (<100k) sous peine de voir sa consommation de token exploser et les résultat s'appauvrir (voir [Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)).
+
+Gemini CLI a un bug, qui déclenche un `429` et change de modèle quand la context windows est trop grosse, ce qui force à `/clear` souvent.
+
+#### Concepts
+
+- **Command** : prompt nommé réutilisable
+
+Gemini CLI est plus basique, il n'y a pas de plan mode, ni de sub-agents (gérés par un autre outils, _jules_), ni skills, etc.
+
+#### Commandes
+Quelques commandes utiles utilisées pendant la session :
+
+- `/init` : Fait générer un fichier `GEMINI.md` en fonction de ce qui existe dans le projet. Pas certain que l'impact soit si important quand le prompt est bon
+- `/clear` : Remet à zero le context. Nécéssaire pour limiter la consommation de tokens.
+- `/compact` : Pour compacter le contexte et on peut lui spécifier quoi garder. 
+- `/stats` : Permet de voir où on en est dans l'usage
+- `gemini --resume` : Pour relancer un Claude en lui demandant de reprendre là où le précédent s'est arrêté.
+
+#### Notes et impressions
+Gemini 3.0 PRO (modèle), est un peu moins bon que Sonnet & Opus 4.5, ça peut être partiellement compensé par un meilleur prompting, mais le problème vient surtout de l'absence de plan mode.
+
+À tenter avec un autre agent comme [OpenCode](https://opencode.ai/).
+
+L'autre soucis vient aussi de la méthode de comparaison qui se base sur un "one-shot prompt" avec le minimum d'info, ce qui est l'inverse de l'approche prise pour le test avec Gemini (prompt détaillé avec plusieurs itérations).
+
 ### Resources
 
 - [Best practices Claude Code](https://www.anthropic.com/engineering/claude-code-best-practices) vraiment un très bon article !
