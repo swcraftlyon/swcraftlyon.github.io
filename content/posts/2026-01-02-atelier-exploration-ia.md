@@ -128,7 +128,7 @@ Quelques commandes utiles utilisées pendant la session :
 - `/clear` : Remet à zero le context. Nécéssaire pour limiter la consommation de tokens.
 - `/compact` : Pour compacter le contexte et on peut lui spécifier quoi garder. 
 - `/stats` : Permet de voir où on en est dans l'usage
-- `gemini --resume` : Pour relancer un Claude en lui demandant de reprendre là où le précédent s'est arrêté.
+- `gemini --resume` : Pour relancer un Gemini en lui demandant de reprendre là où le précédent s'est arrêté.
 
 #### Notes et impressions
 Gemini 3.0 PRO (modèle), est un peu moins bon que Sonnet & Opus 4.5, ça peut être partiellement compensé par un meilleur prompting, mais le problème vient surtout de l'absence de plan mode.
