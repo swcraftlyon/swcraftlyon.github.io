@@ -244,6 +244,7 @@ Pour mitiger ça, faire des itérations plus petites est probablement une bonne 
 - [Pricing des modèles](https://platform.claude.com/docs/en/about-claude/pricing)
 - [Suivi consommation](https://claude.ai/settings/usage)
 - [Astuces pour économiser des tokens](https://gist.github.com/artemgetmann/74f28d2958b53baf50597b669d4bce43)
+- [Prompt TDD Kent Beck](https://gist.github.com/spilist/8bbf75568c0214083e4d0fbbc1f8a09c)
 
 ### Gemini CLI
 
