@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Exploration augmented coding - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content="Sujet Exploration de différentes IA de développement."><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Compte-rendus des software crafters de Lyon",
+    
+    "url": "https:\/\/swcraftlyon.github.io\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/swcraftlyon.github.io\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2026-01-02-atelier-exploration-ia\/",
+          "name": "Exploration augmented coding"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "Exploration augmented coding",
+  "description" : "Sujet Exploration de différentes IA de développement.",
+  "inLanguage" : "fr",
+  "wordCount":  2918 ,
+  "datePublished" : "2026-01-02T14:00:00",
+  "dateModified" : "2026-01-02T14:00:00",
+  "image" : "https:\/\/swcraftlyon.github.io\/",
+  "keywords" : [ "ia" ],
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2026-01-02-atelier-exploration-ia\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/swcraftlyon.github.io\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/swcraftlyon.github.io\/",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="Exploration augmented coding" />
+<meta property="og:description" content="Sujet Exploration de différentes IA de développement.">
+<meta property="og:url" content="https://swcraftlyon.github.io/posts/2026-01-02-atelier-exploration-ia/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
+
+  <meta name="twitter:title" content="Exploration augmented coding" />
+  <meta name="twitter:description" content="Sujet Exploration de différentes IA de développement.">
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.111.3">
+  <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://swcraftlyon.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/syntax.css" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous"><style>
+  .navbar-header {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+  }
+
+  .navbar-toggle {
+    float: none;
+    position: unset;
+  }
+
+  .navbar-brand {
+    padding: 5px;
+    padding-left: 10px;
+    height: unset;
+    flex-grow: 1;
+  }
+
+  .navbar {
+    min-height: unset;
+  }
+
+  @media screen and (min-width: 766px) {
+    .navbar-nav > li > a {
+      padding: 0;
+      padding-right: 0.5em;
+    }
+  }
+
+  @media screen and (min-width: 1100px) {
+    .navbar > div {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .navbar-nav > li > a {
+      padding-right: 1em;
+    }
+  }
+</style>
+
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+            <li><a href="https://swcraftlyon.github.io/tags/dojo/">#dojo</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/talk/">#talk</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ddd/">#DDD</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/unconf/">#unconf</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/live/">#live</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lectures/">#lectures</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/coding-dojo/">#coding-dojo</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/forum-ouvert/">#forum-ouvert</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/kata/">#kata</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/eventstorming/">#eventstorming</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/craft/">#craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/gdcr/">#GDCR</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ag/">#ag</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/retro/">#retro</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/atelier/">#atelier</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/random-lightning-talks/">#random-lightning-talks</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/aggregate/">#aggregate</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/xcraft/">#xcraft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/twitch/">#twitch</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ia/">#ia</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/cara/">#cara</a></li>
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="posts-heading">
+              
+                <h1>Exploration augmented coding</h1>
+              
+              
+                <hr class="small">
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <h2 id="sujet">Sujet</h2>
+<p>Exploration de différentes IA de développement.<br>
+Le but est d&rsquo;ajouter une feature dans <a href="https://gitlab.com/damon.colin/superextra">ce projet</a> qui a été généré avec <a href="https://github.com/seed4j/seed4j">Seed4J</a>.</p>
+<p>L&rsquo;objectif métier du projet est de faciliter la mise en relation de freelances dans les métiers du service (service en salle, cuisine, plonge, &hellip;) et des personnes qui ont besoin d&rsquo;extra. Pour ça, les freelances doivent s&rsquo;inscrire sur la plateforme et renseigner leurs informations. Dans ces informations elles seront amenées à sélectionner leurs <code>Skills</code> qui seront essentiels pour la suite.</p>
+<p>Pour l&rsquo;exercice nous nous sommes concentré sur la gestion d&rsquo;un catalogue de <code>Skills</code>. Un <code>Skill</code> c&rsquo;est :</p>
+<ul>
+<li>Un identifiant (sous forme d&rsquo;UUID) ;</li>
+<li>Un label internationalisé ;</li>
+<li>Une description internationalisée.</li>
+</ul>
+<p>Pour les textes internationalisés, on utilise les <code>Locale</code> de Java et il faut forcément renseigner le Français. Lors de la récupération du texte, on obtient soit lel texte dans la locale si elle existe soit du Français.</p>
+<p>En amont de l&rsquo;atelier quelques expérimentations ont été faites :</p>
+<ul>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/1">Génération du contexte sans donner d&rsquo;exemple de code</a> ;</li>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/3">Génération du contexte avec un exemple de code d&rsquo;un autre contexte</a> ;</li>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/4">Génération avec exemple de code et instructions pour faire du TDD</a>.</li>
+</ul>
+<h2 id="déroulé">Déroulé</h2>
+<p>Pour les différentes phases d&rsquo;expérimentations, nous nous sommes repartis en 3 groupes :</p>
+<ul>
+<li>2 avec Claude Code ;</li>
+<li>1 avec Gemini.</li>
+</ul>
+<p>Pour la première itération les 3 groupes sont partis de la <a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/5">branche avec un exemple</a> et ont essayé de créer des skills permettant la génération de contexte.</p>
+<p>Nous avons ensuite fait une première mise en commun de nos trouvailles et enchainer sur une seconde itération, avec pour objectif de créer un agent.</p>
+<h2 id="apprentissages">Apprentissages</h2>
+<p>Cette section rassemble nos apprentissages après quelques heures. <strong>Nous ne sommes pas expert·e·s, les informations présentées ici peuvent être fausses !!!</strong></p>
+<p>Un questionnement en commun sur les deux IA testées : comment gérer ce nouveau flux de travail ? Même si ces IA génèrent du code rapidement, il y a quand même plusieurs minutes (voir dizaines de minutes) entre deux actions. Il faut donc trouver comment gérer ce rythme. Nous avons envisagé / explorer :</p>
+<ul>
+<li>L&rsquo;utilisation de plusieurs générations en parallèle
+<ul>
+<li>Nous avons fait des tests avec lew worktree git (<code>git worktree add ../project-feature-a feature-a</code>, <code>git worktree remove ../project-feature-a</code>) qui fonctionnent bien</li>
+<li>Nous avons discuté de la possibilité d&rsquo;utiliser des agents directement pilotés par la CI</li>
+</ul>
+</li>
+<li>Travailler à des tâches d&rsquo;analyses / de préparation du prompt suivent en attendant le résultat du premier</li>
+<li>De faire des actions toute autres, mais probablement pas une bonne idée pour le context switching.</li>
+</ul>
+<p>Ces discussions sur l&rsquo;organisation du travail en ont créé d&rsquo;autres sur les impacts sur la santé mentale :</p>
+<ul>
+<li>La relecture de milliers de lignes de code générées n&rsquo;est probablement pas passionnant à moyen terme, surtout qu&rsquo;il faut essayer de rester attentif·ve·s à toutes les micro-décisions prises dans le processus ;</li>
+<li>Le context switching permanent pose aussi question.</li>
+</ul>
+<h3 id="claude">Claude</h3>
+<h4 id="tokens">Tokens</h4>
+<p>Nous avons très vite compris que les tokens seraient le nerf de la guerre et nous avons rapidement épuisé nos quotas.
+Nous avons fait un essai en changeant de modèle, mais les résultats n&rsquo;étaient pas satisfaisants sur le modèle le moins couteux en tokens (Haiku).</p>
+<p>Un groupe a changé de souscription pour passer sur un forfait à ~100 € mensuel (c&rsquo;était prévu et ça n&rsquo;a pas posé de problème particulier). L&rsquo;abonnement à 20 € / mois ne permet clairement pas de travailler toute la journée avec l&rsquo;outil.</p>
+<p>Sur la suite de la journée, optimiser l&rsquo;utilisation des tokens a été un fil rouge.</p>
+<h4 id="concepts">Concepts</h4>
+<ul>
+<li><strong>Command</strong> : description de commandes qui seront utilisées telles qu&rsquo;elles par Claude.</li>
+<li><strong>Rule</strong> : Règles qui s&rsquo;appliquent à un ensemble de fichiers, on donne le pattern de fichiers et Claude les appliquent automatiquement.</li>
+<li><strong>Skill</strong> : Instructions pour faire une action donnée. Claude s&rsquo;appuie dessus s&rsquo;il découvre qu&rsquo;il doit faire opération.</li>
+<li><strong>Agent</strong> : Instructions pour prompter un agent qui va orchestrer différentes opérations.</li>
+</ul>
+<p>Pour générer ces différents éléments, nous avons demandé à Claude de le faire en se basant soit sur le contexte d&rsquo;exemple soit sur la documentation générée par Seed4J. Nous avons ensuite repris les fichiers générés.</p>
+<ul>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/7">Un premier set de rules, commandes et agents</a></li>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/10">L&rsquo;agent qui fait du test after</a></li>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/12">Set de rules manquantes</a> (fait en demandant simplement à Claude de générer les règles manquantes en se basant sur le code existant)</li>
+</ul>
+<p>Nous nous sommes rendu compte que Claude est vraiment bon pour trouver des patterns dans du code existant et en faire des règles. Une approche dans laquelle on fait un exemple et on s&rsquo;appuie dessus pour faire la configuration de Claude est probablement une bonne idée.</p>
+<p>En générant ces fichiers, non seulement on obtient du code plus proche des pratiques que l&rsquo;on souhaite, mais on économise aussi beaucoup de tokens qui sont clairement le nerf de la guerre !</p>
+<h4 id="commandes">Commandes</h4>
+<p>Quelques commandes utiles utilisées pendant la session :</p>
+<ul>
+<li><code>/init</code> : Fait générer un fichier <code>CLAUDE.md</code> en fonction de ce qui existe dans le projet. Ce fichier est essentiel pour avoir des résultats probants !!!</li>
+<li><code>shift + tab</code> : Permet de changer de mode pour passer en <code>plan mode</code> qui permet de répondre à des questions et d&rsquo;ajuster le plan avant de lancer la génération. Avec cette approche, nous avons observé de bien meilleures générations !</li>
+<li><code>/skills</code> : Liste les skills disponibles. Très utile pour savoir si notre skill fraichement crée est bien pris en compte :D.</li>
+<li><code>/context</code> : Pour voir le remplissage du context.</li>
+<li><code>/clear</code> : Remet à zero le context. Nécéssaire pour limiter la consommation de tokens.</li>
+<li><code>/compact</code> : Pour compacter le contexte et on peut lui spécifier quoi garder.</li>
+<li><code>/agents</code> : Permet de voir les agents existants, mais surtout d&rsquo;en créer de nouveaux en étant guidés.</li>
+<li><code>/status</code> : Permet de voir où on en est dans l&rsquo;utilisation de Claude, on peut changer d&rsquo;onglet avec tab et shift + tab.</li>
+<li><code>/model</code> : Permet de consulter le modèle utilisé et de changer au besoin.</li>
+<li><code>/ide</code> : Pour lier le terminal system à l&rsquo;IDE et avoir les demandes de validation dans l&rsquo;IDE tout en gardant le terminal système.</li>
+<li><code>ctrl + t</code> : Pour voir toutes les taches.</li>
+<li><code>ctrl + o</code> : Pour voir la sortie de tous les agents. Très utile quand un agent nous pose une question et qu&rsquo;on ne la voit pas, mais qu&rsquo;on doit y répondre :D.</li>
+<li><code>claude -c</code> : Pour relancer un Claude en lui demandant de reprendre là où le précédent s&rsquo;est arrêté.</li>
+</ul>
+<h4 id="consoles">Consoles</h4>
+<p>Pendant une partie de la session, nous avons utilisé l&rsquo;intégration de Claude Code dans IntelliJ mais ce n&rsquo;est clairement pas au point :</p>
+<ul>
+<li>Glitch graphiques ;</li>
+<li>Mauvaise lisibilité ;</li>
+<li>Grosse impression de lenteur.</li>
+</ul>
+<p>L&rsquo;utilisation d&rsquo;un terminal en dehors de l&rsquo;IDE semble, pour le moment, plus adapté.</p>
+<h4 id="revue-des-différentes-versions-générées">Revue des différentes versions générées</h4>
+<p><strong>Revue opiniated par Colin, jugée en fonction des pratiques attendues sur le projet.</strong> Le but n&rsquo;est pas de juger de la pertinence des pratiques, mais de leur respect.</p>
+<p>Un point à noter sur le code généré : comme il a été fait sur le même repository, bien que l&rsquo;on soit sur des branches différentes, il est fort à parier que le code fait sur les autres branches ait eu un impact sur les générations qui sont arrivées après.</p>
+<h5 id="1---pas-dexemple--instructions-tddhttpsgitlabcomdamoncolinsuperextra-merge_requests1">1 - <a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/1">Pas d&rsquo;exemple + instructions TDD</a></h5>
+<p>Pour cette première génération naïve, nous n&rsquo;avons pas fourni d&rsquo;exemple. Un simple <code>/init</code> suivi d&rsquo;un ajout d&rsquo;instructions pour faire du TDD, suivi de ce prompt :</p>
+<pre tabindex="0"><code>Add rules for ID in CLAUDE.md Ids must use UUID wrapped in specific record with parameter beeing called value
+
+Create Skill entity. A Skill have:
+
+- An ID
+- An internationalized label
+- An internationalized description
+
+for internationalization create a Labels value object that must have a French label. Use java Locale as key. If there is no French label create a dedicated SuperextraException.
+Create the endpoints to manage skills:
+
+- Create a skill
+- Get a skill
+- Paginated list of skills
+</code></pre><p>On note immédiatement que le code généré est loin de ce qui est attendu dans les normes poussées par Seed4J :</p>
+<ul>
+<li>La branche ne build pas : certaines règles checkstyle ne sont pas respectées ;</li>
+<li>Les tests sont trop proches des détails d&rsquo;implémentation, par exemple en testant les getters ;</li>
+<li>Beaucoup de Javadoc, souvent inutile ;</li>
+<li>Pas d&rsquo;utilisation systématique des outils existants dans la codebase (ex : <code>Collections.unmodifiableMap(new HashMap&lt;&gt;(values));</code> au lieu de <code>SuperextraCollections.immutable(...)</code>) ;</li>
+<li>Pas de gestion des authorizations ;</li>
+<li>Création compléte des objets du domain dans le controller là où le passage d&rsquo;une commande à un aggregat devrait être la responsabilité du domain ;</li>
+<li>&hellip;</li>
+</ul>
+<p>De bonnes choses qui ont été faites :</p>
+<ul>
+<li>Utilisation du système d&rsquo;exceptions internationalisées ;</li>
+<li>Wrapping des primitives ;</li>
+<li>Respect de l&rsquo;architecture ;</li>
+<li>&hellip;</li>
+</ul>
+<p>Si cette implémentation est loin de suivre les normes attendues (mais pas clairement exprimées), elle n&rsquo;en reste pas moins impressionnante sur de nombreux points.</p>
+<p>Ce n&rsquo;est qu&rsquo;un ressenti, mais je pense que le temps de correction du code de cette version est supérieur au temps nécéssaire pour le faire manuellement. Ici, je ne pense pas qu&rsquo;il y ait de gain de temps humain.</p>
+<h5 id="2---exemple--instructions-tddhttpsgitlabcomdamoncolinsuperextra-merge_requests3">2 - <a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/3">Exemple + instructions TDD</a></h5>
+<p>Cette seconde génération a été faite en ayant un exemple de l&rsquo;attendus dans la code base et des instructions pour faire du TDD ont été ajoutées dans le <code>CLAUDE.md</code> après sa génération.</p>
+<p>Dans cette version les <code>Labels</code> ont été mis dans un shared kernel dans une seconde itération.</p>
+<p>Le code généré est plus proche des standards attendus dans le projet :</p>
+<ul>
+<li>Pas de Javadoc inutile ;</li>
+<li>Des commandes et domain service pour créer les objets ;</li>
+<li>Utilisation des outils présents dans le repository ;</li>
+<li>&hellip;</li>
+</ul>
+<p>Par contre, pour les exceptions, on est revenu à une <code>RuntimeException</code>, pas d&rsquo;utilisation de la gestion d&rsquo;erreur internationalisée.</p>
+<p>Bien qu&rsquo;il reste du travail pour avoir quelque chose aux standards cette version à plus de chances de permettre de gagner du temps humain même si ce n&rsquo;est pas encore une évidence.</p>
+<h5 id="3---exemple-sans-instructions-tddhttpsgitlabcomdamoncolinsuperextra-merge_requests4">3 - <a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/4">Exemple sans instructions TDD</a></h5>
+<p>Cette troisième génération a été faite avec un context d&rsquo;exemple, mais sans donner d&rsquo;instruction pour faire du TDD.</p>
+<p>Le build ne passe pas :</p>
+<ul>
+<li>Erreur de formatage, le check ne valide pas ;</li>
+<li>Un test est en erreur.</li>
+</ul>
+<p>Quelques problèmes :</p>
+<ul>
+<li>Du code mort, notamment avec des getters systématiques ;</li>
+<li>Pas d&rsquo;utilisation des exceptions internationalisées.</li>
+</ul>
+<p>Mais aussi de bonnes choses :</p>
+<ul>
+<li>Utilisation d&rsquo;une query custom pour la pagination en triant sur un champ dans un JSONB =&gt; je ne connaissais pas, j&rsquo;ai appris quelque chose ;</li>
+<li>Génération plus rapide (je n&rsquo;ai pas pensé à noter les temps, mais 2/3 fois plus rapide de mémoire) ;</li>
+<li>Respect de l&rsquo;architecture ;</li>
+<li>Des tests unitaires globalement corrects même si encore trop proches des détails d&rsquo;implémentation.</li>
+</ul>
+<p>À mes yeux, cette génération est un peu meilleure que la 2, mais je ne sais pas dire à quelle point elle a été facilité par les itérations précédentes.</p>
+<h5 id="4---outside-in-tddhttpsgitlabcomdamoncolinsuperextra-merge_requests8">4 - <a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/8">Outside-in TDD</a></h5>
+<p>Cette quatrième génération a été faite avec :</p>
+<ul>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/7">Des rules</a> pour lesp ratiques du project ;</li>
+<li>Un agent pour faire de l&rsquo;Outside-in TDD.</li>
+</ul>
+<p>Quelques problèmes :</p>
+<ul>
+<li>Toujours pas d&rsquo;exception internationalisée&hellip;</li>
+<li>Deserialization de <code>RestLabels</code> en utilisant les setters plutôt qu&rsquo;un constructeur ;</li>
+<li>Pas d&rsquo;utilisation de <code>ReponseEntity.of(...)</code> pour gérer une 404 quand un skill n&rsquo;est pas trouvé (code généré qui fait la même chose) ;</li>
+<li>Tests de getters ;</li>
+<li>Mauvaise utilisation des assertions cucumber custom au projet. Ça fonctionne, mais c&rsquo;est moins pratique que ce qui est faisable</li>
+<li>&hellip;</li>
+</ul>
+<p>Si cette version à encore des défauts, on est sur quelque chose qui peut être repris très rapidement, surtout que les règles peuvent être affinées pour corriger ces problèmes.</p>
+<h5 id="5---inside-out-tddhttpsgitlabcomdamoncolinsuperextra-merge_requests9">5 - <a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/9">Inside-out TDD</a></h5>
+<p>Cette cinquième génération a été faite avec :</p>
+<ul>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/7">Des rules</a> pour lesp ratiques du project ;</li>
+<li>Un agent pour faire de l&rsquo;Inside-out TDD.</li>
+</ul>
+<p>Des petits défauts, mais cette version est la plus proche de ce qui aurait pu être fait à la main. Par contre, elle a été très coûteuse en temps et en tokens (je n&rsquo;ai pas noté, mais, de mémoire, 1h).</p>
+<h5 id="6---test-afterhttpsgitlabcomdamoncolinsuperextra-merge_requests11">6 - <a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/11">Test after</a></h5>
+<p>Cette cinquième génération a été faite avec :</p>
+<ul>
+<li><a href="https://gitlab.com/damon.colin/superextra/-/merge_requests/7">Des rules</a> pour lesp ratiques du project ;</li>
+<li>Un agent pour faire du test after.</li>
+</ul>
+<p>Des défauts vraiment gênants dans cette version :</p>
+<ul>
+<li><code>RestLabels</code> qui n&rsquo;affiche que les labels FR et EN ;</li>
+<li>Des tests très proches des détails d&rsquo;implémentation (ex <code>SkillsApplicationServiceTest</code>) ;</li>
+<li>&hellip;</li>
+</ul>
+<p>Même si cette version se génère un peu plus vite, elle ne fournit pas le filet de sécurité qui permettra de reprendre sereinement le code.</p>
+<h5 id="conclusion">Conclusion</h5>
+<p>Toutes les versions ont le même défaut : elles prennent beaucoup de micro-décisions auxquelles il faudra être attentif. Exemples de micro-decisions qui posent problémes dans l&rsquo;exemple :</p>
+<ul>
+<li>Gestion des droits :
+<ul>
+<li>Certaines génération ont demandé ;</li>
+<li>D&rsquo;autres ont décidé que les <code>ADMIN</code> peuvent créer et les <code>USER</code> lire ;</li>
+<li>D&rsquo;autres ont décidé que tout le monde pouvait tout faire ;</li>
+<li>Un a même supprimé l&rsquo;authentification dans un premier temps avant qu&rsquo;on demande de la remettre.</li>
+</ul>
+</li>
+<li>Gestion des label. Aucune n&rsquo;a voulu renvoyé le label en fonction de la langue passée en header de la requête ce qui est probablement ce qui aurait fait lors d&rsquo;un développement &ldquo;classique&rdquo;. C&rsquo;ets une faiblesse du prompt, mais penser à toutes ces choses en amont est impossible.</li>
+</ul>
+<p>Pour mitiger ça, faire des itérations plus petites est probablement une bonne idée. Avec le mode plan il y a plus de chances que des questions soient posées à chaque micro-décision, mais, même là, on ne peut pas être certain·e·s de ne rien louper.</p>
+<h4 id="resources">Resources</h4>
+<ul>
+<li><a href="https://www.anthropic.com/engineering/claude-code-best-practices">Best practices Claude Code</a> vraiment un très bon article !</li>
+<li>Collections de skills &amp; agents Claude Code :
+<ul>
+<li><a href="https://github.com/giuseppe-trisciuoglio/developer-kit">https://github.com/giuseppe-trisciuoglio/developer-kit</a></li>
+<li><a href="https://github.com/anthropics/skills">https://github.com/anthropics/skills</a></li>
+<li><a href="https://github.com/meetrais/claude-agent-skills">https://github.com/meetrais/claude-agent-skills</a></li>
+<li><a href="https://github.com/lodetomasi/agents-claude-code">https://github.com/lodetomasi/agents-claude-code</a></li>
+<li><a href="https://github.com/wshobson/agents">https://github.com/wshobson/agents</a></li>
+<li><a href="https://github.com/VoltAgent/awesome-claude-code-subagents">https://github.com/VoltAgent/awesome-claude-code-subagents</a></li>
+</ul>
+</li>
+<li><a href="https://code.claude.com/docs/en/skills">Documentation des skills</a></li>
+<li><a href="https://platform.claude.com/docs/en/about-claude/pricing">Pricing des modèles</a></li>
+<li><a href="https://claude.ai/settings/usage">Suivi consommation</a></li>
+<li><a href="https://gist.github.com/artemgetmann/74f28d2958b53baf50597b669d4bce43">Astuces pour économiser des tokens</a></li>
+</ul>
+<h3 id="gemini-cli">Gemini CLI</h3>
+<h4 id="tokens-1">Tokens</h4>
+<p>Nous avons pu faire plusieurs itérations en étant bien loin de la limite d&rsquo;utilisation des tokens.</p>
+<h4 id="context-windows">Context windows</h4>
+<p>En plus de la limite d&rsquo;utilisation des tokens, il faut tenir compte de la context windows, nombre maximal de token pour une session.</p>
+<p>Elle est de 260k pour Claude Pro et 2M pour Gemini et Claude Max.</p>
+<p>Il faut en théorie garder celui-ci petit (&lt;100k) sous peine de voir sa consommation de token exploser et les résultat s&rsquo;appauvrir (voir <a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">Attention Is All You Need</a>).</p>
+<p>Gemini CLI a un bug, qui déclenche un <code>429</code> et change de modèle quand la context windows est trop grosse, ce qui force à <code>/clear</code> souvent.</p>
+<h4 id="concepts-1">Concepts</h4>
+<ul>
+<li><strong>Command</strong> : prompt nommé réutilisable</li>
+</ul>
+<p>Gemini CLI est plus basique, il n&rsquo;y a pas de plan mode, ni de sub-agents (gérés par un autre outil, <em>jules</em>), ni skills, etc.</p>
+<h4 id="commandes-1">Commandes</h4>
+<p>Quelques commandes utiles utilisées pendant la session :</p>
+<ul>
+<li><code>/init</code> : Fait générer un fichier <code>GEMINI.md</code> en fonction de ce qui existe dans le projet. Pas certain que l&rsquo;impact soit si important quand le prompt est bon</li>
+<li><code>/clear</code> : Remet à zero le context. Nécéssaire pour limiter la consommation de tokens.</li>
+<li><code>/compact</code> : Pour compacter le contexte et on peut lui spécifier quoi garder.</li>
+<li><code>/stats</code> : Permet de voir où on en est dans l&rsquo;usage</li>
+<li><code>gemini --resume</code> : Pour relancer un Gemini en lui demandant de reprendre là où le précédent s&rsquo;est arrêté.</li>
+</ul>
+<h4 id="notes-et-impressions">Notes et impressions</h4>
+<p>Gemini 3.0 PRO (modèle) est un peu moins bon que Sonnet &amp; Opus 4.5, ça peut être partiellement compensé par un meilleur prompting, mais le problème vient surtout de l&rsquo;absence de plan mode.</p>
+<p>À tenter avec un autre agent comme <a href="https://opencode.ai/">OpenCode</a>.</p>
+<p>L&rsquo;autre souci vient aussi de la méthode de comparaison qui se base sur un &ldquo;one-shot prompt&rdquo; avec le minimum d&rsquo;info, ce qui est l&rsquo;inverse de l&rsquo;approche prise pour le test avec Gemini (prompt détaillé avec plusieurs itérations).</p>
+<h2 id="retrospective">Retrospective</h2>
+<p>Super session : permet de voir ce que l&rsquo;on entendait sur l&rsquo;utilisation des agents pour du code. La comparaison Claude Code VS Gemini était aussi intéressante</p>
+<p>Super intéressant. J&rsquo;expérimente depuis quelques mois et comparer avec les explorations des autres personnes est intéressant. Plein de choses à apprendre, à comprendre sur le prompt, l&rsquo;usage etc.</p>
+<p>Très cool. Ça permet de prendre le temps de creuser le sujet. Voir le comportement, la consommation de tokens, &hellip;</p>
+<p>Pas vu le début, mais la fin était intéressante avec le côté &ldquo;one shot&rdquo; d&rsquo;une feature et la discussion sur les impacts sur la santé mentale.</p>
+<p>Je suis venu en tant que &ldquo;réfractaire&rdquo;, notamment à cause de la hype et, au final, je suis assé perplexe du résultat mais, en même temps, il y a des risques sur toutes les micro-décisions. Ça a probablement un impact sur le rythme et l&rsquo;organisation du travail. Un autre point me dérange, c&rsquo;est le fait que ça ne soit pas prédictif ce qui est un problème. +1 sur tout ça</p>
+<p>Pas très convaincu par l&rsquo;outil :</p>
+<ul>
+<li>Impact sur les micro-décisions ;</li>
+<li>Comment gérer le context switching ;</li>
+<li>L&rsquo;impact environnemental et le fait que les sociétés n&rsquo;aient, pour le moment, pas d&rsquo;intérêt à optimiser ce point dans un contexte de forte concurrence économique.</li>
+</ul>
+<p>À voir si on a une amélioration sur la consommation énergétique pas la suite, si ça devient une priorité. Une chance que ça arrive par les impacts économiques, mais est-ce que ça mitigera l&rsquo;augmentation de l&rsquo;usage&hellip; Probablement pas</p>
+<p>Au niveau économique : toute la croissance US est basée sur cette bulle, que vas-t-il se passer quand elle va exploser ?</p>
+<h2 id="roti-après-beaucoup-de-départs">ROTI (après beaucoup de départs&hellip;)</h2>
+<p>Nous étions environ 30 au début de cet atelier de 4 heures, mais beaucoup de personnes sont parties avant la fin. En
+partant, elles ont donné de bons feedbacks sur la session que nous n&rsquo;avons pas formalisé sous forme de note.</p>
+<ul>
+<li>2/5 : 1</li>
+<li>3/5 : 2</li>
+<li>3.816844 : 1</li>
+<li>4/5 : 4</li>
+<li>4.5/5 : 2</li>
+<li>5/5 : 3</li>
+</ul>
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://swcraftlyon.github.io//tags/ia/">ia</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://swcraftlyon.github.io/posts/2025-12-03-coding-dojo-midi/" data-toggle="tooltip" data-placement="top" title="Coding dojo du midi : Employee report sous contraintes">&larr; Post précédent</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2026
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          Carbure avec <a href="https://gohugo.io">Hugo v0.111.3</a>&nbsp;&bull;&nbsp; Avec le Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapté de <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://swcraftlyon.github.io/js/main.js"></script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://swcraftlyon.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
+
+    
+  </body>
+</html>
+
