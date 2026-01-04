@@ -8,41 +8,41 @@ tags: ["ia"]
 Exploration de différentes IA de développement.  
 Le but est d'ajouter une feature dans [ce projet](https://gitlab.com/damon.colin/superextra) qui a été généré avec [Seed4J](https://github.com/seed4j/seed4j).  
 
-L'objectif métier du projet est de faciliter la mise en relation de freelances dans les métiers du service (service en salle, cuisine, plonge, ...) et des personnes qui ont besoin d'extra. Pour ça, les freelances doivent s'inscrire sur la plateforme et renseigner leurs informations. Dans ces informations elles seront amenées à sélectionner leurs `Skills` qui seront essentiels pour la suite.
+L'objectif métier du projet est de faciliter la mise en relation de freelances dans les métiers du service (service en salle, cuisine, plonge, ...), et des personnes qui ont besoin d'extra. Pour ça, les freelances doivent s'inscrire sur la plateforme et renseigner leurs informations. Dans ces informations, elles seront amenées à sélectionner leurs `Skills` qui seront essentiels pour la suite.
 
-Pour l'exercice nous nous sommes concentré sur la gestion d'un catalogue de `Skills`. Un `Skill` c'est :
+Pour l'exercice, nous nous sommes concentrés sur la gestion d'un catalogue de `Skills`. Un `Skill`, c'est :
 - Un identifiant (sous forme d'UUID) ;
 - Un label internationalisé ;
 - Une description internationalisée.
 
-Pour les textes internationalisés, on utilise les `Locale` de Java et il faut forcément renseigner le Français. Lors de la récupération du texte, on obtient soit lel texte dans la locale si elle existe soit du Français.
+Pour les textes internationalisés, on utilise les `Locale` de Java et il faut forcément renseigner le français. Lors de la récupération du texte, on obtient soit le texte dans la locale si elle existe soit du français.
 
-En amont de l'atelier quelques expérimentations ont été faites :
+En amont de l'atelier, quelques expérimentations ont été faites :
 - [Génération du contexte sans donner d'exemple de code](https://gitlab.com/damon.colin/superextra/-/merge_requests/1) ;
 - [Génération du contexte avec un exemple de code d'un autre contexte](https://gitlab.com/damon.colin/superextra/-/merge_requests/3) ;
 - [Génération avec exemple de code et instructions pour faire du TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/4).
 
 ## Déroulé
-Pour les différentes phases d'expérimentations, nous nous sommes repartis en 3 groupes :
+Pour les différentes phases d'expérimentations, nous nous sommes répartis en 3 groupes :
 - 2 avec Claude Code ;
 - 1 avec Gemini.
 
-Pour la première itération les 3 groupes sont partis de la [branche avec un exemple](https://gitlab.com/damon.colin/superextra/-/merge_requests/5) et ont essayé de créer des skills permettant la génération de contexte.  
+Pour la première itération, les 3 groupes sont partis de la [branche avec un exemple](https://gitlab.com/damon.colin/superextra/-/merge_requests/5) et ont essayé de créer des skills permettant la génération de contexte.  
 
-Nous avons ensuite fait une première mise en commun de nos trouvailles et enchainer sur une seconde itération, avec pour objectif de créer un agent.
+Nous avons ensuite fait une première mise en commun de nos trouvailles et enchainé sur une seconde itération, avec pour objectif de créer un agent.
 
 ## Apprentissages
 
 Cette section rassemble nos apprentissages après quelques heures. **Nous ne sommes pas expert·e·s, les informations présentées ici peuvent être fausses !!!**
 
-Un questionnement en commun sur les deux IA testées : comment gérer ce nouveau flux de travail ? Même si ces IA génèrent du code rapidement, il y a quand même plusieurs minutes (voir dizaines de minutes) entre deux actions. Il faut donc trouver comment gérer ce rythme. Nous avons envisagé / explorer :
+Un questionnement en commun sur les deux IA testées : comment gérer ce nouveau flux de travail ? Même si ces IA génèrent du code rapidement, il y a quand même plusieurs minutes (voire dizaines de minutes) entre deux actions. Il faut donc trouver comment gérer ce rythme. Nous avons envisagé / exploré :
 - L'utilisation de plusieurs générations en parallèle
-  - Nous avons fait des tests avec lew worktree git (`git worktree add ../project-feature-a feature-a`, `git worktree remove ../project-feature-a`) qui fonctionnent bien
+  - Nous avons fait des tests avec les worktrees Git (`git worktree add ../project-feature-a feature-a`, `git worktree remove ../project-feature-a`) qui fonctionnent bien
   - Nous avons discuté de la possibilité d'utiliser des agents directement pilotés par la CI
-- Travailler à des tâches d'analyses / de préparation du prompt suivent en attendant le résultat du premier
+- Travailler à des tâches d'analyses / de préparation du prompt suivant, en attendant le résultat du premier
 - De faire des actions toute autres, mais probablement pas une bonne idée pour le context switching.
 
-Ces discussions sur l'organisation du travail en ont créé d'autres sur les impacts sur la santé mentale :
+Ces discussions sur l'organisation du travail en ont amené d'autres sur les impacts sur la santé mentale :
 - La relecture de milliers de lignes de code générées n'est probablement pas passionnant à moyen terme, surtout qu'il faut essayer de rester attentif·ve·s à toutes les micro-décisions prises dans le processus ;
 - Le context switching permanent pose aussi question.
 
@@ -51,15 +51,15 @@ Ces discussions sur l'organisation du travail en ont créé d'autres sur les imp
 #### Tokens
 
 Nous avons très vite compris que les tokens seraient le nerf de la guerre et nous avons rapidement épuisé nos quotas. 
-Nous avons fait un essai en changeant de modèle, mais les résultats n'étaient pas satisfaisants sur le modèle le moins couteux en tokens (Haiku).  
+Nous avons fait un essai en changeant de modèle, mais les résultats n'étaient pas satisfaisants sur le modèle le moins coûteux en tokens (Haiku).  
 
-Un groupe a changé de souscription pour passer sur un forfait à ~100 € mensuel (c'était prévu et ça n'a pas posé de problème particulier). L'abonnement à 20 € / mois ne permet clairement pas de travailler toute la journée avec l'outil.
+Un groupe a changé de souscription pour passer à un forfait à ~100 € mensuel (c'était prévu et ça n'a pas posé de problème particulier). L'abonnement à 20 € / mois ne permet clairement pas de travailler toute la journée avec l'outil.
 
 Sur la suite de la journée, optimiser l'utilisation des tokens a été un fil rouge.
 
 #### Concepts
 
-- **Command** : description de commandes qui seront utilisées telles qu'elles par Claude.
+- **Command** : description de commandes qui seront utilisées telles quelles par Claude.
 - **Rule** : Règles qui s'appliquent à un ensemble de fichiers, on donne le pattern de fichiers et Claude les appliquent automatiquement.
 - **Skill** : Instructions pour faire une action donnée. Claude s'appuie dessus s'il découvre qu'il doit faire opération.
 - **Agent** : Instructions pour prompter un agent qui va orchestrer différentes opérations.
@@ -70,38 +70,38 @@ Pour générer ces différents éléments, nous avons demandé à Claude de le f
 - [L'agent qui fait du test after](https://gitlab.com/damon.colin/superextra/-/merge_requests/10)
 - [Set de rules manquantes](https://gitlab.com/damon.colin/superextra/-/merge_requests/12) (fait en demandant simplement à Claude de générer les règles manquantes en se basant sur le code existant)
 
-Nous nous sommes rendu compte que Claude est vraiment bon pour trouver des patterns dans du code existant et en faire des règles. Une approche dans laquelle on fait un exemple et on s'appuie dessus pour faire la configuration de Claude est probablement une bonne idée.
+Nous nous sommes rendus compte que Claude est vraiment bon pour trouver des patterns dans du code existant et en faire des règles. Une approche dans laquelle on fait un exemple et on s'appuie dessus pour faire la configuration de Claude est probablement une bonne idée.
 
 En générant ces fichiers, non seulement on obtient du code plus proche des pratiques que l'on souhaite, mais on économise aussi beaucoup de tokens qui sont clairement le nerf de la guerre !
 
 #### Commandes
 Quelques commandes utiles utilisées pendant la session :
 
-- `/init` : Fait générer un fichier `CLAUDE.md` en fonction de ce qui existe dans le projet. Ce fichier est essentiel pour avoir des résultats probants !!!
-- `shift + tab` : Permet de changer de mode pour passer en `plan mode` qui permet de répondre à des questions et d'ajuster le plan avant de lancer la génération. Avec cette approche, nous avons observé de bien meilleures générations !
-- `/skills` : Liste les skills disponibles. Très utile pour savoir si notre skill fraichement crée est bien pris en compte :D.
+- `/init` : Génére un fichier `CLAUDE.md` en fonction de ce qui existe dans le projet. Ce fichier est essentiel pour avoir des résultats probants !!!
+- `shift + tab` : Permet de changer de mode pour passer en `plan mode`, qui permet de répondre à des questions et d'ajuster le plan avant de lancer la génération. Avec cette approche, nous avons observé de bien meilleures générations !
+- `/skills` : Liste les skills disponibles. Très utile pour savoir si notre skill fraichement créé est bien pris en compte :D.
 - `/context` : Pour voir le remplissage du context.
-- `/clear` : Remet à zero le context. Nécéssaire pour limiter la consommation de tokens.
+- `/clear` : Remet à zero le context. Nécessaire pour limiter la consommation de tokens.
 - `/compact` : Pour compacter le contexte et on peut lui spécifier quoi garder. 
 - `/agents` : Permet de voir les agents existants, mais surtout d'en créer de nouveaux en étant guidés.
 - `/status` : Permet de voir où on en est dans l'utilisation de Claude, on peut changer d'onglet avec tab et shift + tab.
 - `/model` : Permet de consulter le modèle utilisé et de changer au besoin.
 - `/ide` : Pour lier le terminal system à l'IDE et avoir les demandes de validation dans l'IDE tout en gardant le terminal système.
-- `ctrl + t` : Pour voir toutes les taches.
+- `ctrl + t` : Pour voir toutes les tâches.
 - `ctrl + o` : Pour voir la sortie de tous les agents. Très utile quand un agent nous pose une question et qu'on ne la voit pas, mais qu'on doit y répondre :D.
 - `claude -c` : Pour relancer un Claude en lui demandant de reprendre là où le précédent s'est arrêté.
 
 #### Consoles
-Pendant une partie de la session, nous avons utilisé l'intégration de Claude Code dans IntelliJ mais ce n'est clairement pas au point :
-- Glitch graphiques ;
+Pendant une partie de la session, nous avons utilisé l'intégration de Claude Code dans IntelliJ, mais ce n'est clairement pas au point :
+- Glitches graphiques ;
 - Mauvaise lisibilité ;
 - Grosse impression de lenteur.
 
-L'utilisation d'un terminal en dehors de l'IDE semble, pour le moment, plus adapté.
+L'utilisation d'un terminal en dehors de l'IDE semble, pour le moment, plus adaptée.
 
 #### Revue des différentes versions générées
 
-**Revue opiniated par Colin, jugée en fonction des pratiques attendues sur le projet.** Le but n'est pas de juger de la pertinence des pratiques, mais de leur respect.
+**Revue opinionated par Colin, jugée en fonction des pratiques attendues sur le projet.** Le but n'est pas de juger de la pertinence des pratiques, mais de leur respect.
 
 Un point à noter sur le code généré : comme il a été fait sur le même repository, bien que l'on soit sur des branches différentes, il est fort à parier que le code fait sur les autres branches ait eu un impact sur les générations qui sont arrivées après.
 
@@ -147,7 +147,7 @@ Ce n'est qu'un ressenti, mais je pense que le temps de correction du code de cet
 
 ##### 2 - [Exemple + instructions TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/3)
 
-Cette seconde génération a été faite en ayant un exemple de l'attendus dans la code base et des instructions pour faire du TDD ont été ajoutées dans le `CLAUDE.md` après sa génération.
+Cette seconde génération a été faite en ayant un exemple de l'attendus dans la codebase et des instructions pour faire du TDD ont été ajoutées dans le `CLAUDE.md` après sa génération.
 
 Dans cette version les `Labels` ont été mis dans un shared kernel dans une seconde itération.
 
@@ -179,36 +179,36 @@ Mais aussi de bonnes choses :
 - Respect de l'architecture ;
 - Des tests unitaires globalement corrects même si encore trop proches des détails d'implémentation.
 
-À mes yeux, cette génération est un peu meilleure que la 2, mais je ne sais pas dire à quelle point elle a été facilité par les itérations précédentes.
+À mes yeux, cette génération est un peu meilleure que la 2, mais je ne sais pas dire à quel point elle a été facilité par les itérations précédentes.
 
 ##### 4 - [Outside-in TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/8)
 
 Cette quatrième génération a été faite avec :
-- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour lesp ratiques du project ;
+- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour les pratiques du project ;
 - Un agent pour faire de l'Outside-in TDD.
 
 Quelques problèmes :
 - Toujours pas d'exception internationalisée...
 - Deserialization de `RestLabels` en utilisant les setters plutôt qu'un constructeur ;
-- Pas d'utilisation de `ReponseEntity.of(...)` pour gérer une 404 quand un skill n'est pas trouvé (code généré qui fait la même chose) ;
+- Pas d'utilisation de `ResponseEntity.of(...)` pour gérer une 404 quand un skill n'est pas trouvé (code généré qui fait la même chose) ;
 - Tests de getters ;
 - Mauvaise utilisation des assertions cucumber custom au projet. Ça fonctionne, mais c'est moins pratique que ce qui est faisable
 - ...
 
-Si cette version à encore des défauts, on est sur quelque chose qui peut être repris très rapidement, surtout que les règles peuvent être affinées pour corriger ces problèmes.
+Si cette version a encore des défauts, on est sur quelque chose qui peut être repris très rapidement, surtout que les règles peuvent être affinées pour corriger ces problèmes.
 
 ##### 5 - [Inside-out TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/9)
 
 Cette cinquième génération a été faite avec :
-- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour lesp ratiques du project ;
+- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour les pratiques du project ;
 - Un agent pour faire de l'Inside-out TDD.
 
 Des petits défauts, mais cette version est la plus proche de ce qui aurait pu être fait à la main. Par contre, elle a été très coûteuse en temps et en tokens (je n'ai pas noté, mais, de mémoire, 1h).
 
 ##### 6 - [Test after](https://gitlab.com/damon.colin/superextra/-/merge_requests/11)
 
-Cette cinquième génération a été faite avec :
-- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour lesp ratiques du project ;
+Cette sixième génération a été faite avec :
+- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour les pratiques du project ;
 - Un agent pour faire du test after.
 
 Des défauts vraiment gênants dans cette version :
@@ -220,13 +220,13 @@ Même si cette version se génère un peu plus vite, elle ne fournit pas le file
 
 ##### Conclusion
 
-Toutes les versions ont le même défaut : elles prennent beaucoup de micro-décisions auxquelles il faudra être attentif. Exemples de micro-decisions qui posent problémes dans l'exemple :
+Toutes les versions ont le même défaut : elles prennent beaucoup de micro-décisions auxquelles il faudra être attentif. Exemples de micro-decisions qui posent probléme dans l'exemple :
 - Gestion des droits :
-  - Certaines génération ont demandé ;
+  - Certaines générations ont demandé ;
   - D'autres ont décidé que les `ADMIN` peuvent créer et les `USER` lire ;
   - D'autres ont décidé que tout le monde pouvait tout faire ;
   - Un a même supprimé l'authentification dans un premier temps avant qu'on demande de la remettre.
-- Gestion des label. Aucune n'a voulu renvoyé le label en fonction de la langue passée en header de la requête ce qui est probablement ce qui aurait fait lors d'un développement "classique". C'ets une faiblesse du prompt, mais penser à toutes ces choses en amont est impossible.
+- Gestion des labels. Aucune n'a voulu renvoyer le label en fonction de la langue passée en header de la requête ce qui est probablement ce qui aurait fait lors d'un développement "classique". C'est une faiblesse du prompt, mais penser à toutes ces choses en amont est impossible.
 
 Pour mitiger ça, faire des itérations plus petites est probablement une bonne idée. Avec le mode plan il y a plus de chances que des questions soient posées à chaque micro-décision, mais, même là, on ne peut pas être certain·e·s de ne rien louper. 
 
