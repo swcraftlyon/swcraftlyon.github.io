@@ -99,6 +99,152 @@ Pendant une partie de la session, nous avons utilisé l'intégration de Claude C
 
 L'utilisation d'un terminal en dehors de l'IDE semble, pour le moment, plus adapté.
 
+#### Revue des différentes versions générées
+
+**Revue opiniated par Colin, jugée en fonction des pratiques attendues sur le projet.** Le but n'est pas de juger de la pertinence des pratiques, mais de leur respect.
+
+Un point à noter sur le code généré : comme il a été fait sur le même repository, bien que l'on soit sur des branches différentes, il est fort à parier que le code fait sur les autres branches ait eu un impact sur les générations qui sont arrivées après.
+
+##### 1 - [Pas d'exemple + instructions TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/1)
+
+Pour cette première génération naïve, nous n'avons pas fourni d'exemple. Un simple `/init` suivi d'un ajout d'instructions pour faire du TDD, suivi de ce prompt :
+
+```
+Add rules for ID in CLAUDE.md Ids must use UUID wrapped in specific record with parameter beeing called value
+
+Create Skill entity. A Skill have:
+
+- An ID
+- An internationalized label
+- An internationalized description
+
+for internationalization create a Labels value object that must have a French label. Use java Locale as key. If there is no French label create a dedicated SuperextraException.
+Create the endpoints to manage skills:
+
+- Create a skill
+- Get a skill
+- Paginated list of skills
+```
+
+On note immédiatement que le code généré est loin de ce qui est attendu dans les normes poussées par Seed4J :
+- La branche ne build pas : certaines règles checkstyle ne sont pas respectées ;
+- Les tests sont trop proches des détails d'implémentation, par exemple en testant les getters ;
+- Beaucoup de Javadoc, souvent inutile ;
+- Pas d'utilisation systématique des outils existants dans la codebase (ex : `Collections.unmodifiableMap(new HashMap<>(values));` au lieu de `SuperextraCollections.immutable(...)`) ;
+- Pas de gestion des authorizations ;
+- Création compléte des objets du domain dans le controller là où le passage d'une commande à un aggregat devrait être la responsabilité du domain ;
+- ...
+
+De bonnes choses qui ont été faites :
+- Utilisation du système d'exceptions internationalisées ;
+- Wrapping des primitives ;
+- Respect de l'architecture ;
+- ...
+
+Si cette implémentation est loin de suivre les normes attendues (mais pas clairement exprimées), elle n'en reste pas moins impressionnante sur de nombreux points.
+
+Ce n'est qu'un ressenti, mais je pense que le temps de correction du code de cette version est supérieur au temps nécéssaire pour le faire manuellement. Ici, je ne pense pas qu'il y ait de gain de temps humain.
+
+##### 2 - [Exemple + instructions TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/3)
+
+Cette seconde génération a été faite en ayant un exemple de l'attendus dans la code base et des instructions pour faire du TDD ont été ajoutées dans le `CLAUDE.md` après sa génération.
+
+Dans cette version les `Labels` ont été mis dans un shared kernel dans une seconde itération.
+
+Le code généré est plus proche des standards attendus dans le projet :
+- Pas de Javadoc inutile ;
+- Des commandes et domain service pour créer les objets ;
+- Utilisation des outils présents dans le repository ;
+- ...
+
+Par contre, pour les exceptions, on est revenu à une `RuntimeException`, pas d'utilisation de la gestion d'erreur internationalisée.
+
+Bien qu'il reste du travail pour avoir quelque chose aux standards cette version à plus de chances de permettre de gagner du temps humain même si ce n'est pas encore une évidence.
+
+##### 3 - [Exemple sans instructions TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/4)
+
+Cette troisième génération a été faite avec un context d'exemple, mais sans donner d'instruction pour faire du TDD.
+
+Le build ne passe pas :
+- Erreur de formatage, le check ne valide pas ;
+- Un test est en erreur.
+
+Quelques problèmes :
+- Du code mort, notamment avec des getters systématiques ;
+- Pas d'utilisation des exceptions internationalisées.
+
+Mais aussi de bonnes choses :
+- Utilisation d'une query custom pour la pagination en triant sur un champ dans un JSONB => je ne connaissais pas, j'ai appris quelque chose ;
+- Génération plus rapide (je n'ai pas pensé à noter les temps, mais 2/3 fois plus rapide de mémoire) ;
+- Respect de l'architecture ;
+- Des tests unitaires globalement corrects même si encore trop proches des détails d'implémentation.
+
+À mes yeux, cette génération est un peu meilleure que la 2, mais je ne sais pas dire à quelle point elle a été facilité par les itérations précédentes.
+
+##### 4 - [Outside-in TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/8)
+
+Cette quatrième génération a été faite avec :
+- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour lesp ratiques du project ;
+- Un agent pour faire de l'Outside-in TDD.
+
+Quelques problèmes :
+- Toujours pas d'exception internationalisée...
+- Deserialization de `RestLabels` en utilisant les setters plutôt qu'un constructeur ;
+- Pas d'utilisation de `ReponseEntity.of(...)` pour gérer une 404 quand un skill n'est pas trouvé (code généré qui fait la même chose) ;
+- Tests de getters ;
+- Mauvaise utilisation des assertions cucumber custom au projet. Ça fonctionne, mais c'est moins pratique que ce qui est faisable
+- ...
+
+Si cette version à encore des défauts, on est sur quelque chose qui peut être repris très rapidement, surtout que les règles peuvent être affinées pour corriger ces problèmes.
+
+##### 5 - [Inside-out TDD](https://gitlab.com/damon.colin/superextra/-/merge_requests/9)
+
+Cette cinquième génération a été faite avec :
+- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour lesp ratiques du project ;
+- Un agent pour faire de l'Inside-out TDD.
+
+Des petits défauts, mais cette version est la plus proche de ce qui aurait pu être fait à la main. Par contre, elle a été très coûteuse en temps et en tokens (je n'ai pas noté, mais, de mémoire, 1h).
+
+##### 6 - [Test after](https://gitlab.com/damon.colin/superextra/-/merge_requests/11)
+
+Cette cinquième génération a été faite avec :
+- [Des rules](https://gitlab.com/damon.colin/superextra/-/merge_requests/7) pour lesp ratiques du project ;
+- Un agent pour faire du test after.
+
+Des défauts vraiment gênants dans cette version :
+- `RestLabels` qui n'affiche que les labels FR et EN ;
+- Des tests très proches des détails d'implémentation (ex `SkillsApplicationServiceTest`) ;
+- ...
+
+Même si cette version se génère un peu plus vite, elle ne fournit pas le filet de sécurité qui permettra de reprendre sereinement le code. 
+
+##### Conclusion
+
+Toutes les versions ont le même défaut : elles prennent beaucoup de micro-décisions auxquelles il faudra être attentif. Exemples de micro-decisions qui posent problémes dans l'exemple :
+- Gestion des droits :
+  - Certaines génération ont demandé ;
+  - D'autres ont décidé que les `ADMIN` peuvent créer et les `USER` lire ;
+  - D'autres ont décidé que tout le monde pouvait tout faire ;
+  - Un a même supprimé l'authentification dans un premier temps avant qu'on demande de la remettre.
+- Gestion des label. Aucune n'a voulu renvoyé le label en fonction de la langue passée en header de la requête ce qui est probablement ce qui aurait fait lors d'un développement "classique". C'ets une faiblesse du prompt, mais penser à toutes ces choses en amont est impossible.
+
+Pour mitiger ça, faire des itérations plus petites est probablement une bonne idée. Avec le mode plan il y a plus de chances que des questions soient posées à chaque micro-décision, mais, même là, on ne peut pas être certain·e·s de ne rien louper. 
+
+#### Resources
+
+- [Best practices Claude Code](https://www.anthropic.com/engineering/claude-code-best-practices) vraiment un très bon article !
+- Collections de skills & agents Claude Code :
+  - https://github.com/giuseppe-trisciuoglio/developer-kit
+  - https://github.com/anthropics/skills
+  - https://github.com/meetrais/claude-agent-skills
+  - https://github.com/lodetomasi/agents-claude-code
+  - https://github.com/wshobson/agents
+  - https://github.com/VoltAgent/awesome-claude-code-subagents
+- [Documentation des skills](https://code.claude.com/docs/en/skills)
+- [Pricing des modèles](https://platform.claude.com/docs/en/about-claude/pricing)
+- [Suivi consommation](https://claude.ai/settings/usage)
+- [Astuces pour économiser des tokens](https://gist.github.com/artemgetmann/74f28d2958b53baf50597b669d4bce43)
+
 ### Gemini CLI
 
 #### Tokens
@@ -119,7 +265,7 @@ Gemini CLI a un bug, qui déclenche un `429` et change de modèle quand la conte
 
 - **Command** : prompt nommé réutilisable
 
-Gemini CLI est plus basique, il n'y a pas de plan mode, ni de sub-agents (gérés par un autre outils, _jules_), ni skills, etc.
+Gemini CLI est plus basique, il n'y a pas de plan mode, ni de sub-agents (gérés par un autre outil, _jules_), ni skills, etc.
 
 #### Commandes
 Quelques commandes utiles utilisées pendant la session :
@@ -131,26 +277,11 @@ Quelques commandes utiles utilisées pendant la session :
 - `gemini --resume` : Pour relancer un Gemini en lui demandant de reprendre là où le précédent s'est arrêté.
 
 #### Notes et impressions
-Gemini 3.0 PRO (modèle), est un peu moins bon que Sonnet & Opus 4.5, ça peut être partiellement compensé par un meilleur prompting, mais le problème vient surtout de l'absence de plan mode.
+Gemini 3.0 PRO (modèle) est un peu moins bon que Sonnet & Opus 4.5, ça peut être partiellement compensé par un meilleur prompting, mais le problème vient surtout de l'absence de plan mode.
 
 À tenter avec un autre agent comme [OpenCode](https://opencode.ai/).
 
-L'autre soucis vient aussi de la méthode de comparaison qui se base sur un "one-shot prompt" avec le minimum d'info, ce qui est l'inverse de l'approche prise pour le test avec Gemini (prompt détaillé avec plusieurs itérations).
-
-### Resources
-
-- [Best practices Claude Code](https://www.anthropic.com/engineering/claude-code-best-practices) vraiment un très bon article !
-- Collections de skills & agents Claude Code :
-  - https://github.com/giuseppe-trisciuoglio/developer-kit
-  - https://github.com/anthropics/skills
-  - https://github.com/meetrais/claude-agent-skills
-  - https://github.com/lodetomasi/agents-claude-code
-  - https://github.com/wshobson/agents
-  - https://github.com/VoltAgent/awesome-claude-code-subagents
-- [Documentation des skills](https://code.claude.com/docs/en/skills)
-- [Pricing des modèles](https://platform.claude.com/docs/en/about-claude/pricing)
-- [Suivi consommation](https://claude.ai/settings/usage)
-- [Astuces pour économiser des tokens](https://gist.github.com/artemgetmann/74f28d2958b53baf50597b669d4bce43)
+L'autre souci vient aussi de la méthode de comparaison qui se base sur un "one-shot prompt" avec le minimum d'info, ce qui est l'inverse de l'approche prise pour le test avec Gemini (prompt détaillé avec plusieurs itérations).
 
 ## Retrospective
 
