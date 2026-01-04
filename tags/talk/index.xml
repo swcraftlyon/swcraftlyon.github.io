@@ -6,7 +6,17 @@
     <description>Recent content in talk on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 25 Sep 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Dec 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random lightning talks avec Human Talks</title>
+      <link>https://swcraftlyon.github.io/posts/2025-12-09-random-lightning-talks/</link>
+      <pubDate>Tue, 09 Dec 2025 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-12-09-random-lightning-talks/</guid>
+      <description>10 personnes présentes
+Damien : C’est quoi être développeur ou développeuse ?</description>
+    </item>
+    
     <item>
       <title>Craft talk : BDD sans Gherkin | Se mettre à la clean archi</title>
       <link>https://swcraftlyon.github.io/posts/2025-09-25-craft-talk/</link>

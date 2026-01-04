@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 03 Dec 2025 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Dec 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secret katas</title>
+      <link>https://swcraftlyon.github.io/posts/2025-12-15-coding-dojo-soir/</link>
+      <pubDate>Mon, 15 Dec 2025 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2025-12-15-coding-dojo-soir/</guid>
+      <description>Sujet : Différent katas tirés au-hasart</description>
+    </item>
+    
     <item>
       <title>Coding dojo du midi : Employee report sous contraintes</title>
       <link>https://swcraftlyon.github.io/posts/2025-12-03-coding-dojo-midi/</link>
