@@ -4,7 +4,8 @@ date: 2026-01-14T19:00:00+02:00
 tags: ["dojo"]
 ---
 
-Sujet : https://www.meetup.com/fr-fr/software-craftsmanship-lyon/events/312720304/
+- Sujet : [Anagram](https://codingdojo.org/kata/Anagram/)
+- [Meetup](https://www.meetup.com/fr-fr/software-craftsmanship-lyon/events/312720304/)
 
 ## Retro
 
