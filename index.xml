@@ -6,7 +6,25 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 27 Jan 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Feb 2026 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Soir Jeudi 12 Février 2026</title>
+      <link>https://swcraftlyon.github.io/posts/2026-02-12-coding-dojo-soir/</link>
+      <pubDate>Thu, 12 Feb 2026 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-02-12-coding-dojo-soir/</guid>
+      <description>Sujet : UglyMolKKy-RefactoringKata Meetup Format : Mob Langage : Java, Scala, et Rust Nombre de participants : 9 Déroulement Nous avons fait trois mob.</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo du Midi Jeudi 05 Février 2026</title>
+      <link>https://swcraftlyon.github.io/posts/2026-02-05-coding-dojo-midi/</link>
+      <pubDate>Thu, 05 Feb 2026 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-02-05-coding-dojo-midi/</guid>
+      <description>Sujet : Pierre, Feuil, Papier(, Bombe, Puit) Meetup Format : Mob Langage : Java et TypeScript Nombre de participants : 11 Déroulement Nous avons fait un Mob Java et un Mob TypeScript.</description>
+    </item>
+    
     <item>
       <title>Open forum</title>
       <link>https://swcraftlyon.github.io/posts/2026-01-27-open-forum/</link>
@@ -2251,15 +2269,6 @@ Architecture Hexagonale par Nicolas Grisey Demengel @Malt Forum ouvert 16 partic
       
       <guid>https://swcraftlyon.github.io/posts/my-first-post/</guid>
       <description>Suite à notre visite aux crafters de Paris et aux retours de plusieurs personnes, nous avons décidé de commencer à faire des compte-rendus de séances.</description>
-    </item>
-    
-    <item>
-      <title>Coding Dojo du Midi Jeudi 20 avril 2023</title>
-      <link>https://swcraftlyon.github.io/posts/2026-02-05-coding-dojo-midi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2026-02-05-coding-dojo-midi/</guid>
-      <description>Sujet : Pierre, Feuil, Papier(, Bombe, Puit) Meetup Format : Mob Langage : Java et TypeScript Nombre de participants : 11 Déroulement Nous avons fait un Mob Java et un Mob TypeScript.</description>
     </item>
     
   </channel>
