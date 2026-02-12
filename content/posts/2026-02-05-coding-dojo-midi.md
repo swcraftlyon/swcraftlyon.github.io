@@ -1,6 +1,6 @@
 ---
-title: "Coding Dojo du Midi Jeudi 20 avril 2023"
-date: 2026-02+05T12:15:00+01:00
+title: "Coding Dojo du Midi Jeudi 05 Février 2026"
+date: 2026-02-05T12:15:00+01:00
 tags: ["dojo"]
 ---
 
