@@ -6,7 +6,16 @@
     <description>Recent content in talk on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 09 Dec 2025 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Feb 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk: TDD et TDD sont dans un bateau</title>
+      <link>https://swcraftlyon.github.io/posts/2026-02-17-tdd-et-tdd-sont-dans-un-bateau/</link>
+      <pubDate>Tue, 17 Feb 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-02-17-tdd-et-tdd-sont-dans-un-bateau/</guid>
+      <description>Sujet : &amp;ldquo;TDD et TDD sont dans un bateau&amp;rdquo; Présenté par Arnaud Bailly Senior Tech Lead &amp;amp; Architect chez Cardano Foundation.</description>
+    </item>
+    
     <item>
       <title>Random lightning talks avec Human Talks</title>
       <link>https://swcraftlyon.github.io/posts/2025-12-09-random-lightning-talks/</link>

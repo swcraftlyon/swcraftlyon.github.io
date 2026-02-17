@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 12 Feb 2026 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Feb 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk: TDD et TDD sont dans un bateau</title>
+      <link>https://swcraftlyon.github.io/posts/2026-02-17-tdd-et-tdd-sont-dans-un-bateau/</link>
+      <pubDate>Tue, 17 Feb 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-02-17-tdd-et-tdd-sont-dans-un-bateau/</guid>
+      <description>Sujet : &amp;ldquo;TDD et TDD sont dans un bateau&amp;rdquo; Présenté par Arnaud Bailly Senior Tech Lead &amp;amp; Architect chez Cardano Foundation.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Soir Jeudi 12 Février 2026</title>
       <link>https://swcraftlyon.github.io/posts/2026-02-12-coding-dojo-soir/</link>
