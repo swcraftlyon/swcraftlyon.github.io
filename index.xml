@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 17 Feb 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Mar 2026 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Craft talk : À la découverte de l&#39;observabilité</title>
+      <link>https://swcraftlyon.github.io/posts/2026-03-13-craft-talk/</link>
+      <pubDate>Fri, 13 Mar 2026 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-03-13-craft-talk/</guid>
+      <description>Sujets : À la découverte de l&amp;rsquo;observabilité Format : 1 Talk 1 heure Meetup Twitch À la découverte de l&amp;rsquo;observabilité Présentation par Maxime Dezette chez Agicap.</description>
+    </item>
+    
     <item>
       <title>Talk: TDD et TDD sont dans un bateau</title>
       <link>https://swcraftlyon.github.io/posts/2026-02-17-tdd-et-tdd-sont-dans-un-bateau/</link>
