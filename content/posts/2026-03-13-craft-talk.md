@@ -7,7 +7,7 @@ tags: ["talk"]
 - Sujets : À la découverte de l'observabilité
 - Format : 1 Talk 1 heure
 - [Meetup](https://www.meetup.com/fr-fr/software-craftsmanship-lyon/events/313585516/)
-- [Twitch](https://www.twitch.tv/videos/2721376329)
+- [Youtube](https://www.youtube.com/watch?v=BewHa2TS6uc)
 
 
 ## À la découverte de l'observabilité
