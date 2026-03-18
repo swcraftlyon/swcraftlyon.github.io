@@ -20,8 +20,6 @@ Nous avons fait trois mob.
   * Pas terminé
   * La gestion du state était compliqué
   * Envis de tout jeter et de tout réécrire
-  * 
-  * 
 * Scala
   * Pas terminé
   * Bloqués par les types opaques
