@@ -6,7 +6,16 @@
     <description>Recent content in forum-ouvert on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 02 Sep 2025 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/forum-ouvert/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Mar 2026 10:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/forum-ouvert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forum Ouvert du Samedi 28 Mars 2026</title>
+      <link>https://swcraftlyon.github.io/posts/2026-03-28-forum-ouvert/</link>
+      <pubDate>Sat, 28 Mar 2026 10:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-03-28-forum-ouvert/</guid>
+      <description>Sujet : Les limites de nos pratiques Meetup Format : Forum ouvert Nombre de participants : 14 Sessions Session 1 : 10h20 - 10h40 Salle 1 : DDD Qu&amp;rsquo;es ce que ça veux dire faire du DDD ?</description>
+    </item>
+    
     <item>
       <title>Forum Ouvert du Mardi 02 Septembre 2025</title>
       <link>https://swcraftlyon.github.io/posts/2025-09-02-forum-ouvert/</link>
