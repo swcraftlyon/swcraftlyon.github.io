@@ -6,7 +6,25 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 12 Feb 2026 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Apr 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Soir Mercredi 8 Avril 2026</title>
+      <link>https://swcraftlyon.github.io/posts/2026-04-08-coding-dojo-soir/</link>
+      <pubDate>Wed, 08 Apr 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-04-08-coding-dojo-soir/</guid>
+      <description>Sujet : BugZero Trivia Meetup Format : Mob Langage : Java Nombre de participants : 6 Déroulement Nous avons fait un mob.</description>
+    </item>
+    
+    <item>
+      <title>Coding Dojo du Soir Mardi 17 Mars 2026</title>
+      <link>https://swcraftlyon.github.io/posts/2026-03-17-coding-dojo-soir/</link>
+      <pubDate>Tue, 17 Mar 2026 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-03-17-coding-dojo-soir/</guid>
+      <description>Sujet : Roman Numerals Meetup Format : Evil Mob Langage : Java et TypeScript Nombre de participants : 11 Déroulement Nous avons fait deux mob.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Soir Jeudi 12 Février 2026</title>
       <link>https://swcraftlyon.github.io/posts/2026-02-12-coding-dojo-soir/</link>
@@ -14,15 +32,6 @@
       
       <guid>https://swcraftlyon.github.io/posts/2026-02-12-coding-dojo-soir/</guid>
       <description>Sujet : UglyMolKKy-RefactoringKata Meetup Format : Mob Langage : Java, Scala, et Rust Nombre de participants : 9 Déroulement Nous avons fait trois mob.</description>
-    </item>
-    
-    <item>
-      <title>Coding Dojo du Soir Mardi 17 Mars 2026</title>
-      <link>https://swcraftlyon.github.io/posts/2026-03-17-coding-dojo-soir/</link>
-      <pubDate>Thu, 12 Feb 2026 19:00:00 +0100</pubDate>
-      
-      <guid>https://swcraftlyon.github.io/posts/2026-03-17-coding-dojo-soir/</guid>
-      <description>Sujet : Roman Numerals Meetup Format : Evil Mob Langage : Java et TypeScript Nombre de participants : 11 Déroulement Nous avons fait deux mob.</description>
     </item>
     
     <item>
