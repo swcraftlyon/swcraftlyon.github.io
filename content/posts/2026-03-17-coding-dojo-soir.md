@@ -1,6 +1,6 @@
 ---
 title: "Coding Dojo du Soir Mardi 17 Mars 2026"
-date: 2026-02-12T19:00:00+01:00
+date: 2026-03-17T19:00:00+01:00
 tags: ["dojo"]
 ---
 
