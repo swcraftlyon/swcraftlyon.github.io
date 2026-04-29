@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Apr 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Présentiel] Session préparation speaker LyonCraft</title>
+      <link>https://swcraftlyon.github.io/posts/2026-04-27-preparation-speaker-lyoncraft/</link>
+      <pubDate>Mon, 27 Apr 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-04-27-preparation-speaker-lyoncraft/</guid>
+      <description>Meetup : https://www.meetup.com/fr-fr/software-craftsmanship-lyon/events/314002535/ Sujet : Session préparation speaker LyonCraft Lieu : EPITECH, 2 Rue du Professeur Charles Appleton, 69007 Lyon Nombre de participants : 15 Description Session d&amp;rsquo;entraînement d&amp;rsquo;oratrices et orateurs à EPITECH avant la conférence Lyon Craft des 12 et 13 mai 2026.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Midi Jeudi 23 Avril 2026</title>
       <link>https://swcraftlyon.github.io/posts/2026-04-23-coding-dojo-midi/</link>
