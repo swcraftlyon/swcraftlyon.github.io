@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 May 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Soir Lundi 4 Mai 2026</title>
+      <link>https://swcraftlyon.github.io/posts/2026-05-04-coding-dojo-soir/</link>
+      <pubDate>Mon, 04 May 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-05-04-coding-dojo-soir/</guid>
+      <description>Sujet : FooBarQix Meetup Format : Mob Langage : Java, TS, Kotlin Nombre de participants : 12 Déroulement Nous avons fait un mob.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Midi Jeudi 23 Avril 2026</title>
       <link>https://swcraftlyon.github.io/posts/2026-04-23-coding-dojo-midi/</link>
