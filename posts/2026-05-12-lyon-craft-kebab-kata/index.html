@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>[Lyon Craft] Kebab Kata animé par Romeu Moura - Compte-rendus des software crafters de Lyon</title>
+  <meta name="description" content="Sujet : Kebab Kata (Guide facilitateur) Facilitateur : Romeu Moura Nombre de participants : 21 Format : groupes de 2 ou 3 Langages : Java, C#, Typescript Déroulement Setup initial Un environnement de développement au choix avec un test au rouge."><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Compte-rendus des software crafters de Lyon",
+    
+    "url": "https:\/\/swcraftlyon.github.io\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/swcraftlyon.github.io\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/swcraftlyon.github.io\/posts\/2026-05-12-lyon-craft-kebab-kata\/",
+          "name": "[ lyon craft] kebab kata animé par romeu moura"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : ""
+  },
+  "headline": "[Lyon Craft] Kebab Kata animé par Romeu Moura",
+  "description" : "Sujet : Kebab Kata (Guide facilitateur) Facilitateur : Romeu Moura Nombre de participants : 21 Format : groupes de 2 ou 3 Langages : Java, C#, Typescript Déroulement Setup initial Un environnement de développement au choix avec un test au rouge.",
+  "inLanguage" : "fr",
+  "wordCount":  1072 ,
+  "datePublished" : "2026-05-12T14:00:00",
+  "dateModified" : "2026-05-12T14:00:00",
+  "image" : "https:\/\/swcraftlyon.github.io\/",
+  "keywords" : [ "dojo" ],
+  "mainEntityOfPage" : "https:\/\/swcraftlyon.github.io\/posts\/2026-05-12-lyon-craft-kebab-kata\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/swcraftlyon.github.io\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/swcraftlyon.github.io\/",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="[Lyon Craft] Kebab Kata animé par Romeu Moura" />
+<meta property="og:description" content="Sujet : Kebab Kata (Guide facilitateur) Facilitateur : Romeu Moura Nombre de participants : 21 Format : groupes de 2 ou 3 Langages : Java, C#, Typescript Déroulement Setup initial Un environnement de développement au choix avec un test au rouge.">
+<meta property="og:url" content="https://swcraftlyon.github.io/posts/2026-05-12-lyon-craft-kebab-kata/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Compte-rendus des software crafters de Lyon" />
+
+  <meta name="twitter:title" content="[Lyon Craft] Kebab Kata animé par Romeu Moura" />
+  <meta name="twitter:description" content="Sujet : Kebab Kata (Guide facilitateur) Facilitateur : Romeu Moura Nombre de participants : 21 Format : groupes de 2 ou 3 Langages : Java, C#, Typescript Déroulement Setup initial Un environnement de …">
+  <meta name="twitter:card" content="summary" />
+  <meta name="generator" content="Hugo 0.111.3">
+  <link rel="alternate" href="https://swcraftlyon.github.io/index.xml" type="application/rss+xml" title="Compte-rendus des software crafters de Lyon"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://swcraftlyon.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/syntax.css" /><link rel="stylesheet" href="https://swcraftlyon.github.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous"><style>
+  .navbar-header {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+  }
+
+  .navbar-toggle {
+    float: none;
+    position: unset;
+  }
+
+  .navbar-brand {
+    padding: 5px;
+    padding-left: 10px;
+    height: unset;
+    flex-grow: 1;
+  }
+
+  .navbar {
+    min-height: unset;
+  }
+
+  @media screen and (min-width: 766px) {
+    .navbar-nav > li > a {
+      padding: 0;
+      padding-right: 0.5em;
+    }
+  }
+
+  @media screen and (min-width: 1100px) {
+    .navbar > div {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .navbar-nav > li > a {
+      padding-right: 1em;
+    }
+  }
+</style>
+
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+            <li><a href="https://swcraftlyon.github.io/tags/dojo/">#dojo</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/talk/">#talk</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ddd/">#DDD</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/unconf/">#unconf</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/live/">#live</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lectures/">#lectures</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/team/">#team</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/forum-ouvert/">#forum-ouvert</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/code-retreat/">#code-retreat</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/kata/">#kata</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/coding-dojo/">#coding-dojo</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/refactoring/">#refactoring</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/atelier/">#atelier</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/eventstorming/">#eventstorming</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/craft/">#craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/gdcr/">#GDCR</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ag/">#ag</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/retro/">#retro</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/aggregate/">#aggregate</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/twitch/">#twitch</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/event-modeling/">#event modeling</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/ia/">#ia</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/lyon-craft/">#lyon-craft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/clinic/">#clinic</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/xcraft/">#xcraft</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/cara/">#cara</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/mob/">#mob</a></li>
+        
+            <li><a href="https://swcraftlyon.github.io/tags/random-lightning-talks/">#random-lightning-talks</a></li>
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="posts-heading">
+              
+                <h1>[Lyon Craft] Kebab Kata animé par Romeu Moura</h1>
+              
+              
+                <hr class="small">
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <ul>
+<li>Sujet : <a href="https://lyon-craft.fr/sessions/kebab-kata.html">Kebab Kata</a> (<a href="https://github.com/malk/the-kebab-kata">Guide facilitateur</a>)</li>
+<li>Facilitateur : <a href="https://www.linkedin.com/in/romeu/">Romeu Moura</a></li>
+<li>Nombre de participants : 21</li>
+<li>Format : groupes de 2 ou 3</li>
+<li>Langages : Java, C#, Typescript</li>
+</ul>
+<h2 id="déroulement">Déroulement</h2>
+<h3 id="setup-initial">Setup initial</h3>
+<p>Un environnement de développement au choix avec un test au rouge.<br>
+Pour ce kata, il vaut mieux privilégier un environnement avec lequel on est à l&rsquo;aise. Découvrir un langage ici est une mauvaise idée.</p>
+<h3 id="déroulé">Déroulé</h3>
+<p>Durant ce kata, Romeu (le facilitateur) va jouer plusieurs personnages pour diriger un projet sur 4 sprints de 25 minutes.</p>
+<p>Un sprint se déroule de la façon suivante:</p>
+<ul>
+<li>Le client exprime ses demandes.</li>
+<li>Les équipes codent (et les personnages interfèrent, influencent les équipes).</li>
+<li>Chaque équipe doit faire une démonstration de 45 secondes au client qui <strong>ne sait pas</strong> coder. Mentir au client est autorisé.</li>
+<li>Des membres de chaque équipe vont faire des revues de code de 2 minutes sur le code d&rsquo;autres équipes. Ces revues sont honnêtes et constructives, il n&rsquo;y a pas de compétition entre les équipes.</li>
+</ul>
+<h3 id="sprint-1">Sprint 1</h3>
+<p>Le <em>client</em> présente son business à ses équipes backend. Celui-ci a une demande : il veut pouvoir dire à ses clients si un kebab est végétarien ou non.<br>
+Etonnament, pour un client qui ne sait pas coder, il est déjà très directif en relayant la demande de l&rsquo;équipe front-end : il décrit un objet <code>kebab</code> avec une méthode <code>isVegetarian()</code> sans paramètres. Le <code>kebab</code> est construit avec une liste d&rsquo;ingrédients.</p>
+<p>Budget initial : 10 minutes, mais en vrai, 7 minutes ça suffit non ?</p>
+<p>Au moment de la démo, certaines équipes jouent le jeu, demande des précisions, une liste de potentiels ingrédients, et un délai pour les éventuelles corrections à apporter suite aux retours du client.</p>
+<h3 id="sprint-2">Sprint 2</h3>
+<p>Le client semble être réceptif à la sensibilité craft de ses équipes et leur laisse un peu plus de temps pour finir le sprint précédent. Il demande également une seconde fonction <code>isPesetarian()</code>.</p>
+<p>Budget total alloué : 7 minutes.</p>
+<h3 id="sprint-3">Sprint 3</h3>
+<p>Le client à deux nouvelles features:</p>
+<ul>
+<li>La fonction <code>doubleCheese()</code> double le fromage au même endroit : un kebab &ldquo;pain, fromage, viande, pain&rdquo; devient &ldquo;pain, fromage, fromage, viande, pain&rdquo;.</li>
+<li>La fonction <code>removeOgnon()</code> qui retire tous les oignons.</li>
+</ul>
+<p>Il oriente encore le design du code en relayant les demandes de l&rsquo;équipe front-end. Ces nouvelles fonctions doivent retourner un nouveau <code>kebab</code>, l&rsquo;équipe front n&rsquo;utilisera plus l&rsquo;ancien kebab. Si aucun changement n&rsquo;est nécessaire, alors ces fonctions peuvent retourner le même kebab.</p>
+<p>Vu la demande conséquente, un budget de 15 minutes est alloué.</p>
+<h3 id="interlude">Interlude</h3>
+<p>Bravo pour cette mise en production, high-five, fiesta&hellip; Et vous êtes tous virés !</p>
+<p>Maintenant, les participants jouent le rôle de nouveaux développeurs qui remplacent les anciens.<br>
+Le client se plaint d&rsquo;un legacy et demande un audit du code <strong>sans aucune modification</strong>.</p>
+<p>Budget de l&rsquo;audit : 3 minutes.</p>
+<p>Le facilitateur sort de son rôle client pour s&rsquo;assurer que chaque équipe a identifié des choses qui pourraient être modifiées et demande de conserver une version de se code.</p>
+<h3 id="sprint-4">Sprint 4</h3>
+<p>Le client n&rsquo;a pas de nouvelle demande fonctionnelle à exprimer, il demande uniquement aux équipes de résorber la dette technique. Pour aider les équipes, il a fait appel à un architecte.</p>
+<p>L&rsquo;architecte dirige les équipes vers le <a href="https://refactoring.guru/fr/design-patterns/composite">pattern composite</a>. Il prend le temps d&rsquo;expliquer le pattern dans le contexte du kebab.<br>
+Cela ressemble à : <code>new Tomato(new Cheese(new Ognon(new Bread())))</code>.</p>
+<p>L&rsquo;architecte tient à son statut, pour contester ses propositions, il faut lui soumettre des arguments forts.</p>
+<p>Le facilitateur donne une information aux participants : l&rsquo;architecte a tort. Il suggère d&rsquo;explorer plusieurs solutions pour trouver des contre-propositions.</p>
+<p>Budget alloué : 20 minutes.</p>
+<h2 id="rétrospective">Rétrospective</h2>
+<h3 id="debrief-du-dernier-sprint-sur-la-décision-darchitecture">Debrief du dernier sprint sur la décision d&rsquo;architecture</h3>
+<ul>
+<li>Problématique : la logique est difficile à suivre puisqu&rsquo;éclatée dans plein de classes, coût d&rsquo;onboarding plus élevé.
+<ul>
+<li>Contre-argument : logique simple pour chaque ingrédient.</li>
+<li>Contre-argument : si le pattern est le bon, alors le coût de l&rsquo;onboarding reste acceptable.</li>
+</ul>
+</li>
+<li>Problématique : Si on oublie le pain à la fin de la chaine, alors ça ne marche pas.
+<ul>
+<li>Contre-argument : si tu oublies le pain, alors sur certains langages ne compileront pas.</li>
+</ul>
+</li>
+<li>Problématique : la récursion rend difficile la visualisation de la chaine. En debug, on voit juste l&rsquo;enfant et on ne voit pas l&rsquo;ensemble des ingrédients.
+<ul>
+<li>Contre-argument : c&rsquo;est une question de familiarité, si l&rsquo;on est habitué alors ce n&rsquo;est pas un problème.</li>
+</ul>
+</li>
+<li>Problématique : un composite peut être un noeud ou une feuille.
+<ul>
+<li>Contre-argument : dans notre contexte, n&rsquo;importe quel ingrédient est un kebab.</li>
+</ul>
+</li>
+<li>Problématique : pas de Tail Call Optimisation sur certains langages utilisés.
+<ul>
+<li>Contre-argument : dans ce contexte métier, peu de chance que ça soit un problème pour la performance.</li>
+</ul>
+</li>
+<li>Problématique : avec composite, ajouter un nouvel ingrédient est très peu coûteux, ajouter un nouveau comportement l&rsquo;est énormément.
+<ul>
+<li>Trade-off inverse : <a href="https://refactoring.guru/fr/design-patterns/visitor">pattern visitor</a> qui rend coûteux l&rsquo;ajout d&rsquo;un ingrédient et peu coûteux l&rsquo;ajout d&rsquo;une règle. Pour ce kata c&rsquo;est une bonne solution.</li>
+</ul>
+</li>
+</ul>
+<h3 id="debrief-sur-les-comportements-adoptés">Debrief sur les comportements adoptés</h3>
+<p>La qualité du code est le reflet d&rsquo;un ensemble de comportements des différents acteurs. Tous sont de bonne volonté, mais ils ne font pas preuve de rigueur et sont dépassés/incompétents. Des exemples :</p>
+<ul>
+<li>Pression par les timings/deadlines. Seul le client définit la durée des sprints et leur contenu de façon unilatérale sans concertation avec les équipes. Pour amplifier cela, les timings réels étaient toujours plus courts que ceux réellement annoncés.</li>
+<li>Séparation des équipes : &ldquo;vous n&rsquo;iriez pas plus vite sur deux ordinateurs ?&rdquo;.</li>
+<li>Les orientations techniques : le client a énormément drivé l&rsquo;implémentation.</li>
+<li>La séparation back/front. Romeu confesse qu&rsquo;il a un personnage &ldquo;équipe front-end&rdquo;, il n&rsquo;a jamais eu l&rsquo;occasion de le jouer, car personne n&rsquo;a demandé à lui parler.</li>
+<li>Architecte &ldquo;vertical&rdquo; : il décrit un pattern, mais n&rsquo;explique pas pourquoi il l&rsquo;a choisi. S&rsquo;en fout de l&rsquo;audit, il ne demande pas ce qui a été dit.</li>
+<li>Les personnages ne s&rsquo;impliquent pas toujours : le client n&rsquo;est pas intéressé par ce qu&rsquo;il se passe aux démos et ne s&rsquo;implique pas pendant le développement.</li>
+<li>Aucun feedback du client sur les raisons pour lesquelles l&rsquo;équipe est virée.</li>
+<li>Les besoins étaient exprimés sous la forme de la solution plutôt que de la problématique, on voit ce que le client demande, mais pas pourquoi.</li>
+<li>Permettre de continuer à coder pendant que les autres font la démo maintient les équipes à flux tendu, ce qui les empêche de prendre du recul sur ce qu&rsquo;ils sont entrain de faire.</li>
+</ul>
+<p>Points positifs:</p>
+<ul>
+<li>La revue du code des autres a diffusé de nouvelles idées.</li>
+</ul>
+<h2 id="roti">ROTI</h2>
+<ul>
+<li>4/5 : 50%</li>
+<li>5/5 : 50%</li>
+</ul>
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://swcraftlyon.github.io//tags/dojo/">dojo</a>&nbsp;
+            
+          </div>
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://swcraftlyon.github.io/posts/2026-05-04-coding-dojo-soir/" data-toggle="tooltip" data-placement="top" title="Coding Dojo du Soir Lundi 4 Mai 2026">&larr; Post précédent</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2026
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://swcraftlyon.github.io/">Compte-rendus des software crafters de Lyon</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          Carbure avec <a href="https://gohugo.io">Hugo v0.111.3</a>&nbsp;&bull;&nbsp; Avec le Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapté de <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://swcraftlyon.github.io/js/main.js"></script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://swcraftlyon.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
+
+    
+  </body>
+</html>
+

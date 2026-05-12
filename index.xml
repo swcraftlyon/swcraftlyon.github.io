@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 04 May 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2026 14:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Lyon Craft] Kebab Kata animé par Romeu Moura</title>
+      <link>https://swcraftlyon.github.io/posts/2026-05-12-lyon-craft-kebab-kata/</link>
+      <pubDate>Tue, 12 May 2026 14:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-05-12-lyon-craft-kebab-kata/</guid>
+      <description>Sujet : Kebab Kata (Guide facilitateur) Facilitateur : Romeu Moura Nombre de participants : 21 Format : groupes de 2 ou 3 Langages : Java, C#, Typescript Déroulement Setup initial Un environnement de développement au choix avec un test au rouge.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo du Soir Lundi 4 Mai 2026</title>
       <link>https://swcraftlyon.github.io/posts/2026-05-04-coding-dojo-soir/</link>
@@ -907,10 +916,10 @@ Anthony Arthur Colin Florent Gautier Nolwenn Virginie Situation actuelle Le fonc
     
     <item>
       <title>Coding Dojo Mardi 28 Novembre 2023</title>
-      <link>https://swcraftlyon.github.io/posts/content/posts/2023-11-26-coding-dojo-soir/</link>
+      <link>https://swcraftlyon.github.io/posts/2023-11-26-coding-dojo-soir/</link>
       <pubDate>Thu, 26 Oct 2023 19:00:00 +0200</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/content/posts/2023-11-26-coding-dojo-soir/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2023-11-26-coding-dojo-soir/</guid>
       <description> Sujet : Lift Kata Meetup Format : 2 * Mob Langage : Java et PHP Nombre de participants : 11 Rétrospective intéressant pour un étudiant impressionnant par la diminution de la charge cognitive bénéficies du découpage frustration par le test-first qui fait perdre le flow du code (liste des choses à faire) surtout lors de difficultés avec l’environnement difficulté à jeter du code la mécanique du groupe est plus plaisante que le résultat le sujet a progressé globalement linéairement modélisation du temps via move en Java, requests en PHP ROTI 1/5 : 0 2/5 : 1 (Java, on est parti sur un mauvais design et on n’a pas changé malgré les soucis) 3/5 : 1 (frustré par l’aspect de forçage des 3 steps de tdd) 4/5 : 4 5/5 : 5 </description>
     </item>
     
