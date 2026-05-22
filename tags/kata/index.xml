@@ -6,7 +6,16 @@
     <description>Recent content in kata on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 16 Dec 2024 20:19:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 May 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du midi</title>
+      <link>https://swcraftlyon.github.io/posts/2026-05-21.coding-dojo-midi-wallet/</link>
+      <pubDate>Thu, 21 May 2026 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-05-21.coding-dojo-midi-wallet/</guid>
+      <description>Sujet : Wallet Meetup Format : Mob Langages : Java Nombre de participants : 7 (dont 1 nouveau) Rétro Un début en TypeDD (pas longtemps) puis TestDD, pas simple de faire émerger un design.</description>
+    </item>
+    
     <item>
       <title>Coding dojo du soir : GildedRose</title>
       <link>https://swcraftlyon.github.io/posts/2024-12-16-coding-dojo-soir/</link>
