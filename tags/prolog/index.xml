@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prolog on Compte-rendus des software crafters de Lyon</title>
+    <link>https://swcraftlyon.github.io/tags/prolog/</link>
+    <description>Recent content in prolog on Compte-rendus des software crafters de Lyon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 02 Jun 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/prolog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initiation au Prolog avec un kata de réservation de créneaux</title>
+      <link>https://swcraftlyon.github.io/posts/2026-06-02-initiation-prolog/</link>
+      <pubDate>Tue, 02 Jun 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-06-02-initiation-prolog/</guid>
+      <description>Meetup Format : Mob Langages : Prolog Nombre de participants : 10 Déroulé Présentation des atomes, structures, prédicats puis des tests Mise en contexte du sujet du kata Séparation en petits groupes Rétro Dense pour une première découverte, va falloir reprendre au calme.</description>
+    </item>
+    
+  </channel>
+</rss>
