@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 02 Jun 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du midi : Poker hand</title>
+      <link>https://swcraftlyon.github.io/posts/2026-06-17-coding-dojo-midi-poker-hand/</link>
+      <pubDate>Wed, 17 Jun 2026 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-06-17-coding-dojo-midi-poker-hand/</guid>
+      <description>Meetup Sujet : Poker Hand Format : Mob Langages : Java, TypeScript, Elixir Nombre de participants : 12 Rétro Difficultés de modélisation pour savoir comment transformer la main en tas de cartes, puis les trier et classer.</description>
+    </item>
+    
     <item>
       <title>Initiation au Prolog avec un kata de réservation de créneaux</title>
       <link>https://swcraftlyon.github.io/posts/2026-06-02-initiation-prolog/</link>
