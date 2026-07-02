@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 27 Jun 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du midi : Mastermind</title>
+      <link>https://swcraftlyon.github.io/posts/2026-07-02-coding-dojo-midi/</link>
+      <pubDate>Thu, 02 Jul 2026 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-07-02-coding-dojo-midi/</guid>
+      <description>Meetup Sujet : Mastermind Format : Mob Langages : TypeScript Nombre de participants : 7-9 / 13 inscrits Rétro On a fait de trop grosses étapes trop vite</description>
+    </item>
+    
     <item>
       <title>Code retreat estival</title>
       <link>https://swcraftlyon.github.io/posts/2026-06-27-gdcr-estival/</link>
