@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lightning talks en plein air</title>
+      <link>https://swcraftlyon.github.io/posts/2026-07-23-lignthing-talks/</link>
+      <pubDate>Thu, 23 Jul 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-07-23-lignthing-talks/</guid>
+      <description>Profitant du beau temps, nous avons fait une session de lightning talks au parc de la Tête d&amp;rsquo;Or (devant les grandes serres)</description>
+    </item>
+    
     <item>
       <title>Assemblée générale Crafters Lyon 2026</title>
       <link>https://swcraftlyon.github.io/posts/2026-07-20-ag-2026/</link>
