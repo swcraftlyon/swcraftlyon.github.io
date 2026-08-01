@@ -6,7 +6,16 @@
     <description>Recent content in talk on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Jul 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random Lightning talks</title>
+      <link>https://swcraftlyon.github.io/posts/2026-07-30-random-lightning-talks/</link>
+      <pubDate>Thu, 30 Jul 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-07-30-random-lightning-talks/</guid>
+      <description>Pour les random lightning talks on tire un sujet au hasard, on a ensuite 10 minutes pour préparer une présentation de 5 minutes sur ce sujet &amp;ldquo;imposé&amp;rdquo;</description>
+    </item>
+    
     <item>
       <title>Lightning talks en plein air</title>
       <link>https://swcraftlyon.github.io/posts/2026-07-23-lignthing-talks/</link>
