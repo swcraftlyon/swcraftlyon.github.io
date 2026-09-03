@@ -6,7 +6,16 @@
     <description>Recent content in kata on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 02 Jul 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du midi : Nearest Color</title>
+      <link>https://swcraftlyon.github.io/posts/2026-09-03-coding-dojo-midi-nearest-color/</link>
+      <pubDate>Thu, 03 Sep 2026 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-09-03-coding-dojo-midi-nearest-color/</guid>
+      <description>Meetup Sujet : Nearest Color Format : Mob Langages : Java Nombre de participants : 8 Rétro Bien apprécié l&amp;rsquo;explication de TDD, Mob du début ; Bien aimé la blague &amp;ldquo;course des chars&amp;rdquo; ; On s&amp;rsquo;est perdu, on a rendu complexe le kata, pas compris les intentions, mais trop envie de refaire une session ; Kata difficile à comprendre avec les couleurs ; On est allé sur rouge, vert, bleu dans le set de départ ; Cool d&amp;rsquo;avoir utilisé ce kata pour un kata du midi, utile pour voir différentes approches du langage, kata coup de cœur parce qu&amp;rsquo;il est court ; Pour Arthur, c&amp;rsquo;est simple d&amp;rsquo;entrer dans le sujet parce qu&amp;rsquo;il trouve que les couleurs sont plus parlantes que les règles du bowling (CF: kata bowling) ; Assez marrant comme approche, content de ne pas avoir eu une approche avec un set dynamique, cool d&amp;rsquo;avoir vu des approches naïves avant les refacto ; Réflexe d&amp;rsquo;avoir la volonté de trop abstraire d&amp;rsquo;un coup, frustré, envie de refaire à part ; Tendance à faire des refacto au fil de l&amp;rsquo;eau, du coup ça a donné un gros refacto à un moment.</description>
+    </item>
+    
     <item>
       <title>Coding dojo du midi : Mastermind</title>
       <link>https://swcraftlyon.github.io/posts/2026-07-02-coding-dojo-midi/</link>
