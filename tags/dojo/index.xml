@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 21 May 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Sep 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du soir</title>
+      <link>https://swcraftlyon.github.io/posts/2026-09-07-coding-dojo-soir/</link>
+      <pubDate>Mon, 07 Sep 2026 19:00:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-09-07-coding-dojo-soir/</guid>
+      <description>Sujet : Panini Guild Format : 2 mob (TypeScript / Java), en ligne 10 participant(e)s / 15 inscrit(e)s Retro TS : On n&amp;rsquo;est pas allé loin On a tenté un mixe de POO et de fonctionnel On avait deux idées de design différents C&amp;rsquo;était plus du pair programming tournant, on changeait de design à chaque tour Java : L&amp;rsquo;approche a rendu le kata court On a pris le temps d&amp;rsquo;expliquer On a cherché à explorer, à chercher Difficulté à suivre au bout d&amp;rsquo;un moment, malgré les explications Nécessité d&amp;rsquo;être attentif tout le temps ROTI 0.</description>
+    </item>
+    
     <item>
       <title>Coding dojo du midi</title>
       <link>https://swcraftlyon.github.io/posts/2026-05-21.coding-dojo-midi-wallet/</link>
