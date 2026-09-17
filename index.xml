@@ -6,7 +6,16 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 07 Sep 2026 19:00:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du midi : IceCream Refactoring</title>
+      <link>https://swcraftlyon.github.io/posts/2026-09-16-coding-dojo-midi-icecream-refactoring/</link>
+      <pubDate>Wed, 16 Sep 2026 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-09-16-coding-dojo-midi-icecream-refactoring/</guid>
+      <description>Meetup Sujet : IceCream Refactoring Format : Mob Langages : TypeScript Nombre de participants : 7 Rétro Difficile de prendre le wagon en cours de route ; En mode découverte, je comprends mieux comment marchent les katas, j&amp;rsquo;espère être plus proactif la prochaine fois ; Le kata n&amp;rsquo;est pas facile, c&amp;rsquo;est un sac de nœuds qui demande de savoir ce qu&amp;rsquo;est l&amp;rsquo;approval testing, il y a du random, ce n&amp;rsquo;est pas spécialement un kata débutant ; Le kata semblait nul au début, puis quand ça s&amp;rsquo;est décoincé il révèle sa puissance : il permet d&amp;rsquo;aborder la notion de code non testable à rendre testable ; En tant que driver, le kata est horrible : le setup est mauvais et à retravailler, les assertions sont difficiles à comprendre et peuvent faire passer à côté du sujet, les sorties d&amp;rsquo;expectation sont illisibles ; Ça peut valoir le coup de mettre à jour le setup : réparer le coverage, rendre les choses visibles, améliorer l&amp;rsquo;utilisation d&amp;rsquo;approval ; Merci pour le provider.</description>
+    </item>
+    
     <item>
       <title>Coding dojo du soir</title>
       <link>https://swcraftlyon.github.io/posts/2026-09-07-coding-dojo-soir/</link>
