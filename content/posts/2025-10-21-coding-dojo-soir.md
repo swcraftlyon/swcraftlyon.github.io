@@ -18,12 +18,12 @@ tags: ["dojo"]
 
 ## Rétrospective
 
-- Bien aimé de ne pas être au clavier pour certain et vis versa
+- Bien aimé de ne pas être au clavier pour certains et vis versa
 - Kata pas facile à aborder et trouver les cas pour un groupe. L'autre groupe est arrivé à avancer assez vite.
-- AI aidait un peu trop. Désactivé vers la fin. Certain propose de le désactivé dès le debut, d'autre trouvait pas problématique, car ne proposait pas une implémentation. Pas facilement pour les débutants pour laisser transposer sa pensé
-- Apprecie l'arrivé d'un nouveau en cours, forcant à reexpliquer le kata et le code
+- AI aidait un peu trop. Désactivé vers la fin. Certain proposent de la désactiver dès le debut, d'autres trouvaient pas problématique, car ne proposait pas une implémentation. Pas facile pour les débutants pour laisser transposer sa pensée
+- Apprecie l'arrivée d'un nouveau en cours, forçant à réexpliquer le kata et le code
 - Découverte de raccourcis clavier IDE
-- Un groupe a fait des tests plus extrême et non réaliste, une des personne aimerait tester différement
+- Un groupe a fait des tests plus extrême et non réaliste, une des personnes aimerait tester différement
 
 ## ROTI
  
