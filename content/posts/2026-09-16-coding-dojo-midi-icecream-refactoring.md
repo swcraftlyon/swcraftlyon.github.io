@@ -4,7 +4,7 @@ date: 2026-09-16T12:15:00+02:00
 tags: ["kata"]
 ---
 
-- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/316501746/)
+- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/316501746/) / [Guild](https://guild.host/events/en-ligne-coding-dojo-fkntj2)
 - Sujet : [IceCream Refactoring](https://github.com/emilybache/IceCreamForecasting-Refactoring-Kata)
 - Format : Mob
 - Langages : TypeScript

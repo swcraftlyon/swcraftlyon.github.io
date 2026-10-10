@@ -5,7 +5,7 @@ tags: ["dojo"]
 ---
 
 - Sujet : [Bowling](https://codingdojo.org/kata/Bowling/)
-- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/316747328/)
+- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/316747328/) / [Guild](https://guild.host/events/en-ligne-coding-dojo-m1ibs2)
 - Format : Mob
 - Langage : Rust
 - Nombre de participants : 4
@@ -30,7 +30,7 @@ Dans ma manière je ne pars pas sur cette méthode de résolution.
 Je stocke le tableau des rolls et avec un index, je calcule chaque frame.
 Intéressant de voir comment s'en sortir avec notre modélisation.
 Peut-être avec un objet [`Option`](https://doc.rust-lang.org/std/option/enum.Option.html) qui te dit quel bonus appliquer ?
-* Je n'aime pas ce kata, mais je suis content de le faire en Rust, c''était l'occasion d'utiliser ce langage fantastique que je pratique trop peu.
+* Je n'aime pas ce kata, mais je suis content de le faire en Rust, c'était l'occasion d'utiliser ce langage fantastique que je pratique trop peu.
 * ❤️ du concept de [`panic!`](https://doc.rust-lang.org/std/macro.panic.html).
 
 ## ROTI

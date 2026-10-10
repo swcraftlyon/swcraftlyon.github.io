@@ -5,7 +5,7 @@ tags: ["dojo"]
 ---
 
 - Sujet : [Mathematical AST](https://codingdojo.org/kata/mathematical-ast/)
-- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/316501782/)
+- [Meetup](https://www.meetup.com/software-craftsmanship-lyon/events/316501782/) / [Guild](https://guild.host/events/en-ligne-coding-dojo-gy0p4h)
 - Format : 2 mobs
 - Langages : Java et TypeScript
 - Nombre de participants : 12
@@ -26,7 +26,7 @@ Session réalisée en mobs par affinité de langage sur [Discord](https://discor
 Le refactoring à la fin était fou, c'était très sympa.
 * Nous n'avons pas fait la représentation graphique proposée.
 Solution faite un peu à l'arrache, puis on a typé un peu à droite et à gauche.
-On a parsé le texte, ressorti l'algo qui est dans le bouquin de C (utilisation d'une pile).
+On a parsé le texte, ressorti l'algo qui est dans le [bouquin de C](https://fr.wikipedia.org/wiki/The_C_Programming_Language) (utilisation d'une pile).
 On n'a pas traité la représentation en objets.
 L'implémentation a pris 40 à 45 minutes puis beaucoup de refeactor.
 * Ça aurait été pas mal de créer les abstractions, mais en outside-in on parse l'expression.

@@ -4,6 +4,8 @@ date: 2026-07-30T19:00:00+02:00
 tags: ["talk"]
 ---
 
+- [Guild](https://guild.host/events/prsentiel-random-lightning-ukfi3m)
+
 Pour les random lightning talks on tire un sujet au hasard, on a ensuite 10 minutes pour préparer une présentation de 5 minutes sur ce sujet "imposé"
 
 # Présentations
