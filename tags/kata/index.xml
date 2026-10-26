@@ -6,7 +6,16 @@
     <description>Recent content in kata on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du midi : Molkky</title>
+      <link>https://swcraftlyon.github.io/posts/2026-10-26-coding-dojo-midi-bowling/</link>
+      <pubDate>Mon, 26 Oct 2026 12:15:00 +0200</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-10-26-coding-dojo-midi-bowling/</guid>
+      <description>Meetup Sujet : Molkky Format : Mob Langages : TS Nombre de participants : 5 Rétro J&amp;rsquo;aime bien ce kata, pas trop de surprises Règles claires, simple à prendre en main Presque trop simple Il existe une version refacto: https://github.</description>
+    </item>
+    
     <item>
       <title>Coding dojo du midi : IceCream Refactoring</title>
       <link>https://swcraftlyon.github.io/posts/2026-09-16-coding-dojo-midi-icecream-refactoring/</link>
