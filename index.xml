@@ -6,13 +6,22 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:15:00 +0200</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2026 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding dojo du midi</title>
+      <link>https://swcraftlyon.github.io/posts/2026-11-05-coding-dojo-midi/</link>
+      <pubDate>Thu, 05 Nov 2026 12:15:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-11-05-coding-dojo-midi/</guid>
+      <description> Meetup Sujet : Movie rental Format : Mob Langages : TS Nombre de participants : 5 Rétro NeoViM est trop bie Très content d&amp;rsquo;avoir revu le pattern strategy et le kata On a un peu dévié du livre &amp;ldquo;refactoring&amp;rdquo; Curieux de le faire en Scala ou en programmation fonctionelle ROTI 3/5 : 2 4/5 : 1 5/5 : 2 </description>
+    </item>
+    
     <item>
       <title>Coding dojo du midi : Molkky</title>
-      <link>https://swcraftlyon.github.io/posts/2026-10-26-coding-dojo-midi-bowling/</link>
-      <pubDate>Mon, 26 Oct 2026 12:15:00 +0200</pubDate>
+      <link>https://swcraftlyon.github.io/posts/2026-10-26-coding-dojo-midi/</link>
+      <pubDate>Mon, 26 Oct 2026 12:15:00 +0100</pubDate>
       
-      <guid>https://swcraftlyon.github.io/posts/2026-10-26-coding-dojo-midi-bowling/</guid>
+      <guid>https://swcraftlyon.github.io/posts/2026-10-26-coding-dojo-midi/</guid>
       <description>Meetup Sujet : Molkky Format : Mob Langages : TS Nombre de participants : 5 Rétro J&amp;rsquo;aime bien ce kata, pas trop de surprises Règles claires, simple à prendre en main Presque trop simple Il existe une version refacto: https://github.</description>
     </item>
     
