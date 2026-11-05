@@ -1,6 +1,6 @@
 ---
 title: "Coding dojo du midi : Molkky"
-date: 2026-10-26T12:15:00+02:00
+date: 2026-10-26T12:15:00+01:00
 tags: ["kata"]
 ---
 
