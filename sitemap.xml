@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://swcraftlyon.github.io/posts/2026-11-05-coding-dojo-midi/</loc>
-    <lastmod>2026-11-05T12:15:00+01:00</lastmod>
+    <loc>https://swcraftlyon.github.io/posts/2026-11-19-coding-dojo-soir/</loc>
+    <lastmod>2026-11-19T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/</loc>
-    <lastmod>2026-11-05T12:15:00+01:00</lastmod>
+    <lastmod>2026-11-19T19:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://swcraftlyon.github.io/tags/kata/</loc>
-    <lastmod>2026-11-05T12:15:00+01:00</lastmod>
+    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
+    <lastmod>2026-11-19T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/</loc>
-    <lastmod>2026-11-05T12:15:00+01:00</lastmod>
+    <lastmod>2026-11-19T19:00:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/tags/</loc>
+    <lastmod>2026-11-19T19:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/2026-11-14-gdcr/</loc>
+    <lastmod>2026-11-14T09:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/code-retreat/</loc>
+    <lastmod>2026-11-14T09:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/tags/kata/</loc>
+    <lastmod>2026-11-14T09:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://swcraftlyon.github.io/posts/2026-11-05-coding-dojo-midi/</loc>
     <lastmod>2026-11-05T12:15:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2026-10-26-coding-dojo-midi/</loc>
@@ -27,9 +39,6 @@
     <lastmod>2026-10-09T08:30:00+02:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2026-10-01-coding-dojo-midi/</loc>
-    <lastmod>2026-10-01T13:15:00+01:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/dojo/</loc>
     <lastmod>2026-10-01T13:15:00+01:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2026-09-24-coding-dojo-soir/</loc>
@@ -63,9 +72,6 @@
     <lastmod>2026-07-02T12:15:00+02:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2026-06-27-gdcr-estival/</loc>
-    <lastmod>2026-06-27T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://swcraftlyon.github.io/tags/code-retreat/</loc>
     <lastmod>2026-06-27T09:00:00+02:00</lastmod>
   </url><url>
     <loc>https://swcraftlyon.github.io/posts/2026-06-17-coding-dojo-midi-poker-hand/</loc>

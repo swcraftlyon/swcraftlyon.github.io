@@ -6,7 +6,16 @@
     <description>Recent content in dojo on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Nov 2026 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/tags/dojo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Soir Jeudi 19 Novembre 2026</title>
+      <link>https://swcraftlyon.github.io/posts/2026-11-19-coding-dojo-soir/</link>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-11-19-coding-dojo-soir/</guid>
+      <description>Sujet : Tennis refactoring kata Guild Format : Mob Langage : TypeScript Nombre de participants : 5 Déroulement Nous avons fait un mob.</description>
+    </item>
+    
     <item>
       <title>Coding Dojo Jeudi 01 Octobre 2026</title>
       <link>https://swcraftlyon.github.io/posts/2026-10-01-coding-dojo-midi/</link>

@@ -6,7 +6,25 @@
     <description>Recent content on Compte-rendus des software crafters de Lyon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:15:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Nov 2026 19:00:00 +0100</lastBuildDate><atom:link href="https://swcraftlyon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Dojo du Soir Jeudi 19 Novembre 2026</title>
+      <link>https://swcraftlyon.github.io/posts/2026-11-19-coding-dojo-soir/</link>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-11-19-coding-dojo-soir/</guid>
+      <description>Sujet : Tennis refactoring kata Guild Format : Mob Langage : TypeScript Nombre de participants : 5 Déroulement Nous avons fait un mob.</description>
+    </item>
+    
+    <item>
+      <title>Code retreat</title>
+      <link>https://swcraftlyon.github.io/posts/2026-11-14-gdcr/</link>
+      <pubDate>Sat, 14 Nov 2026 09:00:00 +0100</pubDate>
+      
+      <guid>https://swcraftlyon.github.io/posts/2026-11-14-gdcr/</guid>
+      <description> Meetup Sujet : Game of Life Langages : Java, TypeScript, Python, C#, F# Nombre de participants : 13 Nombre d&amp;rsquo;inscrits : 15 Sessions Session 1 : Pas de contrainte Session 2 : Immutable / primitive obsession Session 3 : Blind navigator Session 4 : Evil pair Session 5 : No control flow / no return Session 6 : Evil Mob Rétro globale lieu pratique Content de recommencer à coder (IA) Les contraintes cumulées sont compliquées Deux premières fois (gol) Difficile de changer d’approche entre les itérations Session 5 compliquée (contrainte) Pas mal de confusion sur la consigne du no return Sensation de faire des progrès (dev debutant) Trop de TypeScript (toute la journée) Content que ça se soit fait, de rencontrer des gens ROTI 3/5 : 2 4/5 : 10 5/5 : 1 </description>
+    </item>
+    
     <item>
       <title>Coding dojo du midi</title>
       <link>https://swcraftlyon.github.io/posts/2026-11-05-coding-dojo-midi/</link>
